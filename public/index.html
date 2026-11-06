@@ -59,6 +59,10 @@
         <a href="#architecture" class="hover:text-amber-400 transition">Back-Office</a>
         <a href="#documentation" class="hover:text-amber-400 transition">API Specs</a>
         <a href="#pricing" class="hover:text-amber-400 transition">Licensing</a>
+        <a href="/admin" class="hover:text-amber-400 transition flex items-center gap-1.5 text-zinc-300">
+          <i class="fa-solid fa-gauge-high text-xs text-amber-400"></i>
+          <span>Admin</span>
+        </a>
         <a href="https://wa.me/918052354357" target="_blank" class="hover:text-emerald-400 transition flex items-center gap-1">
           <i class="fa-brands fa-whatsapp text-emerald-400 text-xs"></i>
           <span>VIP Desk</span>
@@ -414,11 +418,20 @@
               </button>
             </div>
 
-            <!-- Search Bar -->
-            <div class="relative w-full lg:w-72">
-              <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
-              <input type="text" id="providerSearchInput" placeholder="Search 169+ providers..." 
-                     class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+            <!-- Search & Sort Controls -->
+            <div class="flex items-center space-x-2 w-full lg:w-auto">
+              <div class="relative w-full lg:w-64">
+                <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
+                <input type="text" id="providerSearchInput" placeholder="Search 169+ providers..." 
+                       class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+              </div>
+
+              <select id="providerSortSelect" class="bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs text-zinc-300 focus:outline-none focus:border-amber-500 cursor-pointer">
+                <option value="default">Default Order</option>
+                <option value="az">Sort: A-Z</option>
+                <option value="za">Sort: Z-A</option>
+                <option value="games">Sort: Most Games</option>
+              </select>
             </div>
 
           </div>

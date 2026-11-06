@@ -3,6 +3,7 @@ const Catalog = {
   providers: [],
   selectedCategory: 'all',
   searchQuery: '',
+  sortOrder: 'default',
   activeBrand: null,
   currentBrandGames: [],
   brandSearchQuery: '',
@@ -72,6 +73,15 @@ const Catalog = {
       });
     }
 
+    // Provider alphabetical & game count sort
+    const sortSelect = document.getElementById('providerSortSelect');
+    if (sortSelect) {
+      sortSelect.addEventListener('change', (e) => {
+        this.sortOrder = e.target.value || 'default';
+        this.renderProviders();
+      });
+    }
+
     // In-brand game search input
     const brandGameSearch = document.getElementById('brandGameSearchInput');
     if (brandGameSearch) {
@@ -121,8 +131,15 @@ const Catalog = {
       return matchesCat && matchesSearch;
     });
 
-    // When HOT is selected, sort in authentic rank order (#1 JILI, #2 Spribe, #3 Pragmatic...)
-    if (this.selectedCategory === 'hot') {
+    // Sorting
+    if (this.sortOrder === 'az') {
+      list.sort((a, b) => (a.brand_title || a.name || '').localeCompare(b.brand_title || b.name || ''));
+    } else if (this.sortOrder === 'za') {
+      list.sort((a, b) => (b.brand_title || b.name || '').localeCompare(a.brand_title || a.name || ''));
+    } else if (this.sortOrder === 'games') {
+      list.sort((a, b) => (b.cached_games_count || b.gameCount || 0) - (a.cached_games_count || a.gameCount || 0));
+    } else if (this.selectedCategory === 'hot') {
+      // When HOT is selected and default sort, sort in authentic rank order (#1 JILI, #2 Spribe, #3 Pragmatic...)
       list.sort((a, b) => {
         const ra = parseInt(a.rank || '0', 10) || 999;
         const rb = parseInt(b.rank || '0', 10) || 999;
