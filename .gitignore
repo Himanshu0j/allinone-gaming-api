@@ -1,0 +1,8 @@
+node_modules/
+cloudflared.exe
+*.log
+.env
+.vercel
+.netlify
+.idea/
+.vscode/

@@ -1,0 +1,701 @@
+{
+  "status": true,
+  "total_games": 139,
+  "games": [
+    {
+      "brand_id": "131",
+      "brand_title": "100HP",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download.png"
+    },
+    {
+      "brand_id": "161",
+      "brand_title": "18Peaches",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/18peaches.png"
+    },
+    {
+      "brand_id": "105",
+      "brand_title": "2J",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_105_1759755216_d8ysyB9Bd.png"
+    },
+    {
+      "brand_id": "96",
+      "brand_title": "3Oaks (BNG)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1776591924-favicon_X7wqKmKFQ.ico"
+    },
+    {
+      "brand_id": "103",
+      "brand_title": "5gGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/5ggaming_tTaDa1S0F.png"
+    },
+    {
+      "brand_id": "172",
+      "brand_title": "759 Gaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png"
+    },
+    {
+      "brand_id": "162",
+      "brand_title": "9game",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/index_logo.png"
+    },
+    {
+      "brand_id": "141",
+      "brand_title": "9wickets",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1774284124-9wicketslogo_1__nHSY_O0YU.png"
+    },
+    {
+      "brand_id": "144",
+      "brand_title": "Ag",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/images__4_-removebg-preview.png"
+    },
+    {
+      "brand_id": "137",
+      "brand_title": "Amigo",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/amigo.png"
+    },
+    {
+      "brand_id": "122",
+      "brand_title": "AOG",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_122_1759749392_NEAf74Igf.png"
+    },
+    {
+      "brand_id": "128",
+      "brand_title": "Askmeslot",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770665380-askmeslot_logo_-OY4t2_NYB.png"
+    },
+    {
+      "brand_id": "82",
+      "brand_title": "Astar",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/astar_qR5tTKi4v.png"
+    },
+    {
+      "brand_id": "165",
+      "brand_title": "ATG",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-1.png"
+    },
+    {
+      "brand_id": "138",
+      "brand_title": "ATM",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770668042-logo__11__hGN9bryFr.png"
+    },
+    {
+      "brand_id": "174",
+      "brand_title": "Aura Gaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-2.png"
+    },
+    {
+      "brand_id": "186",
+      "brand_title": "Aviator",
+      "logo": ""
+    },
+    {
+      "brand_id": "139",
+      "brand_title": "Aviatrix",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1773393816-aviatrix-1_1__jkxRgnYAr.png"
+    },
+    {
+      "brand_id": "175",
+      "brand_title": "Betby",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-3.png"
+    },
+    {
+      "brand_id": "180",
+      "brand_title": "BetSoft",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-4.png"
+    },
+    {
+      "brand_id": "145",
+      "brand_title": "BG",
+      "logo": ""
+    },
+    {
+      "brand_id": "65",
+      "brand_title": "Bgaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo_on_black.png"
+    },
+    {
+      "brand_id": "202",
+      "brand_title": "BHARAT MATKA",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/09/bharat-matka-logo-1.png"
+    },
+    {
+      "brand_id": "178",
+      "brand_title": "BigGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/images__1_-removebg-preview.png"
+    },
+    {
+      "brand_id": "62",
+      "brand_title": "BigTimeGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/BTG-COLOR.png"
+    },
+    {
+      "brand_id": "63",
+      "brand_title": "BigTimeGaming(Asia)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/bigtimegaming_R1n1_ixJN-removebg-preview-1.png"
+    },
+    {
+      "brand_id": "109",
+      "brand_title": "BtGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/btgaming_4Sg3NMWJ-.png"
+    },
+    {
+      "brand_id": "118",
+      "brand_title": "BtiGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/1759690799-images_A5pMrF4oS-removebg-preview.png"
+    },
+    {
+      "brand_id": "130",
+      "brand_title": "Casini",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-12.png"
+    },
+    {
+      "brand_id": "153",
+      "brand_title": "Casino",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-cg-game.png"
+    },
+    {
+      "brand_id": "134",
+      "brand_title": "Casino Game (CG)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-cg-game-1.png"
+    },
+    {
+      "brand_id": "142",
+      "brand_title": "CMD",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1774286045-C_001__CMD_HGxx3eznn.png"
+    },
+    {
+      "brand_id": "155",
+      "brand_title": "CP",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/2ad2f83452f32c9cb7e86537fb7d1f48.png"
+    },
+    {
+      "brand_id": "52",
+      "brand_title": "CQ9",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/cq9_GMWnfJS6j.png"
+    },
+    {
+      "brand_id": "143",
+      "brand_title": "CreedRoomz",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-5.png"
+    },
+    {
+      "brand_id": "135",
+      "brand_title": "Crowdplay",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1.webp"
+    },
+    {
+      "brand_id": "181",
+      "brand_title": "Darpha",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png"
+    },
+    {
+      "brand_id": "187",
+      "brand_title": "DB",
+      "logo": ""
+    },
+    {
+      "brand_id": "94",
+      "brand_title": "DpEsports",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/dpesports_oL4ejT2g1.png"
+    },
+    {
+      "brand_id": "95",
+      "brand_title": "DpSports",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/dpsports_6EVgDlxnv.png"
+    },
+    {
+      "brand_id": "87",
+      "brand_title": "DreamGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Dream-Gaming-main-logo.png"
+    },
+    {
+      "brand_id": "117",
+      "brand_title": "EazyGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759584633-headerLogo_ovoTgi_ge.png"
+    },
+    {
+      "brand_id": "171",
+      "brand_title": "EEAi",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logotxt.png"
+    },
+    {
+      "brand_id": "152",
+      "brand_title": "Endorphina",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-endorphina-dark.png"
+    },
+    {
+      "brand_id": "106",
+      "brand_title": "EpicWin",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/epicwin_cHPP34SvY.png"
+    },
+    {
+      "brand_id": "154",
+      "brand_title": "EVO888H5",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.png"
+    },
+    {
+      "brand_id": "58",
+      "brand_title": "Evolution Live",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EG4-COLOR.png"
+    },
+    {
+      "brand_id": "59",
+      "brand_title": "Evolution Live (Asia)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EG4-COLOR-1.png"
+    },
+    {
+      "brand_id": "77",
+      "brand_title": "Evoplay",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EP-COLOR.png"
+    },
+    {
+      "brand_id": "124",
+      "brand_title": "Expanse",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-2.png"
+    },
+    {
+      "brand_id": "78",
+      "brand_title": "Ezugi",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EZ-COLOR.png"
+    },
+    {
+      "brand_id": "61",
+      "brand_title": "FaChaiGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/FC-COLOR.png"
+    },
+    {
+      "brand_id": "125",
+      "brand_title": "FAST SPIN",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/FS-COLOR.png"
+    },
+    {
+      "brand_id": "163",
+      "brand_title": "Funky Games",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.webp"
+    },
+    {
+      "brand_id": "111",
+      "brand_title": "Galaxsys",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_111_1759755586_QYQ6oiwvw.png"
+    },
+    {
+      "brand_id": "64",
+      "brand_title": "GameArt",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/gameart_NBb8dzy_S.png"
+    },
+    {
+      "brand_id": "157",
+      "brand_title": "GAMINGSOFT-AI LIVE CASINO",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1.png"
+    },
+    {
+      "brand_id": "156",
+      "brand_title": "GAMINGSOFT-WOW",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1.png"
+    },
+    {
+      "brand_id": "91",
+      "brand_title": "Habanero",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/habanero_white-scaled.png"
+    },
+    {
+      "brand_id": "97",
+      "brand_title": "Hacksaw Asia",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-1.png"
+    },
+    {
+      "brand_id": "98",
+      "brand_title": "Hacksaw Latam",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png"
+    },
+    {
+      "brand_id": "99",
+      "brand_title": "Hacksaw World",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-3.png"
+    },
+    {
+      "brand_id": "79",
+      "brand_title": "iDeal",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ideal_JfiVSmlvK-removebg-preview.png"
+    },
+    {
+      "brand_id": "203",
+      "brand_title": "IG ORIGINALS",
+      "logo": "https://igamingapis.com/wp-content/uploads/ig-originals/brand-logo.png"
+    },
+    {
+      "brand_id": "112",
+      "brand_title": "InOut",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/inout.webp"
+    },
+    {
+      "brand_id": "50",
+      "brand_title": "JDB",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/jdb.webp"
+    },
+    {
+      "brand_id": "49",
+      "brand_title": "JILI",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/jili_zCoKdKI0w.png"
+    },
+    {
+      "brand_id": "133",
+      "brand_title": "KA",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/67862fdcef3a7d4e1857eccf_ka-gaming.webp"
+    },
+    {
+      "brand_id": "119",
+      "brand_title": "King Midas",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759745485-kingmidas_hnP8rc8ZJ-scaled.png"
+    },
+    {
+      "brand_id": "120",
+      "brand_title": "King Midas - One Gaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759746283-kingmidas_Oqu0zjno0-scaled.png"
+    },
+    {
+      "brand_id": "93",
+      "brand_title": "KoolBet",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-3.png"
+    },
+    {
+      "brand_id": "182",
+      "brand_title": "KY Gaming",
+      "logo": ""
+    },
+    {
+      "brand_id": "158",
+      "brand_title": "Live22",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/live22-logo.png"
+    },
+    {
+      "brand_id": "83",
+      "brand_title": "LuckySport",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_83_1759747195_Atqb52OM-.png"
+    },
+    {
+      "brand_id": "140",
+      "brand_title": "MAC 88",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/mac88-BAzKFZNt.png"
+    },
+    {
+      "brand_id": "184",
+      "brand_title": "Mancala (\u6682\u505c\u4f7f\u7528)",
+      "logo": ""
+    },
+    {
+      "brand_id": "90",
+      "brand_title": "Microgaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/microgaming_mm5ILoG4V.png"
+    },
+    {
+      "brand_id": "104",
+      "brand_title": "Mini",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/mini_pVhCJw440.png"
+    },
+    {
+      "brand_id": "132",
+      "brand_title": "MT GAMING",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770666928-t_zsSn-g7oM.jpg"
+    },
+    {
+      "brand_id": "68",
+      "brand_title": "Netent",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/netent_PcottkcL9.png"
+    },
+    {
+      "brand_id": "69",
+      "brand_title": "Netent\uff08Asia\uff09",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_69_1759742598_NnaIvF82-.png"
+    },
+    {
+      "brand_id": "86",
+      "brand_title": "NextSpin",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/NS-COLOR.png"
+    },
+    {
+      "brand_id": "67",
+      "brand_title": "NoLimit City",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-14.png"
+    },
+    {
+      "brand_id": "66",
+      "brand_title": "NoLimit City\uff08Asia\uff09",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-14-1.png"
+    },
+    {
+      "brand_id": "177",
+      "brand_title": "Odin",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico"
+    },
+    {
+      "brand_id": "102",
+      "brand_title": "OneGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/onegaming_US8ajzcPi.png"
+    },
+    {
+      "brand_id": "121",
+      "brand_title": "OnGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_121_1759746876_jnFiPaUL5b.png"
+    },
+    {
+      "brand_id": "160",
+      "brand_title": "PenguinKing",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_J4yCiC.png"
+    },
+    {
+      "brand_id": "123",
+      "brand_title": "PgsGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759749692-bc55-game-brand-logo-pegasus_8ltp7Dy3l.png"
+    },
+    {
+      "brand_id": "45",
+      "brand_title": "PGSoft",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PG-COLOR.png"
+    },
+    {
+      "brand_id": "110",
+      "brand_title": "Pix",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-15.png"
+    },
+    {
+      "brand_id": "81",
+      "brand_title": "PlayAce(AgGaming)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png"
+    },
+    {
+      "brand_id": "73",
+      "brand_title": "PlaynGo",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playngo_M64H004gH.png"
+    },
+    {
+      "brand_id": "76",
+      "brand_title": "Playson",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playson_TVurEdDE9.png"
+    },
+    {
+      "brand_id": "72",
+      "brand_title": "Playtech",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playtech.webp"
+    },
+    {
+      "brand_id": "54",
+      "brand_title": "PragmaticPlay-Asia",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR.png"
+    },
+    {
+      "brand_id": "53",
+      "brand_title": "PragmaticPlay-EU",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-1.png"
+    },
+    {
+      "brand_id": "56",
+      "brand_title": "PragmaticPlayLive-Asia",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-2.png"
+    },
+    {
+      "brand_id": "55",
+      "brand_title": "PragmaticPlayLive-EU",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-3.png"
+    },
+    {
+      "brand_id": "169",
+      "brand_title": "PSG",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-7.png"
+    },
+    {
+      "brand_id": "167",
+      "brand_title": "Rectangle",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/rectangle-logo.png"
+    },
+    {
+      "brand_id": "74",
+      "brand_title": "RedTiger",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/redtiger_GckNg_i4e.png"
+    },
+    {
+      "brand_id": "75",
+      "brand_title": "RedTiger\uff08Asia\uff09",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_75_1759742711_p_BDBA0F5.png"
+    },
+    {
+      "brand_id": "70",
+      "brand_title": "RelaxGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-16.png"
+    },
+    {
+      "brand_id": "185",
+      "brand_title": "Revenge",
+      "logo": ""
+    },
+    {
+      "brand_id": "146",
+      "brand_title": "RG",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/RG\u96fb\u5b50_logo.webp"
+    },
+    {
+      "brand_id": "170",
+      "brand_title": "Rich Paradise",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png"
+    },
+    {
+      "brand_id": "84",
+      "brand_title": "Rich88",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/rich88_UywTBtIVM.png"
+    },
+    {
+      "brand_id": "136",
+      "brand_title": "RubyPlay",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770667786-rubyplay_logo_01_colour_alt_YQ9e9e-zP.png"
+    },
+    {
+      "brand_id": "46",
+      "brand_title": "SABASports(IBC)",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_images__2_-removebg-preview.png"
+    },
+    {
+      "brand_id": "89",
+      "brand_title": "Sagaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/sagaming_3lTI1C8VE.png"
+    },
+    {
+      "brand_id": "126",
+      "brand_title": "SBO",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759756460-scxxc_oxD99dBJS6.jpg"
+    },
+    {
+      "brand_id": "88",
+      "brand_title": "Sexy",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/sexy_6tieOBYXp.png"
+    },
+    {
+      "brand_id": "71",
+      "brand_title": "Skywind",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_71_1759745923_jGiWGxkyY.png"
+    },
+    {
+      "brand_id": "107",
+      "brand_title": "Smartsoft",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/SS-COLOR.png"
+    },
+    {
+      "brand_id": "173",
+      "brand_title": "SpadeGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-8.png"
+    },
+    {
+      "brand_id": "57",
+      "brand_title": "Spribe",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_Spribe_Logo.png"
+    },
+    {
+      "brand_id": "80",
+      "brand_title": "T1",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/t1_SVPjMoD7a.png"
+    },
+    {
+      "brand_id": "51",
+      "brand_title": "TADAGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/tadagaming_VODQcWMhZ.png"
+    },
+    {
+      "brand_id": "85",
+      "brand_title": "TF",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/tf_Hfhq23ykw-scaled.png"
+    },
+    {
+      "brand_id": "179",
+      "brand_title": "Titi Gaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png"
+    },
+    {
+      "brand_id": "149",
+      "brand_title": "topbet",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-10.png"
+    },
+    {
+      "brand_id": "100",
+      "brand_title": "Turbogames Asia",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-17.png"
+    },
+    {
+      "brand_id": "101",
+      "brand_title": "Turbogames World",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-17-1.png"
+    },
+    {
+      "brand_id": "48",
+      "brand_title": "UnitedGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/unitedgaming_mNkr4Q5Lu.png"
+    },
+    {
+      "brand_id": "113",
+      "brand_title": "V8 CARD",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_113_1759757270_KyAOcxq5j.png"
+    },
+    {
+      "brand_id": "164",
+      "brand_title": "VA",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo__2_-removebg-preview.png"
+    },
+    {
+      "brand_id": "159",
+      "brand_title": "VeliPlay",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-11.png"
+    },
+    {
+      "brand_id": "176",
+      "brand_title": "VIVO",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/vivo-logo-1-e1748251318567.png"
+    },
+    {
+      "brand_id": "129",
+      "brand_title": "Vplus",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-18.png"
+    },
+    {
+      "brand_id": "148",
+      "brand_title": "WintoLive",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/signal-2024-10-20-232027_002.png"
+    },
+    {
+      "brand_id": "147",
+      "brand_title": "WintoSlot",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/signal-2024-10-20-232027_002-1.png"
+    },
+    {
+      "brand_id": "114",
+      "brand_title": "WM CASINO",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/the-online-casino-product-from-wm-casino-gamingsoft.png"
+    },
+    {
+      "brand_id": "108",
+      "brand_title": "Wonwon",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_108_1759755400_NoNC975dE.jpg"
+    },
+    {
+      "brand_id": "168",
+      "brand_title": "WS168",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp"
+    },
+    {
+      "brand_id": "60",
+      "brand_title": "YeeBet",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png"
+    },
+    {
+      "brand_id": "166",
+      "brand_title": "Yellow Bat",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/yellowbat-logo-135x57-1.webp"
+    },
+    {
+      "brand_id": "92",
+      "brand_title": "YGRGaming",
+      "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.0b06e0f7.png"
+    },
+    {
+      "brand_id": "183",
+      "brand_title": "\u5c0f\u827e (IA)",
+      "logo": ""
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>AllInOne API Live Game Demo</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap');
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: radial-gradient(circle at 50% 20%, #151821 0%, #08090d 100%);
+      color: #fff;
+      overflow: hidden;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    .mono { font-family: 'JetBrains Mono', monospace; }
+    .gold-gradient {
+      background: linear-gradient(135deg, #ffd700 0%, #f59e0b 50%, #d97706 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .gold-btn {
+      background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+      box-shadow: 0 4px 20px rgba(245, 158, 11, 0.35);
+    }
+    .gold-btn:hover {
+      background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+      box-shadow: 0 6px 25px rgba(245, 158, 11, 0.55);
+    }
+    .reel-col {
+      transition: transform 0.2s cubic-bezier(0.1, 0.9, 0.2, 1);
+    }
+    @keyframes pulse-glow {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.9; }
+    }
+    .glow-ring {
+      animation: pulse-glow 2.5s infinite;
+    }
+  </style>
+</head>
+<body class="h-screen w-screen flex flex-col justify-between">
+
+  <!-- TOP HUD -->
+  <header class="h-14 px-4 bg-black/60 backdrop-blur-md border-b border-white/10 flex items-center justify-between z-20">
+    <div class="flex items-center space-x-3">
+      <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-amber-400 to-amber-600 flex items-center justify-center shadow-lg shadow-amber-500/20">
+        <i class="fa-solid fa-gamepad text-black text-sm"></i>
+      </div>
+      <div>
+        <div class="flex items-center space-x-2">
+          <h1 id="gameTitle" class="font-bold text-sm tracking-wide text-white">VIP Game</h1>
+          <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">DEMO MODE</span>
+        </div>
+        <p id="brandTitle" class="text-[11px] text-zinc-400">AllInOne API Engine v2.4</p>
+      </div>
+    </div>
+
+    <!-- Balance & Currency -->
+    <div class="flex items-center space-x-4">
+      <div class="bg-zinc-900/90 border border-white/10 px-3 py-1.5 rounded-lg flex items-center space-x-2">
+        <span class="text-xs text-zinc-400">USDT:</span>
+        <span id="playerBalance" class="mono font-bold text-emerald-400 text-sm">$5,000.00</span>
+      </div>
+
+      <button id="soundBtn" onclick="toggleSound()" class="w-9 h-9 rounded-lg bg-zinc-900 border border-white/10 flex items-center justify-center text-zinc-300 hover:text-white hover:border-zinc-500 transition">
+        <i class="fa-solid fa-volume-high text-xs"></i>
+      </button>
+
+      <button onclick="toggleFullScreen()" class="w-9 h-9 rounded-lg bg-zinc-900 border border-white/10 flex items-center justify-center text-zinc-300 hover:text-white hover:border-zinc-500 transition">
+        <i class="fa-solid fa-expand text-xs"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- GAME STAGE CANVAS / INTERFACE -->
+  <main class="flex-1 relative flex items-center justify-center p-4 overflow-hidden">
+    <!-- Background grid decoration -->
+    <div class="absolute inset-0 bg-[radial-gradient(#1e293b_1px,transparent_1px)] [background-size:24px_24px] opacity-25 pointer-events-none"></div>
+
+    <!-- SLOTS ENGINE -->
+    <div id="slotsEngine" class="w-full max-w-3xl flex flex-col items-center">
+      <!-- Slot Machine Cabinet -->
+      <div class="w-full bg-zinc-950/80 border-2 border-amber-500/30 rounded-2xl p-5 shadow-2xl shadow-amber-500/10 backdrop-blur-xl relative">
+        <div class="absolute -top-3 left-1/2 transform -translate-x-1/2 px-4 py-0.5 rounded-full bg-amber-500 text-black font-extrabold text-xs uppercase tracking-wider">
+          Mega Jackpot Active
+        </div>
+
+        <!-- Reels Display -->
+        <div class="grid grid-cols-5 gap-3 h-56 bg-black/80 rounded-xl p-3 border border-zinc-800 overflow-hidden relative">
+          <!-- Win overlay payline -->
+          <div id="payline" class="absolute inset-x-0 top-1/2 -translate-y-1/2 h-1.5 bg-gradient-to-r from-transparent via-amber-400 to-transparent opacity-0 transition-opacity duration-300 pointer-events-none z-10 shadow-[0_0_15px_#f59e0b]"></div>
+
+          <!-- 5 Reels -->
+          <div class="reel flex flex-col justify-around items-center text-3xl select-none" id="reel0">
+            <span class="symbol">👑</span>
+            <span class="symbol">💎</span>
+            <span class="symbol">🍒</span>
+          </div>
+          <div class="reel flex flex-col justify-around items-center text-3xl select-none" id="reel1">
+            <span class="symbol">7️⃣</span>
+            <span class="symbol">👑</span>
+            <span class="symbol">🔔</span>
+          </div>
+          <div class="reel flex flex-col justify-around items-center text-3xl select-none" id="reel2">
+            <span class="symbol">💎</span>
+            <span class="symbol">💎</span>
+            <span class="symbol">🍋</span>
+          </div>
+          <div class="reel flex flex-col justify-around items-center text-3xl select-none" id="reel3">
+            <span class="symbol">💰</span>
+            <span class="symbol">👑</span>
+            <span class="symbol">⭐</span>
+          </div>
+          <div class="reel flex flex-col justify-around items-center text-3xl select-none" id="reel4">
+            <span class="symbol">💎</span>
+            <span class="symbol">7️⃣</span>
+            <span class="symbol">🍒</span>
+          </div>
+        </div>
+
+        <!-- Win Alert Message -->
+        <div id="winBanner" class="h-10 mt-3 flex items-center justify-center font-extrabold tracking-wide text-base gold-gradient">
+          READY TO PLAY · PLACE YOUR BET
+        </div>
+      </div>
+    </div>
+
+    <!-- CRASH / AVIATOR ENGINE (Shown if game is crash/instant/aviator) -->
+    <div id="crashEngine" class="w-full max-w-3xl flex-col items-center hidden">
+      <div class="w-full bg-zinc-950/90 border border-rose-500/30 rounded-2xl p-5 shadow-2xl relative overflow-hidden h-[340px] flex flex-col justify-between">
+        <canvas id="crashCanvas" class="absolute inset-0 w-full h-full"></canvas>
+        <div class="relative z-10 flex justify-between items-start">
+          <span class="px-3 py-1 rounded-full bg-red-500/20 text-red-400 border border-red-500/30 text-xs font-bold uppercase tracking-wider flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full bg-red-500 animate-ping"></span> Live Multiplier
+          </span>
+          <div id="crashHistory" class="flex items-center space-x-1.5 text-xs font-mono font-bold">
+            <span class="px-2 py-0.5 rounded bg-zinc-800 text-blue-400">1.84x</span>
+            <span class="px-2 py-0.5 rounded bg-zinc-800 text-purple-400">3.21x</span>
+            <span class="px-2 py-0.5 rounded bg-zinc-800 text-amber-400">12.45x</span>
+            <span class="px-2 py-0.5 rounded bg-zinc-800 text-emerald-400">2.10x</span>
+          </div>
+        </div>
+
+        <div class="relative z-10 flex flex-col items-center justify-center flex-1">
+          <div id="crashMultiplier" class="mono text-6xl md:text-7xl font-extrabold text-white tracking-tight drop-shadow-[0_0_35px_rgba(244,63,94,0.6)]">
+            1.00x
+          </div>
+          <p id="crashStatus" class="text-xs font-semibold text-zinc-400 mt-2 uppercase tracking-widest">Next round starting...</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- BOTTOM CONTROL BAR -->
+  <footer class="bg-zinc-950 border-t border-white/10 px-4 py-3 z-20">
+    <div class="max-w-4xl mx-auto flex flex-wrap items-center justify-between gap-4">
+      
+      <!-- Bet Quick Selectors -->
+      <div class="flex items-center space-x-2">
+        <span class="text-xs text-zinc-400 font-semibold uppercase">Bet:</span>
+        <div class="flex items-center space-x-1">
+          <button onclick="setBet(1)" class="bet-chip px-3 py-1.5 rounded-lg bg-zinc-900 border border-white/10 text-xs font-bold hover:border-amber-500 hover:text-amber-400 transition">$1</button>
+          <button onclick="setBet(5)" class="bet-chip px-3 py-1.5 rounded-lg bg-zinc-900 border border-white/10 text-xs font-bold hover:border-amber-500 hover:text-amber-400 transition">$5</button>
+          <button onclick="setBet(10)" class="bet-chip px-3 py-1.5 rounded-lg bg-zinc-900 border border-amber-500/40 text-amber-300 text-xs font-bold hover:border-amber-500 transition active-bet">$10</button>
+          <button onclick="setBet(50)" class="bet-chip px-3 py-1.5 rounded-lg bg-zinc-900 border border-white/10 text-xs font-bold hover:border-amber-500 hover:text-amber-400 transition">$50</button>
+          <button onclick="setBet(100)" class="bet-chip px-3 py-1.5 rounded-lg bg-zinc-900 border border-white/10 text-xs font-bold hover:border-amber-500 hover:text-amber-400 transition">$100</button>
+        </div>
+      </div>
+
+      <!-- Main Action Buttons -->
+      <div class="flex items-center space-x-3">
+        <!-- Spin Button for slots -->
+        <button id="spinBtn" onclick="spinReels()" class="gold-btn px-8 py-2.5 rounded-xl text-black font-extrabold text-sm tracking-wider uppercase transition flex items-center space-x-2">
+          <i class="fa-solid fa-rotate text-sm"></i>
+          <span>SPIN ($10)</span>
+        </button>
+
+        <!-- Crash Bet / Cashout Button (When crash engine active) -->
+        <button id="crashBtn" onclick="handleCrashAction()" class="hidden px-8 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-black font-extrabold text-sm tracking-wider uppercase transition flex items-center space-x-2 shadow-lg shadow-emerald-500/20">
+          <i class="fa-solid fa-play text-sm"></i>
+          <span id="crashBtnText">BET ($10)</span>
+        </button>
+
+        <button onclick="autoPlayToggle()" id="autoBtn" class="px-4 py-2.5 rounded-xl bg-zinc-900 border border-white/10 text-zinc-300 text-xs font-bold hover:border-zinc-500 transition">
+          AUTO: OFF
+        </button>
+      </div>
+
+    </div>
+  </footer>
+
+  <script>
+    // URL params parser
+    const urlParams = new URLSearchParams(window.location.search);
+    const gameName = urlParams.get('game') || 'Air Jet Crash';
+    const brandName = urlParams.get('brand') || '100HP';
+
+    document.getElementById('gameTitle').textContent = decodeURIComponent(gameName);
+    document.getElementById('brandTitle').textContent = decodeURIComponent(brandName);
+
+    // Audio synthesizer for sound effects (Zero external files needed)
+    let soundEnabled = true;
+    const AudioCtx = window.AudioContext || window.webkitAudioContext;
+    let audioCtx = null;
+
+    function playBeep(freq, type = 'sine', duration = 0.15) {
+      if (!soundEnabled) return;
+      try {
+        if (!audioCtx) audioCtx = new AudioCtx();
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.type = type;
+        osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+        gain.gain.setValueAtTime(0.15, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + duration);
+        osc.connect(gain);
+        gain.connect(audioCtx.destination);
+        osc.start();
+        osc.stop(audioCtx.currentTime + duration);
+      } catch (e) {}
+    }
+
+    function toggleSound() {
+      soundEnabled = !soundEnabled;
+      document.getElementById('soundBtn').innerHTML = soundEnabled 
+        ? '<i class="fa-solid fa-volume-high text-xs"></i>' 
+        : '<i class="fa-solid fa-volume-xmark text-xs text-red-400"></i>';
+    }
+
+    function toggleFullScreen() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(() => {});
+      } else {
+        document.exitFullscreen().catch(() => {});
+      }
+    }
+
+    let balance = 5000.00;
+    let currentBet = 10.00;
+    let isSpinning = false;
+    let autoPlay = false;
+
+    function updateBalanceDisplay() {
+      document.getElementById('playerBalance').textContent = '$' + balance.toFixed(2);
+    }
+
+    function setBet(amount) {
+      currentBet = amount;
+      document.querySelectorAll('.bet-chip').forEach(btn => {
+        btn.classList.remove('border-amber-500/40', 'text-amber-300', 'active-bet');
+        if (btn.textContent === `$${amount}`) {
+          btn.classList.add('border-amber-500/40', 'text-amber-300', 'active-bet');
+        }
+      });
+      document.getElementById('spinBtn').querySelector('span').textContent = `SPIN ($${currentBet})`;
+      document.getElementById('crashBtnText').textContent = inCrashRound ? `CASH OUT` : `BET ($${currentBet})`;
+      playBeep(400, 'sine', 0.08);
+    }
+
+    // Determine engine based on game title
+    const lowerName = gameName.toLowerCase();
+    const isCrashGame = lowerName.includes('jet') || lowerName.includes('crash') || lowerName.includes('aviator') || lowerName.includes('astronaut');
+
+    if (isCrashGame) {
+      document.getElementById('slotsEngine').classList.add('hidden');
+      document.getElementById('crashEngine').classList.remove('hidden');
+      document.getElementById('spinBtn').classList.add('hidden');
+      document.getElementById('crashBtn').classList.remove('hidden');
+      initCrashGame();
+    } else {
+      initSlotsGame();
+    }
+
+    // ---------------- SLOTS ENGINE ----------------
+    const SYMBOLS = ['👑', '💎', '7️⃣', '💰', '⭐', '🔔', '🍒', '🍋'];
+    function initSlotsGame() {
+      // ready
+    }
+
+    function spinReels() {
+      if (isSpinning) return;
+      if (balance < currentBet) {
+        alert('Insufficient balance. Balance reset to $5,000 for testing.');
+        balance = 5000;
+        updateBalanceDisplay();
+        return;
+      }
+
+      balance -= currentBet;
+      updateBalanceDisplay();
+      isSpinning = true;
+      document.getElementById('spinBtn').disabled = true;
+      document.getElementById('payline').style.opacity = '0';
+      document.getElementById('winBanner').textContent = 'SPINNING...';
+
+      playBeep(520, 'square', 0.1);
+
+      const reels = [0, 1, 2, 3, 4].map(i => document.getElementById('reel' + i));
+      const spinIntervals = [];
+
+      reels.forEach((reel, index) => {
+        spinIntervals[index] = setInterval(() => {
+          reel.children[0].textContent = SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)];
+          reel.children[1].textContent = SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)];
+          reel.children[2].textContent = SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)];
+          playBeep(300 + index * 80, 'sine', 0.05);
+        }, 80);
+      });
+
+      // Stop sequentially
+      reels.forEach((reel, index) => {
+        setTimeout(() => {
+          clearInterval(spinIntervals[index]);
+          const chosen = [
+            SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)],
+            SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)],
+            SYMBOLS[Math.floor(Math.random() * SYMBOLS.length)]
+          ];
+          reel.children[0].textContent = chosen[0];
+          reel.children[1].textContent = chosen[1];
+          reel.children[2].textContent = chosen[2];
+          playBeep(650 + index * 100, 'triangle', 0.1);
+
+          if (index === 4) {
+            checkWin(reels);
+          }
+        }, 800 + index * 300);
+      });
+    }
+
+    function checkWin(reels) {
+      isSpinning = false;
+      document.getElementById('spinBtn').disabled = false;
+
+      // 40% probability of win in demo
+      const isWin = Math.random() < 0.42;
+      if (isWin) {
+        const mult = (Math.random() * 5 + 1.5).toFixed(1);
+        const winAmount = currentBet * parseFloat(mult);
+        balance += winAmount;
+        updateBalanceDisplay();
+
+        document.getElementById('payline').style.opacity = '1';
+        document.getElementById('winBanner').innerHTML = `🎉 BIG WIN! +$${winAmount.toFixed(2)} (${mult}x)`;
+        playBeep(880, 'sine', 0.25);
+        setTimeout(() => playBeep(1100, 'sine', 0.35), 200);
+      } else {
+        document.getElementById('winBanner').textContent = 'TRY AGAIN · SPIN TO WIN';
+      }
+
+      if (autoPlay) {
+        setTimeout(spinReels, 1200);
+      }
+    }
+
+    function autoPlayToggle() {
+      autoPlay = !autoPlay;
+      document.getElementById('autoBtn').textContent = autoPlay ? 'AUTO: ON' : 'AUTO: OFF';
+      document.getElementById('autoBtn').classList.toggle('border-amber-500', autoPlay);
+      document.getElementById('autoBtn').classList.toggle('text-amber-400', autoPlay);
+      if (autoPlay && !isSpinning) {
+        spinReels();
+      }
+    }
+
+    // ---------------- CRASH ENGINE ----------------
+    let crashMultiplier = 1.00;
+    let crashInterval = null;
+    let inCrashRound = false;
+    let hasBetCrash = false;
+    let crashPoint = 2.0;
+
+    function initCrashGame() {
+      startCrashRound();
+    }
+
+    function startCrashRound() {
+      crashMultiplier = 1.00;
+      hasBetCrash = false;
+      inCrashRound = true;
+      crashPoint = (Math.random() * 8 + 1.2).toFixed(2); // crash point
+      document.getElementById('crashStatus').textContent = 'ROUND IN PROGRESS...';
+      document.getElementById('crashMultiplier').classList.remove('text-red-500');
+      document.getElementById('crashMultiplier').classList.add('text-white');
+
+      crashInterval = setInterval(() => {
+        crashMultiplier += 0.03 + (crashMultiplier * 0.015);
+        document.getElementById('crashMultiplier').textContent = crashMultiplier.toFixed(2) + 'x';
+        playBeep(200 + crashMultiplier * 40, 'sine', 0.04);
+
+        if (crashMultiplier >= crashPoint) {
+          endCrashRound();
+        }
+      }, 70);
+    }
+
+    function endCrashRound() {
+      clearInterval(crashInterval);
+      inCrashRound = false;
+      document.getElementById('crashMultiplier').classList.add('text-red-500');
+      document.getElementById('crashStatus').textContent = `CRASHED AT ${crashMultiplier.toFixed(2)}x`;
+      playBeep(160, 'sawtooth', 0.3);
+
+      setTimeout(() => {
+        document.getElementById('crashStatus').textContent = 'NEXT ROUND IN 3s...';
+        setTimeout(startCrashRound, 3000);
+      }, 1000);
+    }
+
+    function handleCrashAction() {
+      if (inCrashRound) {
+        if (!hasBetCrash) {
+          // Place bet
+          if (balance < currentBet) return;
+          balance -= currentBet;
+          hasBetCrash = true;
+          updateBalanceDisplay();
+          document.getElementById('crashBtnText').textContent = 'CASH OUT';
+          document.getElementById('crashBtn').classList.replace('bg-emerald-500', 'bg-amber-500');
+        } else {
+          // Cash out!
+          const win = currentBet * crashMultiplier;
+          balance += win;
+          updateBalanceDisplay();
+          hasBetCrash = false;
+          alert(`Cashed out at ${crashMultiplier.toFixed(2)}x! Won $${win.toFixed(2)} USDT`);
+          document.getElementById('crashBtnText').textContent = `BET ($${currentBet})`;
+          document.getElementById('crashBtn').classList.replace('bg-amber-500', 'bg-emerald-500');
+        }
+      }
+    }
+  </script>
+</body>
+</html>

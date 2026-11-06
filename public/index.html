@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AllInOne API – Unified Casino & Sportsbook API Platform</title>
+  <meta name="description" content="Tier-1 AllInOne API aggregator powering next-gen casino and sportsbook operators. Access 139+ providers and 15,000+ games with unified wallet.">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom Luxury CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <!-- Favicon -->
+  <link rel="icon" href="https://igamingapis.com/wp-content/uploads/2026/07/cropped-logo-1-2-2-32x32.png" sizes="32x32">
+</head>
+<body class="bg-[#07080b] text-zinc-100 min-h-screen relative selection:bg-amber-500 selection:text-black">
+
+  <!-- BACKGROUND AMBIENT GLOWS -->
+  <div class="orb orb-gold w-[600px] h-[600px] -top-40 left-1/2 -translate-x-1/2"></div>
+  <div class="orb orb-blue w-[500px] h-[500px] top-[900px] -left-40"></div>
+  <div class="orb orb-emerald w-[500px] h-[500px] top-[2200px] -right-40"></div>
+
+  <!-- NAVIGATION HEADER -->
+  <header class="sticky top-0 z-40 bg-[#07080b]/80 backdrop-blur-xl border-b border-white/10 transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      
+      <!-- Brand Logo -->
+      <a href="#" class="flex items-center space-x-3 group">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 via-amber-500 to-amber-700 p-0.5 shadow-lg shadow-amber-500/20 group-hover:shadow-amber-500/40 transition">
+          <div class="w-full h-full bg-zinc-950 rounded-[10px] flex items-center justify-center">
+            <i class="fa-solid fa-dice-d20 text-amber-400 text-lg group-hover:rotate-45 transition duration-300"></i>
+          </div>
+        </div>
+        <div>
+          <span class="text-xl font-extrabold tracking-tight text-white flex items-center gap-1.5">
+            AllInOne<span class="text-gold-gradient">API</span>
+          </span>
+          <span class="text-[9px] uppercase tracking-widest text-zinc-400 font-semibold block -mt-1">Unified Gaming Engine</span>
+        </div>
+      </a>
+
+      <!-- Desktop Nav Links -->
+      <nav class="hidden md:flex items-center space-x-8 text-sm font-semibold text-zinc-300">
+        <a href="#lobby" class="hover:text-amber-400 transition">Providers & Games</a>
+        <a href="#featured" class="hover:text-amber-400 transition">Live Demos</a>
+        <a href="#documentation" class="hover:text-amber-400 transition">API Docs</a>
+        <a href="#pricing" class="hover:text-amber-400 transition">Buy License</a>
+        <a href="#contact" class="hover:text-amber-400 transition">Support</a>
+      </nav>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center space-x-3">
+        <!-- Agent Code Verification Trigger -->
+        <button id="agentHeaderBtn" onclick="App.openAgentModal()" class="hidden sm:inline-flex items-center space-x-2 px-3.5 py-1.5 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-400 hover:bg-amber-500/20 hover:border-amber-500/50 transition text-xs font-bold">
+          <i class="fa-solid fa-key text-[10px]"></i>
+          <span>Agent Code</span>
+        </button>
+
+        <!-- Buy API CTA -->
+        <a href="#pricing" class="btn-gold px-5 py-2 rounded-xl text-xs uppercase tracking-wider flex items-center space-x-2">
+          <span>Get API Key</span>
+          <i class="fa-solid fa-arrow-right text-[10px]"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="relative pt-20 pb-24 md:pt-32 md:pb-36 overflow-hidden z-10">
+    <!-- Hero Background Image (Service Cover V2 with Dark Luxury Overlay) -->
+    <div class="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+      <img src="/images/service-cover-v2.png" alt="AllInOne API Platform Cover" 
+           class="w-full h-full object-cover object-center opacity-30 transform scale-105 filter brightness-90 contrast-125 transition-transform duration-1000 ease-out hero-ambient-bg">
+      <div class="absolute inset-0 bg-gradient-to-t from-[#07080b] via-[#07080b]/75 to-[#07080b]/90"></div>
+      <div class="absolute inset-0 bg-gradient-to-r from-[#07080b] via-transparent to-[#07080b]"></div>
+    </div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+      
+      <!-- Top Pill Tag -->
+      <div class="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full bg-zinc-900/90 border border-amber-500/30 text-amber-300 text-xs font-bold mb-8 shadow-xl backdrop-blur-md">
+        <span class="w-2 h-2 rounded-full bg-amber-400 animate-ping"></span>
+        <span>TIER-1 GLOBAL CASINO & SPORTSBOOK AGGREGATION</span>
+      </div>
+
+      <!-- Main Title -->
+      <h1 class="text-4xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight text-white max-w-5xl mx-auto leading-[1.12]">
+        Powering Next-Gen Casino & <span class="text-gold-gradient">Sportsbook Platforms</span>
+      </h1>
+
+      <!-- Description -->
+      <p class="mt-6 text-base sm:text-xl text-zinc-400 max-w-3xl mx-auto font-normal leading-relaxed">
+        Connect to <span class="text-white font-semibold">139+ certified game providers</span> and <span class="text-white font-semibold">15,000+ titles</span> through a single high-speed encrypted API. Ultra-fast seamless wallet, zero latency, and real-time webhook settlements.
+      </p>
+
+      <!-- Action Buttons -->
+      <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
+        <a href="#lobby" class="btn-gold px-8 py-3.5 rounded-xl text-sm uppercase tracking-wider flex items-center space-x-2.5">
+          <i class="fa-solid fa-layer-group"></i>
+          <span>Explore 139 Providers</span>
+        </a>
+        <a href="#featured" class="btn-glass px-8 py-3.5 rounded-xl text-sm tracking-wider flex items-center space-x-2.5">
+          <i class="fa-solid fa-play text-amber-400"></i>
+          <span>Play Live Demos</span>
+        </a>
+        <a href="#documentation" class="px-6 py-3.5 rounded-xl bg-zinc-900 border border-white/10 hover:border-zinc-600 text-zinc-300 text-sm font-semibold transition flex items-center space-x-2">
+          <i class="fa-solid fa-terminal text-zinc-400"></i>
+          <span>API Sandbox</span>
+        </a>
+      </div>
+
+      <!-- Live Counters Matrix -->
+      <div class="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto">
+        <div class="glass-panel p-5 rounded-2xl text-center">
+          <span class="text-3xl lg:text-4xl font-extrabold text-white mono counter-val" data-target="139" data-suffix="+">139+</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Gaming Providers</p>
+        </div>
+        <div class="glass-panel p-5 rounded-2xl text-center">
+          <span class="text-3xl lg:text-4xl font-extrabold text-amber-400 mono counter-val" data-target="15" data-suffix="K+">15K+</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Integrated Games</p>
+        </div>
+        <div class="glass-panel p-5 rounded-2xl text-center">
+          <span class="text-3xl lg:text-4xl font-extrabold text-emerald-400 mono counter-val" data-target="99.9" data-suffix="%">99.9%</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Platform Uptime</p>
+        </div>
+        <div class="glass-panel p-5 rounded-2xl text-center">
+          <span class="text-3xl lg:text-4xl font-extrabold text-white mono">$0</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Security Deposit</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- PLATFORM ARCHITECTURE & BACK-OFFICE ECOSYSTEM SECTION -->
+  <section id="architecture" class="py-20 bg-gradient-to-b from-[#07080b] via-[#090b11] to-[#07080b] border-t border-white/5 relative z-10 overflow-hidden">
+    <!-- Ambient glow behind center -->
+    <div class="orb orb-gold w-[700px] h-[700px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-30"></div>
+    <div class="orb w-[500px] h-[500px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-red-600/15 rounded-full filter blur-[100px] pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      
+      <div class="text-center max-w-3xl mx-auto mb-14">
+        <div class="inline-flex items-center space-x-2 px-3.5 py-1 rounded-full bg-red-500/10 border border-red-500/30 text-red-400 text-xs font-bold mb-3 tracking-wide">
+          <i class="fa-solid fa-server text-[10px]"></i>
+          <span>ENTERPRISE BACK-OFFICE SUITE</span>
+        </div>
+        <h2 class="text-3xl sm:text-5xl font-extrabold text-white tracking-tight">
+          Comprehensive Operator <span class="text-gold-gradient">Ecosystem</span>
+        </h2>
+        <p class="text-sm sm:text-base text-zinc-400 mt-3 leading-relaxed">
+          From multi-level agent delegation to cryptographic game history and real-time risk controls, our unified AllInOne API suite powers complete operational control.
+        </p>
+      </div>
+
+      <!-- Centerpiece Visual Canvas -->
+      <div class="ecosystem-container p-4 sm:p-8 mb-14 relative group">
+        <div class="relative w-full flex items-center justify-center">
+          <img src="/images/operator-ecosystem.png" 
+               alt="Operator Ecosystem Architecture" 
+               loading="lazy" 
+               class="ecosystem-bg-img rounded-2xl w-full max-w-5xl mx-auto">
+        </div>
+      </div>
+
+      <!-- 8 Core Architectural Capabilities Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-red-500/10 border border-red-500/30 flex items-center justify-center text-red-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-sitemap text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-red-400 transition">Hierarchy Structure</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Multi-tier master, agent, and player tree with granular ACL permissions.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-users-gear text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-amber-400 transition">Multilevel Operator</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Unlimited sub-agent creation with custom commission sharing and credit lines.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-blue-500/10 border border-blue-500/30 flex items-center justify-center text-blue-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-sliders text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-blue-400 transition">Bet Limit Config</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Real-time maximum stake, payout caps, and risk exposure limits per title.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-wallet text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-emerald-400 transition">Multiple Payment Plan</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Seamless unified wallet, transfer wallet, and multi-currency support.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-purple-500/10 border border-purple-500/30 flex items-center justify-center text-purple-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-clock-rotate-left text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-purple-400 transition">Game History Viewer</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Sub-second round-by-round transaction ledger with spin replay links.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-rose-500/10 border border-rose-500/30 flex items-center justify-center text-rose-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-chart-pie text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-rose-400 transition">Activity Reports</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Live GGR, NGR, turnover, RTP audits, and automated daily reconciliations.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-cyan-500/10 border border-cyan-500/30 flex items-center justify-center text-cyan-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-chart-line text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-cyan-400 transition">Real-Time Statistics</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">WebSocket-powered live concurrency, active players, and bet velocity.</p>
+        </div>
+
+        <div class="feature-badge-card group cursor-pointer">
+          <div class="flex items-center space-x-3 mb-2.5">
+            <div class="w-10 h-10 rounded-xl bg-pink-500/10 border border-pink-500/30 flex items-center justify-center text-pink-400 group-hover:scale-110 transition">
+              <i class="fa-solid fa-bullseye text-sm"></i>
+            </div>
+            <h4 class="font-bold text-sm text-white group-hover:text-pink-400 transition">Player Engagement</h4>
+          </div>
+          <p class="text-xs text-zinc-400 leading-relaxed">Retention tools, bonus engines, free spin drops, and automated tiering.</p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FEATURED LIVE DEMO GAMES CAROUSEL -->
+  <section id="featured" class="py-16 bg-[#090b10] border-y border-white/5 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-10">
+        <div>
+          <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Instant Play Testing</span>
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-white mt-1">
+            Featured Hot Games <span class="text-gold-gradient">Demo Showcase</span>
+          </h2>
+          <p class="text-sm text-zinc-400 mt-1">Test real game graphics, audio, and instant launch speeds without registration.</p>
+        </div>
+        <div class="mt-4 md:mt-0 flex items-center space-x-2">
+          <span class="px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+            Seamless Wallet Ready
+          </span>
+        </div>
+      </div>
+
+      <!-- Featured Games Grid -->
+      <div id="featuredGamesGrid" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+        <!-- Rendered by Catalog.js -->
+        <div class="col-span-full py-12 text-center text-zinc-500">
+          <i class="fa-solid fa-spinner fa-spin text-2xl text-amber-500 mb-2"></i>
+          <p class="text-xs">Loading featured games...</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- PROVIDER LOBBY & SEARCH MATRIX -->
+  <section id="lobby" class="py-20 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="text-center max-w-3xl mx-auto mb-10">
+        <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Global Brand Network</span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold text-white mt-1">
+          139+ Certified <span class="text-gold-gradient">Game Providers</span>
+        </h2>
+        <p class="text-sm text-zinc-400 mt-2">
+          Slots, Live Dealer Casinos, Crash Games, Sportsbooks, Card Games, Marbles & Matka. Filter by category or search your favorite studio.
+        </p>
+      </div>
+
+      <!-- Search & Category Filters Bar -->
+      <div class="bg-zinc-950/90 border border-white/10 rounded-2xl p-4 mb-8 shadow-xl">
+        <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+          
+          <!-- Category Tabs -->
+          <div class="flex items-center space-x-1.5 overflow-x-auto w-full md:w-auto pb-2 md:pb-0 scrollbar-none">
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-amber-500 text-black border border-amber-500" data-cat="all">
+              <i class="fa-solid fa-shapes mr-1.5"></i> All
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="hot">
+              <i class="fa-solid fa-fire text-amber-400 mr-1.5"></i> HOT
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="slots">
+              <i class="fa-solid fa-dice mr-1.5"></i> Slots
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="live-casino">
+              <i class="fa-solid fa-video mr-1.5"></i> Live Casino
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="sports">
+              <i class="fa-solid fa-futbol mr-1.5"></i> Sportsbook
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="mini-game">
+              <i class="fa-solid fa-rocket mr-1.5"></i> Crash / Mini
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="card-game">
+              <i class="fa-solid fa-spade mr-1.5"></i> Card Games
+            </button>
+            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="matka">
+              <i class="fa-solid fa-gem mr-1.5"></i> Matka
+            </button>
+          </div>
+
+          <!-- Search Bar -->
+          <div class="relative w-full md:w-72">
+            <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
+            <input type="text" id="providerSearchInput" placeholder="Search provider brand..." 
+                   class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Filter Stats -->
+      <div class="flex items-center justify-between mb-4 px-1">
+        <span id="filteredProvidersCount" class="text-xs font-semibold text-zinc-400">Loading providers...</span>
+        <span class="text-xs text-zinc-400 flex items-center gap-1.5">
+          <i class="fa-solid fa-circle-info text-amber-400"></i> Click any brand to inspect games & launch demo
+        </span>
+      </div>
+
+      <!-- Providers Grid -->
+      <div id="providersGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3.5">
+        <!-- Injected by Catalog.js -->
+      </div>
+
+    </div>
+  </section>
+
+  <!-- OPERATOR TESTIMONIALS SECTION ("TRUSTED BY LEADERS") -->
+  <section id="testimonials" class="py-24 bg-gradient-to-b from-[#07080b] via-[#0d0f17] to-[#07080b] border-t border-white/5 relative z-10 overflow-hidden">
+    <!-- Ambient Red & Gold Orbs -->
+    <div class="orb orb-gold w-96 h-96 top-1/2 left-1/4 -translate-x-1/2 -translate-y-1/2 opacity-25"></div>
+    <div class="orb w-96 h-96 top-1/2 right-1/4 -translate-y-1/2 bg-red-600/10 rounded-full filter blur-[100px] pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      
+      <!-- Section Header -->
+      <div class="text-center max-w-3xl mx-auto mb-14">
+        <h2 class="text-3xl sm:text-5xl font-black text-white tracking-tight">
+          Trusted by <span class="font-serif italic font-normal text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600">LEADERS</span>
+        </h2>
+        <p class="text-sm sm:text-base text-zinc-400 mt-3 font-medium">
+          Join hundreds of successful operators.
+        </p>
+      </div>
+
+      <!-- Testimonials Carousel Container with Navigation Arrows -->
+      <div class="relative max-w-6xl mx-auto flex items-center">
+        
+        <!-- Left Arrow Button -->
+        <button onclick="App.scrollTestimonials(-1)" 
+                class="hidden sm:flex absolute -left-6 z-20 w-12 h-12 rounded-xl bg-blue-600 hover:bg-blue-500 text-white items-center justify-center transition shadow-lg shadow-blue-600/40 hover:scale-105"
+                aria-label="Previous Testimonials">
+          <i class="fa-solid fa-chevron-left text-base"></i>
+        </button>
+
+        <!-- Cards Slider Track -->
+        <div id="testimonialsContainer" class="flex gap-6 overflow-x-auto scroll-smooth py-4 px-2 w-full no-scrollbar snap-x snap-mandatory">
+          
+          <!-- Testimonial 1: Naveen Gupta (RajaBet) -->
+          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+            <div>
+              <!-- 5 Red Stars -->
+              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+              </div>
+              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Naveen Gupta</h4>
+              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">Manager, RajaBet</p>
+              
+              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+                <i class="fa-solid fa-quote-left"></i>
+              </div>
+              <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
+                Our business grew over 40% after adopting Soft API. The single-wallet system and 24/7 support are game changers.
+              </p>
+            </div>
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+              <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Verified Enterprise Operator</span>
+              <span class="text-zinc-600">Tier-1 SLA</span>
+            </div>
+          </div>
+
+          <!-- Testimonial 2: Ghazi Al-Kathiri (PlayWin) -->
+          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+            <div>
+              <!-- 5 Red Stars -->
+              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+              </div>
+              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Ghazi Al-Kathiri</h4>
+              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">CTO, PlayWin</p>
+              
+              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+                <i class="fa-solid fa-quote-left"></i>
+              </div>
+              <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
+                BTI Sports API transformed our sportsbook. Odds updates are lightning-fast and the stability is unmatched.
+              </p>
+            </div>
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+              <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Verified Sportsbook Lead</span>
+              <span class="text-zinc-600">Zero Latency</span>
+            </div>
+          </div>
+
+          <!-- Testimonial 3: Tahsin Mostafizur (Banglaslots) -->
+          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+            <div>
+              <!-- 5 Red Stars -->
+              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+              </div>
+              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Tahsin Mostafizur</h4>
+              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">CTO, Banglaslots</p>
+              
+              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+                <i class="fa-solid fa-quote-left"></i>
+              </div>
+              <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
+                The integration was seamless. We went live in just 2 weeks and saw a 40% increase in player engagement immediately.
+              </p>
+            </div>
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+              <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> High-Growth Brand</span>
+              <span class="text-zinc-600">2-Week Deploy</span>
+            </div>
+          </div>
+
+          <!-- Testimonial 4: Vikramaditya Rao (BetApex) -->
+          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+            <div>
+              <!-- 5 Red Stars -->
+              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+              </div>
+              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Vikramaditya Rao</h4>
+              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">Head of Operations, BetApex</p>
+              
+              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+                <i class="fa-solid fa-quote-left"></i>
+              </div>
+              <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
+                Switching to this unified aggregator reduced our server downtime to zero. Over 10,000+ live games with instantaneous seamless wallet callbacks.
+              </p>
+            </div>
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+              <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Scaled Enterprise</span>
+              <span class="text-zinc-600">99.99% SLA</span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Right Arrow Button -->
+        <button onclick="App.scrollTestimonials(1)" 
+                class="hidden sm:flex absolute -right-6 z-20 w-12 h-12 rounded-xl bg-blue-600 hover:bg-blue-500 text-white items-center justify-center transition shadow-lg shadow-blue-600/40 hover:scale-105"
+                aria-label="Next Testimonials">
+          <i class="fa-solid fa-chevron-right text-base"></i>
+        </button>
+
+      </div>
+
+      <!-- Mobile Scroll Indicators -->
+      <div class="flex justify-center gap-2 mt-6 sm:hidden">
+        <button onclick="App.scrollTestimonials(-1)" class="px-4 py-1.5 rounded-lg bg-blue-600 text-white text-xs font-bold flex items-center gap-1">
+          <i class="fa-solid fa-chevron-left text-[10px]"></i> Prev
+        </button>
+        <button onclick="App.scrollTestimonials(1)" class="px-4 py-1.5 rounded-lg bg-blue-600 text-white text-xs font-bold flex items-center gap-1">
+          Next <i class="fa-solid fa-chevron-right text-[10px]"></i>
+        </button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- INTERACTIVE SOFTAPI DOCUMENTATION & PLAYGROUND -->
+  <section id="documentation" class="py-20 bg-[#090b10] border-t border-white/5 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="text-center max-w-3xl mx-auto mb-12">
+        <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Developer First Architecture</span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold text-white mt-1">
+          Unified AllInOne API <span class="text-gold-gradient">Documentation</span>
+        </h2>
+        <p class="text-sm text-zinc-400 mt-2">
+          End-to-end integration manual: catalog sync, AES-256-ECB encrypted launch payload, and notify-only webhook callback receivers.
+        </p>
+      </div>
+
+      <!-- Language Selector Tabs -->
+      <div class="flex items-center justify-between mb-6 border-b border-white/10 pb-4">
+        <div class="flex items-center space-x-2">
+          <button class="doc-lang-btn px-4 py-2 rounded-xl text-xs font-bold transition bg-amber-500 text-black" data-lang="node">
+            <i class="fa-brands fa-node-js mr-1"></i> Node.js
+          </button>
+          <button class="doc-lang-btn px-4 py-2 rounded-xl text-xs font-semibold transition bg-zinc-800/80 text-zinc-400 hover:text-white" data-lang="php">
+            <i class="fa-brands fa-php mr-1"></i> PHP
+          </button>
+          <button class="doc-lang-btn px-4 py-2 rounded-xl text-xs font-semibold transition bg-zinc-800/80 text-zinc-400 hover:text-white" data-lang="python">
+            <i class="fa-brands fa-python mr-1"></i> Python
+          </button>
+          <button class="doc-lang-btn px-4 py-2 rounded-xl text-xs font-semibold transition bg-zinc-800/80 text-zinc-400 hover:text-white" data-lang="curl">
+            <i class="fa-solid fa-terminal mr-1"></i> cURL
+          </button>
+        </div>
+
+        <span class="text-xs font-mono text-amber-400/80 hidden sm:inline">
+          AES-256-ECB · PKCS7 · Unified Wallet
+        </span>
+      </div>
+
+      <!-- API Endpoints Grid -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        
+        <!-- 1. Catalog Endpoint -->
+        <div class="glass-panel p-6 rounded-2xl flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-4">
+              <span class="px-2.5 py-1 rounded bg-emerald-500/20 text-emerald-400 text-[11px] font-bold">GET</span>
+              <button onclick="Documentation.copyCode('codeCatalog')" class="text-zinc-400 hover:text-amber-400 text-xs">
+                <i class="fa-regular fa-copy"></i> Copy
+              </button>
+            </div>
+            <h4 class="font-bold text-base text-white">1. Fetch Providers & Games</h4>
+            <p class="text-xs text-zinc-400 mt-1 mb-4">Query public catalog endpoints for brand IDs and game codes without authentication.</p>
+            <div class="bg-black/90 p-4 rounded-xl border border-zinc-800 font-mono text-xs text-zinc-300 overflow-x-auto max-h-72">
+              <pre id="codeCatalog"></pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2. Launch Endpoint -->
+        <div class="glass-panel p-6 rounded-2xl flex flex-col justify-between border-amber-500/30">
+          <div>
+            <div class="flex items-center justify-between mb-4">
+              <span class="px-2.5 py-1 rounded bg-amber-500/20 text-amber-400 text-[11px] font-bold">POST</span>
+              <button onclick="Documentation.copyCode('codeLaunch')" class="text-zinc-400 hover:text-amber-400 text-xs">
+                <i class="fa-regular fa-copy"></i> Copy
+              </button>
+            </div>
+            <h4 class="font-bold text-base text-white">2. Launch Game (Encrypted)</h4>
+            <p class="text-xs text-zinc-400 mt-1 mb-4">Encrypt session JSON with your 32-byte API Secret using AES-256-ECB. Return game URL for iframe.</p>
+            <div class="bg-black/90 p-4 rounded-xl border border-zinc-800 font-mono text-xs text-zinc-300 overflow-x-auto max-h-72">
+              <pre id="codeLaunch"></pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Webhook Callback Endpoint -->
+        <div class="glass-panel p-6 rounded-2xl flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between mb-4">
+              <span class="px-2.5 py-1 rounded bg-purple-500/20 text-purple-400 text-[11px] font-bold">WEBHOOK</span>
+              <button onclick="Documentation.copyCode('codeCallback')" class="text-zinc-400 hover:text-amber-400 text-xs">
+                <i class="fa-regular fa-copy"></i> Copy
+              </button>
+            </div>
+            <h4 class="font-bold text-base text-white">3. Callback Receiver</h4>
+            <p class="text-xs text-zinc-400 mt-1 mb-4">AllInOne API posts real-time bet and win settlements. Update player ledger and return 200 OK.</p>
+            <div class="bg-black/90 p-4 rounded-xl border border-zinc-800 font-mono text-xs text-zinc-300 overflow-x-auto max-h-72">
+              <pre id="codeCallback"></pre>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- LIVE ENCRYPTION PLAYGROUND -->
+      <div class="mt-12 glass-panel p-6 rounded-2xl border-amber-500/30">
+        <div class="flex items-center justify-between mb-6">
+          <div class="flex items-center space-x-3">
+            <div class="w-8 h-8 rounded-lg bg-amber-500 text-black flex items-center justify-center font-bold">
+              <i class="fa-solid fa-lock"></i>
+            </div>
+            <div>
+              <h4 class="font-bold text-base text-white">Interactive AES-256-ECB Encryption Tool</h4>
+              <p class="text-xs text-zinc-400">Test encrypting launch payloads directly against the AllInOne API specification.</p>
+            </div>
+          </div>
+          <button id="testWebhookBtn" class="px-4 py-2 rounded-xl bg-zinc-800 hover:bg-zinc-700 text-xs font-bold text-zinc-200 transition">
+            <i class="fa-solid fa-bolt text-amber-400 mr-1.5"></i> Test Callback Webhook
+          </button>
+        </div>
+
+        <form id="encryptPlaygroundForm" class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">API Token</label>
+            <input type="text" id="encToken" value="DEMO_API_TOKEN_89214" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">API Secret (32 Chars)</label>
+            <input type="text" id="encSecret" value="12345678901234567890123456789012" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Player User ID</label>
+            <input type="number" id="encUserId" value="1001" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Player Balance</label>
+            <input type="number" id="encBalance" value="500.00" step="0.01" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Game UID (Code)</label>
+            <input type="text" id="encGameUid" value="8771" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Currency Code</label>
+            <input type="text" id="encCurrency" value="INR" class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3 py-2 text-xs font-mono text-white focus:border-amber-500 outline-none">
+          </div>
+
+          <div class="col-span-full mt-2 flex items-center justify-between">
+            <button type="submit" class="btn-gold px-6 py-2.5 rounded-xl text-xs uppercase tracking-wider font-extrabold">
+              <i class="fa-solid fa-key mr-1.5"></i> Encrypt Launch Payload
+            </button>
+            <span class="text-xs text-zinc-400">Timestamp automatically generated in Unix milliseconds</span>
+          </div>
+        </form>
+
+        <!-- Encryption Output Display -->
+        <div class="mt-4 bg-black/90 p-4 rounded-xl border border-zinc-800 font-mono text-xs text-amber-300/90 overflow-x-auto min-h-24">
+          <pre id="encOutput">// Click "Encrypt Launch Payload" to see computed wire body and AES-256 Base64 ciphertext</pre>
+        </div>
+
+        <!-- Webhook Output Display -->
+        <div class="mt-3 bg-black/90 p-4 rounded-xl border border-zinc-800 font-mono text-xs text-purple-300/90 overflow-x-auto min-h-16">
+          <pre id="webhookTestOutput">// Click "Test Callback Webhook" to trigger and verify simulated bet/win settlement</pre>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- PRICING & MODULAR PROVIDER BUILDER -->
+  <section id="pricing" class="py-20 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="text-center max-w-3xl mx-auto mb-14">
+        <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Transparent Licensing</span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold text-white mt-1">
+          Flexible Pricing & <span class="text-gold-gradient">Custom Bundles</span>
+        </h2>
+        <p class="text-sm text-zinc-400 mt-2">
+          Pick a full enterprise bundle with complimentary wallet credit, or customize your own provider portfolio. Pay directly in USDT.
+        </p>
+      </div>
+
+      <!-- Plan Cards Selector -->
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">
+        
+        <!-- 3-Day Trial -->
+        <div class="plan-select-card glass-panel p-6 rounded-2xl cursor-pointer border-amber-500 bg-zinc-900/90 transition flex flex-col justify-between" data-plan="trial">
+          <div>
+            <span class="text-[10px] font-bold uppercase tracking-wider text-amber-400 bg-amber-500/10 border border-amber-500/30 px-2.5 py-1 rounded-full">
+              Testing API
+            </span>
+            <h3 class="text-xl font-bold text-white mt-3">3-Day Trial</h3>
+            <div class="mt-4 flex items-baseline">
+              <span class="text-4xl font-extrabold text-white mono">50</span>
+              <span class="text-sm font-bold text-amber-400 ml-1">USDT</span>
+            </div>
+            <p class="text-xs text-zinc-400 mt-2">Full testing access with 12 USDT free wallet credit included.</p>
+            <ul class="mt-6 space-y-2 text-xs text-zinc-300">
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> 12 USDT Wallet Credit</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> 3 Days Full Sandbox Validity</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> Full API Documentation & SDK</li>
+            </ul>
+          </div>
+          <button class="mt-6 w-full py-2.5 rounded-xl bg-zinc-800 text-xs font-bold text-white hover:bg-amber-500 hover:text-black transition">
+            Select Plan
+          </button>
+        </div>
+
+        <!-- 10 Years All Providers -->
+        <div class="plan-select-card glass-panel p-6 rounded-2xl cursor-pointer border-white/10 bg-zinc-950/70 transition flex flex-col justify-between relative overflow-hidden" data-plan="10years">
+          <div class="absolute -right-12 top-6 bg-gradient-to-r from-amber-500 to-amber-600 text-black text-[9px] font-extrabold py-1 px-12 rotate-45 uppercase tracking-wider shadow">
+            POPULAR
+          </div>
+          <div>
+            <span class="text-[10px] font-bold uppercase tracking-wider text-emerald-400 bg-emerald-500/10 border border-emerald-500/30 px-2.5 py-1 rounded-full">
+              Long-Term
+            </span>
+            <h3 class="text-xl font-bold text-white mt-3">10 Years License</h3>
+            <div class="mt-4 flex items-baseline">
+              <span class="text-4xl font-extrabold text-white mono">800</span>
+              <span class="text-sm font-bold text-amber-400 ml-1">USDT</span>
+            </div>
+            <p class="text-xs text-zinc-400 mt-2">100 USDT free wallet credit included. No recurring monthly fee.</p>
+            <ul class="mt-6 space-y-2 text-xs text-zinc-300">
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> 100 USDT Free Credit</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> 10 Years Commercial License</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> Dedicated VIP Telegram & WhatsApp</li>
+            </ul>
+          </div>
+          <button class="mt-6 w-full py-2.5 rounded-xl bg-zinc-800 text-xs font-bold text-white hover:bg-amber-500 hover:text-black transition">
+            Select Plan
+          </button>
+        </div>
+
+        <!-- VIP 10 Years -->
+        <div class="plan-select-card glass-panel p-6 rounded-2xl cursor-pointer border-white/10 bg-zinc-950/70 transition flex flex-col justify-between" data-plan="vip">
+          <div>
+            <span class="text-[10px] font-bold uppercase tracking-wider text-purple-400 bg-purple-500/10 border border-purple-500/30 px-2.5 py-1 rounded-full">
+              Enterprise VIP
+            </span>
+            <h3 class="text-xl font-bold text-white mt-3">VIP Unlimited</h3>
+            <div class="mt-4 flex items-baseline">
+              <span class="text-4xl font-extrabold text-white mono">1,500</span>
+              <span class="text-sm font-bold text-amber-400 ml-1">USDT</span>
+            </div>
+            <p class="text-xs text-zinc-400 mt-2">900 USDT free wallet credit included. Priority SLA server routing.</p>
+            <ul class="mt-6 space-y-2 text-xs text-zinc-300">
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> 900 USDT Free Wallet Credit</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> 10 Years VIP Tier License</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> Custom Domain & Priority Concurrency</li>
+            </ul>
+          </div>
+          <button class="mt-6 w-full py-2.5 rounded-xl bg-zinc-800 text-xs font-bold text-white hover:bg-amber-500 hover:text-black transition">
+            Select Plan
+          </button>
+        </div>
+
+        <!-- Custom Pick Providers -->
+        <div class="plan-select-card glass-panel p-6 rounded-2xl cursor-pointer border-white/10 bg-zinc-950/70 transition flex flex-col justify-between" data-plan="custom">
+          <div>
+            <span class="text-[10px] font-bold uppercase tracking-wider text-blue-400 bg-blue-500/10 border border-blue-500/30 px-2.5 py-1 rounded-full">
+              Modular Choice
+            </span>
+            <h3 class="text-xl font-bold text-white mt-3">Pick Providers</h3>
+            <div class="mt-4 flex items-baseline">
+              <span class="text-2xl font-bold text-white">Custom</span>
+              <span class="text-xs text-zinc-400 ml-2">from $45 USDT</span>
+            </div>
+            <p class="text-xs text-zinc-400 mt-2">Select only the specific brands you need. Licensed separately.</p>
+            <ul class="mt-6 space-y-2 text-xs text-zinc-300">
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-blue-400"></i> Choose 1 or More Brands</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-blue-400"></i> Pay Only What You Need</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-blue-400"></i> Lifetime Validity</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-blue-400"></i> Single or Separate Keys</li>
+            </ul>
+          </div>
+          <button class="mt-6 w-full py-2.5 rounded-xl bg-zinc-800 text-xs font-bold text-white hover:bg-amber-500 hover:text-black transition">
+            Customize Cart
+          </button>
+        </div>
+
+      </div>
+
+      <!-- CUSTOM PROVIDER PICKER ACCORDION (Active when Custom selected) -->
+      <div id="customProviderPickerBox" class="opacity-40 pointer-events-none transition-all duration-300 glass-panel p-6 rounded-2xl border-white/10 mb-8">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between pb-4 border-b border-white/10 gap-3">
+          <div>
+            <h4 class="font-bold text-base text-white">Select Individual Game Providers</h4>
+            <p class="text-xs text-zinc-400">Click any provider to add to your custom cart. Price updates dynamically.</p>
+          </div>
+          <div class="flex items-center space-x-2">
+            <button onclick="Buy.selectAllProviders()" class="px-3 py-1.5 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-xs font-bold text-zinc-300">
+              Select All
+            </button>
+            <button onclick="Buy.clearAllProviders()" class="px-3 py-1.5 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-xs font-bold text-zinc-300">
+              Clear All
+            </button>
+            <span id="customSelectedCount" class="text-xs font-bold text-amber-400 px-3 py-1.5 rounded-lg bg-amber-500/10 border border-amber-500/20">
+              0 selected
+            </span>
+          </div>
+        </div>
+
+        <!-- Filter Sub-bar inside Cart -->
+        <div class="flex flex-wrap items-center justify-between gap-3 mt-4 mb-4">
+          <div class="flex items-center space-x-1.5 overflow-x-auto pb-1 scrollbar-none">
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs font-bold bg-amber-500 text-black" data-cat="all">All</button>
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs bg-zinc-800 text-zinc-300 hover:text-white" data-cat="slots">Slots</button>
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs bg-zinc-800 text-zinc-300 hover:text-white" data-cat="live-casino">Live Casino</button>
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs bg-zinc-800 text-zinc-300 hover:text-white" data-cat="sports">Sportsbook</button>
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs bg-zinc-800 text-zinc-300 hover:text-white" data-cat="mini-game">Mini Games</button>
+            <button class="buy-cat-btn px-3 py-1 rounded-lg text-xs bg-zinc-800 text-zinc-300 hover:text-white" data-cat="card-game">Card Games</button>
+          </div>
+
+          <input type="text" id="buyProviderSearch" placeholder="Search brands in cart..." 
+                 class="bg-zinc-900 border border-white/10 rounded-lg px-3 py-1 text-xs text-white placeholder-zinc-500 outline-none focus:border-amber-500 w-48">
+        </div>
+
+        <!-- Custom Providers List -->
+        <div id="customProvidersList" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2 max-h-80 overflow-y-auto pr-1">
+          <!-- Rendered by Buy.js -->
+        </div>
+      </div>
+
+      <!-- Floating Bottom Sticky Checkout Bar -->
+      <div class="bg-gradient-to-r from-zinc-900 via-zinc-950 to-zinc-900 border-2 border-amber-500/40 rounded-2xl p-6 shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6">
+        <div>
+          <span class="text-[11px] font-bold uppercase tracking-wider text-amber-400">Selected Plan Summary</span>
+          <div class="flex items-baseline space-x-3 mt-1">
+            <span id="buyTotalAmount" class="text-3xl font-extrabold text-white mono">$50 USDT</span>
+            <span id="buyPlanDescription" class="text-xs text-zinc-400">3-Day Testing License · All Providers Included</span>
+          </div>
+        </div>
+
+        <div class="flex items-center space-x-3 w-full md:w-auto">
+          <a href="https://wa.me/918052354357?text=Hello,%20I%20am%20interested%20in%20purchasing%20the%20AllInOne%20API%20license." target="_blank" class="px-5 py-3 rounded-xl bg-zinc-800 hover:bg-zinc-700 text-xs font-bold text-white transition flex items-center space-x-2">
+            <i class="fa-brands fa-whatsapp text-emerald-400 text-sm"></i>
+            <span>Talk on WhatsApp</span>
+          </a>
+          <button onclick="Buy.openCheckoutModal()" class="btn-gold px-8 py-3 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center space-x-2 flex-1 md:flex-none justify-center">
+            <span>Proceed to Checkout</span>
+            <i class="fa-solid fa-arrow-right text-[10px]"></i>
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ENTERPRISE CONTACT & SUPPORT -->
+  <section id="contact" class="py-20 bg-[#090b10] border-t border-white/5 relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Direct Global Contact</span>
+          <h2 class="text-3xl sm:text-4xl font-extrabold text-white mt-1">
+            Let’s Build Your <span class="text-gold-gradient">Gaming Empire</span>
+          </h2>
+          <p class="text-sm text-zinc-400 mt-3 leading-relaxed">
+            Our engineering and account managers are available 24/7 on WhatsApp and Telegram to issue testing credentials, set up webhooks, and guide launch integrations.
+          </p>
+
+          <div class="mt-8 space-y-4">
+            <a href="https://wa.me/918052354357" target="_blank" class="glass-panel p-4 rounded-xl flex items-center space-x-4 hover:border-emerald-500/40 group cursor-pointer block">
+              <div class="w-12 h-12 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 text-xl group-hover:scale-105 transition">
+                <i class="fa-brands fa-whatsapp"></i>
+              </div>
+              <div>
+                <span class="text-xs text-zinc-400 uppercase font-semibold">Instant VIP WhatsApp</span>
+                <p class="text-base font-bold text-white group-hover:text-emerald-400 transition">+91 80523 54357</p>
+              </div>
+            </a>
+
+            <a href="https://t.me/hdsoftapi" target="_blank" class="glass-panel p-4 rounded-xl flex items-center space-x-4 hover:border-blue-500/40 group cursor-pointer block">
+              <div class="w-12 h-12 rounded-xl bg-blue-500/10 border border-blue-500/30 flex items-center justify-center text-blue-400 text-xl group-hover:scale-105 transition">
+                <i class="fa-brands fa-telegram"></i>
+              </div>
+              <div>
+                <span class="text-xs text-zinc-400 uppercase font-semibold">Official Telegram Channel</span>
+                <p class="text-base font-bold text-white group-hover:text-blue-400 transition">@hdsoftapi</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="glass-panel p-8 rounded-2xl border-white/10">
+          <h3 class="text-xl font-bold text-white mb-2">Request Enterprise Quotation</h3>
+          <p class="text-xs text-zinc-400 mb-6">Receive your API keys and custom unified integration kit.</p>
+
+          <form id="enterpriseContactForm" class="space-y-4">
+            <div>
+              <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Your Name / Company</label>
+              <input type="text" id="contactName" required placeholder="Acme Gaming Co." 
+                     class="w-full bg-zinc-900 border border-white/10 rounded-xl px-4 py-2.5 text-xs text-white focus:border-amber-500 outline-none">
+            </div>
+            <div>
+              <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Email / Telegram Handle</label>
+              <input type="text" id="contactEmail" required placeholder="developer@company.com or @handle" 
+                     class="w-full bg-zinc-900 border border-white/10 rounded-xl px-4 py-2.5 text-xs text-white focus:border-amber-500 outline-none">
+            </div>
+            <div>
+              <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Target Providers or Markets</label>
+              <textarea id="contactMsg" rows="3" required placeholder="Interested in Evolution, Pragmatic Play, Aviator, and Sportsbook API..." 
+                        class="w-full bg-zinc-900 border border-white/10 rounded-xl px-4 py-2.5 text-xs text-white focus:border-amber-500 outline-none"></textarea>
+            </div>
+            <button type="submit" class="w-full btn-gold py-3 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center justify-center space-x-2">
+              <span>Send Priority Request</span>
+              <i class="fa-solid fa-paper-plane text-[10px]"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-black border-t border-white/10 py-12 relative z-10 text-xs text-zinc-500">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row items-center justify-between gap-6 pb-8 border-b border-zinc-900">
+        <div class="flex items-center space-x-3">
+          <div class="w-8 h-8 rounded-lg bg-amber-500 text-black flex items-center justify-center font-bold">
+            <i class="fa-solid fa-dice-d20"></i>
+          </div>
+          <span class="text-base font-bold text-white tracking-tight">AllInOne API Platform</span>
+        </div>
+
+        <div class="flex items-center space-x-6 text-xs text-zinc-400">
+          <a href="#lobby" class="hover:text-white transition">Providers</a>
+          <a href="#documentation" class="hover:text-white transition">Documentation</a>
+          <a href="#pricing" class="hover:text-white transition">Buy API</a>
+          <a href="https://wa.me/918052354357" target="_blank" class="hover:text-emerald-400 transition">WhatsApp</a>
+          <a href="https://t.me/hdsoftapi" target="_blank" class="hover:text-blue-400 transition">Telegram</a>
+        </div>
+      </div>
+
+      <div class="mt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+        <p>© 2026 AllInOne API Solutions. All rights reserved. Enterprise B2B software license.</p>
+        <div class="flex items-center space-x-2 text-[11px] text-zinc-600">
+          <span class="px-2 py-0.5 rounded bg-zinc-900 border border-zinc-800">18+ Only</span>
+          <span>Responsible Gaming Protocol Enabled</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ========================================================================= -->
+  <!-- MODALS -->
+  <!-- ========================================================================= -->
+
+  <!-- 1. CINEMATIC GAME PLAYER MODAL -->
+  <div id="gameModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/85 backdrop-blur-md p-2 sm:p-4 opacity-0 pointer-events-none transition-all duration-300">
+    <div id="gameModalBody" class="w-full max-w-5xl h-[88vh] bg-zinc-950 rounded-2xl border border-amber-500/40 shadow-2xl flex flex-col overflow-hidden relative">
+      
+      <!-- Modal Top Bar -->
+      <div class="h-12 px-4 bg-zinc-900/90 border-b border-white/10 flex items-center justify-between z-20">
+        <div class="flex items-center space-x-3">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping"></span>
+          <div>
+            <h3 id="gameModalTitle" class="font-bold text-sm text-white leading-tight">Live Game Play</h3>
+            <span id="gameModalBrand" class="text-[10px] text-zinc-400">AllInOne API Verified</span>
+          </div>
+        </div>
+
+        <div class="flex items-center space-x-2">
+          <button id="gamePopoutBtn" onclick="Launcher.openInNewWindow()" class="w-8 h-8 rounded-lg bg-zinc-800 hover:bg-amber-500 hover:text-black text-zinc-300 flex items-center justify-center transition" title="Open in Dedicated VIP Window">
+            <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
+          </button>
+          <button onclick="Launcher.toggleFullscreen()" class="w-8 h-8 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-zinc-300 flex items-center justify-center transition" title="Toggle Fullscreen">
+            <i class="fa-solid fa-expand text-xs"></i>
+          </button>
+          <button onclick="Launcher.close()" class="w-8 h-8 rounded-lg bg-red-500/20 hover:bg-red-500 text-red-300 hover:text-white flex items-center justify-center transition" title="Close Game">
+            <i class="fa-solid fa-xmark text-sm"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Modal Content Area -->
+      <div class="flex-1 relative bg-black flex items-center justify-center overflow-hidden">
+        
+        <!-- Loading Progress Screen -->
+        <div id="gameLoader" class="absolute inset-0 flex flex-col items-center justify-center bg-black/95 z-10 space-y-4">
+          <div class="relative w-20 h-20 flex items-center justify-center">
+            <div class="w-full h-full rounded-full border-4 border-amber-500/20 border-t-amber-500 animate-spin"></div>
+            <i class="fa-solid fa-dice-d20 text-amber-400 text-2xl absolute"></i>
+          </div>
+          <div class="text-center">
+            <h4 class="font-extrabold text-white text-base tracking-wide">CONNECTING TO PROVIDER</h4>
+            <p class="text-xs text-zinc-400 mt-1">Establishing high-speed encrypted game session...</p>
+          </div>
+          <div class="w-64 bg-zinc-900 h-2 rounded-full overflow-hidden border border-white/10">
+            <div id="gameProgressBar" class="bg-gradient-to-r from-amber-500 to-amber-300 h-full w-0 transition-all duration-150"></div>
+          </div>
+          <span id="gameProgressText" class="mono text-xs font-bold text-amber-400">0%</span>
+        </div>
+
+        <!-- Real or Simulated Game Iframe -->
+        <iframe id="gameIframe" class="w-full h-full border-0 hidden" allow="autoplay; fullscreen"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. BRAND GAMES DRAWER MODAL -->
+  <div id="brandDrawerModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md p-4 opacity-0 pointer-events-none transition-all duration-300">
+    <div class="w-full max-w-5xl h-[90vh] bg-zinc-950 rounded-2xl border border-white/10 shadow-2xl flex flex-col overflow-hidden">
+      
+      <!-- Drawer Header -->
+      <div class="p-4 px-6 bg-zinc-900/90 border-b border-white/10 flex items-center justify-between">
+        <div class="flex items-center space-x-4">
+          <div class="h-10 w-24 bg-zinc-950 rounded-lg p-1 border border-white/5 flex items-center justify-center">
+            <img id="brandDrawerLogo" src="" alt="Brand Logo" class="max-h-8 max-w-full object-contain">
+          </div>
+          <div>
+            <h3 id="brandDrawerTitle" class="font-bold text-lg text-white">Brand Name</h3>
+            <span id="brandDrawerCount" class="text-xs text-amber-400 font-semibold">0 Games Available</span>
+          </div>
+        </div>
+
+        <div class="flex items-center space-x-2">
+          <button onclick="Catalog.launchTopGame()" class="btn-gold px-3.5 py-1.5 rounded-xl text-xs font-bold flex items-center space-x-1.5">
+            <i class="fa-solid fa-bolt text-xs"></i>
+            <span>Launch Live Session</span>
+          </button>
+          <button onclick="Catalog.closeBrandDrawer()" class="w-8 h-8 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-zinc-300 flex items-center justify-center transition">
+            <i class="fa-solid fa-xmark text-sm"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Games Grid inside Drawer -->
+      <div id="brandDrawerGamesGrid" class="flex-1 p-6 overflow-y-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4.5 content-start items-start">
+        <!-- Rendered by Catalog.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. AGENT CODE ACCESS GATE MODAL -->
+  <div id="agentGateModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/85 backdrop-blur-md p-4 opacity-0 pointer-events-none transition-all duration-300">
+    <div class="w-full max-w-md bg-zinc-950 border border-amber-500/30 rounded-2xl p-6 shadow-2xl text-left relative">
+      <button onclick="App.closeAgentModal()" class="absolute top-4 right-4 w-7 h-7 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white flex items-center justify-center text-xs">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+
+      <div class="w-12 h-12 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 text-xl mb-4">
+        <i class="fa-solid fa-shield-halved"></i>
+      </div>
+
+      <h3 class="text-xl font-bold text-white">Agent Verification</h3>
+      <p class="text-xs text-zinc-400 mt-1 mb-6">
+        Enter your agent verification code to unlock VIP developer privileges and unlimited live testing.
+      </p>
+
+      <form id="agentGateForm" class="space-y-4">
+        <div>
+          <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1.5">Agent Access Code</label>
+          <div class="relative">
+            <i class="fa-solid fa-key absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-500 text-xs"></i>
+            <input type="text" id="agentCodeInput" placeholder="ENTER CODE (e.g. hdsoftapi1)" 
+                   class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-3 text-sm font-mono text-white placeholder-zinc-600 uppercase focus:border-amber-500 outline-none">
+          </div>
+        </div>
+
+        <button type="submit" class="w-full btn-gold py-3 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center justify-center space-x-2">
+          <i class="fa-solid fa-circle-check"></i>
+          <span>Verify Access</span>
+        </button>
+
+        <a href="https://wa.me/918052354357?text=Hello,%20I%20need%20Agent%20Code%20to%20access%20games%20for%20testing." target="_blank" 
+           class="w-full py-2.5 rounded-xl bg-zinc-900 hover:bg-zinc-800 border border-white/10 text-xs font-bold text-zinc-300 transition flex items-center justify-center space-x-2">
+          <i class="fa-brands fa-whatsapp text-emerald-400"></i>
+          <span>Get Agent Code via WhatsApp</span>
+        </a>
+
+        <p id="agentGateMsg" class="text-xs text-center text-amber-400 font-medium min-h-5"></p>
+      </form>
+    </div>
+  </div>
+
+  <!-- 4. CHECKOUT & PAYMENT MODAL -->
+  <div id="checkoutModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/85 backdrop-blur-md p-4 opacity-0 pointer-events-none transition-all duration-300">
+    <div class="w-full max-w-lg bg-zinc-950 border border-white/10 rounded-2xl p-6 shadow-2xl text-left relative max-h-[90vh] overflow-y-auto">
+      
+      <button onclick="Buy.closeCheckoutModal()" class="absolute top-4 right-4 w-7 h-7 rounded-lg bg-zinc-900 text-zinc-400 hover:text-white flex items-center justify-center text-xs">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+
+      <!-- CHECKOUT FORM BOX -->
+      <div id="checkoutFormBox">
+        <div class="flex items-center space-x-3 mb-4">
+          <div class="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 text-lg">
+            <i class="fa-solid fa-wallet"></i>
+          </div>
+          <div>
+            <h3 class="text-lg font-bold text-white">Complete License Order</h3>
+            <span id="checkoutPlanSummary" class="text-xs text-zinc-400 uppercase font-semibold">TRIAL PLAN</span>
+          </div>
+        </div>
+
+        <!-- Step 1: Total Due -->
+        <div class="bg-zinc-900/80 p-4 rounded-xl border border-white/5 flex items-center justify-between mb-5">
+          <span class="text-xs text-zinc-400 font-semibold uppercase">Total Amount:</span>
+          <span id="checkoutTotalDisplay" class="text-2xl font-extrabold text-amber-400 mono">50 USDT</span>
+        </div>
+
+        <!-- Step 2: Keys Preference -->
+        <div class="mb-4">
+          <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-2">API Keys Architecture</label>
+          <div class="grid grid-cols-2 gap-2">
+            <button type="button" class="key-opt-btn p-3 rounded-xl border border-amber-500 bg-amber-500/10 text-amber-300 text-xs font-bold text-left" data-key="single">
+              <span class="block text-white font-bold">One Key for All</span>
+              <span class="text-[10px] text-zinc-400 font-normal">Unified integration</span>
+            </button>
+            <button type="button" class="key-opt-btn p-3 rounded-xl border border-white/10 bg-zinc-900 text-zinc-400 text-xs font-bold text-left" data-key="separate">
+              <span class="block text-white font-bold">Separate Keys</span>
+              <span class="text-[10px] text-zinc-400 font-normal">Per-brand credentials</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 3: Account Email -->
+        <div class="mb-4">
+          <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1">Account Email Address</label>
+          <input type="email" id="checkoutEmail" required placeholder="operator@yourdomain.com" 
+                 class="w-full bg-zinc-900 border border-white/10 rounded-xl px-3.5 py-2.5 text-xs text-white focus:border-amber-500 outline-none">
+          <span class="text-[10px] text-zinc-500 mt-1 block">API tokens and webhook signatures will be issued to this email.</span>
+        </div>
+
+        <!-- Step 4: Network Selection -->
+        <div class="mb-4">
+          <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-2">USDT Deposit Network</label>
+          <div class="grid grid-cols-2 gap-2">
+            <button type="button" class="network-opt-btn p-3 rounded-xl border border-amber-500 bg-amber-500/10 text-amber-300 text-xs font-bold text-left" data-network="trc20">
+              <span class="block text-white font-bold">USDT TRC20</span>
+              <span class="text-[10px] text-zinc-400 font-normal">Tron (Lower fees)</span>
+            </button>
+            <button type="button" class="network-opt-btn p-3 rounded-xl border border-white/10 bg-zinc-900 text-zinc-400 text-xs font-bold text-left" data-network="bep20">
+              <span class="block text-white font-bold">USDT BEP20</span>
+              <span class="text-[10px] text-zinc-400 font-normal">BNB Smart Chain</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Deposit Address & Copy -->
+        <div class="bg-black/80 p-4 rounded-xl border border-zinc-800 mb-5">
+          <div class="flex items-center justify-between mb-1">
+            <span id="checkoutNetworkLabel" class="text-[11px] font-bold text-zinc-400 uppercase">Tron (TRC20) Address:</span>
+            <button onclick="Buy.copyDepositAddress()" class="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1">
+              <i class="fa-regular fa-copy"></i> Copy
+            </button>
+          </div>
+          <p id="checkoutDepositAddress" class="mono text-xs text-emerald-400 break-all select-all font-bold">
+            TXb9Rz8KxYp6Wm4Qv2Ln7Sd1Fe3Hg5Jt8A
+          </p>
+        </div>
+
+        <!-- Submit / WhatsApp Confirmation -->
+        <button onclick="Buy.submitOrder()" class="w-full btn-gold py-3 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center justify-center space-x-2">
+          <i class="fa-brands fa-whatsapp text-sm"></i>
+          <span>Confirm & Issue AllInOne API License</span>
+        </button>
+      </div>
+
+      <!-- CHECKOUT RECEIPT & LICENSE PROVISION BOX (Rendered on order creation) -->
+      <div id="checkoutReceiptBox" class="hidden"></div>
+
+    </div>
+  </div>
+
+  <!-- 5. TOAST NOTIFICATION CONTAINER -->
+  <div id="toast" class="fixed bottom-6 left-6 z-50 transform translate-y-24 opacity-0 transition-all duration-300 pointer-events-none">
+    <div class="bg-zinc-900/95 border border-amber-500/40 shadow-2xl px-5 py-3 rounded-xl flex items-center space-x-3 text-xs font-semibold text-white backdrop-blur-md">
+      <i class="fa-solid fa-circle-check text-amber-400 text-sm"></i>
+      <span id="toastMsg">Operation successful</span>
+    </div>
+  </div>
+
+  <!-- ULTRA-PREMIUM FLOATING VIP AGENT SUPPORT WIDGET -->
+  <div class="floating-vip-bar">
+    <!-- Live Online Operator Pill -->
+    <div class="px-3 py-1 rounded-full bg-zinc-900/95 border border-emerald-500/40 shadow-xl backdrop-blur-md flex items-center gap-2 text-[10px] font-bold text-zinc-300">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      <span class="text-white font-semibold">VIP Support</span>
+      <span class="text-emerald-400 font-extrabold uppercase tracking-wider">Online</span>
+    </div>
+
+    <!-- WhatsApp VIP Button -->
+    <a href="https://wa.me/918052354357?text=Hello%20AllInOne%20API%20VIP%20Manager%2C%20I%20want%20to%20integrate%20games%20on%20my%20platform." 
+       target="_blank" 
+       rel="noopener"
+       class="floating-btn-wa group"
+       title="Direct WhatsApp VIP Manager">
+      <i class="fa-brands fa-whatsapp text-lg"></i>
+      <span class="font-bold">WhatsApp VIP</span>
+      <span class="w-1.5 h-1.5 rounded-full bg-white"></span>
+    </a>
+
+    <!-- Telegram VIP Button -->
+    <a href="https://t.me/hdsoftapi" 
+       target="_blank" 
+       rel="noopener"
+       class="floating-btn-tg group"
+       title="24/7 Official Telegram Support">
+      <i class="fa-brands fa-telegram text-lg"></i>
+      <span class="font-bold">Telegram VIP</span>
+      <span class="w-1.5 h-1.5 rounded-full bg-white"></span>
+    </a>
+  </div>
+
+  <!-- Client Application Scripts -->
+  <script src="/js/catalog.js"></script>
+  <script src="/js/launcher.js"></script>
+  <script src="/js/documentation.js"></script>
+  <script src="/js/buy.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>
