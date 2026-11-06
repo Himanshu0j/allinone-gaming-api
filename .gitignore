@@ -1,8 +1,15 @@
 node_modules/
 cloudflared.exe
+public/images/service-cover-v2.png
 *.log
 .env
 .vercel
 .netlify
 .idea/
 .vscode/
+100hp.html
+100hp_auth.html
+pragmatic.html
+scrape_*.js
+test_*.js
+verify_*.js
