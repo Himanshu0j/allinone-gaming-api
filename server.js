@@ -1103,7 +1103,23 @@ app.get('/api/admin/orders', (req, res) => {
   res.json({ success: true, total: orders.length, orders });
 });
 
-// 10. Direct Brand and Navigation Routes (e.g. /products, /brand/100hp/, /brand/spribe/, /buy)
+// 10. Health & 24/7 Keep-Alive Endpoints
+app.get('/api/health', (req, res) => {
+  res.json({
+    status: 'ok',
+    uptime: Math.floor(process.uptime()),
+    timestamp: new Date().toISOString(),
+    service: 'AllInOne Gaming API Engine',
+    providers: catalogData.providers ? catalogData.providers.length : 0,
+    memory_mb: Math.round(process.memoryUsage().heapUsed / 1024 / 1024)
+  });
+});
+
+app.get('/api/ping', (req, res) => {
+  res.status(200).send('pong');
+});
+
+// 11. Direct Brand and Navigation Routes (e.g. /products, /brand/100hp/, /brand/spribe/, /buy)
 app.get(['/brand/:brandSlug', '/brand', '/buy', '/pricing', '/products', '/about', '/contact', '/documentation'], (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
@@ -1111,11 +1127,42 @@ app.get(/^\/(products|brand|buy|pricing|about|contact|documentation)(\/.*)?$/, (
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
+// -----------------------------------------------------------------------------
+// Render 24/7 Anti-Sleep Keep-Alive Watchdog
+// Render free tier spins down after 15 mins of inactivity.
+// Pinging the public HTTPS URL every 8 mins resets Render's idle timer and keeps it awake 24/7.
+// -----------------------------------------------------------------------------
+const RENDER_EXTERNAL_URL = process.env.RENDER_EXTERNAL_URL || 'https://allinone-gaming-api.onrender.com';
+
+function startKeepAliveWatchdog() {
+  const PING_INTERVAL = 8 * 60 * 1000; // 8 minutes
+  
+  // Initial ping 30 seconds after boot
+  setTimeout(pingSelf, 30000);
+  
+  // Recurring ping every 8 minutes
+  setInterval(pingSelf, PING_INTERVAL);
+
+  async function pingSelf() {
+    try {
+      const url = `${RENDER_EXTERNAL_URL}/api/health`;
+      const res = await axios.get(url, { timeout: 12000 });
+      console.log(`[KEEP-ALIVE] Pinged ${url} - Status: ${res.status} - Uptime: ${Math.floor(process.uptime())}s`);
+    } catch (e) {
+      console.warn(`[KEEP-ALIVE] Self-ping note: ${e.message}`);
+    }
+  }
+
+  console.log(`[KEEP-ALIVE] Render 24/7 Watchdog initialized. Monitoring ${RENDER_EXTERNAL_URL}`);
+}
+
+startKeepAliveWatchdog();
+
 process.on('uncaughtException', (err) => {
-  console.error('[UNCAUGHT EXCEPTION]', err);
+  console.error('[UNCAUGHT EXCEPTION SAFEGUARD]', err);
 });
 process.on('unhandledRejection', (reason, promise) => {
-  console.error('[UNHANDLED REJECTION]', reason);
+  console.error('[UNHANDLED REJECTION SAFEGUARD]', reason);
 });
 
 setInterval(() => {}, 60000);
