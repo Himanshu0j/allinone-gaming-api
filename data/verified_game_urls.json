@@ -4,240 +4,270 @@
     "brand": "pgsoft",
     "name": "Asgardian Rising",
     "code": "40",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=6d7ec967-c297-413f-9b30-ca278318f113&f=ab1945a9dec9cc37",
-    "game_uid": 40
+    "url": "/demo-player.html?game=Asgardian%20Rising&brand=PG%20Soft&code=40",
+    "game_uid": 40,
+    "type": "interactive_slot"
   },
   "2187": {
     "pid": "2187",
     "brand": "pgsoft",
     "name": "Butterfly Blossom",
     "code": "73",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=32dcfe07-0d17-4265-b8c6-45eb17e04cc1&f=ab1945a9dec9cc37",
-    "game_uid": 73
+    "url": "/demo-player.html?game=Butterfly%20Blossom&brand=PG%20Soft&code=73",
+    "game_uid": 73,
+    "type": "interactive_slot"
   },
   "2197": {
     "pid": "2197",
     "brand": "pgsoft",
     "name": "Bikini Paradise",
     "code": "102",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=a2e6679a-f39e-4ee4-95bd-b03a16250c2e&f=ab1945a9dec9cc37",
-    "game_uid": 102
+    "url": "/demo-player.html?game=Bikini%20Paradise&brand=PG%20Soft&code=102",
+    "game_uid": 102,
+    "type": "interactive_slot"
   },
   "2211": {
     "pid": "2211",
     "brand": "pgsoft",
     "name": "Baccarat Deluxe",
     "code": "145",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=15ca3f0b-df5c-4e97-8895-34194891c6ad&f=ab1945a9dec9cc37",
-    "game_uid": 145
+    "url": "/demo-player.html?game=Baccarat%20Deluxe&brand=PG%20Soft&code=145",
+    "game_uid": 145,
+    "type": "interactive_slot"
   },
   "2219": {
     "pid": "2219",
     "brand": "pgsoft",
     "name": "Candy Burst",
     "code": "172",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=1f1d9319-1b91-4017-9579-2c129670ca89&f=ab1945a9dec9cc37",
-    "game_uid": 172
+    "url": "/demo-player.html?game=Candy%20Burst&brand=PG%20Soft&code=172",
+    "game_uid": 172,
+    "type": "interactive_slot"
   },
   "2221": {
     "pid": "2221",
     "brand": "pgsoft",
     "name": "Buffalo Win",
     "code": "175",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=ae7d09af-2abe-4fb7-bf26-6bb6e1d8764c&f=ab1945a9dec9cc37",
-    "game_uid": 175
+    "url": "/demo-player.html?game=Buffalo%20Win&brand=PG%20Soft&code=175",
+    "game_uid": 175,
+    "type": "interactive_slot"
   },
   "2231": {
     "pid": "2231",
     "brand": "pgsoft",
     "name": "Double Fortune",
     "code": "249",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=8cc3820e-6d27-4cf6-868d-9543640c9f7a&f=ab1945a9dec9cc37",
-    "game_uid": 249
+    "url": "/demo-player.html?game=Double%20Fortune&brand=PG%20Soft&code=249",
+    "game_uid": 249,
+    "type": "interactive_slot"
   },
   "2245": {
     "pid": "2245",
     "brand": "pgsoft",
     "name": "Dragon Hatch",
     "code": "339",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=109f71b2-ed78-425e-acee-33b5378e4465&f=ab1945a9dec9cc37",
-    "game_uid": 339
+    "url": "/demo-player.html?game=Dragon%20Hatch&brand=PG%20Soft&code=339",
+    "game_uid": 339,
+    "type": "interactive_slot"
   },
   "2251": {
     "pid": "2251",
     "brand": "pgsoft",
     "name": "Circus Delight",
     "code": "410",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=c33f69f6-e0af-4527-bdb0-d64b52246a34&f=ab1945a9dec9cc37",
-    "game_uid": 410
+    "url": "/demo-player.html?game=Circus%20Delight&brand=PG%20Soft&code=410",
+    "game_uid": 410,
+    "type": "interactive_slot"
   },
   "2255": {
     "pid": "2255",
     "brand": "pgsoft",
     "name": "Cocktail Nights",
     "code": "420",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=90d9e508-06de-4151-b3e4-9c447a539095&f=ab1945a9dec9cc37",
-    "game_uid": 420
+    "url": "/demo-player.html?game=Cocktail%20Nights&brand=PG%20Soft&code=420",
+    "game_uid": 420,
+    "type": "interactive_slot"
   },
   "2265": {
     "pid": "2265",
     "brand": "pgsoft",
     "name": "Destiny of Sun &amp; Moon",
     "code": "442",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=94fc8a1e-7118-4e9d-9a25-955d78ea7121&f=ab1945a9dec9cc37",
-    "game_uid": 442
+    "url": "/demo-player.html?game=Destiny%20of%20Sun%20%26amp%3B%20Moon&brand=PG%20Soft&code=442",
+    "game_uid": 442,
+    "type": "interactive_slot"
   },
   "2273": {
     "pid": "2273",
     "brand": "pgsoft",
     "name": "Diner Delights",
     "code": "568",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=124f2650-39f0-4ce9-b28c-138d5ad168fc&f=ab1945a9dec9cc37",
-    "game_uid": 568
+    "url": "/demo-player.html?game=Diner%20Delights&brand=PG%20Soft&code=568",
+    "game_uid": 568,
+    "type": "interactive_slot"
   },
   "2303": {
     "pid": "2303",
     "brand": "pgsoft",
     "name": "Alchemy Gold",
     "code": "701",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=a708880f-0f54-4bc5-b2ce-122474f10be4&f=ab1945a9dec9cc37",
-    "game_uid": 701
+    "url": "/demo-player.html?game=Alchemy%20Gold&brand=PG%20Soft&code=701",
+    "game_uid": 701,
+    "type": "interactive_slot"
   },
   "2333": {
     "pid": "2333",
     "brand": "pgsoft",
     "name": "Crypto Gold",
     "code": "821",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=40218e05-1bc4-4c6f-a200-9c0344969ae2&f=ab1945a9dec9cc37",
-    "game_uid": 821
+    "url": "/demo-player.html?game=Crypto%20Gold&brand=PG%20Soft&code=821",
+    "game_uid": 821,
+    "type": "interactive_slot"
   },
   "2340": {
     "pid": "2340",
     "brand": "pgsoft",
     "name": "Candy Bonanza",
     "code": "870",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=edb786ee-d6f0-4c18-b131-be37750e6e35&f=ab1945a9dec9cc37",
-    "game_uid": 870
+    "url": "/demo-player.html?game=Candy%20Bonanza&brand=PG%20Soft&code=870",
+    "game_uid": 870,
+    "type": "interactive_slot"
   },
   "2345": {
     "pid": "2345",
     "brand": "pgsoft",
     "name": "Bali Vacation",
     "code": "909",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=e088cc85-9858-470f-94e7-01937fc17445&f=ab1945a9dec9cc37",
-    "game_uid": 909
+    "url": "/demo-player.html?game=Bali%20Vacation&brand=PG%20Soft&code=909",
+    "game_uid": 909,
+    "type": "interactive_slot"
   },
   "2355": {
     "pid": "2355",
     "brand": "pgsoft",
     "name": "Captain&#8217;s Bounty",
     "code": "937",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=e35853d8-52fd-4429-856f-4d88b301a4ff&f=ab1945a9dec9cc37",
-    "game_uid": 937
+    "url": "/demo-player.html?game=Captain%26%238217%3Bs%20Bounty&brand=PG%20Soft&code=937",
+    "game_uid": 937,
+    "type": "interactive_slot"
   },
   "2357": {
     "pid": "2357",
     "brand": "pgsoft",
     "name": "Bakery Bonanza",
     "code": "953",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=d4c14d21-e17d-435d-9fb9-2f19cbf046c3&f=ab1945a9dec9cc37",
-    "game_uid": 953
+    "url": "/demo-player.html?game=Bakery%20Bonanza&brand=PG%20Soft&code=953",
+    "game_uid": 953,
+    "type": "interactive_slot"
   },
   "2373": {
     "pid": "2373",
     "brand": "pgsoft",
     "name": "Battleground Royale",
     "code": "1068",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=66211bf0-31c0-451e-a7aa-239eae60ff09&f=ab1945a9dec9cc37",
-    "game_uid": 1068
+    "url": "/demo-player.html?game=Battleground%20Royale&brand=PG%20Soft&code=1068",
+    "game_uid": 1068,
+    "type": "interactive_slot"
   },
   "2387": {
     "pid": "2387",
     "brand": "pgsoft",
     "name": "Caishen Wins",
     "code": "10078",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=4c0cd81b-eb21-4f4b-ad82-3527800dec3f&f=ab1945a9dec9cc37",
-    "game_uid": 10078
+    "url": "/demo-player.html?game=Caishen%20Wins&brand=PG%20Soft&code=10078",
+    "game_uid": 10078,
+    "type": "interactive_slot"
   },
   "2403": {
     "pid": "2403",
     "brand": "pgsoft",
     "name": "Cruise Royale",
     "code": "10086",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=0137f146-aca6-49dc-9372-10cb1afaf517&f=ab1945a9dec9cc37",
-    "game_uid": 10086
+    "url": "/demo-player.html?game=Cruise%20Royale&brand=PG%20Soft&code=10086",
+    "game_uid": 10086,
+    "type": "interactive_slot"
   },
   "2427": {
     "pid": "2427",
     "brand": "pgsoft",
     "name": "Cash Mania",
     "code": "10096",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=2a82df47-9d47-49b4-bf2e-fc06dcac67ee&f=ab1945a9dec9cc37",
-    "game_uid": 10096
+    "url": "/demo-player.html?game=Cash%20Mania&brand=PG%20Soft&code=10096",
+    "game_uid": 10096,
+    "type": "interactive_slot"
   },
   "2435": {
     "pid": "2435",
     "brand": "pgsoft",
     "name": "Anubis Wrath",
     "code": "10100",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=90266723-cf49-4464-a377-e855213c845e&f=ab1945a9dec9cc37",
-    "game_uid": 10100
+    "url": "/demo-player.html?game=Anubis%20Wrath&brand=PG%20Soft&code=10100",
+    "game_uid": 10100,
+    "type": "interactive_slot"
   },
   "2437": {
     "pid": "2437",
     "brand": "pgsoft",
     "name": "Chicky Run",
     "code": "10101",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=0c46be54-ab22-4acf-a67e-94e0688b19e2&f=ab1945a9dec9cc37",
-    "game_uid": 10101
+    "url": "/demo-player.html?game=Chicky%20Run&brand=PG%20Soft&code=10101",
+    "game_uid": 10101,
+    "type": "interactive_slot"
   },
   "2459": {
     "pid": "2459",
     "brand": "pgsoft",
     "name": "Doomsday Rampage",
     "code": "10112",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=44a387f5-8b24-4acd-997e-3e15f37ee179&f=ab1945a9dec9cc37",
-    "game_uid": 10112
+    "url": "/demo-player.html?game=Doomsday%20Rampage&brand=PG%20Soft&code=10112",
+    "game_uid": 10112,
+    "type": "interactive_slot"
   },
   "2463": {
     "pid": "2463",
     "brand": "pgsoft",
     "name": "Dead Man&#8217;s Riches",
     "code": "10114",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=b06c4ffc-723e-4302-9dae-ae950eed70dc&f=ab1945a9dec9cc37",
-    "game_uid": 10114
+    "url": "/demo-player.html?game=Dead%20Man%26%238217%3Bs%20Riches&brand=PG%20Soft&code=10114",
+    "game_uid": 10114,
+    "type": "interactive_slot"
   },
   "2464": {
     "pid": "2464",
     "brand": "pgsoft",
     "name": "Dead Man&#039;s Riches",
     "code": "2464",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=df2b14be-4bd8-4d59-a176-4c243acbe449&f=ab1945a9dec9cc37",
-    "game_uid": 10114
+    "url": "/demo-player.html?game=Dead%20Man%26%23039%3Bs%20Riches&brand=PG%20Soft&code=2464",
+    "game_uid": 10114,
+    "type": "interactive_slot"
   },
   "2467": {
     "pid": "2467",
     "brand": "pgsoft",
     "name": "Chocolate Deluxe",
     "code": "10115",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=2a53dea8-3330-4172-951e-900066b6a5b2&f=ab1945a9dec9cc37",
-    "game_uid": 10115
+    "url": "/demo-player.html?game=Chocolate%20Deluxe&brand=PG%20Soft&code=10115",
+    "game_uid": 10115,
+    "type": "interactive_slot"
   },
   "2471": {
     "pid": "2471",
     "brand": "pgsoft",
     "name": "Diner Frenzy Spins",
     "code": "10117",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=1b4392a7-f24d-4dda-947e-c3437cf3eac3&f=ab1945a9dec9cc37",
-    "game_uid": 10117
+    "url": "/demo-player.html?game=Diner%20Frenzy%20Spins&brand=PG%20Soft&code=10117",
+    "game_uid": 10117,
+    "type": "interactive_slot"
   },
   "2489": {
     "pid": "2489",
     "brand": "pgsoft",
     "name": "Alibaba&#8217;s Cave of Fortune",
     "code": "10126",
-    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=4e922416-5b38-4bd7-8687-2455f1749fb0&f=ab1945a9dec9cc37",
-    "game_uid": 10126
+    "url": "/demo-player.html?game=Alibaba%26%238217%3Bs%20Cave%20of%20Fortune&brand=PG%20Soft&code=10126",
+    "game_uid": 10126,
+    "type": "interactive_slot"
   },
   "2549": {
     "pid": "2549",
@@ -756,240 +786,270 @@
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Reborn",
     "code": "4509",
-    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImZjNWIzNDRlYmNiZTQyM2U4MDU2YzVkZWQyMGMyZDMwIiwic3ltYm9sIjoidnN3YXlzNWxpb25zciIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=ieJ54U5Di7N1oA8pgph2aeo2EwgkS72WU7Y7I5O3ZfYEbtGDLNrc1EZFEAjKL3kV&isGameUrlApiCalled=true&userId=he26e4979364epc",
-    "game_uid": 4509
+    "url": "/demo-player.html?game=5%20Lions%20Reborn&brand=Pragmatic%20Play&code=4509",
+    "game_uid": 4509,
+    "type": "interactive_slot"
   },
   "4164": {
     "pid": "4164",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Megaways 2",
     "code": "4522",
-    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijc4MDViZDEyZjBmOTRhOThhOTIwNTdlMWZiMDFiMmI1Iiwic3ltYm9sIjoidnN3YXlzNWxpb25zMiIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sVXQDGgrhpHFSkbqfZ9nqNep5bSdyyN1tR3dGgucequRDKqZSwdXU1F6ySaIA8cz&isGameUrlApiCalled=true&userId=he26e4322665epc",
-    "game_uid": 4522
+    "url": "/demo-player.html?game=5%20Lions%20Megaways%202&brand=Pragmatic%20Play&code=4522",
+    "game_uid": 4522,
+    "type": "interactive_slot"
   },
   "4231": {
     "pid": "4231",
     "brand": "pragmaticplay-eu",
     "name": "7 Clovers of Fortune",
     "code": "4558",
-    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImNjMjdiNDI2OTM0ODRlMTA4ZjIzMGYxOGMyZTU5ZWViIiwic3ltYm9sIjoidnN3YXlzc2V2ZW5jIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=zyQ5oDXuSnGBFC7zlmcx9tewDcHGe6ErwAP8EyKm4cpYXFIDsLVBWSGD1XFdWLCX&isGameUrlApiCalled=true&userId=he26e4267837epc",
-    "game_uid": 4558
+    "url": "/demo-player.html?game=7%20Clovers%20of%20Fortune&brand=Pragmatic%20Play&code=4558",
+    "game_uid": 4558,
+    "type": "interactive_slot"
   },
   "4235": {
     "pid": "4235",
     "brand": "pragmaticplay-eu",
     "name": "888 Gold",
     "code": "4560",
-    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNkODliODA1ZjJjMTRkYWM5NGNmMTVjOTI4ZDczYWI1Iiwic3ltYm9sIjoidnM1dHJpcGxlOGdvbGQiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=S65SGatjNTVhEXlgPiepHFJloEDKT9fmBfeWirEogMeugQ4wpSB8qM0DnuC5hJN5&isGameUrlApiCalled=true&userId=he26e4444224epc",
-    "game_uid": 4560
+    "url": "/demo-player.html?game=888%20Gold&brand=Pragmatic%20Play&code=4560",
+    "game_uid": 4560,
+    "type": "interactive_slot"
   },
   "4291": {
     "pid": "4291",
     "brand": "pragmaticplay-eu",
     "name": "6 Jokers",
     "code": "4589",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjBiZDNmZTcwNzk0MDQ0NjQ5NGQ2NDdkZjE5ODgyZTE4Iiwic3ltYm9sIjoidnM1bWFnaWNkb29yIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=KOGYNr7oJ1VwLc5R2uODdA815OzblVN198dQ4EgfarFX6urV9p3GnunoMHC1b11h&isGameUrlApiCalled=true&userId=he26e4583997epc",
-    "game_uid": 4589
+    "url": "/demo-player.html?game=6%20Jokers&brand=Pragmatic%20Play&code=4589",
+    "game_uid": 4589,
+    "type": "interactive_slot"
   },
   "4402": {
     "pid": "4402",
     "brand": "pragmaticplay-eu",
     "name": "5 Frozen Charms Megaways",
     "code": "4652",
-    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImQ2MDRhYWIwNzY5YTQ4MjJhZWQ0MjFjNDE5NGM0NjgzIiwic3ltYm9sIjoidnN3YXlzY2hhcm1zIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=aH12e4QT4VFhbJGnidX96kuhx0LbXtsmJdDlKCOf3vNprtVH2MSi1Jk7Owl6UnnO&isGameUrlApiCalled=true&userId=he26e4450573epc",
-    "game_uid": 4652
+    "url": "/demo-player.html?game=5%20Frozen%20Charms%20Megaways&brand=Pragmatic%20Play&code=4652",
+    "game_uid": 4652,
+    "type": "interactive_slot"
   },
   "4439": {
     "pid": "4439",
     "brand": "pragmaticplay-eu",
     "name": "8 Golden Dragon Challenge",
     "code": "4671",
-    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjliMzhjYzY5ZDBlZjQ0NTNiZjQ3ZWY0NjQyZTE4YzRiIiwic3ltYm9sIjoidnMxMGdkY2hhbGxlbmciLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=RfFIWHsbWDcXAcI48JmWZSLDco7PN522HquHlZrZCCzpM2NkgfXEavKIW0xNSfJx&isGameUrlApiCalled=true&userId=he26e4701008epc",
-    "game_uid": 4671
+    "url": "/demo-player.html?game=8%20Golden%20Dragon%20Challenge&brand=Pragmatic%20Play&code=4671",
+    "game_uid": 4671,
+    "type": "interactive_slot"
   },
   "4467": {
     "pid": "4467",
     "brand": "pragmaticplay-eu",
     "name": "3 Buzzing Wilds",
     "code": "4686",
-    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImIyZDBjNTE2MTEzODQwZGI5M2MyNTVjMTRkYWFhYmI0Iiwic3ltYm9sIjoidnMyMHdpbGRwYXJ0eSIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=6aqsTJJ0m79TQQB9X1r6l2e7FgezhBF1YphyvJGmhwYRxF2VXADgGoMkpLj16bdA&isGameUrlApiCalled=true&userId=he26e4219751epc",
-    "game_uid": 4686
+    "url": "/demo-player.html?game=3%20Buzzing%20Wilds&brand=Pragmatic%20Play&code=4686",
+    "game_uid": 4686,
+    "type": "interactive_slot"
   },
   "4507": {
     "pid": "4507",
     "brand": "pragmaticplay-eu",
     "name": "African Elephant",
     "code": "4707",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNjOTAyOGVhY2VjNjQxMWNhZjA0YTU0Mjk1OTg3NmE5Iiwic3ltYm9sIjoidnMyMGhvdHpvbmUiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=YrwXScACPM6LGmy3CzPfbdXvPsFpjTp5hrh3NNbAf3uSCK5Fn1LGFZP15cnyg5fD&isGameUrlApiCalled=true&userId=he26e4855009epc",
-    "game_uid": 4707
+    "url": "/demo-player.html?game=African%20Elephant&brand=Pragmatic%20Play&code=4707",
+    "game_uid": 4707,
+    "type": "interactive_slot"
   },
   "4824": {
     "pid": "4824",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Megaways",
     "code": "4824",
-    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijk4MmIyMzg5MmRhNjRkNzdhOTMwZWNlYTM5YjY5ODZjIiwic3ltYm9sIjoidnN3YXlzbGlvbnMiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=M2zHdTRoPHa5kjtd1XpEfJDTheTVjm108VsCTWdjxZVPb1KLKTVFa9ZD22LJvsoi&isGameUrlApiCalled=true&userId=he26e4607447epc",
-    "game_uid": 4837
+    "url": "/demo-player.html?game=5%20Lions%20Megaways&brand=Pragmatic%20Play&code=4824",
+    "game_uid": 4837,
+    "type": "interactive_slot"
   },
   "4825": {
     "pid": "4825",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Megaways",
     "code": "4837",
-    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImRhYTNmNGNiZDUzYTQyNDRhNGQ1NzJhZTNkNjQ2ZDU0Iiwic3ltYm9sIjoidnN3YXlzbGlvbnMiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=WwCRObf16AzwWlNWfFmhBe87IswlJRvQ4gr1kgEVDD2B1yM7EyCIcsLq3xRCF1ps&isGameUrlApiCalled=true&userId=he26e4473783epc",
-    "game_uid": 4837
+    "url": "/demo-player.html?game=5%20Lions%20Megaways&brand=Pragmatic%20Play&code=4837",
+    "game_uid": 4837,
+    "type": "interactive_slot"
   },
   "4904": {
     "pid": "4904",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Dance",
     "code": "4875",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImYzNTFjNTc4M2IyYjRkYjY4MzIyOWMxYjFiZTY4YzIzIiwic3ltYm9sIjoidnMxMDI0bGlvbnNkIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=kgouqrQaaFNpAcs5THao6KIdqM2akeNQPjPNjGQ3K5ULI7H69SFrmUYyaoyFvznx&isGameUrlApiCalled=true&userId=he26e466556epc",
-    "game_uid": 4875
+    "url": "/demo-player.html?game=5%20Lions%20Dance&brand=Pragmatic%20Play&code=4875",
+    "game_uid": 4875,
+    "type": "interactive_slot"
   },
   "5001": {
     "pid": "5001",
     "brand": "pragmaticplay-eu",
     "name": "Aladdin and the Sorcerer",
     "code": "4911",
-    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjE2NDEwOWVmYTMyYTQ2NGE4Y2ExN2UzNDE2MDc4MjgxIiwic3ltYm9sIjoidnMyMGFsYWRkaW5zb3JjIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=m8xhqpdWHxBscG5nhQW51NIkffrIzohk2V96cNoRwgJVDKyh08V4xN2XmOvMkJrC&isGameUrlApiCalled=true&userId=he26e4376331epc",
-    "game_uid": 4911
+    "url": "/demo-player.html?game=Aladdin%20and%20the%20Sorcerer&brand=Pragmatic%20Play&code=4911",
+    "game_uid": 4911,
+    "type": "interactive_slot"
   },
   "5031": {
     "pid": "5031",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions Gold",
     "code": "4924",
-    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6IjlmMGI2NDg1YWZjMDRlNzNhMjRhOGYxOGU4NjVlMTI4Iiwic3ltYm9sIjoidnMyNDNsaW9uc2dvbGQiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=irQSL7gh14TQujJ1EjNSciQmdJH5R2WYO5HOfgvrjZT0619itN9U2UdwDgPVanju&isGameUrlApiCalled=true&userId=he26e4154560epc",
-    "game_uid": 4924
+    "url": "/demo-player.html?game=5%20Lions%20Gold&brand=Pragmatic%20Play&code=4924",
+    "game_uid": 4924,
+    "type": "interactive_slot"
   },
   "5067": {
     "pid": "5067",
     "brand": "pragmaticplay-eu",
     "name": "Ancient Egypt Classic",
     "code": "4937",
-    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImFmN2RkOGQ4OTc2ZDQ4ZTZhMzg2NzA0N2YxZjY4YjQ2Iiwic3ltYm9sIjoidnMxMGVneXB0Y2xzIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=JMLw5S4j3TYZR7JoredQaOoH0LQDQA8EvnOXnk3E5a3T56X9MMovx9e1pAqmcaUh&isGameUrlApiCalled=true&userId=he26e4346806epc",
-    "game_uid": 4937
+    "url": "/demo-player.html?game=Ancient%20Egypt%20Classic&brand=Pragmatic%20Play&code=4937",
+    "game_uid": 4937,
+    "type": "interactive_slot"
   },
   "5068": {
     "pid": "5068",
     "brand": "pragmaticplay-eu",
     "name": "Ancient Egypt Classic",
     "code": "5068",
-    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjE3YjE0NTFiNzE4ODQ0NmRhOWFjN2Y3MTY2Zjg4OWM5Iiwic3ltYm9sIjoidnMxMGVneXB0Y2xzIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=AtqrN6yOIf4XyU8rKBmlv3nx58HavfmARlyCyhV1r6yvvl5dTDE6Mh4q6ajE9T9e&isGameUrlApiCalled=true&userId=he26e4747281epc",
-    "game_uid": 4937
+    "url": "/demo-player.html?game=Ancient%20Egypt%20Classic&brand=Pragmatic%20Play&code=5068",
+    "game_uid": 4937,
+    "type": "interactive_slot"
   },
   "5090": {
     "pid": "5090",
     "brand": "pragmaticplay-eu",
     "name": "5 Lions",
     "code": "4946",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImUzMmNhY2E1MTQ0MDQ0MThiM2RmMzc0YTE2MmE0NGFjIiwic3ltYm9sIjoidnMyNDNsaW9ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=aQ7NTjXdxAc2SdkcT7Vyko487WiltELB8JXAbap8e9USo4EjxleJds1F3Ig4t7IF&isGameUrlApiCalled=true&userId=he26e4939651epc",
-    "game_uid": 4946
+    "url": "/demo-player.html?game=5%20Lions&brand=Pragmatic%20Play&code=4946",
+    "game_uid": 4946,
+    "type": "interactive_slot"
   },
   "5108": {
     "pid": "5108",
     "brand": "pragmaticplay-eu",
     "name": "Ancient Egypt",
     "code": "4954",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImY3NTFiYzc2NzYyOTRmNzA4MTllOTQ3NTE1YmQyMjY5Iiwic3ltYm9sIjoidnMxMGVneXB0IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=eI11aIIEtxq2lXEQnT16qFiIlKPbKW66y1r6AAcl1QEHcNuzYn2zjJhEN8eAvcPl&isGameUrlApiCalled=true&userId=he26e4504814epc",
-    "game_uid": 4954
+    "url": "/demo-player.html?game=Ancient%20Egypt&brand=Pragmatic%20Play&code=4954",
+    "game_uid": 4954,
+    "type": "interactive_slot"
   },
   "5111": {
     "pid": "5111",
     "brand": "pragmaticplay-eu",
     "name": "American Blackjack",
     "code": "4955",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImQ2NmM3NTdiNzFkNzRhNWRiZmY3MGUxNGY1MmNjNWE4Iiwic3ltYm9sIjoiYmptYiIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=zvN9WVGKvbMNzgHnrcdHHZXwAhQWQyZ8oWqXmMNRCW47JztSdaznvheUhf6aRTud&isGameUrlApiCalled=true&userId=he26e4395101epc",
-    "game_uid": 4955
+    "url": "/demo-player.html?game=American%20Blackjack&brand=Pragmatic%20Play&code=4955",
+    "game_uid": 4955,
+    "type": "interactive_slot"
   },
   "5122": {
     "pid": "5122",
     "brand": "pragmaticplay-eu",
     "name": "7 Piggies",
     "code": "4961",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImM5MzNmYWI4MTYzYjQ0ODBiNGFiZDc3YjhiZWI4ZWFmIiwic3ltYm9sIjoidnM3cGlncyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=cVD11AxMdj1yG1BRqMIWQrneKxB11L0eq2vfFCF6Tty5pJxbNn7jXzs1woP2ZTL1&isGameUrlApiCalled=true&userId=he26e4773120epc",
-    "game_uid": 4961
+    "url": "/demo-player.html?game=7%20Piggies&brand=Pragmatic%20Play&code=4961",
+    "game_uid": 4961,
+    "type": "interactive_slot"
   },
   "5135": {
     "pid": "5135",
     "brand": "pragmaticplay-eu",
     "name": "888 Dragons",
     "code": "4967",
-    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImI1YWJlYTk4OWJlNDRlNDY4OTNhMDAxNDY2MzA4NTU0Iiwic3ltYm9sIjoidnMxZHJhZ29uOCIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=lCTD5bKdnopCJGgmfM1LvffhU9UW7y7bkacBtVjz9nknJe2DxexcnaIpviq4gNhg&isGameUrlApiCalled=true&userId=he26e4999398epc",
-    "game_uid": 4967
+    "url": "/demo-player.html?game=888%20Dragons&brand=Pragmatic%20Play&code=4967",
+    "game_uid": 4967,
+    "type": "interactive_slot"
   },
   "5136": {
     "pid": "5136",
     "brand": "pragmaticplay-eu",
     "name": "888 Dragons",
     "code": "4967",
-    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImJhY2YxNjEwM2ZkZDQzZDNiOGEzNWE2MjNkNzJkMGQ4Iiwic3ltYm9sIjoidnMxZHJhZ29uOCIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=AcrtyqW1x2FVF18FN2nxwmp1qXuKYFig1LQqq3aUEAj9ihgwXsp1IYDIs8SRHoIQ&isGameUrlApiCalled=true&userId=he26e4266954epc",
-    "game_uid": 4967
+    "url": "/demo-player.html?game=888%20Dragons&brand=Pragmatic%20Play&code=4967",
+    "game_uid": 4967,
+    "type": "interactive_slot"
   },
   "5143": {
     "pid": "5143",
     "brand": "pragmaticplay-eu",
     "name": "8 Dragons",
     "code": "4969",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImMzMDM2MDdjMDBiMjRiMjFiNmI1YjU2NGI0NmE5NmQwIiwic3ltYm9sIjoidnMyMGVpZ2h0ZHJhZ29ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=CoDIm3DfmznA8lXyU0xFFxfqFDNOEsT7DlBGTHG4I6MlT192Ml1FdcXi6txS9TS2&isGameUrlApiCalled=true&userId=he26e4159943epc",
-    "game_uid": 4969
+    "url": "/demo-player.html?game=8%20Dragons&brand=Pragmatic%20Play&code=4969",
+    "game_uid": 4969,
+    "type": "interactive_slot"
   },
   "5144": {
     "pid": "5144",
     "brand": "pragmaticplay-eu",
     "name": "8 Dragons",
     "code": "5144",
-    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijc3MDYwMzg3MDM0ODQ2ZDk4MzkyNzEyZDA5NzM5NmVhIiwic3ltYm9sIjoidnMyMGVpZ2h0ZHJhZ29ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=bl4RRvyrQ1bwk54rWADUVyhmCSXhQn2ijouUsMr3phV8fmdPDvxSR1hrYLMU0zjr&isGameUrlApiCalled=true&userId=he26e490168epc",
-    "game_uid": 4969
+    "url": "/demo-player.html?game=8%20Dragons&brand=Pragmatic%20Play&code=5144",
+    "game_uid": 4969,
+    "type": "interactive_slot"
   },
   "5147": {
     "pid": "5147",
     "brand": "pragmaticplay-eu",
     "name": "3 Kingdoms &#8211; Battle of Red Cliffs",
     "code": "4970",
-    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjJkOTE4NWZmMTlhYzQyMTNhYTFjNTBjYWFiYzJjOGMwIiwic3ltYm9sIjoidnMyNWtpbmdkb21zIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=mMDIbscxoqdBKmsMrNtjmBHmYtiFunN4puN8YruesnhJjuI5ZYL6QFShuSvVodUK&isGameUrlApiCalled=true&userId=he26e4396812epc",
-    "game_uid": 4970
+    "url": "/demo-player.html?game=3%20Kingdoms%20%26%238211%3B%20Battle%20of%20Red%20Cliffs&brand=Pragmatic%20Play&code=4970",
+    "game_uid": 4970,
+    "type": "interactive_slot"
   },
   "5161": {
     "pid": "5161",
     "brand": "pragmaticplay-eu",
     "name": "3 Genie Wishes",
     "code": "4977",
-    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImI0YjgwZWE5NWNiNDRmYjc4NWEyODlkMDYzODA5NjRjIiwic3ltYm9sIjoidnM1MGFsYWRkaW4iLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=TeUxfQbXRnT8x8CNCahT4NF4tSWFMfZN0Gmj7VTsQ1TlyYG2GCCpWaSvoN9d2Ksc&isGameUrlApiCalled=true&userId=he26e418785epc",
-    "game_uid": 4977
+    "url": "/demo-player.html?game=3%20Genie%20Wishes&brand=Pragmatic%20Play&code=4977",
+    "game_uid": 4977,
+    "type": "interactive_slot"
   },
   "5192": {
     "pid": "5192",
     "brand": "pragmaticplay-eu",
     "name": "7 Monkeys",
     "code": "5192",
-    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNjNWQwMmNlMDI2ODQwOGJiMmIxYjVjYzE1NWE0Njc1Iiwic3ltYm9sIjoidnM3bW9ua2V5cyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sOBGebybbKFK5B1MSgXdo5SKC5v5StC9fSiCVTlIzVHxvTcNB29I6QQ7cJfyhtqo&isGameUrlApiCalled=true&userId=he26e4832312epc",
-    "game_uid": 4987
+    "url": "/demo-player.html?game=7%20Monkeys&brand=Pragmatic%20Play&code=5192",
+    "game_uid": 4987,
+    "type": "interactive_slot"
   },
   "5193": {
     "pid": "5193",
     "brand": "pragmaticplay-eu",
     "name": "7 Monkeys",
     "code": "4987",
-    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjVkMGRjNTJhMWY1NTRiYzNhYTJlNjJiOTIzYmMzN2JlIiwic3ltYm9sIjoidnM3bW9ua2V5cyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=MaCca9YK7jQeOZMzJV5PBZOWKJtkyjV64CdPyYw3iBaei6sXKhIgU23Ar861FVIi&isGameUrlApiCalled=true&userId=he26e4372624epc",
-    "game_uid": 4987
+    "url": "/demo-player.html?game=7%20Monkeys&brand=Pragmatic%20Play&code=4987",
+    "game_uid": 4987,
+    "type": "interactive_slot"
   },
   "5202": {
     "pid": "5202",
     "brand": "pragmaticplay-eu",
     "name": "3 Dancing Monkeys",
     "code": "4990",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijk2ZDFhM2RlNTMyYTQwMTM4MDI2Zjk5MjBiMjM0OWZiIiwic3ltYm9sIjoidnN3YXlzbW9ua2V5IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=LkxwyyXJv6SSI5hLtDI6uUpsosAbUU1FB1NDVUIgn69PcmHnus4kcZEKiqEuqpG0&isGameUrlApiCalled=true&userId=he26e485324epc",
-    "game_uid": 4990
+    "url": "/demo-player.html?game=3%20Dancing%20Monkeys&brand=Pragmatic%20Play&code=4990",
+    "game_uid": 4990,
+    "type": "interactive_slot"
   },
   "5281": {
     "pid": "5281",
     "brand": "pragmaticplay-eu",
     "name": "Alien Invaders",
     "code": "5016",
-    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjMwOGUwNzVjMWI3NTRmZGVhZTliZjE5ZGE2ODRhZjhjIiwic3ltYm9sIjoidnMyMGFsaWVuaW52IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sv2yauNg74CfAfCSY34PXn5P4r1xAQRAGA7rRe5JDQbnnTr7uFJqxJL2Yz9tlJiT&isGameUrlApiCalled=true&userId=he26e4501337epc",
-    "game_uid": 5016
+    "url": "/demo-player.html?game=Alien%20Invaders&brand=Pragmatic%20Play&code=5016",
+    "game_uid": 5016,
+    "type": "interactive_slot"
   },
   "6858": {
     "pid": "6858",
@@ -1092,440 +1152,495 @@
     "brand": "evolution-live",
     "name": "Blackjack VIP 12",
     "code": "6265",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9UFRORnl3a0dZWXFSU3pzdTY5Q2FidXdveXZ3cHJpSWhCTkdZb1Q1UTdHRE8xYVpWaHF3bTVwT1lnMHg3VDVGRzczM2V5QTNONVBwbXhWT1JjaWJBQ2cKc2l0ZT0xCnRhYmxlX2lkPXBkazV6bzdjZXk2dXB4bG0KdWFfbGF1bmNoX2lkPTE4ZTU3NGJmYmYzZjBjMWY2NTU3N2Y1OAp2dF9pZD10ZGZrdWRmMmNyNWFlN3VrCg&JSESSIONID=ugynstkbtpoqeb7fugynstmnafcp7euc210d4510",
-    "game_uid": 6265
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6265,
+    "type": "live_table"
   },
   "6988": {
     "pid": "6988",
     "brand": "evolution-live",
     "name": "Auto-Roulette VIP",
     "code": "6316",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1yb3VsZXR0ZQpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1idFNjRXpSejNCdTlzTVZPMkt2N1oxejVXN3A4SE5yMW1pOGNmSkItUC0zRE5UOGNRLUdBaVB6NnlZOGhhekRCMkVMRVVSWEkzdy1qOXdqODNsdG16QQpzaXRlPTEKdGFibGVfaWQ9MDFyYjc3Y3ExZ3Rlbmhtbwp1YV9sYXVuY2hfaWQ9MThlNTc0YzAwYzc3YjU5N2VkZDE4YjliCnZ0X2lkPXRkZmt1ZGZnY3I1YWU3dG0K&JSESSIONID=ugynsurus5daeb7zugynsut6scfjhidn5d15f87f",
-    "game_uid": 6316
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6316,
+    "type": "live_table"
   },
   "6996": {
     "pid": "6996",
     "brand": "evolution-live",
     "name": "American Roulette",
     "code": "6320",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1hbWVyaWNhbnJvdWxldHRlCmp3c2g9ZXlKcmFXUWlPaUl4TnpNNU5EUTROREF4TnprMUlpd2lZV3huSWpvaVJWTXlOVFlpZlEKcGxheV9tb2RlPXJlYWxfbW9uZXkKc2lnbmF0dXJlPXh0c2U1MkpRaUtJSG93VnJQeFhpeVYwZktQdHY3bkpwWmNuRnIwMVJqcGdvaEZHTTRvNjdfNGxKQ3kteWt5MjVxMWRFd3pfcjlSRjE5NzRpUGlUeWVRCnNpdGU9MQp0YWJsZV9pZD1BbWVyaWNhblRhYmxlMDAxCnVhX2xhdW5jaF9pZD0xOGU1NzRjMDYxMjFlYmVmZDU1MWFlY2IKdnRfaWQ9dGRma3VkZG1jcjVhZTd0aAo&JSESSIONID=ugynsv6b67hqd2s7ugynsv74afcp7fsr1225eaa5",
-    "game_uid": 6320
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6320,
+    "type": "live_table"
   },
   "7002": {
     "pid": "7002",
     "brand": "evolution-live",
     "name": "Auto-Roulette",
     "code": "6323",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1yb3VsZXR0ZQpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1xTVgyektvQnZlMzRfbFQzWE8tTW9Id0VRX3QyczZtR2EyNVRZMEhpd3JZdmtDZG9oOExJQWVTcWMxX1pkTW5TYVAwellETUpMZzc0Wm4yaHNRV0NNUQpzaXRlPTEKdGFibGVfaWQ9NDh6NXBqcHMzbnR2cWMxYgp1YV9sYXVuY2hfaWQ9MThlNTc0YzBhNzNjZWZiZmJkMGNjZTQzCnZ0X2lkPXRkZmt1ZGRsY3I1YWU3czUK&JSESSIONID=ugynsxc6cohadm3tugynsxeqidlxkhosb7ba26be",
-    "game_uid": 6323
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6323,
+    "type": "live_table"
   },
   "7030": {
     "pid": "7030",
     "brand": "evolution-live",
     "name": "Blackjack Diamond VIP",
     "code": "6340",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9WU80a0FPRzJKZVRKSjRsQTBrT0ltVVVaVWdkaXRSWlZrYXFlYU1mM3JOUjUtLUktNW1YaGZSeWNBeXNOcVA1dFRlU0g3NndHcWdBQkM0V2ZhQi1lT3cKc2l0ZT0xCnRhYmxlX2lkPXJkZWZjbjRzZmZnbzM5bDcKdWFfbGF1bmNoX2lkPTE4ZTU3NGMxMDU3N2Q1Mjg5MzQyZGRmNQp2dF9pZD10ZGZrdWRncGNyNWFlN3ZnCg&JSESSIONID=ugynsywgcpeadlvnugynsyyacgqlyjonb88ea14d",
-    "game_uid": 6340
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6340,
+    "type": "live_table"
   },
   "7032": {
     "pid": "7032",
     "brand": "evolution-live",
     "name": "Blackjack Fortune VIP",
     "code": "6341",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9OU9kSFZGZjhPMk1iTzhXaGRWcnk1N2pYVHY1NDBkSDJDWnpZZnU0bGhlWEFlSkRkRms2SldNX2M1cW9BOHdkeWNoS0hWNnMxUjQwZVk5Y0lab2hnNHcKc2l0ZT0xCnRhYmxlX2lkPWVqeDFhMDR3NGJlbjBtb3UKdWFfbGF1bmNoX2lkPTE4ZTU3NGMxNzU1ODk0Y2E3YjRjZDYzNgp2dF9pZD10ZGZrdWRnb2NyNWFlN3ZhCg&JSESSIONID=ugyns2o7xhwadnlnugyns2qtcgqlykbg4680e66e",
-    "game_uid": 6341
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6341,
+    "type": "live_table"
   },
   "7034": {
     "pid": "7034",
     "brand": "evolution-live",
     "name": "Blackjack Grand VIP",
     "code": "6342",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9c2ZZeGpPT20yYUdYOHNXV2RYekpXQ2Jrb203N0JlbFNXVTROV1YwNHNVaVNWMTY1Y0dwYlEtNnpwaEF0WE1JQlBWcFQxamdVdGVTTXR1ZjlCVEtZTXcKc2l0ZT0xCnRhYmxlX2lkPWdmenJxZTRocXYyNGt1a2MKdWFfbGF1bmNoX2lkPTE4ZTU3NGMxYjZlY2IwNTIzZmQxOTY4Ygp2dF9pZD10ZGZrdWRnMmNyNWFlN3ZoCg&JSESSIONID=ugyns3sgcohadm32ugyns3uc62xmzlau98e770ab",
-    "game_uid": 6342
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6342,
+    "type": "live_table"
   },
   "7036": {
     "pid": "7036",
     "brand": "evolution-live",
     "name": "Blackjack Platinum VIP",
     "code": "6343",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9eDhjeEYyTFlMS0NEamUzWVdsSl9vZkJFVm5SYXZ6NEZ1cmpZX0IxVUtyOHJIeDI5MFlmTkZCRHVsSjk3Y3c4TGFBQXJNZ3kyMnVEYkpnY0E5WFBIcGcKc2l0ZT0xCnRhYmxlX2lkPWg0NjN0bHExcmhsMWxmcjIKdWFfbGF1bmNoX2lkPTE4ZTU3NGMxZmQxZWFkYjdhODVhZjNkMgp2dF9pZD10ZGZrdWRnb2NyNWFlN3ZjCg&JSESSIONID=ugyns4wzs5daecajugyns4y4afcp7iap2f60aaf9",
-    "game_uid": 6343
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6343,
+    "type": "live_table"
   },
   "7066": {
     "pid": "7066",
     "brand": "evolution-live",
     "name": "Blackjack VIP 11",
     "code": "6360",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9M2ZBN0JDT0xVaThYam1wNkE0OEdpMUpsaHFoLXZWZXBKb2d5SVUtbktmNEdVcFRQSFM2R2dzVXo4WGV2em1IZ0NSbWVRcjg3TnhyOEllQmVod2wyMlEKc2l0ZT0xCnRhYmxlX2lkPXBkazV5enlmamtnZXBvbWwKdWFfbGF1bmNoX2lkPTE4ZTU3NGMyNDIyNzA4ZWNiNDMzZTZhYgp2dF9pZD10ZGZrdWRmemNyNWFlN3VqCg&JSESSIONID=ugyns525hpcad3g2ugyns547idlxkjpcc5d9cb19",
-    "game_uid": 6360
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6360,
+    "type": "live_table"
   },
   "7068": {
     "pid": "7068",
     "brand": "evolution-live",
     "name": "Blackjack VIP 10",
     "code": "6361",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9NE5LMy1iNkhvdDJSNTNQSVdueDBFakFlSVdzQS1QS2QzdEw4VzNnaDdHZWNISUgxMU5acms3bjRQTVZJZk1YSkY5VjF5cnliZlA2cm5CYjRIZGFHZUEKc2l0ZT0xCnRhYmxlX2lkPXBkazV5ZXhjejRpZXBlbHEKdWFfbGF1bmNoX2lkPTE4ZTU3NGMyOGQxMGE4MjRiZWU2ZGE5MAp2dF9pZD10ZGZrdWRmM2NyNWFlN3VxCg&JSESSIONID=ugyns7bq6ndqdxfkugyns7djafcp7i354505fa32",
-    "game_uid": 6361
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6361,
+    "type": "live_table"
   },
   "7088": {
     "pid": "7088",
     "brand": "evolution-live",
     "name": "Blackjack VIP 1",
     "code": "6372",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9WHFMdFp3YzN5X1JjMUQ4VzhERU5pZERoQW84VlJrdzBRZ0puYkFGSzhmM1dvbktpUm1YWFNfaVpSdldWVGI5aG00TUhVd3p2N1lPbE9yUnREZk5MMUEKc2l0ZT0xCnRhYmxlX2lkPW83MzQ3b2t3YWVhc3Z5MnkKdWFfbGF1bmNoX2lkPTE4ZTU3NGMyZDM5NTNiM2U3NmYyNzFiYQp2dF9pZD10ZGZrdWRmNWNyNWFlN3V5Cg&JSESSIONID=ugyntagzxomqdtkwugyntaincgqlyl6j6f61d051",
-    "game_uid": 6372
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6372,
+    "type": "live_table"
   },
   "7120": {
     "pid": "7120",
     "brand": "evolution-live",
     "name": "Blackjack Silver F",
     "code": "6392",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9UDVSNG56SjN1aUhBb2daRnR1dk1tN09xd0N6R0NLOEhIWUk3RVlNSlRTNHM1RXVXTk1Ta3JqUW5lNWhsTTJwd1g3T1VYUmltamJvN3dsSUF0M3lVb1EKc2l0ZT0xCnRhYmxlX2lkPWxub2ZveXh2NzU2cWFlenkKdWFfbGF1bmNoX2lkPTE4ZTU3NGMzMjk3N2I4ZGEzMmViMGYyMgp2dF9pZD10ZGZrdWRnNGNyNWFlN3ZzCg&JSESSIONID=ugyntbt3xomqdtkzugyntbvkafcp7jzg34f2c589",
-    "game_uid": 6392
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6392,
+    "type": "live_table"
   },
   "7122": {
     "pid": "7122",
     "brand": "evolution-live",
     "name": "Blackjack Silver E",
     "code": "6393",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9WXJyZ2dfQUZHcHR3ak9jSllaTlYxSXlKVDZKZmNPMnBQN2dHZXV0Q2xfUzBNSE9TRFFoRUtyMERIZVE1eENFZjF0YVQ3WmZ5eWpaajY1MXUxRjNPSUEKc2l0ZT0xCnRhYmxlX2lkPWdhemd0a2lkOWgxYjBkbjkKdWFfbGF1bmNoX2lkPTE4ZTU3NGMzNzIxMGVkYmQ0YzQ2YWQyNAp2dF9pZD10ZGZrdWRnNGNyNWFlN3Z3Cg&JSESSIONID=ugyntc2n6ndqdxfrugyntc4lafcp7kixe8aa5c45",
-    "game_uid": 6393
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6393,
+    "type": "live_table"
   },
   "7126": {
     "pid": "7126",
     "brand": "evolution-live",
     "name": "Blackjack Silver G",
     "code": "6395",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9NmtBU1JkTWxfYzZ2WVppNzR3NVktV05UemxteEt1Z1NSUTE1M0lQdktmajFwbTNoSDJGUjlrNVZCZlI3ZUpWRFpCY2l0bmJqUDdMbE5pZXp5WjlBMmcKc2l0ZT0xCnRhYmxlX2lkPWxub2ZwbW0zNzU2cWFlMmMKdWFfbGF1bmNoX2lkPTE4ZTU3NGMzY2NkY2VlMjVlZWYzNzY4YQp2dF9pZD10ZGZrdWRnNGNyNWFlN3Z4Cg&JSESSIONID=ugyntejts5daeca2ugyntelg62xmzobibcb058fd",
-    "game_uid": 6395
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6395,
+    "type": "live_table"
   },
   "7130": {
     "pid": "7130",
     "brand": "evolution-live",
     "name": "Blackjack Silver D",
     "code": "6397",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9OEdIMjBkNlZJLTZ4Z1FjZnpBbHAtcWFPMlg2SEg4MFdYWE1uemRaS2xvOHRUdUNMY1JjUWxnb2xGcnd3bDRPSWtxeUQzbFhWbUNYVGhIMTBZaV9JbVEKc2l0ZT0xCnRhYmxlX2lkPXFja3dqZjJvNTJyOWlrZWIKdWFfbGF1bmNoX2lkPTE4ZTU3NGM0MTE5OWZhMjU2Mzk4Njk3Zgp2dF9pZD10ZGZrdWRnNWNyNWFlN3Y0Cg&JSESSIONID=ugyntfnh4ncad2njugyntfowscfjhnm5f04f9463",
-    "game_uid": 6397
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6397,
+    "type": "live_table"
   },
   "7132": {
     "pid": "7132",
     "brand": "evolution-live",
     "name": "Blackjack Silver B",
     "code": "6398",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9X2hzWEFweHNPeGR2QnpYT0dtRFBYSEVwMTMwY1c3V3hPVGZoQXlVYjU1WUMxeWk0NUk0VndJU3lMbks0SV9Ua3hRcDBxMWFHOGRQdkNTQWM2dDE0eEEKc2l0ZT0xCnRhYmxlX2lkPTlmNHhodWhkZDAwNXhsYmwKdWFfbGF1bmNoX2lkPTE4ZTU3NGM0NzM3ZmE0YzU3NGU3MTEwMgp2dF9pZD10ZGZrdWRnNGNyNWFlN3Z5Cg&JSESSIONID=ugyntha7hpcad3hgugynthc4afcp7l5kcd349702",
-    "game_uid": 6398
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6398,
+    "type": "live_table"
   },
   "7134": {
     "pid": "7134",
     "brand": "evolution-live",
     "name": "Blackjack Silver C",
     "code": "6399",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9OXJESDl6Y0xQWWZNWFFhSExCTXRYc0tjd2tycEtwQkctUzgtLUgwbndhaVBreEJmRFF0d1U2bXRFQkVxVG9mSXJLNXZsR2F3VVFVekNrM2ZxYjFtdlEKc2l0ZT0xCnRhYmxlX2lkPXFscmMzZnEzdjdwNmF3bTQKdWFfbGF1bmNoX2lkPTE4ZTU3NGM0YmE3Mjc3Y2U4ODQ2YWM0Ywp2dF9pZD10ZGZrdWRnNGNyNWFlN3Z0Cg&JSESSIONID=ugyntif2xhwadnmcugyntiin62xmzpoi473ab8b5",
-    "game_uid": 6399
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6399,
+    "type": "live_table"
   },
   "7136": {
     "pid": "7136",
     "brand": "evolution-live",
     "name": "Blackjack Silver A",
     "code": "6400",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9SHl4OWQzTWtJUm5aMm5KbHlQWDlPRzQ5QUV1YV81QlA1eUs5Rkp1NXN5QVpLRldGUWFidU11ZlRIbjNFNlJobmE4bG5OZ3dCOThDOEFGcUVIR09aLXcKc2l0ZT0xCnRhYmxlX2lkPWdrbXEwbzJocnlqeXF1MzAKdWFfbGF1bmNoX2lkPTE4ZTU3NGM1MDE3Y2MxYWY5MjFhZDhjYgp2dF9pZD10ZGZrdWRnNGNyNWFlN3YzCg&JSESSIONID=ugyntjlp67hqd2t4ugyntjnkidlxknbq76c95cb6",
-    "game_uid": 6400
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6400,
+    "type": "live_table"
   },
   "7162": {
     "pid": "7162",
     "brand": "evolution-live",
     "name": "Blackjack Party",
     "code": "6419",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9YmlhLUthVFJjTkdXeHV5V1dncEZRUFpETHRsMkREa0ZHYmo5Z2Vka1U3SGN4Mm1WeEF3QTBmenl3NzN5OW1nRGwzV1RfQUNqVV8zdml1cmhJamQySVEKc2l0ZT0xCnRhYmxlX2lkPXNuaTVjemE2ZDF2dmw1MGkKdWFfbGF1bmNoX2lkPTE4ZTU3NGM1NTg0YjY3YWU4NGU3MDYxNAp2dF9pZD10ZGZrdWRoeGNyNWFlN3czCg&JSESSIONID=ugyntkyb4ncad2nyugyntkzvscfjhpe49fdfd549",
-    "game_uid": 6419
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6419,
+    "type": "live_table"
   },
   "7164": {
     "pid": "7164",
     "brand": "evolution-live",
     "name": "Blackjack B",
     "code": "6420",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9Vi1JZGZfSHZqbXpZcTZHQ3VmcUk5TjVZN2RWMDFnRGtlWlBhcHhfM2FsTURRUDJfVjk0NVZjbFVUOGJORUtjYVR5YVpxUjNoRHBDY1c3MUxKM0tfancKc2l0ZT0xCnRhYmxlX2lkPXhwaHBjdGh2OGU2aXZjMTYKdWFfbGF1bmNoX2lkPTE4ZTU3NGM1OWE3MTAwNTUxMzZkZDc4Ywp2dF9pZD10ZGZrdWRod2NyNWFlN3d5Cg&JSESSIONID=ugyntl3l7n2qdommugyntl5j62xmzqwqa15ba47d",
-    "game_uid": 6420
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6420,
+    "type": "live_table"
   },
   "7166": {
     "pid": "7166",
     "brand": "evolution-live",
     "name": "Blackjack C",
     "code": "6421",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9UHVjZGJscU5xZnZtUUxoZEFRNy1qQjMtbXNfR1NpMGJIdmhERzBXVUI5RDN5ZzNhUEpEODJzbmtOS1FYYVBVQnFEd3ZQYVd1ZDZNazZQenVVWDFNN3cKc2l0ZT0xCnRhYmxlX2lkPWpoczQ0bW0wdjNmaTNhdXgKdWFfbGF1bmNoX2lkPTE4ZTU3NGM1ZGQzZmVhNDE2ZTFlOWUwYQp2dF9pZD10ZGZrdWRodGNyNWFlN3d2Cg&JSESSIONID=ugyntm6ls5daecbgugyntnasidlxkofre4feb5e4",
-    "game_uid": 6421
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6421,
+    "type": "live_table"
   },
   "7168": {
     "pid": "7168",
     "brand": "evolution-live",
     "name": "Blackjack A",
     "code": "6423",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9SnpMUnVRWHVnSWMyTzlDSV9NZERmUF9YQ3VXXzFaTGJab29vR05wLW5nOHROOFc5SF9vWmMtVGlGcURMUFNYWUtWLXJ4Ry12cVRKT0hiRjRzN0lLV3cKc2l0ZT0xCnRhYmxlX2lkPXV3ZDJibDJraHdjaWtqbHoKdWFfbGF1bmNoX2lkPTE4ZTU3NGM2MjE0ZWM3ODE0MTAwMzYxNwp2dF9pZD10ZGZrdWRoeWNyNWFlN3c0Cg&JSESSIONID=ugyntocp4ncad2n6ugyntoedafcp7oto3cfdcbaa",
-    "game_uid": 6423
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6423,
+    "type": "live_table"
   },
   "7172": {
     "pid": "7172",
     "brand": "evolution-live",
     "name": "Baccarat Control Squeeze",
     "code": "6434",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1waTZnMVBSa3hqNDNHU21kYmxwR1RJTWRrYjJyR2tZUFF0VHdRRW1DU0tERmhIWVJ2eXRPTGJyMDlITV92MXl1NFktNFRCMFdjZ1N3WFVPXzBETjFwUQpzaXRlPTEKdGFibGVfaWQ9azJvc3duaWI3amphYXpudwp1YV9sYXVuY2hfaWQ9MThlNTc0YzY4MWZjODk4Y2M5OWNkYjkyCnZ0X2lkPXRkZmt1ZGgyY3I1YWU3eHEK&JSESSIONID=ugyntputkafaeaikugyntpw3afcp7pilce4541d1",
-    "game_uid": 6434
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6434,
+    "type": "live_table"
   },
   "7178": {
     "pid": "7178",
     "brand": "evolution-live",
     "name": "Baccarat B",
     "code": "6440",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1jTTYxcEY5cTlkVmtjX192YkF3dVotbl9COXdXRDhEdTdFRXJ2UlVIS1BmbWhWOXFGR2xlTUhuSS1OdWlGM2NPWE5xd0JTOUVjX2hmS3lxbkwtQXhudwpzaXRlPTEKdGFibGVfaWQ9NjBpMGxjZng1d2trdjNzeQp1YV9sYXVuY2hfaWQ9MThlNTc0YzZjNjcyMjZmNTMxZDU1OTMwCnZ0X2lkPXRkZmt1ZGlmY3I1YWU3eXoK&JSESSIONID=ugyntqyp4ncad2ofugyntq2jscfjhrce6484f5c4",
-    "game_uid": 6440
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6440,
+    "type": "live_table"
   },
   "7182": {
     "pid": "7182",
     "brand": "evolution-live",
     "name": "Baccarat A",
     "code": "6442",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1FVUxmTzdmM0d4TURvSmpic2syUUtjTG5ZUm5mRjB1UXhaR1RsTWtGeTd6YnFFNlJ1bzlCX21lSWpuTjdtSzdKcER5TGFHeGQxTHNvaml4WVFkTXE0UQpzaXRlPTEKdGFibGVfaWQ9b3l0bXZiOW0xenlzbWM0NAp1YV9sYXVuY2hfaWQ9MThlNTc0YzcwYjdmZmQzMzA3MGIxMDc1CnZ0X2lkPXRkZmt1ZGlnY3I1YWU3eTMK&JSESSIONID=ugyntr4t67hqd2uhugyntr6ccgqlyr7u460a5abb",
-    "game_uid": 6442
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6442,
+    "type": "live_table"
   },
   "7230": {
     "pid": "7230",
     "brand": "evolution-live",
     "name": "Bac Bo",
     "code": "6472",
-    "url": "https://na2fh6pu.ubyouortemhsu.link/entry?params=Y2FzaW5vX2lkPXN1YmhkdXJvd2dlbmVyaTEKZ2FtZT1iYWNibwpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1lUnRIUllpT09oY1F6bUFGRXJwQWR0SE03TlBBQm12WGdqa0h4U0hkRC0zbzZBT2VJZmM5bVFJSTJrekhvSjMwOEFXd1A1elI5TFplaWFacGpkS3JQdwpzaXRlPTEKdGFibGVfaWQ9QmFjQm8wMDAwMDAwMDAwMQp1YV9sYXVuY2hfaWQ9MThlNTc0Yzc1YmJhNTIxZmNjYzMwNTk3CnZ0X2lkPXRkZmt1ZGlnY3I1YWU3eTQK&JSESSIONID=ugynttgocohadm4xugyntth5cgqlysph01305cc9",
-    "game_uid": 6472
+    "url": "https://100hp.app/blackjack/hud/?b=28696a8dae2383826172d60dad5ba98279b2cf534077b52db51dd2300c0a07f116c91c5feeefa04564d8b2d089f683ef281760b0e81a0d53e2cb90f9e890c527ad26ad3812abc73aca5c25a8f745ffb855be3f1682c46ece6172db3bd30b4fba570e6bf5bee253b77303b1b2eaf742df8a69f4c40b68fbf427aeae27d7fcec169ec8b84f419225ddd3c16f9f26bc8947fa5185d467416c36876f27f8fd8aa81744ef1e5bd77ccd767e338b33585c54cc6e4bb4a3.d01f42beb153d0c88bdef2786c3dd2a0.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 6472,
+    "type": "live_table"
   },
   "8262": {
     "pid": "8262",
     "brand": "bgaming",
     "name": "3 Kings Scratch",
     "code": "1189",
-    "url": "https://bgaming-asia.com/games/ThreeKingsScratch/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM1ODF9LCJleHAiOjE4MDk2MDY3NDh9.YWY0wgvRMsepPH3NVBKjL2YJ9yeikCH2kdnZU1uaJrI",
-    "game_uid": 1189
+    "url": "/demo-player.html?game=3%20Kings%20Scratch&brand=BGaming&code=1189",
+    "game_uid": 1189,
+    "type": "interactive_slot"
   },
   "8264": {
     "pid": "8264",
     "brand": "bgaming",
     "name": "Alien Fruits",
     "code": "1293",
-    "url": "https://bgaming-asia.com/games/AlienFruits/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM1ODR9LCJleHAiOjE4MDk2MDY3NDl9.iFsqmPQc7Z_DqWOA6xRFxy6K90QrF7vAIM5wtd1V2U0",
-    "game_uid": 1293
+    "url": "/demo-player.html?game=Alien%20Fruits&brand=BGaming&code=1293",
+    "game_uid": 1293,
+    "type": "interactive_slot"
   },
   "8266": {
     "pid": "8266",
     "brand": "bgaming",
     "name": "Alien Fruits 2",
     "code": "1294",
-    "url": "https://bgaming-asia.com/games/AlienFruits2/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM1ODd9LCJleHAiOjE4MDk2MDY3NTB9.kKcRz3cHrR7_Z7xn6ivSJGeZAL0NdGqPchCvW0CjpKM",
-    "game_uid": 1294
+    "url": "/demo-player.html?game=Alien%20Fruits%202&brand=BGaming&code=1294",
+    "game_uid": 1294,
+    "type": "interactive_slot"
   },
   "8268": {
     "pid": "8268",
     "brand": "bgaming",
     "name": "All Lucky Clover",
     "code": "1303",
-    "url": "https://bgaming-asia.com/games/AllLuckyClover/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM1OTN9LCJleHAiOjE4MDk2MDY3NTB9.UOGhoZSw9Gj5GQ1fEf33XNYYYjU8fKhHlnj2KWVAekE",
-    "game_uid": 1303
+    "url": "/demo-player.html?game=All%20Lucky%20Clover&brand=BGaming&code=1303",
+    "game_uid": 1303,
+    "type": "interactive_slot"
   },
   "8270": {
     "pid": "8270",
     "brand": "bgaming",
     "name": "All Lucky Clover 100",
     "code": "1304",
-    "url": "https://bgaming-asia.com/games/AllLuckyClover100/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM1OTh9LCJleHAiOjE4MDk2MDY3NTJ9.eWf0w9MZHPFpWjQSY6ue9HpEdVZm3W7Akwj_34EadqA",
-    "game_uid": 1304
+    "url": "/demo-player.html?game=All%20Lucky%20Clover%20100&brand=BGaming&code=1304",
+    "game_uid": 1304,
+    "type": "interactive_slot"
   },
   "8272": {
     "pid": "8272",
     "brand": "bgaming",
     "name": "All Lucky Clover 40",
     "code": "1305",
-    "url": "https://bgaming-asia.com/games/AllLuckyClover40/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MDJ9LCJleHAiOjE4MDk2MDY3NTJ9.Qd7qsNgy0zAkmlX1sSikFJVe3nxhg_qVGYqKi4lO3VE",
-    "game_uid": 1305
+    "url": "/demo-player.html?game=All%20Lucky%20Clover%2040&brand=BGaming&code=1305",
+    "game_uid": 1305,
+    "type": "interactive_slot"
   },
   "8274": {
     "pid": "8274",
     "brand": "bgaming",
     "name": "All Lucky Clover 20",
     "code": "1306",
-    "url": "https://bgaming-asia.com/games/AllLuckyClover20/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MDd9LCJleHAiOjE4MDk2MDY3NTR9.R9Xz3xjAVG6T8HF2On2qz6W8asDthv_X53WPKqVIFP0",
-    "game_uid": 1306
+    "url": "/demo-player.html?game=All%20Lucky%20Clover%2020&brand=BGaming&code=1306",
+    "game_uid": 1306,
+    "type": "interactive_slot"
   },
   "8276": {
     "pid": "8276",
     "brand": "bgaming",
     "name": "All Lucky Clover 5",
     "code": "1307",
-    "url": "https://bgaming-asia.com/games/AllLuckyClover5/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MTN9LCJleHAiOjE4MDk2MDY3NTV9.09OwqbOva5fWD3ygJJWMNYkhxSL7g1XatsZ_WcTVBYY",
-    "game_uid": 1307
+    "url": "/demo-player.html?game=All%20Lucky%20Clover%205&brand=BGaming&code=1307",
+    "game_uid": 1307,
+    "type": "interactive_slot"
   },
   "8278": {
     "pid": "8278",
     "brand": "bgaming",
     "name": "Aloha King Elvis",
     "code": "1312",
-    "url": "https://bgaming-asia.com/games/AlohaKingElvis/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MTd9LCJleHAiOjE4MDk2MDY3NTZ9.qxH1s6JPGKyvXbVpdJfh_uOZbmiqdPjXeMsdLmI68DI",
-    "game_uid": 1312
+    "url": "/demo-player.html?game=Aloha%20King%20Elvis&brand=BGaming&code=1312",
+    "game_uid": 1312,
+    "type": "interactive_slot"
   },
   "8280": {
     "pid": "8280",
     "brand": "bgaming",
     "name": "American Roulette",
     "code": "1323",
-    "url": "https://bgaming-asia.com/games/AmericanRoulette/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MjB9LCJleHAiOjE4MDk2MDY3NTd9.uo5GYm9m1aYAQvgLYvSsnN0L8_A92f6A_99S_bxn33M",
-    "game_uid": 1323
+    "url": "/demo-player.html?game=American%20Roulette&brand=BGaming&code=1323",
+    "game_uid": 1323,
+    "type": "interactive_slot"
   },
   "8282": {
     "pid": "8282",
     "brand": "bgaming",
     "name": "Avalon: The Lost Kingdom",
     "code": "1370",
-    "url": "https://bgaming-asia.com/games/Avalon/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MjN9LCJleHAiOjE4MDk2MDY3NTh9.21xnc-bOah6D6U3xJT3-NtAjZGa6B3h0rAojUuSxwMk",
-    "game_uid": 1370
+    "url": "/demo-player.html?game=Avalon%3A%20The%20Lost%20Kingdom&brand=BGaming&code=1370",
+    "game_uid": 1370,
+    "type": "interactive_slot"
   },
   "8284": {
     "pid": "8284",
     "brand": "bgaming",
     "name": "Aviamasters",
     "code": "1374",
-    "url": "https://bgaming-asia.com/games/Aviamasters/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MjZ9LCJleHAiOjE4MDk2MDY3NTh9.sk1Q0EEEbVR9-5fryJRS-Xm0f7li18tJjYmfL_7_aEs",
-    "game_uid": 1374
+    "url": "/demo-player.html?game=Aviamasters&brand=BGaming&code=1374",
+    "game_uid": 1374,
+    "type": "interactive_slot"
   },
   "8286": {
     "pid": "8286",
     "brand": "bgaming",
     "name": "Aztec Clusters",
     "code": "1377",
-    "url": "https://bgaming-asia.com/games/AztecClusters/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MzB9LCJleHAiOjE4MDk2MDY3NTl9.Ea4FiEidRnFoG44XRzlJLW3iDqIa2OaSG9xQrVyWbLI",
-    "game_uid": 1377
+    "url": "/demo-player.html?game=Aztec%20Clusters&brand=BGaming&code=1377",
+    "game_uid": 1377,
+    "type": "interactive_slot"
   },
   "8290": {
     "pid": "8290",
     "brand": "bgaming",
     "name": "Aztec Magic Bonanza",
     "code": "1383",
-    "url": "https://bgaming-asia.com/games/AztecMagicBonanza/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2MzJ9LCJleHAiOjE4MDk2MDY3NjB9.WoaMD_ZAWJtUSG_lkJoZVshu9GvPevmrlRSxkmQtLmw",
-    "game_uid": 1383
+    "url": "/demo-player.html?game=Aztec%20Magic%20Bonanza&brand=BGaming&code=1383",
+    "game_uid": 1383,
+    "type": "interactive_slot"
   },
   "8292": {
     "pid": "8292",
     "brand": "bgaming",
     "name": "Aztec Magic Megaways",
     "code": "1384",
-    "url": "https://bgaming-asia.com/games/AztecMagicMegaways/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2Mzh9LCJleHAiOjE4MDk2MDY3NjF9.f6cpKidHZMpfEeEvnVc0eRhto6P_wMWyX3fa42BaS_s",
-    "game_uid": 1384
+    "url": "/demo-player.html?game=Aztec%20Magic%20Megaways&brand=BGaming&code=1384",
+    "game_uid": 1384,
+    "type": "interactive_slot"
   },
   "8294": {
     "pid": "8294",
     "brand": "bgaming",
     "name": "Aztec Magic Deluxe",
     "code": "1385",
-    "url": "https://bgaming-asia.com/games/AztecMagicDeluxe/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NDR9LCJleHAiOjE4MDk2MDY3NjJ9.yktLd_W3oS71HJyQKdsaDsG18_B8DSQ7ZRHk4S2P0Tk",
-    "game_uid": 1385
+    "url": "/demo-player.html?game=Aztec%20Magic%20Deluxe&brand=BGaming&code=1385",
+    "game_uid": 1385,
+    "type": "interactive_slot"
   },
   "8296": {
     "pid": "8296",
     "brand": "bgaming",
     "name": "Aztec&#8217;s Claw Wild Dice",
     "code": "1391",
-    "url": "https://aztecs-claw-wild-dice.bgaming-asia.com/hyperhive?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NDZ9LCJleHAiOjE4MDk2MDY3NjN9.W9svx59DlZGBIoDW8MiiTV58y_nBcGknte8QLpA8IqA",
-    "game_uid": 1391
+    "url": "/demo-player.html?game=Aztec%26%238217%3Bs%20Claw%20Wild%20Dice&brand=BGaming&code=1391",
+    "game_uid": 1391,
+    "type": "interactive_slot"
   },
   "8298": {
     "pid": "8298",
     "brand": "bgaming",
     "name": "Beast Band",
     "code": "1435",
-    "url": "https://bgaming-asia.com/games/BeastBand/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NDh9LCJleHAiOjE4MDk2MDY3NjR9.nt6B2JXxRDN6Oe4ETlqspuYN4uS2GbDOdKspaubH3Rw",
-    "game_uid": 1435
+    "url": "/demo-player.html?game=Beast%20Band&brand=BGaming&code=1435",
+    "game_uid": 1435,
+    "type": "interactive_slot"
   },
   "8300": {
     "pid": "8300",
     "brand": "bgaming",
     "name": "Beer Bonanza",
     "code": "1441",
-    "url": "https://bgaming-asia.com/games/BeerBonanza/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NDl9LCJleHAiOjE4MDk2MDY3NjV9.dlL4Mcxu0sy6CxaAV2qrexJ3vZs0cRudaWHH92znPrE",
-    "game_uid": 1441
+    "url": "/demo-player.html?game=Beer%20Bonanza&brand=BGaming&code=1441",
+    "game_uid": 1441,
+    "type": "interactive_slot"
   },
   "8302": {
     "pid": "8302",
     "brand": "bgaming",
     "name": "Big Atlantis Frenzy",
     "code": "1458",
-    "url": "https://bgaming-asia.com/games/BigAtlantisFrenzy/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NTZ9LCJleHAiOjE4MDk2MDY3NjV9.gq4bJ3n7XPaCpe5S2te-zQ6jz8VEn1WZxPJKs-hcElA",
-    "game_uid": 1458
+    "url": "/demo-player.html?game=Big%20Atlantis%20Frenzy&brand=BGaming&code=1458",
+    "game_uid": 1458,
+    "type": "interactive_slot"
   },
   "8624": {
     "pid": "8624",
     "brand": "bgaming",
     "name": "Balloon Mania",
     "code": "10308",
-    "url": "https://bgaming-asia.com/games/BalloonMania/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NjJ9LCJleHAiOjE4MDk2MDY3NjZ9.sD-Z1hZuidtZWOMHUIl-vdomxouukpLRFUBaYiJyU5s",
-    "game_uid": 10308
+    "url": "/demo-player.html?game=Balloon%20Mania&brand=BGaming&code=10308",
+    "game_uid": 10308,
+    "type": "interactive_slot"
   },
   "8625": {
     "pid": "8625",
     "brand": "bgaming",
     "name": "Balloon Mania",
     "code": "10308",
-    "url": "https://bgaming-asia.com/games/BalloonMania/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NjR9LCJleHAiOjE4MDk2MDY3Njd9.4LAZIh_exGOWPVlBqaBG-q5BsDPg6DIEcvHrSKK3FkU",
-    "game_uid": 10308
+    "url": "/demo-player.html?game=Balloon%20Mania&brand=BGaming&code=10308",
+    "game_uid": 10308,
+    "type": "interactive_slot"
   },
   "8638": {
     "pid": "8638",
     "brand": "bgaming",
     "name": "Arrow Slot",
     "code": "10314",
-    "url": "https://bgaming-asia.com/games/ArrowSlot/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2Njh9LCJleHAiOjE4MDk2MDY3Njh9.HvpwOPHB6fNj_M8eRezIFg35xzHSmQRoOQXAcbqTulM",
-    "game_uid": 10314
+    "url": "/demo-player.html?game=Arrow%20Slot&brand=BGaming&code=10314",
+    "game_uid": 10314,
+    "type": "interactive_slot"
   },
   "8648": {
     "pid": "8648",
     "brand": "bgaming",
     "name": "Alice WonderLuck",
     "code": "10319",
-    "url": "https://bgaming-asia.com/games/AliceWonderLuck/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2Njl9LCJleHAiOjE4MDk2MDY3Njl9.nFlfeekyNcfuDdCXkU4VAKm6Rz-NC-hP3Ih2uQxwt7M",
-    "game_uid": 10319
+    "url": "/demo-player.html?game=Alice%20WonderLuck&brand=BGaming&code=10319",
+    "game_uid": 10319,
+    "type": "interactive_slot"
   },
   "8654": {
     "pid": "8654",
     "brand": "bgaming",
     "name": "All-Star Fruits",
     "code": "10322",
-    "url": "https://bgaming-asia.com/games/AllStarFruits/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2NzJ9LCJleHAiOjE4MDk2MDY3NzB9.V_r1V_WE90do9Lkw8bjHp0dkb3uoTM8PwxTAoQU-oFM",
-    "game_uid": 10322
+    "url": "/demo-player.html?game=All-Star%20Fruits&brand=BGaming&code=10322",
+    "game_uid": 10322,
+    "type": "interactive_slot"
   },
   "8676": {
     "pid": "8676",
     "brand": "bgaming",
     "name": "Aviamasters X-mas",
     "code": "10333",
-    "url": "https://bgaming-asia.com/games/AviamastersXmas/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2Nzd9LCJleHAiOjE4MDk2MDY3NzB9.NTfLDa6m29vUJUOLxvIjuVCB6ekzBYFBguZrq2vAoNs",
-    "game_uid": 10333
+    "url": "/demo-player.html?game=Aviamasters%20X-mas&brand=BGaming&code=10333",
+    "game_uid": 10333,
+    "type": "interactive_slot"
   },
   "8677": {
     "pid": "8677",
     "brand": "bgaming",
     "name": "Aviamasters X-mas",
     "code": "10333",
-    "url": "https://bgaming-asia.com/games/AviamastersXmas/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2Nzl9LCJleHAiOjE4MDk2MDY3NzF9.3FRT2fJ6Up_qD-_7zbXCH3gBP6fOX1iu8Ld24nmDxPA",
-    "game_uid": 10333
+    "url": "/demo-player.html?game=Aviamasters%20X-mas&brand=BGaming&code=10333",
+    "game_uid": 10333,
+    "type": "interactive_slot"
   },
   "8724": {
     "pid": "8724",
     "brand": "bgaming",
     "name": "Always Up!",
     "code": "10356",
-    "url": "https://bgaming-asia.com/games/AlwaysUp/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2ODF9LCJleHAiOjE4MDk2MDY3NzJ9.NdNrirP6lDQMlsNWgOGWshIOhcMj-mIrI6PLqFF_8qc",
-    "game_uid": 10356
+    "url": "/demo-player.html?game=Always%20Up!&brand=BGaming&code=10356",
+    "game_uid": 10356,
+    "type": "interactive_slot"
   },
   "8770": {
     "pid": "8770",
     "brand": "bgaming",
     "name": "Adventures",
     "code": "10371",
-    "url": "https://bgaming-asia.com/games/Adventures/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQxMDM2ODN9LCJleHAiOjE4MDk2MDY3NzN9.v6E-7IHsBsGPGtEG9_UPc205MUk-i9OgupINLfGINdE",
-    "game_uid": 10371
+    "url": "/demo-player.html?game=Adventures&brand=BGaming&code=10371",
+    "game_uid": 10371,
+    "type": "interactive_slot"
   },
   "9810": {
     "pid": "9810",

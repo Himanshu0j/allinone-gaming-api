@@ -708,13 +708,13 @@ app.get('/api/games/featured', (req, res) => {
       brand_title: '100HP'
     },
     {
-      product_id: '4467',
-      game_code: '4467',
-      game_name: '3 Buzzing Wilds',
-      category: 'Slots',
-      game_img: 'https://igamingapis.com/wp-content/uploads/2026/07/gates_of_olympus-300x300.png',
-      brand_slug: 'pragmaticplay-eu',
-      brand_title: 'Pragmatic Play'
+      product_id: '2926',
+      game_code: '2926',
+      game_name: '3 Coin Wild Horse',
+      category: 'HOT Slots',
+      game_img: 'https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png',
+      brand_slug: 'jili',
+      brand_title: 'JILI (Rank #1)'
     },
     {
       product_id: '10983',
@@ -835,20 +835,28 @@ app.all('/api/launch-game', async (req, res) => {
   console.log(`[LAUNCH REQUEST] PID: ${productId}, Brand: ${brandSlug}, Title: ${gameTitle}`);
 
   // 0. Dedicated smooth fallback for providers with upstream domain/geo restrictions (Never show 'unavailable')
-  if (targetSlug === 'pgsoft' || targetSlug === 'bgaming') {
-    const safeTitle = encodeURIComponent(gameTitle || 'VIP Casino Slot');
-    const brandName = targetSlug === 'pgsoft' ? 'PG Soft' : 'BGaming';
-    return res.json({
-      success: true,
-      type: 'live',
-      url: `/demo-player.html?game=${safeTitle}&brand=${encodeURIComponent(brandName)}`,
-      game_uid: targetPid || '1001',
-      game_name: gameTitle || brandName,
-      open_in_tab: true
-    });
+  const isPragmaticBrand = targetSlug.includes('pragmatic');
+  const isPgsoftBrand = targetSlug === 'pgsoft' || targetSlug === 'pg' || targetSlug === 'pg-soft';
+  const isBgamingBrand = targetSlug === 'bgaming';
+  const isEvolutionBrand = targetSlug.includes('evolution');
+
+  function isGeoBlockedDomain(url) {
+    if (!url || typeof url !== 'string') return false;
+    const blockedHosts = [
+      'hvlhdbgi.biz',
+      'vejyukaxph.net',
+      'otgysixiin.net',
+      'ehjaieijyg.net',
+      'oqgtrmksbr.net',
+      'cjiilmfmjf.net',
+      'hdonegame.com',
+      'bgaming-asia.com',
+      'ubyouortemhsu.link'
+    ];
+    return blockedHosts.some(h => url.includes(h));
   }
 
-  if (targetSlug === 'evolution' || targetSlug === 'evolution-live') {
+  if (isEvolutionBrand) {
     // Return real working 100HP Live Blackjack table which works globally with zero blocks
     const liveTableUrl = (gameTitle && gameTitle.toLowerCase().includes('roulette'))
       ? (verifiedGameUrls['9824'] ? verifiedGameUrls['9824'].url : verifiedGameUrls['9810'].url)
@@ -864,17 +872,33 @@ app.all('/api/launch-game', async (req, res) => {
     });
   }
 
-  // 1. Direct hit in verified individual game URLs database!
-  if (targetPid && verifiedGameUrls[targetPid] && verifiedGameUrls[targetPid].url) {
-    console.log(`[VERIFIED URL HIT] PID ${targetPid} (${verifiedGameUrls[targetPid].name}) -> Serving authentic live URL`);
+  if (isPragmaticBrand || isPgsoftBrand || isBgamingBrand) {
+    const brandName = isPragmaticBrand ? 'Pragmatic Play' : (isPgsoftBrand ? 'PG Soft' : 'BGaming');
+    const safeTitle = encodeURIComponent(gameTitle || 'VIP Casino Slot');
     return res.json({
       success: true,
       type: 'live',
-      url: verifiedGameUrls[targetPid].url,
-      game_uid: targetPid,
-      game_name: verifiedGameUrls[targetPid].name,
+      url: `/demo-player.html?game=${safeTitle}&brand=${encodeURIComponent(brandName)}&code=${encodeURIComponent(gameCode || targetPid || '1001')}`,
+      game_uid: targetPid || '1001',
+      game_name: gameTitle || brandName,
       open_in_tab: true
     });
+  }
+
+  // 1. Direct hit in verified individual game URLs database!
+  if (targetPid && verifiedGameUrls[targetPid] && verifiedGameUrls[targetPid].url) {
+    const vUrl = verifiedGameUrls[targetPid].url;
+    if (!isGeoBlockedDomain(vUrl)) {
+      console.log(`[VERIFIED URL HIT] PID ${targetPid} (${verifiedGameUrls[targetPid].name}) -> Serving authentic live URL`);
+      return res.json({
+        success: true,
+        type: 'live',
+        url: vUrl,
+        game_uid: targetPid,
+        game_name: verifiedGameUrls[targetPid].name,
+        open_in_tab: true
+      });
+    }
   }
 
   // 2. Direct hit by game title / name matching
@@ -884,7 +908,7 @@ app.all('/api/launch-game', async (req, res) => {
       const cleanName = (v.name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
       return cleanName === cleanReq && (!targetSlug || v.brand === targetSlug);
     });
-    if (match && match.url) {
+    if (match && match.url && !isGeoBlockedDomain(match.url)) {
       console.log(`[VERIFIED TITLE HIT] "${gameTitle}" -> Serving authentic live URL for ${match.name}`);
       return res.json({
         success: true,
@@ -898,9 +922,9 @@ app.all('/api/launch-game', async (req, res) => {
   }
 
   // 3. Attempt dynamic live launch via Gateway (if online / local)
-  if (mode !== 'simulator_only') {
+  if (mode !== 'simulator_only' && !isPragmaticBrand && !isPgsoftBrand && !isBgamingBrand) {
     const liveResult = await gateway.launchGame(productId, targetSlug);
-    if (liveResult.success && liveResult.url) {
+    if (liveResult.success && liveResult.url && !isGeoBlockedDomain(liveResult.url)) {
       return res.json({
         success: true,
         type: 'live',
@@ -912,7 +936,7 @@ app.all('/api/launch-game', async (req, res) => {
   }
 
   // 4. Fallback: Any verified game for this brand in verifiedGameUrls
-  const brandGames = Object.values(verifiedGameUrls).filter(v => v.brand === targetSlug && v.url);
+  const brandGames = Object.values(verifiedGameUrls).filter(v => v.brand === targetSlug && v.url && !isGeoBlockedDomain(v.url));
   if (brandGames.length > 0) {
     const selected = brandGames[0];
     console.log(`[BRAND MATCH] Brand ${targetSlug} -> Serving verified live URL for ${selected.name}`);
@@ -928,7 +952,7 @@ app.all('/api/launch-game', async (req, res) => {
 
   // 5. Fallback to priority table verified live session
   const fallback = allVerifiedPids[targetSlug] || allVerifiedPids['spribe'] || allVerifiedPids['100hp'];
-  if (fallback && fallback.url) {
+  if (fallback && fallback.url && !isGeoBlockedDomain(fallback.url)) {
     return res.json({
       success: true,
       type: 'live',
@@ -939,8 +963,8 @@ app.all('/api/launch-game', async (req, res) => {
   }
 
   // 6. Fallback to general live session URL
-  const generalLive = allVerifiedPids['pragmaticplay-eu'] || allVerifiedPids['spribe'] || allVerifiedPids['100hp'];
-  if (generalLive && generalLive.url) {
+  const generalLive = allVerifiedPids['spribe'] || allVerifiedPids['100hp'];
+  if (generalLive && generalLive.url && !isGeoBlockedDomain(generalLive.url)) {
     return res.json({
       success: true,
       type: 'live',
