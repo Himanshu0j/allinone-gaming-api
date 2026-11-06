@@ -23082,7 +23082,78 @@
         "brand_slug": "playtech"
       }
     ],
-    "betsoft": [],
+    "betsoft": [
+      {
+        "product_id": "betsoft-2000",
+        "game_code": "bs-01",
+        "game_name": "Take the Bank",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2001",
+        "game_code": "bs-02",
+        "game_name": "Sugar Pop 2",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2002",
+        "game_code": "bs-03",
+        "game_name": "Chilli Pop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2003",
+        "game_code": "bs-04",
+        "game_name": "Primal Hunt",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2004",
+        "game_code": "bs-05",
+        "game_name": "Stampede",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2005",
+        "game_code": "bs-06",
+        "game_name": "Gemmed!",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2006",
+        "game_code": "bs-07",
+        "game_name": "The Slotfather II",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2007",
+        "game_code": "bs-08",
+        "game_name": "Dragon & Phoenix",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2008",
+        "game_code": "bs-09",
+        "game_name": "Monster Pop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "betsoft"
+      },
+      {
+        "product_id": "betsoft-2009",
+        "game_code": "bs-10",
+        "game_name": "Total Overdrive",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "betsoft"
+      }
+    ],
     "jdb": [
       {
         "product_id": "3215",
@@ -75815,6 +75886,2009 @@
         "game_name": "Yeebet Lobby",
         "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/4420-300x270.png",
         "brand_slug": "yeebet"
+      }
+    ],
+    "100hp-sweep": [
+      {
+        "product_id": "100hp-sweep-2000",
+        "game_code": "hp-sw-01",
+        "game_name": "Air Jet Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8771-300x300.png",
+        "brand_slug": "100hp-sweep"
+      },
+      {
+        "product_id": "100hp-sweep-2001",
+        "game_code": "hp-sw-02",
+        "game_name": "Astronaut Rivals Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8793-300x225.png",
+        "brand_slug": "100hp-sweep"
+      },
+      {
+        "product_id": "100hp-sweep-2002",
+        "game_code": "hp-sw-03",
+        "game_name": "Blackjack VIP Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8784.png",
+        "brand_slug": "100hp-sweep"
+      },
+      {
+        "product_id": "100hp-sweep-2003",
+        "game_code": "hp-sw-04",
+        "game_name": "Chicken Pirate Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8789-224x300.png",
+        "brand_slug": "100hp-sweep"
+      },
+      {
+        "product_id": "100hp-sweep-2004",
+        "game_code": "hp-sw-05",
+        "game_name": "Coin Miner Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8771-300x300.png",
+        "brand_slug": "100hp-sweep"
+      },
+      {
+        "product_id": "100hp-sweep-2005",
+        "game_code": "hp-sw-06",
+        "game_name": "Fortune Wheel Sweep",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8786-224x300.png",
+        "brand_slug": "100hp-sweep"
+      }
+    ],
+    "1spin4win": [
+      {
+        "product_id": "1spin4win-2000",
+        "game_code": "isw-01",
+        "game_name": "Hold the Gold",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2001",
+        "game_code": "isw-02",
+        "game_name": "Lucky Hell",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2002",
+        "game_code": "isw-03",
+        "game_name": "Cash'n Fruits 100",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2003",
+        "game_code": "isw-04",
+        "game_name": "Book of Wild",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2004",
+        "game_code": "isw-05",
+        "game_name": "Lucky Crown 20",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2005",
+        "game_code": "isw-06",
+        "game_name": "Wild Vegas",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      },
+      {
+        "product_id": "1spin4win-2006",
+        "game_code": "isw-07",
+        "game_name": "Golden Joker 100",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+        "brand_slug": "1spin4win"
+      }
+    ],
+    "1x2-gaming": [
+      {
+        "product_id": "1x2-gaming-2000",
+        "game_code": "1x2-01",
+        "game_name": "Battle Maidens",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2001",
+        "game_code": "1x2-02",
+        "game_name": "Book of Merlin",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2002",
+        "game_code": "1x2-03",
+        "game_name": "Rainbow 3X3",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2003",
+        "game_code": "1x2-04",
+        "game_name": "Asgard Warriors",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2004",
+        "game_code": "1x2-05",
+        "game_name": "Vampire Hunters",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2005",
+        "game_code": "1x2-06",
+        "game_name": "Pirate Kingdom Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      },
+      {
+        "product_id": "1x2-gaming-2006",
+        "game_code": "1x2-07",
+        "game_name": "Megaways Jack",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+        "brand_slug": "1x2-gaming"
+      }
+    ],
+    "759-gaming": [
+      {
+        "product_id": "759-gaming-1000",
+        "game_code": "759-gaming-01",
+        "game_name": "759 Gaming VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      },
+      {
+        "product_id": "759-gaming-1001",
+        "game_code": "759-gaming-02",
+        "game_name": "759 Gaming Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      },
+      {
+        "product_id": "759-gaming-1002",
+        "game_code": "759-gaming-03",
+        "game_name": "759 Gaming Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      },
+      {
+        "product_id": "759-gaming-1003",
+        "game_code": "759-gaming-04",
+        "game_name": "759 Gaming Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      },
+      {
+        "product_id": "759-gaming-1004",
+        "game_code": "759-gaming-05",
+        "game_name": "759 Gaming Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      },
+      {
+        "product_id": "759-gaming-1005",
+        "game_code": "759-gaming-06",
+        "game_name": "759 Gaming Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+        "brand_slug": "759-gaming"
+      }
+    ],
+    "ameba": [
+      {
+        "product_id": "ameba-1000",
+        "game_code": "ameba-01",
+        "game_name": "Ameba VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      },
+      {
+        "product_id": "ameba-1001",
+        "game_code": "ameba-02",
+        "game_name": "Ameba Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      },
+      {
+        "product_id": "ameba-1002",
+        "game_code": "ameba-03",
+        "game_name": "Ameba Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      },
+      {
+        "product_id": "ameba-1003",
+        "game_code": "ameba-04",
+        "game_name": "Ameba Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      },
+      {
+        "product_id": "ameba-1004",
+        "game_code": "ameba-05",
+        "game_name": "Ameba Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      },
+      {
+        "product_id": "ameba-1005",
+        "game_code": "ameba-06",
+        "game_name": "Ameba Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+        "brand_slug": "ameba"
+      }
+    ],
+    "avatarux": [
+      {
+        "product_id": "avatarux-2000",
+        "game_code": "aux-01",
+        "game_name": "CherryPop Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "avatarux"
+      },
+      {
+        "product_id": "avatarux-2001",
+        "game_code": "aux-02",
+        "game_name": "BountyPop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "avatarux"
+      },
+      {
+        "product_id": "avatarux-2002",
+        "game_code": "aux-03",
+        "game_name": "HippoPop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "avatarux"
+      },
+      {
+        "product_id": "avatarux-2003",
+        "game_code": "aux-04",
+        "game_name": "TikiPop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "avatarux"
+      },
+      {
+        "product_id": "avatarux-2004",
+        "game_code": "aux-05",
+        "game_name": "PiggyPop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "avatarux"
+      },
+      {
+        "product_id": "avatarux-2005",
+        "game_code": "aux-06",
+        "game_name": "CritterPop",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "avatarux"
+      }
+    ],
+    "aviator": [
+      {
+        "product_id": "aviator-2000",
+        "game_code": "av-01",
+        "game_name": "Aviator Ultimate",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png",
+        "brand_slug": "aviator"
+      },
+      {
+        "product_id": "aviator-2001",
+        "game_code": "av-02",
+        "game_name": "Aviator Turbo Multiplier",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png",
+        "brand_slug": "aviator"
+      },
+      {
+        "product_id": "aviator-2002",
+        "game_code": "av-03",
+        "game_name": "Aviator High Roller VIP",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png",
+        "brand_slug": "aviator"
+      },
+      {
+        "product_id": "aviator-2003",
+        "game_code": "av-04",
+        "game_name": "Aviator Live Pulse",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png",
+        "brand_slug": "aviator"
+      }
+    ],
+    "best-winnerbw": [
+      {
+        "product_id": "best-winnerbw-1000",
+        "game_code": "best-winnerbw-01",
+        "game_name": "Best Winner(BW) VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      },
+      {
+        "product_id": "best-winnerbw-1001",
+        "game_code": "best-winnerbw-02",
+        "game_name": "Best Winner(BW) Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      },
+      {
+        "product_id": "best-winnerbw-1002",
+        "game_code": "best-winnerbw-03",
+        "game_name": "Best Winner(BW) Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      },
+      {
+        "product_id": "best-winnerbw-1003",
+        "game_code": "best-winnerbw-04",
+        "game_name": "Best Winner(BW) Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      },
+      {
+        "product_id": "best-winnerbw-1004",
+        "game_code": "best-winnerbw-05",
+        "game_name": "Best Winner(BW) Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      },
+      {
+        "product_id": "best-winnerbw-1005",
+        "game_code": "best-winnerbw-06",
+        "game_name": "Best Winner(BW) Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+        "brand_slug": "best-winnerbw"
+      }
+    ],
+    "biggaming": [
+      {
+        "product_id": "biggaming-2000",
+        "game_code": "bg-live-01",
+        "game_name": "BG Classic Baccarat",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "biggaming"
+      },
+      {
+        "product_id": "biggaming-2001",
+        "game_code": "bg-live-02",
+        "game_name": "BG Speed Roulette",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "biggaming"
+      },
+      {
+        "product_id": "biggaming-2002",
+        "game_code": "bg-live-03",
+        "game_name": "BG Dragon Tiger Live",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "biggaming"
+      },
+      {
+        "product_id": "biggaming-2003",
+        "game_code": "bg-live-04",
+        "game_name": "BG Sic Bo Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "biggaming"
+      }
+    ],
+    "bigpot": [
+      {
+        "product_id": "bigpot-1000",
+        "game_code": "bigpot-01",
+        "game_name": "Bigpot VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      },
+      {
+        "product_id": "bigpot-1001",
+        "game_code": "bigpot-02",
+        "game_name": "Bigpot Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      },
+      {
+        "product_id": "bigpot-1002",
+        "game_code": "bigpot-03",
+        "game_name": "Bigpot Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      },
+      {
+        "product_id": "bigpot-1003",
+        "game_code": "bigpot-04",
+        "game_name": "Bigpot Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      },
+      {
+        "product_id": "bigpot-1004",
+        "game_code": "bigpot-05",
+        "game_name": "Bigpot Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      },
+      {
+        "product_id": "bigpot-1005",
+        "game_code": "bigpot-06",
+        "game_name": "Bigpot Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+        "brand_slug": "bigpot"
+      }
+    ],
+    "bigtimegamingasia": [
+      {
+        "product_id": "bigtimegamingasia-2000",
+        "game_code": "btg-01",
+        "game_name": "Bonanza Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "bigtimegamingasia"
+      },
+      {
+        "product_id": "bigtimegamingasia-2001",
+        "game_code": "btg-02",
+        "game_name": "Extra Chilli Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "bigtimegamingasia"
+      },
+      {
+        "product_id": "bigtimegamingasia-2002",
+        "game_code": "btg-03",
+        "game_name": "Danger High Voltage",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "bigtimegamingasia"
+      },
+      {
+        "product_id": "bigtimegamingasia-2003",
+        "game_code": "btg-04",
+        "game_name": "White Rabbit Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "bigtimegamingasia"
+      }
+    ],
+    "booming-games": [
+      {
+        "product_id": "booming-games-2000",
+        "game_code": "bg-01",
+        "game_name": "Gold Gold Gold",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "booming-games"
+      },
+      {
+        "product_id": "booming-games-2001",
+        "game_code": "bg-02",
+        "game_name": "Burning Classics",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "booming-games"
+      },
+      {
+        "product_id": "booming-games-2002",
+        "game_code": "bg-03",
+        "game_name": "Buffalo Hold and Win",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "booming-games"
+      },
+      {
+        "product_id": "booming-games-2003",
+        "game_code": "bg-04",
+        "game_name": "TNT Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "booming-games"
+      },
+      {
+        "product_id": "booming-games-2004",
+        "game_code": "bg-05",
+        "game_name": "Cash Pig",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "booming-games"
+      },
+      {
+        "product_id": "booming-games-2005",
+        "game_code": "bg-06",
+        "game_name": "Treasure Vault",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "booming-games"
+      }
+    ],
+    "darpha": [
+      {
+        "product_id": "darpha-1000",
+        "game_code": "darpha-01",
+        "game_name": "Darpha VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      },
+      {
+        "product_id": "darpha-1001",
+        "game_code": "darpha-02",
+        "game_name": "Darpha Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      },
+      {
+        "product_id": "darpha-1002",
+        "game_code": "darpha-03",
+        "game_name": "Darpha Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      },
+      {
+        "product_id": "darpha-1003",
+        "game_code": "darpha-04",
+        "game_name": "Darpha Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      },
+      {
+        "product_id": "darpha-1004",
+        "game_code": "darpha-05",
+        "game_name": "Darpha Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      },
+      {
+        "product_id": "darpha-1005",
+        "game_code": "darpha-06",
+        "game_name": "Darpha Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+        "brand_slug": "darpha"
+      }
+    ],
+    "db": [
+      {
+        "product_id": "db-1000",
+        "game_code": "db-01",
+        "game_name": "DB VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      },
+      {
+        "product_id": "db-1001",
+        "game_code": "db-02",
+        "game_name": "DB Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      },
+      {
+        "product_id": "db-1002",
+        "game_code": "db-03",
+        "game_name": "DB Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      },
+      {
+        "product_id": "db-1003",
+        "game_code": "db-04",
+        "game_name": "DB Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      },
+      {
+        "product_id": "db-1004",
+        "game_code": "db-05",
+        "game_name": "DB Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      },
+      {
+        "product_id": "db-1005",
+        "game_code": "db-06",
+        "game_name": "DB Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+        "brand_slug": "db"
+      }
+    ],
+    "dragon-gaming": [
+      {
+        "product_id": "dragon-gaming-1000",
+        "game_code": "dragon-gaming-01",
+        "game_name": "Dragon Gaming VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      },
+      {
+        "product_id": "dragon-gaming-1001",
+        "game_code": "dragon-gaming-02",
+        "game_name": "Dragon Gaming Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      },
+      {
+        "product_id": "dragon-gaming-1002",
+        "game_code": "dragon-gaming-03",
+        "game_name": "Dragon Gaming Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      },
+      {
+        "product_id": "dragon-gaming-1003",
+        "game_code": "dragon-gaming-04",
+        "game_name": "Dragon Gaming Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      },
+      {
+        "product_id": "dragon-gaming-1004",
+        "game_code": "dragon-gaming-05",
+        "game_name": "Dragon Gaming Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      },
+      {
+        "product_id": "dragon-gaming-1005",
+        "game_code": "dragon-gaming-06",
+        "game_name": "Dragon Gaming Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+        "brand_slug": "dragon-gaming"
+      }
+    ],
+    "dragoon-soft": [
+      {
+        "product_id": "dragoon-soft-2000",
+        "game_code": "ds-01",
+        "game_name": "Three Kingdoms",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "dragoon-soft"
+      },
+      {
+        "product_id": "dragoon-soft-2001",
+        "game_code": "ds-02",
+        "game_name": "Golden Dragon Wealth",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "dragoon-soft"
+      },
+      {
+        "product_id": "dragoon-soft-2002",
+        "game_code": "ds-03",
+        "game_name": "Fortune Lion God",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "dragoon-soft"
+      },
+      {
+        "product_id": "dragoon-soft-2003",
+        "game_code": "ds-04",
+        "game_name": "Monkey King Rush",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "dragoon-soft"
+      }
+    ],
+    "flappy": [
+      {
+        "product_id": "flappy-1000",
+        "game_code": "flappy-01",
+        "game_name": "Flappy VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      },
+      {
+        "product_id": "flappy-1001",
+        "game_code": "flappy-02",
+        "game_name": "Flappy Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      },
+      {
+        "product_id": "flappy-1002",
+        "game_code": "flappy-03",
+        "game_name": "Flappy Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      },
+      {
+        "product_id": "flappy-1003",
+        "game_code": "flappy-04",
+        "game_name": "Flappy Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      },
+      {
+        "product_id": "flappy-1004",
+        "game_code": "flappy-05",
+        "game_name": "Flappy Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      },
+      {
+        "product_id": "flappy-1005",
+        "game_code": "flappy-06",
+        "game_name": "Flappy Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+        "brand_slug": "flappy"
+      }
+    ],
+    "fugaso": [
+      {
+        "product_id": "fugaso-2000",
+        "game_code": "fug-01",
+        "game_name": "Clash of Gods",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "fugaso"
+      },
+      {
+        "product_id": "fugaso-2001",
+        "game_code": "fug-02",
+        "game_name": "Trump It Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "fugaso"
+      },
+      {
+        "product_id": "fugaso-2002",
+        "game_code": "fug-03",
+        "game_name": "Book of Tattoo II",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "fugaso"
+      },
+      {
+        "product_id": "fugaso-2003",
+        "game_code": "fug-04",
+        "game_name": "Stoned Joker 5",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "fugaso"
+      }
+    ],
+    "goldenbay": [
+      {
+        "product_id": "goldenbay-1000",
+        "game_code": "goldenbay-01",
+        "game_name": "GoldenBay VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      },
+      {
+        "product_id": "goldenbay-1001",
+        "game_code": "goldenbay-02",
+        "game_name": "GoldenBay Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      },
+      {
+        "product_id": "goldenbay-1002",
+        "game_code": "goldenbay-03",
+        "game_name": "GoldenBay Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      },
+      {
+        "product_id": "goldenbay-1003",
+        "game_code": "goldenbay-04",
+        "game_name": "GoldenBay Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      },
+      {
+        "product_id": "goldenbay-1004",
+        "game_code": "goldenbay-05",
+        "game_name": "GoldenBay Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      },
+      {
+        "product_id": "goldenbay-1005",
+        "game_code": "goldenbay-06",
+        "game_name": "GoldenBay Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+        "brand_slug": "goldenbay"
+      }
+    ],
+    "hacksaw-latam": [
+      {
+        "product_id": "hacksaw-latam-1000",
+        "game_code": "hacksaw-latam-01",
+        "game_name": "Hacksaw Latam VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      },
+      {
+        "product_id": "hacksaw-latam-1001",
+        "game_code": "hacksaw-latam-02",
+        "game_name": "Hacksaw Latam Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      },
+      {
+        "product_id": "hacksaw-latam-1002",
+        "game_code": "hacksaw-latam-03",
+        "game_name": "Hacksaw Latam Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      },
+      {
+        "product_id": "hacksaw-latam-1003",
+        "game_code": "hacksaw-latam-04",
+        "game_name": "Hacksaw Latam Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      },
+      {
+        "product_id": "hacksaw-latam-1004",
+        "game_code": "hacksaw-latam-05",
+        "game_name": "Hacksaw Latam Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      },
+      {
+        "product_id": "hacksaw-latam-1005",
+        "game_code": "hacksaw-latam-06",
+        "game_name": "Hacksaw Latam Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+        "brand_slug": "hacksaw-latam"
+      }
+    ],
+    "ia": [
+      {
+        "product_id": "ia-1000",
+        "game_code": "ia-01",
+        "game_name": "IA VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      },
+      {
+        "product_id": "ia-1001",
+        "game_code": "ia-02",
+        "game_name": "IA Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      },
+      {
+        "product_id": "ia-1002",
+        "game_code": "ia-03",
+        "game_name": "IA Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      },
+      {
+        "product_id": "ia-1003",
+        "game_code": "ia-04",
+        "game_name": "IA Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      },
+      {
+        "product_id": "ia-1004",
+        "game_code": "ia-05",
+        "game_name": "IA Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      },
+      {
+        "product_id": "ia-1005",
+        "game_code": "ia-06",
+        "game_name": "IA Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+        "brand_slug": "ia"
+      }
+    ],
+    "iconic21": [
+      {
+        "product_id": "iconic21-2000",
+        "game_code": "ico-01",
+        "game_name": "Iconic Grand Baccarat",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "iconic21"
+      },
+      {
+        "product_id": "iconic21-2001",
+        "game_code": "ico-02",
+        "game_name": "Iconic Speed Roulette",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "iconic21"
+      },
+      {
+        "product_id": "iconic21-2002",
+        "game_code": "ico-03",
+        "game_name": "Iconic Ultimate Blackjack",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8784.png",
+        "brand_slug": "iconic21"
+      }
+    ],
+    "imaginelive": [
+      {
+        "product_id": "imaginelive-2000",
+        "game_code": "img-01",
+        "game_name": "Imagine Live Roulette 360",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "imaginelive"
+      },
+      {
+        "product_id": "imaginelive-2001",
+        "game_code": "img-02",
+        "game_name": "Imagine Blackjack Studio",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8784.png",
+        "brand_slug": "imaginelive"
+      },
+      {
+        "product_id": "imaginelive-2002",
+        "game_code": "img-03",
+        "game_name": "Imagine Baccarat Multi-Cam",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "imaginelive"
+      }
+    ],
+    "joker": [
+      {
+        "product_id": "joker-2000",
+        "game_code": "jok-01",
+        "game_name": "Roma Slot Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "joker"
+      },
+      {
+        "product_id": "joker-2001",
+        "game_code": "jok-02",
+        "game_name": "Golden Island Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "joker"
+      },
+      {
+        "product_id": "joker-2002",
+        "game_code": "jok-03",
+        "game_name": "Joker Madness",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "joker"
+      },
+      {
+        "product_id": "joker-2003",
+        "game_code": "jok-04",
+        "game_name": "Dragon Power Flame",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "joker"
+      }
+    ],
+    "ky-gaming": [
+      {
+        "product_id": "ky-gaming-1000",
+        "game_code": "ky-gaming-01",
+        "game_name": "KY Gaming VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      },
+      {
+        "product_id": "ky-gaming-1001",
+        "game_code": "ky-gaming-02",
+        "game_name": "KY Gaming Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      },
+      {
+        "product_id": "ky-gaming-1002",
+        "game_code": "ky-gaming-03",
+        "game_name": "KY Gaming Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      },
+      {
+        "product_id": "ky-gaming-1003",
+        "game_code": "ky-gaming-04",
+        "game_name": "KY Gaming Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      },
+      {
+        "product_id": "ky-gaming-1004",
+        "game_code": "ky-gaming-05",
+        "game_name": "KY Gaming Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      },
+      {
+        "product_id": "ky-gaming-1005",
+        "game_code": "ky-gaming-06",
+        "game_name": "KY Gaming Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+        "brand_slug": "ky-gaming"
+      }
+    ],
+    "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8": [
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1000",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-01",
+        "game_name": "Mancala (暂停使用) VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      },
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1001",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-02",
+        "game_name": "Mancala (暂停使用) Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      },
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1002",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-03",
+        "game_name": "Mancala (暂停使用) Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      },
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1003",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-04",
+        "game_name": "Mancala (暂停使用) Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      },
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1004",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-05",
+        "game_name": "Mancala (暂停使用) Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      },
+      {
+        "product_id": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-1005",
+        "game_code": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8-06",
+        "game_name": "Mancala (暂停使用) Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+        "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8"
+      }
+    ],
+    "netent%ef%bc%88asia%ef%bc%89": [
+      {
+        "product_id": "netent%ef%bc%88asia%ef%bc%89-2000",
+        "game_code": "net-01",
+        "game_name": "Starburst Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "netent%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "netent%ef%bc%88asia%ef%bc%89-2001",
+        "game_code": "net-02",
+        "game_name": "Gonzo's Quest Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "netent%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "netent%ef%bc%88asia%ef%bc%89-2002",
+        "game_code": "net-03",
+        "game_name": "Twin Spin Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "netent%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "netent%ef%bc%88asia%ef%bc%89-2003",
+        "game_code": "net-04",
+        "game_name": "Dead or Alive 2 Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "netent%ef%bc%88asia%ef%bc%89"
+      }
+    ],
+    "nolimit-city%ef%bc%88asia%ef%bc%89": [
+      {
+        "product_id": "nolimit-city%ef%bc%88asia%ef%bc%89-2000",
+        "game_code": "nlc-01",
+        "game_name": "San Quentin xWays Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "nolimit-city%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "nolimit-city%ef%bc%88asia%ef%bc%89-2001",
+        "game_code": "nlc-02",
+        "game_name": "Mental Asia Edition",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "nolimit-city%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "nolimit-city%ef%bc%88asia%ef%bc%89-2002",
+        "game_code": "nlc-03",
+        "game_name": "Tombstone RIP Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "nolimit-city%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "nolimit-city%ef%bc%88asia%ef%bc%89-2003",
+        "game_code": "nlc-04",
+        "game_name": "Fire in the Hole xBomb",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "nolimit-city%ef%bc%88asia%ef%bc%89"
+      }
+    ],
+    "odin": [
+      {
+        "product_id": "odin-1000",
+        "game_code": "odin-01",
+        "game_name": "Odin VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      },
+      {
+        "product_id": "odin-1001",
+        "game_code": "odin-02",
+        "game_name": "Odin Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      },
+      {
+        "product_id": "odin-1002",
+        "game_code": "odin-03",
+        "game_name": "Odin Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      },
+      {
+        "product_id": "odin-1003",
+        "game_code": "odin-04",
+        "game_name": "Odin Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      },
+      {
+        "product_id": "odin-1004",
+        "game_code": "odin-05",
+        "game_name": "Odin Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      },
+      {
+        "product_id": "odin-1005",
+        "game_code": "odin-06",
+        "game_name": "Odin Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+        "brand_slug": "odin"
+      }
+    ],
+    "odin-slot": [
+      {
+        "product_id": "odin-slot-1000",
+        "game_code": "odin-slot-01",
+        "game_name": "Odin Slot VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      },
+      {
+        "product_id": "odin-slot-1001",
+        "game_code": "odin-slot-02",
+        "game_name": "Odin Slot Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      },
+      {
+        "product_id": "odin-slot-1002",
+        "game_code": "odin-slot-03",
+        "game_name": "Odin Slot Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      },
+      {
+        "product_id": "odin-slot-1003",
+        "game_code": "odin-slot-04",
+        "game_name": "Odin Slot Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      },
+      {
+        "product_id": "odin-slot-1004",
+        "game_code": "odin-slot-05",
+        "game_name": "Odin Slot Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      },
+      {
+        "product_id": "odin-slot-1005",
+        "game_code": "odin-slot-06",
+        "game_name": "Odin Slot Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+        "brand_slug": "odin-slot"
+      }
+    ],
+    "petersons": [
+      {
+        "product_id": "petersons-1000",
+        "game_code": "petersons-01",
+        "game_name": "Petersons VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      },
+      {
+        "product_id": "petersons-1001",
+        "game_code": "petersons-02",
+        "game_name": "Petersons Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      },
+      {
+        "product_id": "petersons-1002",
+        "game_code": "petersons-03",
+        "game_name": "Petersons Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      },
+      {
+        "product_id": "petersons-1003",
+        "game_code": "petersons-04",
+        "game_name": "Petersons Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      },
+      {
+        "product_id": "petersons-1004",
+        "game_code": "petersons-05",
+        "game_name": "Petersons Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      },
+      {
+        "product_id": "petersons-1005",
+        "game_code": "petersons-06",
+        "game_name": "Petersons Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+        "brand_slug": "petersons"
+      }
+    ],
+    "pg-sport": [
+      {
+        "product_id": "pg-sport-1000",
+        "game_code": "pg-sport-01",
+        "game_name": "PG Sport VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      },
+      {
+        "product_id": "pg-sport-1001",
+        "game_code": "pg-sport-02",
+        "game_name": "PG Sport Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      },
+      {
+        "product_id": "pg-sport-1002",
+        "game_code": "pg-sport-03",
+        "game_name": "PG Sport Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      },
+      {
+        "product_id": "pg-sport-1003",
+        "game_code": "pg-sport-04",
+        "game_name": "PG Sport Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      },
+      {
+        "product_id": "pg-sport-1004",
+        "game_code": "pg-sport-05",
+        "game_name": "PG Sport Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      },
+      {
+        "product_id": "pg-sport-1005",
+        "game_code": "pg-sport-06",
+        "game_name": "PG Sport Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+        "brand_slug": "pg-sport"
+      }
+    ],
+    "playaceaggaming": [
+      {
+        "product_id": "playaceaggaming-1000",
+        "game_code": "playaceaggaming-01",
+        "game_name": "PlayAce(AgGaming) VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      },
+      {
+        "product_id": "playaceaggaming-1001",
+        "game_code": "playaceaggaming-02",
+        "game_name": "PlayAce(AgGaming) Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      },
+      {
+        "product_id": "playaceaggaming-1002",
+        "game_code": "playaceaggaming-03",
+        "game_name": "PlayAce(AgGaming) Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      },
+      {
+        "product_id": "playaceaggaming-1003",
+        "game_code": "playaceaggaming-04",
+        "game_name": "PlayAce(AgGaming) Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      },
+      {
+        "product_id": "playaceaggaming-1004",
+        "game_code": "playaceaggaming-05",
+        "game_name": "PlayAce(AgGaming) Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      },
+      {
+        "product_id": "playaceaggaming-1005",
+        "game_code": "playaceaggaming-06",
+        "game_name": "PlayAce(AgGaming) Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+        "brand_slug": "playaceaggaming"
+      }
+    ],
+    "quickspin": [
+      {
+        "product_id": "quickspin-2000",
+        "game_code": "qs-01",
+        "game_name": "Big Bad Wolf",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2001",
+        "game_code": "qs-02",
+        "game_name": "Sakura Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2002",
+        "game_code": "qs-03",
+        "game_name": "Eastern Emeralds",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2003",
+        "game_code": "qs-04",
+        "game_name": "Sticky Bandits",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2004",
+        "game_code": "qs-05",
+        "game_name": "Golden Glyph",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2005",
+        "game_code": "qs-06",
+        "game_name": "Nero's Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2006",
+        "game_code": "qs-07",
+        "game_name": "Ghost Glyph",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "quickspin"
+      },
+      {
+        "product_id": "quickspin-2007",
+        "game_code": "qs-08",
+        "game_name": "The Wild Chase",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "quickspin"
+      }
+    ],
+    "redtiger%ef%bc%88asia%ef%bc%89": [
+      {
+        "product_id": "redtiger%ef%bc%88asia%ef%bc%89-2000",
+        "game_code": "rt-01",
+        "game_name": "Gonzo's Quest Megaways Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "redtiger%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "redtiger%ef%bc%88asia%ef%bc%89-2001",
+        "game_code": "rt-02",
+        "game_name": "Piggy Riches Megaways Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "redtiger%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "redtiger%ef%bc%88asia%ef%bc%89-2002",
+        "game_code": "rt-03",
+        "game_name": "Dynamite Riches Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "redtiger%ef%bc%88asia%ef%bc%89"
+      },
+      {
+        "product_id": "redtiger%ef%bc%88asia%ef%bc%89-2003",
+        "game_code": "rt-04",
+        "game_name": "Dragon's Luck Asia",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "redtiger%ef%bc%88asia%ef%bc%89"
+      }
+    ],
+    "revenge": [
+      {
+        "product_id": "revenge-1000",
+        "game_code": "revenge-01",
+        "game_name": "Revenge VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      },
+      {
+        "product_id": "revenge-1001",
+        "game_code": "revenge-02",
+        "game_name": "Revenge Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      },
+      {
+        "product_id": "revenge-1002",
+        "game_code": "revenge-03",
+        "game_name": "Revenge Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      },
+      {
+        "product_id": "revenge-1003",
+        "game_code": "revenge-04",
+        "game_name": "Revenge Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      },
+      {
+        "product_id": "revenge-1004",
+        "game_code": "revenge-05",
+        "game_name": "Revenge Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      },
+      {
+        "product_id": "revenge-1005",
+        "game_code": "revenge-06",
+        "game_name": "Revenge Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+        "brand_slug": "revenge"
+      }
+    ],
+    "rich-paradise": [
+      {
+        "product_id": "rich-paradise-1000",
+        "game_code": "rich-paradise-01",
+        "game_name": "Rich Paradise VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      },
+      {
+        "product_id": "rich-paradise-1001",
+        "game_code": "rich-paradise-02",
+        "game_name": "Rich Paradise Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      },
+      {
+        "product_id": "rich-paradise-1002",
+        "game_code": "rich-paradise-03",
+        "game_name": "Rich Paradise Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      },
+      {
+        "product_id": "rich-paradise-1003",
+        "game_code": "rich-paradise-04",
+        "game_name": "Rich Paradise Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      },
+      {
+        "product_id": "rich-paradise-1004",
+        "game_code": "rich-paradise-05",
+        "game_name": "Rich Paradise Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      },
+      {
+        "product_id": "rich-paradise-1005",
+        "game_code": "rich-paradise-06",
+        "game_name": "Rich Paradise Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+        "brand_slug": "rich-paradise"
+      }
+    ],
+    "rsg": [
+      {
+        "product_id": "rsg-1000",
+        "game_code": "rsg-01",
+        "game_name": "RSG VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      },
+      {
+        "product_id": "rsg-1001",
+        "game_code": "rsg-02",
+        "game_name": "RSG Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      },
+      {
+        "product_id": "rsg-1002",
+        "game_code": "rsg-03",
+        "game_name": "RSG Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      },
+      {
+        "product_id": "rsg-1003",
+        "game_code": "rsg-04",
+        "game_name": "RSG Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      },
+      {
+        "product_id": "rsg-1004",
+        "game_code": "rsg-05",
+        "game_name": "RSG Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      },
+      {
+        "product_id": "rsg-1005",
+        "game_code": "rsg-06",
+        "game_name": "RSG Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+        "brand_slug": "rsg"
+      }
+    ],
+    "sabasport-php": [
+      {
+        "product_id": "sabasport-php-2000",
+        "game_code": "saba-01",
+        "game_name": "SABA Football Exchange PHP",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasport-php"
+      },
+      {
+        "product_id": "sabasport-php-2001",
+        "game_code": "saba-02",
+        "game_name": "SABA Cricket In-Play PHP",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasport-php"
+      },
+      {
+        "product_id": "sabasport-php-2002",
+        "game_code": "saba-03",
+        "game_name": "SABA Basketball World PHP",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasport-php"
+      }
+    ],
+    "sabasportsibc": [
+      {
+        "product_id": "sabasportsibc-2000",
+        "game_code": "saba-ibc-01",
+        "game_name": "SABA IBC Sportsbook Global",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasportsibc"
+      },
+      {
+        "product_id": "sabasportsibc-2001",
+        "game_code": "saba-ibc-02",
+        "game_name": "SABA IBC Live Soccer Odds",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasportsibc"
+      },
+      {
+        "product_id": "sabasportsibc-2002",
+        "game_code": "saba-ibc-03",
+        "game_name": "SABA IBC Virtual World Cup",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "sabasportsibc"
+      }
+    ],
+    "skywind-casino": [
+      {
+        "product_id": "skywind-casino-2000",
+        "game_code": "sky-01",
+        "game_name": "Big Buffalo Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "skywind-casino"
+      },
+      {
+        "product_id": "skywind-casino-2001",
+        "game_code": "sky-02",
+        "game_name": "Alive Megaways",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "skywind-casino"
+      },
+      {
+        "product_id": "skywind-casino-2002",
+        "game_code": "sky-03",
+        "game_name": "El Paso Gold",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "skywind-casino"
+      }
+    ],
+    "skywind-live": [
+      {
+        "product_id": "skywind-live-2000",
+        "game_code": "skyl-01",
+        "game_name": "Skywind Live Baccarat Pro",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "skywind-live"
+      },
+      {
+        "product_id": "skywind-live-2001",
+        "game_code": "skyl-02",
+        "game_name": "Skywind Live Roulette Atom",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "skywind-live"
+      }
+    ],
+    "spinomenal": [
+      {
+        "product_id": "spinomenal-2000",
+        "game_code": "sp-01",
+        "game_name": "Book of Demi Gods II",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2001",
+        "game_code": "sp-02",
+        "game_name": "Majestic King",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2002",
+        "game_code": "sp-03",
+        "game_name": "Demi Gods III",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2003",
+        "game_code": "sp-04",
+        "game_name": "Queen of Fire",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2004",
+        "game_code": "sp-05",
+        "game_name": "Wolf Fang",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2005",
+        "game_code": "sp-06",
+        "game_name": "Story of Medusa",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "spinomenal"
+      },
+      {
+        "product_id": "spinomenal-2006",
+        "game_code": "sp-07",
+        "game_name": "Lucky Jack Tut's Treasures",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "spinomenal"
+      }
+    ],
+    "thunderkick": [
+      {
+        "product_id": "thunderkick-2000",
+        "game_code": "tk-01",
+        "game_name": "Pink Elephants 2",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "thunderkick"
+      },
+      {
+        "product_id": "thunderkick-2001",
+        "game_code": "tk-02",
+        "game_name": "Esqueleto Explosivo 2",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "thunderkick"
+      },
+      {
+        "product_id": "thunderkick-2002",
+        "game_code": "tk-03",
+        "game_name": "Sword of Khans",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png",
+        "brand_slug": "thunderkick"
+      },
+      {
+        "product_id": "thunderkick-2003",
+        "game_code": "tk-04",
+        "game_name": "Midas Golden Touch",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png",
+        "brand_slug": "thunderkick"
+      }
+    ],
+    "titi-gaming": [
+      {
+        "product_id": "titi-gaming-1000",
+        "game_code": "titi-gaming-01",
+        "game_name": "Titi Gaming VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      },
+      {
+        "product_id": "titi-gaming-1001",
+        "game_code": "titi-gaming-02",
+        "game_name": "Titi Gaming Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      },
+      {
+        "product_id": "titi-gaming-1002",
+        "game_code": "titi-gaming-03",
+        "game_name": "Titi Gaming Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      },
+      {
+        "product_id": "titi-gaming-1003",
+        "game_code": "titi-gaming-04",
+        "game_name": "Titi Gaming Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      },
+      {
+        "product_id": "titi-gaming-1004",
+        "game_code": "titi-gaming-05",
+        "game_name": "Titi Gaming Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      },
+      {
+        "product_id": "titi-gaming-1005",
+        "game_code": "titi-gaming-06",
+        "game_name": "Titi Gaming Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+        "brand_slug": "titi-gaming"
+      }
+    ],
+    "vivo": [
+      {
+        "product_id": "vivo-2000",
+        "game_code": "vivo-01",
+        "game_name": "VIVO Galaxy Baccarat",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "vivo"
+      },
+      {
+        "product_id": "vivo-2001",
+        "game_code": "vivo-02",
+        "game_name": "VIVO European Roulette",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "vivo"
+      },
+      {
+        "product_id": "vivo-2002",
+        "game_code": "vivo-03",
+        "game_name": "VIVO Blackjack VIP",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/8784.png",
+        "brand_slug": "vivo"
+      }
+    ],
+    "voltent": [
+      {
+        "product_id": "voltent-1000",
+        "game_code": "voltent-01",
+        "game_name": "VoltEnt VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      },
+      {
+        "product_id": "voltent-1001",
+        "game_code": "voltent-02",
+        "game_name": "VoltEnt Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      },
+      {
+        "product_id": "voltent-1002",
+        "game_code": "voltent-03",
+        "game_name": "VoltEnt Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      },
+      {
+        "product_id": "voltent-1003",
+        "game_code": "voltent-04",
+        "game_name": "VoltEnt Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      },
+      {
+        "product_id": "voltent-1004",
+        "game_code": "voltent-05",
+        "game_name": "VoltEnt Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      },
+      {
+        "product_id": "voltent-1005",
+        "game_code": "voltent-06",
+        "game_name": "VoltEnt Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+        "brand_slug": "voltent"
+      }
+    ],
+    "wg": [
+      {
+        "product_id": "wg-1000",
+        "game_code": "wg-01",
+        "game_name": "WG VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      },
+      {
+        "product_id": "wg-1001",
+        "game_code": "wg-02",
+        "game_name": "WG Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      },
+      {
+        "product_id": "wg-1002",
+        "game_code": "wg-03",
+        "game_name": "WG Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      },
+      {
+        "product_id": "wg-1003",
+        "game_code": "wg-04",
+        "game_name": "WG Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      },
+      {
+        "product_id": "wg-1004",
+        "game_code": "wg-05",
+        "game_name": "WG Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      },
+      {
+        "product_id": "wg-1005",
+        "game_code": "wg-06",
+        "game_name": "WG Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+        "brand_slug": "wg"
+      }
+    ],
+    "wintolive": [
+      {
+        "product_id": "wintolive-2000",
+        "game_code": "wtl-01",
+        "game_name": "WintoLive Multi-Table Baccarat",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "wintolive"
+      },
+      {
+        "product_id": "wintolive-2001",
+        "game_code": "wtl-02",
+        "game_name": "WintoLive Speed Roulette",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+        "brand_slug": "wintolive"
+      }
+    ],
+    "wintoslot": [
+      {
+        "product_id": "wintoslot-2000",
+        "game_code": "wts-01",
+        "game_name": "Winto Fortune Gems",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png",
+        "brand_slug": "wintoslot"
+      },
+      {
+        "product_id": "wintoslot-2001",
+        "game_code": "wts-02",
+        "game_name": "Winto Dragon Emperor",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png",
+        "brand_slug": "wintoslot"
+      }
+    ],
+    "ws168": [
+      {
+        "product_id": "ws168-2000",
+        "game_code": "ws-01",
+        "game_name": "WS168 Cockfight Live Stream",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "ws168"
+      },
+      {
+        "product_id": "ws168-2001",
+        "game_code": "ws-02",
+        "game_name": "WS168 Arena Betting Pro",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+        "brand_slug": "ws168"
+      }
+    ],
+    "yggdrasil": [
+      {
+        "product_id": "yggdrasil-2000",
+        "game_code": "ygg-01",
+        "game_name": "Vikings Go Berzerk",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2001",
+        "game_code": "ygg-02",
+        "game_name": "Valley of the Gods",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2002",
+        "game_code": "ygg-03",
+        "game_name": "Holmes and the Stolen Stones",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2003",
+        "game_code": "ygg-04",
+        "game_name": "Golden Fish Tank",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2004",
+        "game_code": "ygg-05",
+        "game_name": "Easter Island 2",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2005",
+        "game_code": "ygg-06",
+        "game_name": "Hades Gigablox",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2006",
+        "game_code": "ygg-07",
+        "game_name": "Multifly!",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      },
+      {
+        "product_id": "yggdrasil-2007",
+        "game_code": "ygg-08",
+        "game_name": "Raptor DoubleMax",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+        "brand_slug": "yggdrasil"
+      }
+    ],
+    "%e5%b0%8f%e8%89%be-ia": [
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1000",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-01",
+        "game_name": "小艾 (IA) VIP Fortune",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
+      },
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1001",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-02",
+        "game_name": "小艾 (IA) Golden Dragon",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
+      },
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1002",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-03",
+        "game_name": "小艾 (IA) Mega Deluxe",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
+      },
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1003",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-04",
+        "game_name": "小艾 (IA) Wild Bonanza",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
+      },
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1004",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-05",
+        "game_name": "小艾 (IA) Royal Treasure",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
+      },
+      {
+        "product_id": "%e5%b0%8f%e8%89%be-ia-1005",
+        "game_code": "%e5%b0%8f%e8%89%be-ia-06",
+        "game_name": "小艾 (IA) Lucky 777 Supreme",
+        "game_img": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+        "brand_slug": "%e5%b0%8f%e8%89%be-ia"
       }
     ]
   },

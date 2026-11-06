@@ -779,7 +779,7 @@ app.get('/api/games/featured', (req, res) => {
 app.post('/api/verify-agent', (req, res) => {
   const { code } = req.body;
   const cleanCode = (code || '').trim().toLowerCase();
-  const masterCodes = ['hdsoftapi1', 'hdsoftapi', 'vip2026', 'admin'];
+  const masterCodes = ['allinone', 'allinoneapi', 'allinone2026', 'allinonevip', 'vip', 'vip2026', 'admin', 'hdsoftapi1', 'hdsoftapi'];
 
   // Master Admin verification
   if (masterCodes.includes(cleanCode)) {
@@ -1109,7 +1109,7 @@ app.post('/api/checkout', (req, res) => {
     success: true,
     ...orderData,
     whatsapp_confirm_link: `https://wa.me/918052354357?text=${encodeURIComponent(`Hello AllInOne API Admin, I placed Order #${orderId} for ${totalUsdt} USDT (${planName}). My account email is ${email}. Operator ID: ${operatorId}. Please verify my USDT deposit and activate.`)}`,
-    telegram_confirm_link: `https://t.me/hdsoftapi`
+    telegram_confirm_link: `https://wa.me/918052354357?text=${encodeURIComponent(`Order #${orderId} - Please activate.`)}`
   });
 });
 

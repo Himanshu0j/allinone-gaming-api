@@ -43,7 +43,7 @@ const Documentation = {
 
   snippets: {
     node: {
-      catalog: `// Fetch 139 Providers and Games Catalog
+      catalog: `// Fetch 169 Providers and Games Catalog
 const fetch = require('node-fetch');
 
 async function loadCatalog() {
@@ -109,7 +109,7 @@ async function launchForPlayer(userId, gameUid, balance = 100.0) {
   throw new Error(data.msg || 'Launch failed');
 }`,
 
-      callback: `// SoftAPI Webhook Handler (Express.js)
+      callback: `// AllInOne API Webhook Handler (Express.js)
 const express = require('express');
 const app = express();
 app.use(express.json());
@@ -127,7 +127,7 @@ app.post('/api/webhook', (req, res) => {
   //   notify_only: true
   // }
 
-  console.log('[SOFTAPI WEBHOOK]', event);
+  console.log('[ALLINONE WEBHOOK]', event);
 
   // Update your local user balance / ledger idempotently using event.game_round
   // Always respond HTTP 200 within 2 seconds

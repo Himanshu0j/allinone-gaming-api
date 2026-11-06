@@ -431,7 +431,7 @@ const Catalog = {
               <div class="w-full h-full flex flex-col items-center justify-center p-4 bg-gradient-to-br from-zinc-900 via-zinc-950 to-zinc-900 text-center">
                 <img src="${brandLogo}" alt="${brandTitle}" class="max-h-12 max-w-[75%] object-contain mb-2 filter drop-shadow opacity-90 group-hover:scale-105 transition" onerror="this.style.display='none'">
                 <span class="text-xs font-extrabold text-amber-300 line-clamp-2 px-1">${g.game_name}</span>
-                <span class="text-[9px] text-zinc-500 uppercase tracking-widest mt-1">SOFTAPI CERTIFIED</span>
+                <span class="text-[9px] text-zinc-500 uppercase tracking-widest mt-1">ALLINONE CERTIFIED</span>
               </div>
             `}
             

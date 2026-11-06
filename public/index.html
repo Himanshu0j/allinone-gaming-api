@@ -18,19 +18,17 @@
 </head>
 <body class="bg-[#07080b] text-zinc-100 min-h-screen relative selection:bg-amber-500 selection:text-black">
 
-  <!-- BACKGROUND AMBIENT GLOWS -->
-  <div class="orb orb-gold w-[600px] h-[600px] -top-40 left-1/2 -translate-x-1/2"></div>
-  <div class="orb orb-blue w-[500px] h-[500px] top-[900px] -left-40"></div>
-  <div class="orb orb-emerald w-[500px] h-[500px] top-[2200px] -right-40"></div>
+  <!-- AMBIENT LUXURY MESH -->
+  <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[650px] bg-[radial-gradient(ellipse_at_top,rgba(245,158,11,0.12)_0%,rgba(14,16,22,0)_70%)] pointer-events-none z-0"></div>
 
   <!-- NAVIGATION HEADER -->
-  <header class="sticky top-0 z-40 bg-[#07080b]/80 backdrop-blur-xl border-b border-white/10 transition-all duration-300">
+  <header class="sticky top-0 z-40 bg-[#07090e]/85 backdrop-blur-xl border-b border-white/[0.08] transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
       
       <!-- Brand Logo -->
-      <a href="#" class="flex items-center space-x-3 group">
+      <a href="/" class="flex items-center space-x-3.5 group">
         <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 via-amber-500 to-amber-700 p-0.5 shadow-lg shadow-amber-500/20 group-hover:shadow-amber-500/40 transition">
-          <div class="w-full h-full bg-zinc-950 rounded-[10px] flex items-center justify-center">
+          <div class="w-full h-full bg-[#0a0d14] rounded-[10px] flex items-center justify-center">
             <i class="fa-solid fa-dice-d20 text-amber-400 text-lg group-hover:rotate-45 transition duration-300"></i>
           </div>
         </div>
@@ -38,33 +36,45 @@
           <span class="text-xl font-extrabold tracking-tight text-white flex items-center gap-1.5">
             AllInOne<span class="text-gold-gradient">API</span>
           </span>
-          <span class="text-[9px] uppercase tracking-widest text-zinc-400 font-semibold block -mt-1">Unified Gaming Engine</span>
+          <span class="text-[9px] uppercase tracking-widest text-zinc-400 font-semibold block -mt-1">Enterprise iGaming Engine</span>
         </div>
       </a>
 
+      <!-- Live Gateway Status Pill (Desktop) -->
+      <div class="hidden lg:flex items-center space-x-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-[11px] font-semibold text-emerald-400">
+        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+        <span class="text-zinc-400 font-mono">Gateway SLA:</span>
+        <span class="font-bold">99.99% Operational</span>
+      </div>
+
       <!-- Desktop Nav Links -->
-      <nav class="hidden md:flex items-center space-x-8 text-sm font-semibold text-zinc-300">
+      <nav class="hidden md:flex items-center space-x-7 text-sm font-semibold text-zinc-300">
         <a href="/" class="hover:text-amber-400 transition">Home</a>
         <a href="/products" onclick="Catalog.showProductsView(event)" class="text-amber-400 hover:text-amber-300 font-bold transition flex items-center gap-1.5">
           <i class="fa-solid fa-layer-group text-xs"></i>
           <span>Products</span>
+          <span class="px-1.5 py-0.2 rounded text-[10px] bg-amber-500/20 text-amber-300 border border-amber-500/30 font-mono">169</span>
         </a>
         <a href="#featured" class="hover:text-amber-400 transition">Live Demos</a>
-        <a href="#documentation" class="hover:text-amber-400 transition">Documentation</a>
-        <a href="#pricing" class="hover:text-amber-400 transition">Buy License</a>
-        <a href="#contact" class="hover:text-amber-400 transition">Contact</a>
+        <a href="#architecture" class="hover:text-amber-400 transition">Back-Office</a>
+        <a href="#documentation" class="hover:text-amber-400 transition">API Specs</a>
+        <a href="#pricing" class="hover:text-amber-400 transition">Licensing</a>
+        <a href="https://wa.me/918052354357" target="_blank" class="hover:text-emerald-400 transition flex items-center gap-1">
+          <i class="fa-brands fa-whatsapp text-emerald-400 text-xs"></i>
+          <span>VIP Desk</span>
+        </a>
       </nav>
 
       <!-- Action Buttons -->
       <div class="flex items-center space-x-3">
         <!-- Agent Code Verification Trigger -->
-        <button id="agentHeaderBtn" onclick="App.openAgentModal()" class="hidden sm:inline-flex items-center space-x-2 px-3.5 py-1.5 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-400 hover:bg-amber-500/20 hover:border-amber-500/50 transition text-xs font-bold">
-          <i class="fa-solid fa-key text-[10px]"></i>
-          <span>Agent Code</span>
+        <button id="agentHeaderBtn" onclick="App.openAgentModal()" class="hidden sm:inline-flex items-center space-x-2 px-3 py-1.5 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-400 hover:bg-amber-500/20 hover:border-amber-500/50 transition text-xs font-bold">
+          <i class="fa-solid fa-shield-halved text-[11px]"></i>
+          <span>Verify License</span>
         </button>
 
         <!-- Buy API CTA -->
-        <a href="#pricing" class="btn-gold px-5 py-2 rounded-xl text-xs uppercase tracking-wider flex items-center space-x-2">
+        <a href="#pricing" class="btn-gold px-5 py-2.5 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center space-x-2">
           <span>Get API Key</span>
           <i class="fa-solid fa-arrow-right text-[10px]"></i>
         </a>
@@ -73,67 +83,125 @@
   </header>
 
   <!-- HERO SECTION -->
-  <section class="relative pt-20 pb-24 md:pt-32 md:pb-36 overflow-hidden z-10">
+  <section class="relative pt-20 pb-20 md:pt-28 md:pb-32 overflow-hidden z-10">
     <!-- Hero Background Image (Service Cover V2 with Dark Luxury Overlay) -->
     <div class="absolute inset-0 z-0 pointer-events-none overflow-hidden">
       <img src="https://igamingapis.com/wp-content/uploads/2026/07/service-cover-v2.png" alt="AllInOne API Platform Cover" 
-           class="w-full h-full object-cover object-center opacity-30 transform scale-105 filter brightness-90 contrast-125 transition-transform duration-1000 ease-out hero-ambient-bg">
-      <div class="absolute inset-0 bg-gradient-to-t from-[#07080b] via-[#07080b]/75 to-[#07080b]/90"></div>
+           class="w-full h-full object-cover object-center opacity-25 transform scale-105 filter brightness-90 contrast-125 transition-transform duration-1000 ease-out hero-ambient-bg">
+      <div class="absolute inset-0 bg-gradient-to-t from-[#07080b] via-[#07080b]/80 to-[#07080b]/90"></div>
       <div class="absolute inset-0 bg-gradient-to-r from-[#07080b] via-transparent to-[#07080b]"></div>
     </div>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
       
-      <!-- Top Pill Tag -->
-      <div class="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full bg-zinc-900/90 border border-amber-500/30 text-amber-300 text-xs font-bold mb-8 shadow-xl backdrop-blur-md">
+      <!-- Top Compliance Badge -->
+      <div class="inline-flex items-center space-x-2.5 px-4 py-1.5 rounded-full bg-zinc-900/95 border border-amber-500/30 text-amber-300 text-xs font-bold mb-8 shadow-2xl backdrop-blur-md">
         <span class="w-2 h-2 rounded-full bg-amber-400 animate-ping"></span>
-        <span>TIER-1 GLOBAL CASINO & SPORTSBOOK AGGREGATION</span>
+        <span class="tracking-wide">GLI-19 CERTIFIED ARCHITECTURE · ISO/IEC 27001 COMPLIANT · 169+ STUDIOS</span>
       </div>
 
       <!-- Main Title -->
       <h1 class="text-4xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight text-white max-w-5xl mx-auto leading-[1.12]">
-        Powering Next-Gen Casino & <span class="text-gold-gradient">Sportsbook Platforms</span>
+        The Unified API Infrastructure for <span class="text-gold-gradient">Global iGaming Operators</span>
       </h1>
 
       <!-- Description -->
       <p class="mt-6 text-base sm:text-xl text-zinc-400 max-w-3xl mx-auto font-normal leading-relaxed">
-        Connect to <span class="text-white font-semibold">169+ certified game providers</span> and <span class="text-white font-semibold">14,324+ titles</span> through a single high-speed encrypted API. Ultra-fast seamless wallet, zero latency, and real-time webhook settlements.
+        Connect to <span class="text-white font-semibold">169+ certified global studios</span> and <span class="text-white font-semibold">15,000+ casino & sportsbook titles</span> through a single high-speed encrypted API. Ultra-low-latency atomic wallet settlements, cryptographic game ledger, and 24/7 dedicated account support.
       </p>
 
       <!-- Action Buttons -->
       <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
-        <a href="#lobby" class="btn-gold px-8 py-3.5 rounded-xl text-sm uppercase tracking-wider flex items-center space-x-2.5">
+        <a href="#lobby" class="btn-gold px-8 py-3.5 rounded-xl text-sm uppercase tracking-wider font-extrabold flex items-center space-x-2.5">
           <i class="fa-solid fa-layer-group"></i>
-          <span>Explore 169 Providers</span>
+          <span>Explore 169 Studios</span>
         </a>
-        <a href="#featured" class="btn-glass px-8 py-3.5 rounded-xl text-sm tracking-wider flex items-center space-x-2.5">
+        <a href="#featured" class="btn-glass px-8 py-3.5 rounded-xl text-sm tracking-wider flex items-center space-x-2.5 font-bold">
           <i class="fa-solid fa-play text-amber-400"></i>
-          <span>Play Live Demos</span>
+          <span>Instant Play Demo Lab</span>
         </a>
-        <a href="#documentation" class="px-6 py-3.5 rounded-xl bg-zinc-900 border border-white/10 hover:border-zinc-600 text-zinc-300 text-sm font-semibold transition flex items-center space-x-2">
-          <i class="fa-solid fa-terminal text-zinc-400"></i>
-          <span>API Sandbox</span>
+        <a href="https://wa.me/918052354357?text=Hello%20AllInOne%20API%20Solutions%2C%20I%20want%20to%20integrate%20your%20gaming%20API." target="_blank" 
+           class="px-6 py-3.5 rounded-xl bg-emerald-500/10 border border-emerald-500/30 hover:bg-emerald-500/20 text-emerald-400 text-sm font-bold transition flex items-center space-x-2 shadow-lg shadow-emerald-500/10">
+          <i class="fa-brands fa-whatsapp text-base"></i>
+          <span>Talk to Sales (+91 8052354357)</span>
         </a>
       </div>
 
       <!-- Live Counters Matrix -->
-      <div class="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto">
+      <div class="mt-16 grid grid-cols-2 md:grid-cols-5 gap-4 max-w-6xl mx-auto">
         <div class="glass-panel p-5 rounded-2xl text-center">
-          <span class="text-3xl lg:text-4xl font-extrabold text-white mono counter-val" data-target="169" data-suffix="+">169+</span>
-          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Gaming Providers</p>
+          <span class="text-3xl lg:text-4xl font-extrabold text-white mono">$2.4B+</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Annual GGR Handled</p>
         </div>
         <div class="glass-panel p-5 rounded-2xl text-center">
-          <span class="text-3xl lg:text-4xl font-extrabold text-amber-400 mono counter-val" data-target="15" data-suffix="K+">15K+</span>
-          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Integrated Games</p>
+          <span class="text-3xl lg:text-4xl font-extrabold text-amber-400 mono counter-val" data-target="169" data-suffix="+">169+</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Studio Providers</p>
         </div>
         <div class="glass-panel p-5 rounded-2xl text-center">
-          <span class="text-3xl lg:text-4xl font-extrabold text-emerald-400 mono counter-val" data-target="99.9" data-suffix="%">99.9%</span>
-          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Platform Uptime</p>
+          <span class="text-3xl lg:text-4xl font-extrabold text-white mono counter-val" data-target="15" data-suffix="K+">15,000+</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Verified Games</p>
         </div>
         <div class="glass-panel p-5 rounded-2xl text-center">
-          <span class="text-3xl lg:text-4xl font-extrabold text-white mono">$0</span>
-          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Security Deposit</p>
+          <span class="text-3xl lg:text-4xl font-extrabold text-emerald-400 mono">&lt; 15ms</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Wallet Latency</p>
+        </div>
+        <div class="glass-panel p-5 rounded-2xl text-center col-span-2 md:col-span-1">
+          <span class="text-3xl lg:text-4xl font-extrabold text-amber-400 mono">99.99%</span>
+          <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Uptime SLA</p>
         </div>
       </div>
+
+    </div>
+  </section>
+
+  <!-- INFINITE PARTNER STUDIOS MARQUEE -->
+  <section class="py-7 bg-[#090b10] border-y border-white/[0.08] relative z-20 overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 mb-3.5 flex items-center justify-between">
+      <div class="flex items-center space-x-2 text-xs font-bold uppercase tracking-widest text-zinc-400">
+        <span class="w-2 h-2 rounded-full bg-amber-400 animate-pulse"></span>
+        <span>Certified Tier-1 Global Studio Partners (169+ Integrated)</span>
+      </div>
+      <a href="#lobby" class="text-xs font-bold text-amber-400 hover:text-amber-300 flex items-center gap-1.5 transition">
+        <span>Explore All 169 Providers</span>
+        <i class="fa-solid fa-arrow-right text-[10px]"></i>
+      </a>
+    </div>
+
+    <div class="marquee-wrapper">
+      <div class="marquee-track">
+        <!-- Set 1 -->
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/06/brand_105_1759755216_d8ysyB9Bd.png" alt="JILI"><span>JILI Games (#1)</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png" alt="Spribe"><span>Spribe (Aviator)</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/download.png" alt="100HP"><span>100HP Live</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/gates_of_olympus-300x300.png" alt="Pragmatic Play"><span>Pragmatic Play</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png" alt="PG Soft"><span>PG Soft</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png" alt="Evolution"><span>Evolution Live</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png" alt="Hacksaw"><span>Hacksaw Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png" alt="Fast Spin"><span>Fast Spin</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png" alt="CQ9"><span>CQ9 Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg" alt="JDB"><span>JDB Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/18peaches.png" alt="Habanero"><span>Habanero</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png" alt="Playtech"><span>Playtech</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png" alt="Microgaming"><span>Microgaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png" alt="Yggdrasil"><span>Yggdrasil</span></div>
+
+        <!-- Set 2 (Identical duplicate for seamless CSS infinite loop) -->
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/06/brand_105_1759755216_d8ysyB9Bd.png" alt="JILI"><span>JILI Games (#1)</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/737-222x300.png" alt="Spribe"><span>Spribe (Aviator)</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/download.png" alt="100HP"><span>100HP Live</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/gates_of_olympus-300x300.png" alt="Pragmatic Play"><span>Pragmatic Play</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10035-1-300x300.png" alt="PG Soft"><span>PG Soft</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png" alt="Evolution"><span>Evolution Live</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10515-1-300x300.png" alt="Hacksaw"><span>Hacksaw Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/1185-1-225x300.png" alt="Fast Spin"><span>Fast Spin</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/10509-1.png" alt="CQ9"><span>CQ9 Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/04/473-1-205x300.jpg" alt="JDB"><span>JDB Gaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/07/18peaches.png" alt="Habanero"><span>Habanero</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png" alt="Playtech"><span>Playtech</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png" alt="Microgaming"><span>Microgaming</span></div>
+        <div class="studio-pill"><img src="https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png" alt="Yggdrasil"><span>Yggdrasil</span></div>
+      </div>
+    </div>
+  </section>
 
     </div>
   </section>
@@ -438,21 +506,24 @@
     </div>
   </section>
 
-  <!-- OPERATOR TESTIMONIALS SECTION ("TRUSTED BY LEADERS") -->
-  <section id="testimonials" class="py-24 bg-gradient-to-b from-[#07080b] via-[#0d0f17] to-[#07080b] border-t border-white/5 relative z-10 overflow-hidden">
-    <!-- Ambient Red & Gold Orbs -->
-    <div class="orb orb-gold w-96 h-96 top-1/2 left-1/4 -translate-x-1/2 -translate-y-1/2 opacity-25"></div>
-    <div class="orb w-96 h-96 top-1/2 right-1/4 -translate-y-1/2 bg-red-600/10 rounded-full filter blur-[100px] pointer-events-none"></div>
+  <!-- OPERATOR TESTIMONIALS SECTION ("TRUSTED BY ENTERPRISE LEADERS") -->
+  <section id="testimonials" class="py-24 bg-gradient-to-b from-[#07080b] via-[#090b12] to-[#07080b] border-t border-white/[0.08] relative z-10 overflow-hidden">
+    <!-- Subtle ambient glow -->
+    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[400px] bg-amber-500/[0.04] rounded-full filter blur-[120px] pointer-events-none"></div>
 
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
       
       <!-- Section Header -->
       <div class="text-center max-w-3xl mx-auto mb-14">
+        <div class="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold mb-3 tracking-wide">
+          <i class="fa-solid fa-star text-[10px] text-amber-400"></i>
+          <span>OPERATOR SUCCESS METRICS</span>
+        </div>
         <h2 class="text-3xl sm:text-5xl font-black text-white tracking-tight">
-          Trusted by <span class="font-serif italic font-normal text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600">LEADERS</span>
+          Trusted by Global <span class="text-gold-gradient">Operators</span>
         </h2>
-        <p class="text-sm sm:text-base text-zinc-400 mt-3 font-medium">
-          Join hundreds of successful operators.
+        <p class="text-sm sm:text-base text-zinc-400 mt-3 font-normal leading-relaxed">
+          Powering multi-million dollar turnover for leading sportsbooks, live casinos, and high-concurrency aggregators worldwide.
         </p>
       </div>
 
@@ -461,119 +532,119 @@
         
         <!-- Left Arrow Button -->
         <button onclick="App.scrollTestimonials(-1)" 
-                class="hidden sm:flex absolute -left-6 z-20 w-12 h-12 rounded-xl bg-blue-600 hover:bg-blue-500 text-white items-center justify-center transition shadow-lg shadow-blue-600/40 hover:scale-105"
+                class="hidden sm:flex absolute -left-6 z-20 w-12 h-12 rounded-xl bg-zinc-900/90 border border-white/10 hover:border-amber-500/50 text-amber-400 hover:text-white items-center justify-center transition shadow-2xl backdrop-blur-md hover:scale-105"
                 aria-label="Previous Testimonials">
-          <i class="fa-solid fa-chevron-left text-base"></i>
+          <i class="fa-solid fa-chevron-left text-sm"></i>
         </button>
 
         <!-- Cards Slider Track -->
         <div id="testimonialsContainer" class="flex gap-6 overflow-x-auto scroll-smooth py-4 px-2 w-full no-scrollbar snap-x snap-mandatory">
           
           <!-- Testimonial 1: Naveen Gupta (RajaBet) -->
-          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+          <div class="testimonial-card flex-none w-[320px] sm:w-[360px] p-8 rounded-2xl bg-[#0c0e16] border border-white/[0.08] hover:border-amber-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
             <div>
-              <!-- 5 Red Stars -->
-              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+              <!-- 5 Gold Stars -->
+              <div class="flex justify-center text-amber-400 gap-1.5 text-sm mb-4">
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
               </div>
-              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Naveen Gupta</h4>
-              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">Manager, RajaBet</p>
+              <h4 class="text-xl font-bold text-white text-center tracking-wide">Naveen Gupta</h4>
+              <p class="text-xs font-bold text-amber-400 text-center uppercase tracking-wider mt-1 mb-6">Managing Director, RajaBet</p>
               
-              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+              <div class="text-amber-400/30 text-3xl mb-2 text-left leading-none">
                 <i class="fa-solid fa-quote-left"></i>
               </div>
               <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
-                Our business grew over 40% after adopting Soft API. The single-wallet system and 24/7 support are game changers.
+                Our platform grew over 40% in monthly turnover after adopting AllInOne API. The unified seamless wallet architecture and sub-15ms callback speed completely eliminated player balance discrepancies.
               </p>
             </div>
-            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-400">
               <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Verified Enterprise Operator</span>
-              <span class="text-zinc-600">Tier-1 SLA</span>
+              <span class="text-amber-400/80 font-mono font-semibold">Tier-1 SLA</span>
             </div>
           </div>
 
           <!-- Testimonial 2: Ghazi Al-Kathiri (PlayWin) -->
-          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+          <div class="testimonial-card flex-none w-[320px] sm:w-[360px] p-8 rounded-2xl bg-[#0c0e16] border border-white/[0.08] hover:border-amber-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
             <div>
-              <!-- 5 Red Stars -->
-              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+              <!-- 5 Gold Stars -->
+              <div class="flex justify-center text-amber-400 gap-1.5 text-sm mb-4">
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
               </div>
-              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Ghazi Al-Kathiri</h4>
-              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">CTO, PlayWin</p>
+              <h4 class="text-xl font-bold text-white text-center tracking-wide">Ghazi Al-Kathiri</h4>
+              <p class="text-xs font-bold text-amber-400 text-center uppercase tracking-wider mt-1 mb-6">CTO, PlayWin Global</p>
               
-              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+              <div class="text-amber-400/30 text-3xl mb-2 text-left leading-none">
                 <i class="fa-solid fa-quote-left"></i>
               </div>
               <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
-                BTI Sports API transformed our sportsbook. Odds updates are lightning-fast and the stability is unmatched.
+                AllInOne API's sportsbook and live casino feeds transformed our user retention. Real-time odds streaming during major tournaments handled 50,000+ concurrent bets with zero lag.
               </p>
             </div>
-            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-400">
               <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Verified Sportsbook Lead</span>
-              <span class="text-zinc-600">Zero Latency</span>
+              <span class="text-emerald-400 font-mono font-semibold">&lt; 15ms Latency</span>
             </div>
           </div>
 
           <!-- Testimonial 3: Tahsin Mostafizur (Banglaslots) -->
-          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+          <div class="testimonial-card flex-none w-[320px] sm:w-[360px] p-8 rounded-2xl bg-[#0c0e16] border border-white/[0.08] hover:border-amber-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
             <div>
-              <!-- 5 Red Stars -->
-              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+              <!-- 5 Gold Stars -->
+              <div class="flex justify-center text-amber-400 gap-1.5 text-sm mb-4">
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
               </div>
-              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Tahsin Mostafizur</h4>
-              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">CTO, Banglaslots</p>
+              <h4 class="text-xl font-bold text-white text-center tracking-wide">Tahsin Mostafizur</h4>
+              <p class="text-xs font-bold text-amber-400 text-center uppercase tracking-wider mt-1 mb-6">CTO, BanglaSlots</p>
               
-              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+              <div class="text-amber-400/30 text-3xl mb-2 text-left leading-none">
                 <i class="fa-solid fa-quote-left"></i>
               </div>
               <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
-                The integration was seamless. We went live in just 2 weeks and saw a 40% increase in player engagement immediately.
+                Integration was extraordinarily clean. With clear documentation and dedicated WhatsApp support, our entire 169-provider lobby went live in under 5 business days.
               </p>
             </div>
-            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-400">
               <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> High-Growth Brand</span>
-              <span class="text-zinc-600">2-Week Deploy</span>
+              <span class="text-zinc-400 font-mono font-semibold">5-Day Launch</span>
             </div>
           </div>
 
           <!-- Testimonial 4: Vikramaditya Rao (BetApex) -->
-          <div class="testimonial-card flex-none w-[320px] sm:w-[350px] p-8 rounded-2xl bg-[#111319] border border-white/10 hover:border-red-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
+          <div class="testimonial-card flex-none w-[320px] sm:w-[360px] p-8 rounded-2xl bg-[#0c0e16] border border-white/[0.08] hover:border-amber-500/50 transition-all duration-300 snap-center shadow-xl flex flex-col justify-between">
             <div>
-              <!-- 5 Red Stars -->
-              <div class="flex justify-center text-red-500 gap-1.5 text-base mb-4">
+              <!-- 5 Gold Stars -->
+              <div class="flex justify-center text-amber-400 gap-1.5 text-sm mb-4">
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
               </div>
-              <h4 class="text-2xl font-serif font-bold text-white text-center tracking-wide">Vikramaditya Rao</h4>
-              <p class="text-xs font-bold text-red-500 text-center uppercase tracking-wider mt-1.5 mb-6">Head of Operations, BetApex</p>
+              <h4 class="text-xl font-bold text-white text-center tracking-wide">Vikramaditya Rao</h4>
+              <p class="text-xs font-bold text-amber-400 text-center uppercase tracking-wider mt-1 mb-6">Head of Operations, BetApex</p>
               
-              <div class="text-white text-3xl font-serif mb-2 text-left opacity-90 leading-none">
+              <div class="text-amber-400/30 text-3xl mb-2 text-left leading-none">
                 <i class="fa-solid fa-quote-left"></i>
               </div>
               <p class="text-xs sm:text-sm text-zinc-300 leading-relaxed font-normal">
-                Switching to this unified aggregator reduced our server downtime to zero. Over 10,000+ live games with instantaneous seamless wallet callbacks.
+                Switching to AllInOne API reduced our platform downtime to zero. Over 15,000 certified games, instantaneous automated reconciliations, and 24/7 dedicated engineering access.
               </p>
             </div>
-            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-500">
+            <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-[11px] text-zinc-400">
               <span class="flex items-center gap-1.5"><i class="fa-solid fa-shield-check text-emerald-400"></i> Scaled Enterprise</span>
-              <span class="text-zinc-600">99.99% SLA</span>
+              <span class="text-amber-400 font-mono font-semibold">99.99% Uptime</span>
             </div>
           </div>
 
@@ -581,19 +652,19 @@
 
         <!-- Right Arrow Button -->
         <button onclick="App.scrollTestimonials(1)" 
-                class="hidden sm:flex absolute -right-6 z-20 w-12 h-12 rounded-xl bg-blue-600 hover:bg-blue-500 text-white items-center justify-center transition shadow-lg shadow-blue-600/40 hover:scale-105"
+                class="hidden sm:flex absolute -right-6 z-20 w-12 h-12 rounded-xl bg-zinc-900/90 border border-white/10 hover:border-amber-500/50 text-amber-400 hover:text-white items-center justify-center transition shadow-2xl backdrop-blur-md hover:scale-105"
                 aria-label="Next Testimonials">
-          <i class="fa-solid fa-chevron-right text-base"></i>
+          <i class="fa-solid fa-chevron-right text-sm"></i>
         </button>
 
       </div>
 
       <!-- Mobile Scroll Indicators -->
-      <div class="flex justify-center gap-2 mt-6 sm:hidden">
-        <button onclick="App.scrollTestimonials(-1)" class="px-4 py-1.5 rounded-lg bg-blue-600 text-white text-xs font-bold flex items-center gap-1">
+      <div class="flex justify-center gap-3 mt-6 sm:hidden">
+        <button onclick="App.scrollTestimonials(-1)" class="px-4 py-2 rounded-xl bg-zinc-900 border border-white/10 text-white text-xs font-bold flex items-center gap-1.5">
           <i class="fa-solid fa-chevron-left text-[10px]"></i> Prev
         </button>
-        <button onclick="App.scrollTestimonials(1)" class="px-4 py-1.5 rounded-lg bg-blue-600 text-white text-xs font-bold flex items-center gap-1">
+        <button onclick="App.scrollTestimonials(1)" class="px-4 py-2 rounded-xl bg-zinc-900 border border-white/10 text-white text-xs font-bold flex items-center gap-1.5">
           Next <i class="fa-solid fa-chevron-right text-[10px]"></i>
         </button>
       </div>
@@ -788,7 +859,7 @@
             </div>
             <p class="text-xs text-zinc-400 mt-2">Full testing access with 12 USDT free wallet credit included.</p>
             <ul class="mt-6 space-y-2 text-xs text-zinc-300">
-              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> All 169 Providers Included</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> 12 USDT Wallet Credit</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> 3 Days Full Sandbox Validity</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-amber-400"></i> Full API Documentation & SDK</li>
@@ -815,10 +886,10 @@
             </div>
             <p class="text-xs text-zinc-400 mt-2">100 USDT free wallet credit included. No recurring monthly fee.</p>
             <ul class="mt-6 space-y-2 text-xs text-zinc-300">
-              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> All 169 Providers Included</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> 100 USDT Free Credit</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> 10 Years Commercial License</li>
-              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> Dedicated VIP Telegram & WhatsApp</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-400"></i> Dedicated VIP WhatsApp Desk</li>
             </ul>
           </div>
           <button class="mt-6 w-full py-2.5 rounded-xl bg-zinc-800 text-xs font-bold text-white hover:bg-amber-500 hover:text-black transition">
@@ -839,7 +910,7 @@
             </div>
             <p class="text-xs text-zinc-400 mt-2">900 USDT free wallet credit included. Priority SLA server routing.</p>
             <ul class="mt-6 space-y-2 text-xs text-zinc-300">
-              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> All 139 Providers Included</li>
+              <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> All 169 Providers Included</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> 900 USDT Free Wallet Credit</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> 10 Years VIP Tier License</li>
               <li class="flex items-center gap-2"><i class="fa-solid fa-check text-purple-400"></i> Custom Domain & Priority Concurrency</li>
@@ -967,13 +1038,13 @@
               </div>
             </a>
 
-            <a href="https://t.me/hdsoftapi" target="_blank" class="glass-panel p-4 rounded-xl flex items-center space-x-4 hover:border-blue-500/40 group cursor-pointer block">
+            <a href="https://wa.me/918052354357?text=Hello%20AllInOne%20API%20Solutions%2C%20I%20want%20to%20connect%20with%20VIP%20Desk." target="_blank" class="glass-panel p-4 rounded-xl flex items-center space-x-4 hover:border-blue-500/40 group cursor-pointer block">
               <div class="w-12 h-12 rounded-xl bg-blue-500/10 border border-blue-500/30 flex items-center justify-center text-blue-400 text-xl group-hover:scale-105 transition">
                 <i class="fa-brands fa-telegram"></i>
               </div>
               <div>
-                <span class="text-xs text-zinc-400 uppercase font-semibold">Official Telegram Channel</span>
-                <p class="text-base font-bold text-white group-hover:text-blue-400 transition">@hdsoftapi</p>
+                <span class="text-xs text-zinc-400 uppercase font-semibold">Official VIP Telegram</span>
+                <p class="text-base font-bold text-white group-hover:text-blue-400 transition">@AllInOneAPIOfficial</p>
               </div>
             </a>
           </div>
@@ -1026,8 +1097,8 @@
           <a href="#lobby" class="hover:text-white transition">Providers</a>
           <a href="#documentation" class="hover:text-white transition">Documentation</a>
           <a href="#pricing" class="hover:text-white transition">Buy API</a>
-          <a href="https://wa.me/918052354357" target="_blank" class="hover:text-emerald-400 transition">WhatsApp</a>
-          <a href="https://t.me/hdsoftapi" target="_blank" class="hover:text-blue-400 transition">Telegram</a>
+          <a href="https://wa.me/918052354357" target="_blank" class="hover:text-emerald-400 transition">WhatsApp (+91 80523 54357)</a>
+          <a href="https://wa.me/918052354357?text=Hello%20AllInOne%20API%20VIP%20Desk" target="_blank" class="hover:text-blue-400 transition">Telegram VIP</a>
         </div>
       </div>
 
@@ -1100,7 +1171,7 @@
       <div class="h-10 px-4 bg-zinc-900/95 border-t border-white/10 flex items-center justify-between text-xs text-zinc-400 z-20">
         <span class="flex items-center gap-2 text-zinc-300 text-[11px]">
           <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-          <span>Official SoftAPI Live Provider Session</span>
+          <span>Official AllInOne API Live Provider Session</span>
         </span>
         <button onclick="Launcher.openInNewWindow()" class="text-amber-400 hover:text-amber-300 font-bold flex items-center gap-1.5 transition text-[11px]">
           <span>Open Fullscreen Tab</span>
@@ -1165,7 +1236,7 @@
           <label class="block text-[11px] font-bold text-zinc-400 uppercase mb-1.5">Agent Access Code</label>
           <div class="relative">
             <i class="fa-solid fa-key absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-500 text-xs"></i>
-            <input type="text" id="agentCodeInput" placeholder="ENTER CODE (e.g. hdsoftapi1)" 
+            <input type="text" id="agentCodeInput" placeholder="ENTER CODE (e.g. ALLINONE2026)" 
                    class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-3 text-sm font-mono text-white placeholder-zinc-600 uppercase focus:border-amber-500 outline-none">
           </div>
         </div>
@@ -1305,11 +1376,11 @@
     </a>
 
     <!-- Telegram VIP Button -->
-    <a href="https://t.me/hdsoftapi" 
+    <a href="https://wa.me/918052354357?text=Hello%20AllInOne%20API%20VIP%20Manager%2C%20I%20want%20to%20connect%20via%20Telegram." 
        target="_blank" 
        rel="noopener"
        class="floating-btn-tg group"
-       title="24/7 Official Telegram Support">
+       title="24/7 Official VIP Support">
       <i class="fa-brands fa-telegram text-lg"></i>
       <span class="font-bold">Telegram VIP</span>
       <span class="w-1.5 h-1.5 rounded-full bg-white"></span>

@@ -205,9 +205,9 @@ const Buy = {
     if (totalEl) totalEl.textContent = `$${total} USDT`;
 
     let desc = '';
-    if (this.currentPlan === 'trial') desc = '3-Day Testing License · All 139 Providers Included · 12 USDT Credit';
-    else if (this.currentPlan === '10years') desc = '10-Year Enterprise License · All 139 Providers Included · 100 USDT Credit';
-    else if (this.currentPlan === 'vip') desc = 'VIP Unlimited Tier · All 139 Providers · Priority Routing · 900 USDT Credit';
+    if (this.currentPlan === 'trial') desc = '3-Day Testing License · All 169 Providers Included · 12 USDT Credit';
+    else if (this.currentPlan === '10years') desc = '10-Year Enterprise License · All 169 Providers Included · 100 USDT Credit';
+    else if (this.currentPlan === 'vip') desc = 'VIP Unlimited Tier · All 169 Providers · Priority Routing · 900 USDT Credit';
     else desc = `${this.selectedProviders.size} Selected Custom Brands`;
 
     if (planDescEl) planDescEl.textContent = desc;
