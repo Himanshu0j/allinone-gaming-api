@@ -44,11 +44,15 @@
 
       <!-- Desktop Nav Links -->
       <nav class="hidden md:flex items-center space-x-8 text-sm font-semibold text-zinc-300">
-        <a href="#lobby" class="hover:text-amber-400 transition">Providers & Games</a>
+        <a href="/" class="hover:text-amber-400 transition">Home</a>
+        <a href="/products" onclick="Catalog.showProductsView(event)" class="text-amber-400 hover:text-amber-300 font-bold transition flex items-center gap-1.5">
+          <i class="fa-solid fa-layer-group text-xs"></i>
+          <span>Products</span>
+        </a>
         <a href="#featured" class="hover:text-amber-400 transition">Live Demos</a>
-        <a href="#documentation" class="hover:text-amber-400 transition">API Docs</a>
+        <a href="#documentation" class="hover:text-amber-400 transition">Documentation</a>
         <a href="#pricing" class="hover:text-amber-400 transition">Buy License</a>
-        <a href="#contact" class="hover:text-amber-400 transition">Support</a>
+        <a href="#contact" class="hover:text-amber-400 transition">Contact</a>
       </nav>
 
       <!-- Action Buttons -->
@@ -92,14 +96,14 @@
 
       <!-- Description -->
       <p class="mt-6 text-base sm:text-xl text-zinc-400 max-w-3xl mx-auto font-normal leading-relaxed">
-        Connect to <span class="text-white font-semibold">139+ certified game providers</span> and <span class="text-white font-semibold">15,000+ titles</span> through a single high-speed encrypted API. Ultra-fast seamless wallet, zero latency, and real-time webhook settlements.
+        Connect to <span class="text-white font-semibold">169+ certified game providers</span> and <span class="text-white font-semibold">14,324+ titles</span> through a single high-speed encrypted API. Ultra-fast seamless wallet, zero latency, and real-time webhook settlements.
       </p>
 
       <!-- Action Buttons -->
       <div class="mt-10 flex flex-wrap items-center justify-center gap-4">
         <a href="#lobby" class="btn-gold px-8 py-3.5 rounded-xl text-sm uppercase tracking-wider flex items-center space-x-2.5">
           <i class="fa-solid fa-layer-group"></i>
-          <span>Explore 139 Providers</span>
+          <span>Explore 169 Providers</span>
         </a>
         <a href="#featured" class="btn-glass px-8 py-3.5 rounded-xl text-sm tracking-wider flex items-center space-x-2.5">
           <i class="fa-solid fa-play text-amber-400"></i>
@@ -114,7 +118,7 @@
       <!-- Live Counters Matrix -->
       <div class="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto">
         <div class="glass-panel p-5 rounded-2xl text-center">
-          <span class="text-3xl lg:text-4xl font-extrabold text-white mono counter-val" data-target="139" data-suffix="+">139+</span>
+          <span class="text-3xl lg:text-4xl font-extrabold text-white mono counter-val" data-target="169" data-suffix="+">169+</span>
           <p class="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-semibold">Gaming Providers</p>
         </div>
         <div class="glass-panel p-5 rounded-2xl text-center">
@@ -285,74 +289,151 @@
     </div>
   </section>
 
-  <!-- PROVIDER LOBBY & SEARCH MATRIX -->
+  <!-- PRODUCTS DIRECTORY & DEDICATED BRAND CATALOG SECTION -->
   <section id="lobby" class="py-20 relative z-10">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       
-      <div class="text-center max-w-3xl mx-auto mb-10">
-        <span class="text-xs font-bold text-amber-400 uppercase tracking-widest">Global Brand Network</span>
-        <h2 class="text-3xl sm:text-4xl font-extrabold text-white mt-1">
-          139+ Certified <span class="text-gold-gradient">Game Providers</span>
-        </h2>
-        <p class="text-sm text-zinc-400 mt-2">
-          Slots, Live Dealer Casinos, Crash Games, Sportsbooks, Card Games, Marbles & Matka. Filter by category or search your favorite studio.
-        </p>
-      </div>
-
-      <!-- Search & Category Filters Bar -->
-      <div class="bg-zinc-950/90 border border-white/10 rounded-2xl p-4 mb-8 shadow-xl">
-        <div class="flex flex-col md:flex-row items-center justify-between gap-4">
-          
-          <!-- Category Tabs -->
-          <div class="flex items-center space-x-1.5 overflow-x-auto w-full md:w-auto pb-2 md:pb-0 scrollbar-none">
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-amber-500 text-black border border-amber-500" data-cat="all">
-              <i class="fa-solid fa-shapes mr-1.5"></i> All
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="hot">
-              <i class="fa-solid fa-fire text-amber-400 mr-1.5"></i> HOT
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="slots">
-              <i class="fa-solid fa-dice mr-1.5"></i> Slots
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="live-casino">
-              <i class="fa-solid fa-video mr-1.5"></i> Live Casino
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="sports">
-              <i class="fa-solid fa-futbol mr-1.5"></i> Sportsbook
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="mini-game">
-              <i class="fa-solid fa-rocket mr-1.5"></i> Crash / Mini
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="card-game">
-              <i class="fa-solid fa-spade mr-1.5"></i> Card Games
-            </button>
-            <button class="cat-tab-btn px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="matka">
-              <i class="fa-solid fa-gem mr-1.5"></i> Matka
-            </button>
+      <!-- VIEW A: PRODUCTS DIRECTORY (Default 169 Providers Directory) -->
+      <div id="productsDirectoryView">
+        <div class="text-center max-w-3xl mx-auto mb-10">
+          <div class="inline-flex items-center space-x-2 px-3.5 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold mb-3 shadow-lg">
+            <span class="w-2 h-2 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>169 PROVIDERS | 14,324+ INTEGRATED GAMES</span>
           </div>
+          <h2 class="text-3xl sm:text-5xl font-black text-white tracking-tight">
+            Certified Studio & <span class="text-gold-gradient">Game Products</span>
+          </h2>
+          <p class="text-sm sm:text-base text-zinc-400 mt-3 leading-relaxed">
+            Direct high-speed seamless wallet integrations with 169+ top-tier global studios. Filter by category, inspect individual brand catalogs, and launch real games instantly.
+          </p>
+        </div>
 
-          <!-- Search Bar -->
-          <div class="relative w-full md:w-72">
-            <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
-            <input type="text" id="providerSearchInput" placeholder="Search provider brand..." 
-                   class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+        <!-- Search & Category Filters Bar (100% Matching igamingapis.com/products/) -->
+        <div class="bg-zinc-950/90 border border-white/10 rounded-2xl p-4 mb-8 shadow-xl">
+          <div class="flex flex-col lg:flex-row items-center justify-between gap-4">
+            
+            <!-- Category Tabs (10 Categories from igamingapis.com) -->
+            <div class="flex items-center space-x-1.5 overflow-x-auto w-full lg:w-auto pb-2 lg:pb-0 scrollbar-none">
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-amber-500 text-black border border-amber-500" data-cat="all">
+                <i class="fa-solid fa-shapes mr-1.5"></i> All
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="hot">
+                <i class="fa-solid fa-fire text-amber-400 mr-1.5"></i> HOT
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="card-game">
+                <i class="fa-solid fa-spade mr-1.5"></i> Card Game
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="live-casino">
+                <i class="fa-solid fa-video mr-1.5"></i> Live Casino
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="marbles">
+                <i class="fa-solid fa-circle-dot mr-1.5"></i> Marbles
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="mini-game">
+                <i class="fa-solid fa-rocket mr-1.5"></i> Mini Game
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="slots">
+                <i class="fa-solid fa-dice mr-1.5"></i> Slots
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="sports">
+                <i class="fa-solid fa-futbol mr-1.5"></i> Sportsbook
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="other">
+                <i class="fa-solid fa-layer-group mr-1.5"></i> Other
+              </button>
+              <button class="cat-tab-btn px-3.5 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-zinc-900 text-zinc-300 border border-white/10 hover:border-zinc-700" data-cat="matka">
+                <i class="fa-solid fa-gem mr-1.5"></i> Matka
+              </button>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="relative w-full lg:w-72">
+              <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
+              <input type="text" id="providerSearchInput" placeholder="Search 169+ providers..." 
+                     class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+            </div>
+
           </div>
+        </div>
 
+        <!-- Filter Stats -->
+        <div class="flex items-center justify-between mb-4 px-1">
+          <span id="filteredProvidersCount" class="text-xs font-semibold text-zinc-400">Loading providers...</span>
+          <span class="text-xs text-zinc-400 flex items-center gap-1.5">
+            <i class="fa-solid fa-circle-info text-amber-400"></i> Click any brand to open dedicated games catalog & launch live
+          </span>
+        </div>
+
+        <!-- Providers Grid -->
+        <div id="providersGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3.5">
+          <!-- Injected by Catalog.js -->
         </div>
       </div>
 
-      <!-- Filter Stats -->
-      <div class="flex items-center justify-between mb-4 px-1">
-        <span id="filteredProvidersCount" class="text-xs font-semibold text-zinc-400">Loading providers...</span>
-        <span class="text-xs text-zinc-400 flex items-center gap-1.5">
-          <i class="fa-solid fa-circle-info text-amber-400"></i> Click any brand to inspect games & launch demo
-        </span>
+      <!-- VIEW B: DEDICATED BRAND CATALOG (Mirroring igamingapis.com/brand/100hp/) -->
+      <div id="dedicatedBrandView" class="hidden">
+        
+        <!-- Breadcrumb & Back Navigation -->
+        <div class="flex flex-wrap items-center justify-between gap-4 mb-6 pb-4 border-b border-white/10">
+          <div class="flex items-center space-x-2 text-xs font-medium text-zinc-400">
+            <a href="/" class="hover:text-amber-400 transition">Home</a>
+            <span class="text-zinc-600">/</span>
+            <a href="/products" onclick="Catalog.showProductsView(event)" class="hover:text-amber-400 transition">Products</a>
+            <span class="text-zinc-600">/</span>
+            <span id="brandBreadcrumbName" class="text-amber-400 font-bold">100HP</span>
+          </div>
+
+          <button onclick="Catalog.showProductsView(event)" class="px-4 py-2 rounded-xl bg-zinc-900 hover:bg-zinc-800 border border-white/10 hover:border-zinc-700 text-xs font-bold text-zinc-200 flex items-center space-x-2 transition shadow-lg">
+            <i class="fa-solid fa-arrow-left text-amber-400"></i>
+            <span>Back to All Products</span>
+          </button>
+        </div>
+
+        <!-- Brand Showcase Hero Banner -->
+        <div class="glass-panel p-6 sm:p-8 rounded-2xl border border-white/10 mb-8 flex flex-col md:flex-row items-center justify-between gap-6 relative overflow-hidden">
+          <div class="flex items-center space-x-5 relative z-10">
+            <div class="w-20 h-20 sm:w-24 sm:h-24 rounded-2xl bg-zinc-950 p-3 border border-white/10 flex items-center justify-center shadow-2xl shrink-0">
+              <img id="brandPageLogo" src="" alt="Brand Logo" class="max-h-16 max-w-full object-contain filter drop-shadow">
+            </div>
+            <div>
+              <div class="flex flex-wrap items-center gap-2 mb-2">
+                <span id="brandPageCategory" class="px-2.5 py-0.5 rounded text-[10px] font-extrabold uppercase bg-amber-500/10 border border-amber-500/30 text-amber-400">SLOTS</span>
+                <span class="px-2.5 py-0.5 rounded text-[10px] font-bold bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 flex items-center gap-1.5">
+                  <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                  Verified Live Studio
+                </span>
+                <span id="brandPageHotBadge" class="hidden px-2 py-0.5 rounded-full bg-gradient-to-r from-red-600 to-amber-500 text-white font-extrabold text-[9px] uppercase tracking-wider flex items-center gap-1">
+                  <i class="fa-solid fa-fire text-[9px]"></i> HOT
+                </span>
+              </div>
+              <h2 id="brandPageTitle" class="text-2xl sm:text-4xl font-black text-white">100HP</h2>
+              <p id="brandPageGamesCount" class="text-xs text-zinc-400 mt-1">23 Live Verified Games Ready to Play</p>
+            </div>
+          </div>
+
+          <div class="flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto relative z-10">
+            <!-- Brand Game Search -->
+            <div class="relative w-full sm:w-64">
+              <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 text-xs"></i>
+              <input type="text" id="brandGameSearchInput" placeholder="Filter games in this studio..." 
+                     class="w-full bg-zinc-900 border border-white/10 rounded-xl pl-9 pr-4 py-2.5 text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-amber-500 transition">
+            </div>
+            <button onclick="Catalog.launchTopGame()" class="w-full sm:w-auto btn-gold px-5 py-2.5 rounded-xl text-xs uppercase tracking-wider font-extrabold flex items-center justify-center space-x-2">
+              <i class="fa-solid fa-bolt"></i>
+              <span>Launch Live Session</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Dedicated Brand Games Grid -->
+        <div id="brandPageGamesGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+          <!-- Rendered by Catalog.js -->
+        </div>
+
       </div>
 
-      <!-- Providers Grid -->
-      <div id="providersGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3.5">
-        <!-- Injected by Catalog.js -->
-      </div>
+    </div>
+  </section>
 
     </div>
   </section>

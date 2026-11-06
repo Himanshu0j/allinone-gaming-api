@@ -582,12 +582,13 @@ app.get('/api/providers', (req, res) => {
   const providers = (catalogData.providers || []).map(p => {
     const key = (p.brand_title || '').trim().toLowerCase();
     const price = brandPrices[key] || 18;
-    const slug = (p.brand_title || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const slug = (p.brand_slug || p.brand_title || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const bgList = allBrandGames[slug] || allBrandGames[slug.replace(/-/g, '')] || [];
     return {
       ...p,
       brand_slug: slug,
       price_usdt: price,
-      cached_games_count: (catalogData.catalog && catalogData.catalog[p.brand_id]) ? catalogData.catalog[p.brand_id].length : 0
+      cached_games_count: bgList.length || ((catalogData.catalog && catalogData.catalog[p.brand_id]) ? catalogData.catalog[p.brand_id].length : 0)
     };
   });
   res.json({ status: true, total: providers.length, providers });
@@ -1102,11 +1103,11 @@ app.get('/api/admin/orders', (req, res) => {
   res.json({ success: true, total: orders.length, orders });
 });
 
-// 10. Direct Brand and Navigation Routes (e.g. /brand/100hp/, /brand/spribe/, /buy)
-app.get(['/brand/:brandSlug', '/brand', '/buy', '/pricing', '/products'], (req, res) => {
+// 10. Direct Brand and Navigation Routes (e.g. /products, /brand/100hp/, /brand/spribe/, /buy)
+app.get(['/brand/:brandSlug', '/brand', '/buy', '/pricing', '/products', '/about', '/contact', '/documentation'], (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
-app.get(/^\/brand\/.*/, (req, res) => {
+app.get(/^\/(products|brand|buy|pricing|about|contact|documentation)(\/.*)?$/, (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 

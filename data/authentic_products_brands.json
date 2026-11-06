@@ -1,0 +1,1692 @@
+[
+  {
+    "brand_id": "1",
+    "brand_title": "100HP",
+    "brand_slug": "100hp",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 9,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download.png",
+    "url": "https://igamingapis.com/brand/100hp/"
+  },
+  {
+    "brand_id": "2",
+    "brand_title": "100HP Sweep",
+    "brand_slug": "100hp-sweep",
+    "category": "mini-game",
+    "is_hot": true,
+    "rank": 9,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/100hp-sweep-scaled.png",
+    "url": "https://igamingapis.com/brand/100hp-sweep/"
+  },
+  {
+    "brand_id": "3",
+    "brand_title": "18Peaches",
+    "brand_slug": "18peaches",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/18peaches.png",
+    "url": "https://igamingapis.com/brand/18peaches/"
+  },
+  {
+    "brand_id": "4",
+    "brand_title": "1Spin4Win",
+    "brand_slug": "1spin4win",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/1spin4win.png",
+    "url": "https://igamingapis.com/brand/1spin4win/"
+  },
+  {
+    "brand_id": "5",
+    "brand_title": "1x2 Gaming",
+    "brand_slug": "1x2-gaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/1x2-gaming.png",
+    "url": "https://igamingapis.com/brand/1x2-gaming/"
+  },
+  {
+    "brand_id": "6",
+    "brand_title": "2J",
+    "brand_slug": "2j",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_105_1759755216_d8ysyB9Bd.png",
+    "url": "https://igamingapis.com/brand/2j/"
+  },
+  {
+    "brand_id": "7",
+    "brand_title": "3Oaks (BNG)",
+    "brand_slug": "3oaks-bng",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1776591924-favicon_X7wqKmKFQ.ico",
+    "url": "https://igamingapis.com/brand/3oaks-bng/"
+  },
+  {
+    "brand_id": "8",
+    "brand_title": "5gGaming",
+    "brand_slug": "5ggaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/5ggaming_tTaDa1S0F.png",
+    "url": "https://igamingapis.com/brand/5ggaming/"
+  },
+  {
+    "brand_id": "9",
+    "brand_title": "759 Gaming",
+    "brand_slug": "759-gaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/brand_logo.png",
+    "url": "https://igamingapis.com/brand/759-gaming/"
+  },
+  {
+    "brand_id": "10",
+    "brand_title": "9game",
+    "brand_slug": "9game",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/index_logo.png",
+    "url": "https://igamingapis.com/brand/9game/"
+  },
+  {
+    "brand_id": "11",
+    "brand_title": "9wickets",
+    "brand_slug": "9wickets",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1774284124-9wicketslogo_1__nHSY_O0YU.png",
+    "url": "https://igamingapis.com/brand/9wickets/"
+  },
+  {
+    "brand_id": "12",
+    "brand_title": "Ag",
+    "brand_slug": "ag",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/ag.png",
+    "url": "https://igamingapis.com/brand/ag/"
+  },
+  {
+    "brand_id": "13",
+    "brand_title": "Ameba",
+    "brand_slug": "ameba",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/ameba.png",
+    "url": "https://igamingapis.com/brand/ameba/"
+  },
+  {
+    "brand_id": "14",
+    "brand_title": "Amigo",
+    "brand_slug": "amigo",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/amigo.png",
+    "url": "https://igamingapis.com/brand/amigo/"
+  },
+  {
+    "brand_id": "15",
+    "brand_title": "AOG",
+    "brand_slug": "aog",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_122_1759749392_NEAf74Igf.png",
+    "url": "https://igamingapis.com/brand/aog/"
+  },
+  {
+    "brand_id": "16",
+    "brand_title": "Askmeslot",
+    "brand_slug": "askmeslot",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770665380-askmeslot_logo_-OY4t2_NYB.png",
+    "url": "https://igamingapis.com/brand/askmeslot/"
+  },
+  {
+    "brand_id": "17",
+    "brand_title": "Astar",
+    "brand_slug": "astar",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/astar_qR5tTKi4v.png",
+    "url": "https://igamingapis.com/brand/astar/"
+  },
+  {
+    "brand_id": "18",
+    "brand_title": "ATG",
+    "brand_slug": "atg",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-1.png",
+    "url": "https://igamingapis.com/brand/atg/"
+  },
+  {
+    "brand_id": "19",
+    "brand_title": "ATM",
+    "brand_slug": "atm",
+    "category": "marbles",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770668042-logo__11__hGN9bryFr.png",
+    "url": "https://igamingapis.com/brand/atm/"
+  },
+  {
+    "brand_id": "20",
+    "brand_title": "Aura Gaming",
+    "brand_slug": "aura-gaming",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-2.png",
+    "url": "https://igamingapis.com/brand/aura-gaming/"
+  },
+  {
+    "brand_id": "21",
+    "brand_title": "AvatarUX",
+    "brand_slug": "avatarux",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/avatarux.png",
+    "url": "https://igamingapis.com/brand/avatarux/"
+  },
+  {
+    "brand_id": "22",
+    "brand_title": "Aviator",
+    "brand_slug": "aviator",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/aviator.png",
+    "url": "https://igamingapis.com/brand/aviator/"
+  },
+  {
+    "brand_id": "23",
+    "brand_title": "Aviatrix",
+    "brand_slug": "aviatrix",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/aviatrix.png",
+    "url": "https://igamingapis.com/brand/aviatrix/"
+  },
+  {
+    "brand_id": "24",
+    "brand_title": "Best Winner(BW)",
+    "brand_slug": "best-winnerbw",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "",
+    "url": "https://igamingapis.com/brand/best-winnerbw/"
+  },
+  {
+    "brand_id": "25",
+    "brand_title": "Betby",
+    "brand_slug": "betby",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-3.png",
+    "url": "https://igamingapis.com/brand/betby/"
+  },
+  {
+    "brand_id": "26",
+    "brand_title": "BetSoft",
+    "brand_slug": "betsoft",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-4.png",
+    "url": "https://igamingapis.com/brand/betsoft/"
+  },
+  {
+    "brand_id": "27",
+    "brand_title": "BG",
+    "brand_slug": "bg",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/bg.png",
+    "url": "https://igamingapis.com/brand/bg/"
+  },
+  {
+    "brand_id": "28",
+    "brand_title": "Bgaming",
+    "brand_slug": "bgaming",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 16,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo_on_black.png",
+    "url": "https://igamingapis.com/brand/bgaming/"
+  },
+  {
+    "brand_id": "29",
+    "brand_title": "BHARAT MATKA",
+    "brand_slug": "bharat-matka",
+    "category": "matka",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/09/bharat-matka-logo-1.png",
+    "url": "https://igamingapis.com/brand/bharat-matka/"
+  },
+  {
+    "brand_id": "30",
+    "brand_title": "BigGaming",
+    "brand_slug": "biggaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/images__1_-removebg-preview.png",
+    "url": "https://igamingapis.com/brand/biggaming/"
+  },
+  {
+    "brand_id": "31",
+    "brand_title": "Bigpot",
+    "brand_slug": "bigpot",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/bigpot.png",
+    "url": "https://igamingapis.com/brand/bigpot/"
+  },
+  {
+    "brand_id": "32",
+    "brand_title": "BigTimeGaming",
+    "brand_slug": "bigtimegaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/BTG-COLOR.png",
+    "url": "https://igamingapis.com/brand/bigtimegaming/"
+  },
+  {
+    "brand_id": "33",
+    "brand_title": "BigTimeGaming(Asia)",
+    "brand_slug": "bigtimegamingasia",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/bigtimegaming_R1n1_ixJN-removebg-preview-1.png",
+    "url": "https://igamingapis.com/brand/bigtimegamingasia/"
+  },
+  {
+    "brand_id": "34",
+    "brand_title": "Booming Games",
+    "brand_slug": "booming-games",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/booming-games.png",
+    "url": "https://igamingapis.com/brand/booming-games/"
+  },
+  {
+    "brand_id": "35",
+    "brand_title": "BtGaming",
+    "brand_slug": "btgaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/btgaming_4Sg3NMWJ-.png",
+    "url": "https://igamingapis.com/brand/btgaming/"
+  },
+  {
+    "brand_id": "36",
+    "brand_title": "BtiGaming",
+    "brand_slug": "btigaming",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/1759690799-images_A5pMrF4oS-removebg-preview.png",
+    "url": "https://igamingapis.com/brand/btigaming/"
+  },
+  {
+    "brand_id": "37",
+    "brand_title": "Casini",
+    "brand_slug": "casini",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-12.png",
+    "url": "https://igamingapis.com/brand/casini/"
+  },
+  {
+    "brand_id": "38",
+    "brand_title": "Casino",
+    "brand_slug": "casino",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-cg-game.png",
+    "url": "https://igamingapis.com/brand/casino/"
+  },
+  {
+    "brand_id": "39",
+    "brand_title": "Casino Game (CG)",
+    "brand_slug": "casino-game-cg",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-cg-game-1.png",
+    "url": "https://igamingapis.com/brand/casino-game-cg/"
+  },
+  {
+    "brand_id": "40",
+    "brand_title": "CMD",
+    "brand_slug": "cmd",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/cmd.png",
+    "url": "https://igamingapis.com/brand/cmd/"
+  },
+  {
+    "brand_id": "41",
+    "brand_title": "CP",
+    "brand_slug": "cp",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/2ad2f83452f32c9cb7e86537fb7d1f48.png",
+    "url": "https://igamingapis.com/brand/cp/"
+  },
+  {
+    "brand_id": "42",
+    "brand_title": "CQ9",
+    "brand_slug": "cq9",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 20,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/cq9_GMWnfJS6j.png",
+    "url": "https://igamingapis.com/brand/cq9/"
+  },
+  {
+    "brand_id": "43",
+    "brand_title": "CreedRoomz",
+    "brand_slug": "creedroomz",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-5.png",
+    "url": "https://igamingapis.com/brand/creedroomz/"
+  },
+  {
+    "brand_id": "44",
+    "brand_title": "Crowdplay",
+    "brand_slug": "crowdplay",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1.webp",
+    "url": "https://igamingapis.com/brand/crowdplay/"
+  },
+  {
+    "brand_id": "45",
+    "brand_title": "Darpha",
+    "brand_slug": "darpha",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-6.png",
+    "url": "https://igamingapis.com/brand/darpha/"
+  },
+  {
+    "brand_id": "46",
+    "brand_title": "DB",
+    "brand_slug": "db",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/db-gaming.png",
+    "url": "https://igamingapis.com/brand/db/"
+  },
+  {
+    "brand_id": "47",
+    "brand_title": "DpEsports",
+    "brand_slug": "dpesports",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/dpesports_oL4ejT2g1.png",
+    "url": "https://igamingapis.com/brand/dpesports/"
+  },
+  {
+    "brand_id": "48",
+    "brand_title": "DpSports",
+    "brand_slug": "dpsports",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/dpsports_6EVgDlxnv.png",
+    "url": "https://igamingapis.com/brand/dpsports/"
+  },
+  {
+    "brand_id": "49",
+    "brand_title": "Dragon Gaming",
+    "brand_slug": "dragon-gaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/dragon-gaming.png",
+    "url": "https://igamingapis.com/brand/dragon-gaming/"
+  },
+  {
+    "brand_id": "50",
+    "brand_title": "Dragoon Soft",
+    "brand_slug": "dragoon-soft",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/dragoon-soft.png",
+    "url": "https://igamingapis.com/brand/dragoon-soft/"
+  },
+  {
+    "brand_id": "51",
+    "brand_title": "DreamGaming",
+    "brand_slug": "dreamgaming",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Dream-Gaming-main-logo.png",
+    "url": "https://igamingapis.com/brand/dreamgaming/"
+  },
+  {
+    "brand_id": "52",
+    "brand_title": "EazyGaming",
+    "brand_slug": "eazygaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759584633-headerLogo_ovoTgi_ge.png",
+    "url": "https://igamingapis.com/brand/eazygaming/"
+  },
+  {
+    "brand_id": "53",
+    "brand_title": "EEAi",
+    "brand_slug": "eeai",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logotxt.png",
+    "url": "https://igamingapis.com/brand/eeai/"
+  },
+  {
+    "brand_id": "54",
+    "brand_title": "Endorphina",
+    "brand_slug": "endorphina",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 12,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-endorphina-dark.png",
+    "url": "https://igamingapis.com/brand/endorphina/"
+  },
+  {
+    "brand_id": "55",
+    "brand_title": "EpicWin",
+    "brand_slug": "epicwin",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/epicwin_cHPP34SvY.png",
+    "url": "https://igamingapis.com/brand/epicwin/"
+  },
+  {
+    "brand_id": "56",
+    "brand_title": "EVO888H5",
+    "brand_slug": "evo888h5",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.png",
+    "url": "https://igamingapis.com/brand/evo888h5/"
+  },
+  {
+    "brand_id": "57",
+    "brand_title": "Evolution Live",
+    "brand_slug": "evolution-live",
+    "category": "live-casino",
+    "is_hot": true,
+    "rank": 7,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EG4-COLOR.png",
+    "url": "https://igamingapis.com/brand/evolution-live/"
+  },
+  {
+    "brand_id": "58",
+    "brand_title": "Evolution Live (Asia)",
+    "brand_slug": "evolution-live-asia",
+    "category": "live-casino",
+    "is_hot": true,
+    "rank": 7,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EG4-COLOR-1.png",
+    "url": "https://igamingapis.com/brand/evolution-live-asia/"
+  },
+  {
+    "brand_id": "59",
+    "brand_title": "Evoplay",
+    "brand_slug": "evoplay",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EP-COLOR.png",
+    "url": "https://igamingapis.com/brand/evoplay/"
+  },
+  {
+    "brand_id": "60",
+    "brand_title": "Expanse",
+    "brand_slug": "expanse",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-2.png",
+    "url": "https://igamingapis.com/brand/expanse/"
+  },
+  {
+    "brand_id": "61",
+    "brand_title": "Ezugi",
+    "brand_slug": "ezugi",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 22,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/EZ-COLOR.png",
+    "url": "https://igamingapis.com/brand/ezugi/"
+  },
+  {
+    "brand_id": "62",
+    "brand_title": "FaChaiGaming",
+    "brand_slug": "fachaigaming",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 8,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/FC-COLOR.png",
+    "url": "https://igamingapis.com/brand/fachaigaming/"
+  },
+  {
+    "brand_id": "63",
+    "brand_title": "FAST SPIN",
+    "brand_slug": "fast-spin",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/FS-COLOR.png",
+    "url": "https://igamingapis.com/brand/fast-spin/"
+  },
+  {
+    "brand_id": "64",
+    "brand_title": "Flappy",
+    "brand_slug": "flappy",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/flappy.png",
+    "url": "https://igamingapis.com/brand/flappy/"
+  },
+  {
+    "brand_id": "65",
+    "brand_title": "Fugaso",
+    "brand_slug": "fugaso",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/fugaso.png",
+    "url": "https://igamingapis.com/brand/fugaso/"
+  },
+  {
+    "brand_id": "66",
+    "brand_title": "Funky Games",
+    "brand_slug": "funky-games",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.webp",
+    "url": "https://igamingapis.com/brand/funky-games/"
+  },
+  {
+    "brand_id": "67",
+    "brand_title": "Galaxsys",
+    "brand_slug": "galaxsys",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 11,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_111_1759755586_QYQ6oiwvw.png",
+    "url": "https://igamingapis.com/brand/galaxsys/"
+  },
+  {
+    "brand_id": "68",
+    "brand_title": "GameArt",
+    "brand_slug": "gameart",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/gameart_NBb8dzy_S.png",
+    "url": "https://igamingapis.com/brand/gameart/"
+  },
+  {
+    "brand_id": "69",
+    "brand_title": "GAMINGSOFT-AI LIVE CASINO",
+    "brand_slug": "gamingsoft-ai-live-casino",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1.png",
+    "url": "https://igamingapis.com/brand/gamingsoft-ai-live-casino/"
+  },
+  {
+    "brand_id": "70",
+    "brand_title": "GAMINGSOFT-WOW",
+    "brand_slug": "gamingsoft-wow",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1.png",
+    "url": "https://igamingapis.com/brand/gamingsoft-wow/"
+  },
+  {
+    "brand_id": "71",
+    "brand_title": "GoldenBay",
+    "brand_slug": "goldenbay",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/goldenbay.png",
+    "url": "https://igamingapis.com/brand/goldenbay/"
+  },
+  {
+    "brand_id": "72",
+    "brand_title": "Habanero",
+    "brand_slug": "habanero",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 15,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/habanero_white-scaled.png",
+    "url": "https://igamingapis.com/brand/habanero/"
+  },
+  {
+    "brand_id": "73",
+    "brand_title": "Hacksaw Asia",
+    "brand_slug": "hacksaw-asia",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 10,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-1.png",
+    "url": "https://igamingapis.com/brand/hacksaw-asia/"
+  },
+  {
+    "brand_id": "74",
+    "brand_title": "Hacksaw Latam",
+    "brand_slug": "hacksaw-latam",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 10,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-2.png",
+    "url": "https://igamingapis.com/brand/hacksaw-latam/"
+  },
+  {
+    "brand_id": "75",
+    "brand_title": "Hacksaw World",
+    "brand_slug": "hacksaw-world",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 10,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-1-1-3.png",
+    "url": "https://igamingapis.com/brand/hacksaw-world/"
+  },
+  {
+    "brand_id": "76",
+    "brand_title": "IA",
+    "brand_slug": "ia",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/ia.png",
+    "url": "https://igamingapis.com/brand/ia/"
+  },
+  {
+    "brand_id": "77",
+    "brand_title": "Iconic21",
+    "brand_slug": "iconic21",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/iconic21-scaled.webp",
+    "url": "https://igamingapis.com/brand/iconic21/"
+  },
+  {
+    "brand_id": "78",
+    "brand_title": "iDeal",
+    "brand_slug": "ideal",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ideal_JfiVSmlvK-removebg-preview.png",
+    "url": "https://igamingapis.com/brand/ideal/"
+  },
+  {
+    "brand_id": "79",
+    "brand_title": "IG ORIGINALS",
+    "brand_slug": "ig-originals",
+    "category": "other",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/ig-originals/brand-logo.png",
+    "url": "https://igamingapis.com/brand/ig-originals/"
+  },
+  {
+    "brand_id": "80",
+    "brand_title": "imagineLive",
+    "brand_slug": "imaginelive",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/imaginelive.png",
+    "url": "https://igamingapis.com/brand/imaginelive/"
+  },
+  {
+    "brand_id": "81",
+    "brand_title": "InOut",
+    "brand_slug": "inout",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 6,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/inout.png",
+    "url": "https://igamingapis.com/brand/inout/"
+  },
+  {
+    "brand_id": "82",
+    "brand_title": "JDB",
+    "brand_slug": "jdb",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 5,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/jdb.webp",
+    "url": "https://igamingapis.com/brand/jdb/"
+  },
+  {
+    "brand_id": "83",
+    "brand_title": "JILI",
+    "brand_slug": "jili",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 1,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/jili_zCoKdKI0w.png",
+    "url": "https://igamingapis.com/brand/jili/"
+  },
+  {
+    "brand_id": "84",
+    "brand_title": "Joker",
+    "brand_slug": "joker",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/joker.png",
+    "url": "https://igamingapis.com/brand/joker/"
+  },
+  {
+    "brand_id": "85",
+    "brand_title": "KA",
+    "brand_slug": "ka",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/67862fdcef3a7d4e1857eccf_ka-gaming.webp",
+    "url": "https://igamingapis.com/brand/ka/"
+  },
+  {
+    "brand_id": "86",
+    "brand_title": "King Midas",
+    "brand_slug": "king-midas",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 19,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759745485-kingmidas_hnP8rc8ZJ-scaled.png",
+    "url": "https://igamingapis.com/brand/king-midas/"
+  },
+  {
+    "brand_id": "87",
+    "brand_title": "King Midas - One Gaming",
+    "brand_slug": "king-midas-one-gaming",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 19,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759746283-kingmidas_Oqu0zjno0-scaled.png",
+    "url": "https://igamingapis.com/brand/king-midas-one-gaming/"
+  },
+  {
+    "brand_id": "88",
+    "brand_title": "KoolBet",
+    "brand_slug": "koolbet",
+    "category": "card-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo-3.png",
+    "url": "https://igamingapis.com/brand/koolbet/"
+  },
+  {
+    "brand_id": "89",
+    "brand_title": "KY Gaming",
+    "brand_slug": "ky-gaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/ky-gaming.png",
+    "url": "https://igamingapis.com/brand/ky-gaming/"
+  },
+  {
+    "brand_id": "90",
+    "brand_title": "Live22",
+    "brand_slug": "live22",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 24,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/live22-logo.png",
+    "url": "https://igamingapis.com/brand/live22/"
+  },
+  {
+    "brand_id": "91",
+    "brand_title": "LuckySport",
+    "brand_slug": "luckysport",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_83_1759747195_Atqb52OM-.png",
+    "url": "https://igamingapis.com/brand/luckysport/"
+  },
+  {
+    "brand_id": "92",
+    "brand_title": "MAC 88",
+    "brand_slug": "mac-88",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/mac88-BAzKFZNt.png",
+    "url": "https://igamingapis.com/brand/mac-88/"
+  },
+  {
+    "brand_id": "93",
+    "brand_title": "Mancala (暂停使用)",
+    "brand_slug": "mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/mancala-e69a82e5819ce4bdbfe794a8.webp",
+    "url": "https://igamingapis.com/brand/mancala-%e6%9a%82%e5%81%9c%e4%bd%bf%e7%94%a8/"
+  },
+  {
+    "brand_id": "94",
+    "brand_title": "Microgaming",
+    "brand_slug": "microgaming",
+    "category": "live-casino",
+    "is_hot": true,
+    "rank": 14,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/microgaming_mm5ILoG4V.png",
+    "url": "https://igamingapis.com/brand/microgaming/"
+  },
+  {
+    "brand_id": "95",
+    "brand_title": "Mini",
+    "brand_slug": "mini",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/mini_pVhCJw440.png",
+    "url": "https://igamingapis.com/brand/mini/"
+  },
+  {
+    "brand_id": "96",
+    "brand_title": "MT GAMING",
+    "brand_slug": "mt-gaming",
+    "category": "card-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770666928-t_zsSn-g7oM.jpg",
+    "url": "https://igamingapis.com/brand/mt-gaming/"
+  },
+  {
+    "brand_id": "97",
+    "brand_title": "Netent",
+    "brand_slug": "netent",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/netent_PcottkcL9.png",
+    "url": "https://igamingapis.com/brand/netent/"
+  },
+  {
+    "brand_id": "98",
+    "brand_title": "Netent（Asia）",
+    "brand_slug": "netent%ef%bc%88asia%ef%bc%89",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_69_1759742598_NnaIvF82-.png",
+    "url": "https://igamingapis.com/brand/netent%ef%bc%88asia%ef%bc%89/"
+  },
+  {
+    "brand_id": "99",
+    "brand_title": "NextSpin",
+    "brand_slug": "nextspin",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/NS-COLOR.png",
+    "url": "https://igamingapis.com/brand/nextspin/"
+  },
+  {
+    "brand_id": "100",
+    "brand_title": "NoLimit City",
+    "brand_slug": "nolimit-city",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-14.png",
+    "url": "https://igamingapis.com/brand/nolimit-city/"
+  },
+  {
+    "brand_id": "101",
+    "brand_title": "NoLimit City（Asia）",
+    "brand_slug": "nolimit-city%ef%bc%88asia%ef%bc%89",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-14-1.png",
+    "url": "https://igamingapis.com/brand/nolimit-city%ef%bc%88asia%ef%bc%89/"
+  },
+  {
+    "brand_id": "102",
+    "brand_title": "Odin",
+    "brand_slug": "odin",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ODIN-64x64-1.ico",
+    "url": "https://igamingapis.com/brand/odin/"
+  },
+  {
+    "brand_id": "103",
+    "brand_title": "Odin Slot",
+    "brand_slug": "odin-slot",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/odin-slot.ico",
+    "url": "https://igamingapis.com/brand/odin-slot/"
+  },
+  {
+    "brand_id": "104",
+    "brand_title": "OneGaming",
+    "brand_slug": "onegaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/onegaming_US8ajzcPi.png",
+    "url": "https://igamingapis.com/brand/onegaming/"
+  },
+  {
+    "brand_id": "105",
+    "brand_title": "OnGaming",
+    "brand_slug": "ongaming",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_121_1759746876_jnFiPaUL5b.png",
+    "url": "https://igamingapis.com/brand/ongaming/"
+  },
+  {
+    "brand_id": "106",
+    "brand_title": "PenguinKing",
+    "brand_slug": "penguinking",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_J4yCiC.png",
+    "url": "https://igamingapis.com/brand/penguinking/"
+  },
+  {
+    "brand_id": "107",
+    "brand_title": "Petersons",
+    "brand_slug": "petersons",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/petersons-1.png",
+    "url": "https://igamingapis.com/brand/petersons/"
+  },
+  {
+    "brand_id": "108",
+    "brand_title": "PG Sport",
+    "brand_slug": "pg-sport",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/pg-sport.png",
+    "url": "https://igamingapis.com/brand/pg-sport/"
+  },
+  {
+    "brand_id": "109",
+    "brand_title": "PgsGaming",
+    "brand_slug": "pgsgaming",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 4,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759749692-bc55-game-brand-logo-pegasus_8ltp7Dy3l.png",
+    "url": "https://igamingapis.com/brand/pgsgaming/"
+  },
+  {
+    "brand_id": "110",
+    "brand_title": "PGSoft",
+    "brand_slug": "pgsoft",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 4,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PG-COLOR.png",
+    "url": "https://igamingapis.com/brand/pgsoft/"
+  },
+  {
+    "brand_id": "111",
+    "brand_title": "Pix",
+    "brand_slug": "pix",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-15.png",
+    "url": "https://igamingapis.com/brand/pix/"
+  },
+  {
+    "brand_id": "112",
+    "brand_title": "PlayAce(AgGaming)",
+    "brand_slug": "playaceaggaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playace-aggaming_IVBgkzHHl.png",
+    "url": "https://igamingapis.com/brand/playaceaggaming/"
+  },
+  {
+    "brand_id": "113",
+    "brand_title": "PlaynGo",
+    "brand_slug": "playngo",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playngo_M64H004gH.png",
+    "url": "https://igamingapis.com/brand/playngo/"
+  },
+  {
+    "brand_id": "114",
+    "brand_title": "Playson",
+    "brand_slug": "playson",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playson.png",
+    "url": "https://igamingapis.com/brand/playson/"
+  },
+  {
+    "brand_id": "115",
+    "brand_title": "Playtech",
+    "brand_slug": "playtech",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/playtech.webp",
+    "url": "https://igamingapis.com/brand/playtech/"
+  },
+  {
+    "brand_id": "116",
+    "brand_title": "PragmaticPlay-Asia",
+    "brand_slug": "pragmaticplay-asia",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 3,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR.png",
+    "url": "https://igamingapis.com/brand/pragmaticplay-asia/"
+  },
+  {
+    "brand_id": "117",
+    "brand_title": "PragmaticPlay-EU",
+    "brand_slug": "pragmaticplay-eu",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 3,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-1.png",
+    "url": "https://igamingapis.com/brand/pragmaticplay-eu/"
+  },
+  {
+    "brand_id": "118",
+    "brand_title": "PragmaticPlayLive-Asia",
+    "brand_slug": "pragmaticplaylive-asia",
+    "category": "live-casino",
+    "is_hot": true,
+    "rank": 3,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-2.png",
+    "url": "https://igamingapis.com/brand/pragmaticplaylive-asia/"
+  },
+  {
+    "brand_id": "119",
+    "brand_title": "PragmaticPlayLive-EU",
+    "brand_slug": "pragmaticplaylive-eu",
+    "category": "live-casino",
+    "is_hot": true,
+    "rank": 3,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/PP-COLOR-3.png",
+    "url": "https://igamingapis.com/brand/pragmaticplaylive-eu/"
+  },
+  {
+    "brand_id": "120",
+    "brand_title": "PSG",
+    "brand_slug": "psg",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-7.png",
+    "url": "https://igamingapis.com/brand/psg/"
+  },
+  {
+    "brand_id": "121",
+    "brand_title": "Quickspin",
+    "brand_slug": "quickspin",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/quickspin.png",
+    "url": "https://igamingapis.com/brand/quickspin/"
+  },
+  {
+    "brand_id": "122",
+    "brand_title": "Rectangle",
+    "brand_slug": "rectangle",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/rectangle-logo.png",
+    "url": "https://igamingapis.com/brand/rectangle/"
+  },
+  {
+    "brand_id": "123",
+    "brand_title": "RedTiger",
+    "brand_slug": "redtiger",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/redtiger_GckNg_i4e.png",
+    "url": "https://igamingapis.com/brand/redtiger/"
+  },
+  {
+    "brand_id": "124",
+    "brand_title": "RedTiger（Asia）",
+    "brand_slug": "redtiger%ef%bc%88asia%ef%bc%89",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_75_1759742711_p_BDBA0F5.png",
+    "url": "https://igamingapis.com/brand/redtiger%ef%bc%88asia%ef%bc%89/"
+  },
+  {
+    "brand_id": "125",
+    "brand_title": "RelaxGaming",
+    "brand_slug": "relaxgaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-16.png",
+    "url": "https://igamingapis.com/brand/relaxgaming/"
+  },
+  {
+    "brand_id": "126",
+    "brand_title": "Revenge",
+    "brand_slug": "revenge",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/revenge-scaled.png",
+    "url": "https://igamingapis.com/brand/revenge/"
+  },
+  {
+    "brand_id": "127",
+    "brand_title": "RG",
+    "brand_slug": "rg",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/RG電子_logo.webp",
+    "url": "https://igamingapis.com/brand/rg/"
+  },
+  {
+    "brand_id": "128",
+    "brand_title": "Rich Paradise",
+    "brand_slug": "rich-paradise",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/rplogo.png",
+    "url": "https://igamingapis.com/brand/rich-paradise/"
+  },
+  {
+    "brand_id": "129",
+    "brand_title": "Rich88",
+    "brand_slug": "rich88",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 18,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/rich88_UywTBtIVM.png",
+    "url": "https://igamingapis.com/brand/rich88/"
+  },
+  {
+    "brand_id": "130",
+    "brand_title": "RSG",
+    "brand_slug": "rsg",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/rsg.png",
+    "url": "https://igamingapis.com/brand/rsg/"
+  },
+  {
+    "brand_id": "131",
+    "brand_title": "RubyPlay",
+    "brand_slug": "rubyplay",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1770667786-rubyplay_logo_01_colour_alt_YQ9e9e-zP.png",
+    "url": "https://igamingapis.com/brand/rubyplay/"
+  },
+  {
+    "brand_id": "132",
+    "brand_title": "SABASport PHP",
+    "brand_slug": "sabasport-php",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/sabasport-php.png",
+    "url": "https://igamingapis.com/brand/sabasport-php/"
+  },
+  {
+    "brand_id": "133",
+    "brand_title": "SABASports(IBC)",
+    "brand_slug": "sabasportsibc",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_images__2_-removebg-preview.png",
+    "url": "https://igamingapis.com/brand/sabasportsibc/"
+  },
+  {
+    "brand_id": "134",
+    "brand_title": "Sagaming",
+    "brand_slug": "sagaming",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/sagaming_3lTI1C8VE.png",
+    "url": "https://igamingapis.com/brand/sagaming/"
+  },
+  {
+    "brand_id": "135",
+    "brand_title": "SBO",
+    "brand_slug": "sbo",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/1759756460-scxxc_oxD99dBJS6.jpg",
+    "url": "https://igamingapis.com/brand/sbo/"
+  },
+  {
+    "brand_id": "136",
+    "brand_title": "Sexy",
+    "brand_slug": "sexy",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/sexy_6tieOBYXp.png",
+    "url": "https://igamingapis.com/brand/sexy/"
+  },
+  {
+    "brand_id": "137",
+    "brand_title": "Skywind",
+    "brand_slug": "skywind",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/skywind.png",
+    "url": "https://igamingapis.com/brand/skywind/"
+  },
+  {
+    "brand_id": "138",
+    "brand_title": "Skywind Casino",
+    "brand_slug": "skywind-casino",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/skywind.png",
+    "url": "https://igamingapis.com/brand/skywind-casino/"
+  },
+  {
+    "brand_id": "139",
+    "brand_title": "Skywind Live",
+    "brand_slug": "skywind-live",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/skywind-1.png",
+    "url": "https://igamingapis.com/brand/skywind-live/"
+  },
+  {
+    "brand_id": "140",
+    "brand_title": "Smartsoft",
+    "brand_slug": "smartsoft",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 21,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/SS-COLOR.png",
+    "url": "https://igamingapis.com/brand/smartsoft/"
+  },
+  {
+    "brand_id": "141",
+    "brand_title": "SpadeGaming",
+    "brand_slug": "spadegaming",
+    "category": "other",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-8.png",
+    "url": "https://igamingapis.com/brand/spadegaming/"
+  },
+  {
+    "brand_id": "142",
+    "brand_title": "Spinomenal",
+    "brand_slug": "spinomenal",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/spinomenal.png",
+    "url": "https://igamingapis.com/brand/spinomenal/"
+  },
+  {
+    "brand_id": "143",
+    "brand_title": "Spribe",
+    "brand_slug": "spribe",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 2,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_Spribe_Logo.png",
+    "url": "https://igamingapis.com/brand/spribe/"
+  },
+  {
+    "brand_id": "144",
+    "brand_title": "T1",
+    "brand_slug": "t1",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/t1_SVPjMoD7a.png",
+    "url": "https://igamingapis.com/brand/t1/"
+  },
+  {
+    "brand_id": "145",
+    "brand_title": "TADAGaming",
+    "brand_slug": "tadagaming",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 17,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/tadagaming_VODQcWMhZ.png",
+    "url": "https://igamingapis.com/brand/tadagaming/"
+  },
+  {
+    "brand_id": "146",
+    "brand_title": "TF",
+    "brand_slug": "tf",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/tf_Hfhq23ykw-scaled.png",
+    "url": "https://igamingapis.com/brand/tf/"
+  },
+  {
+    "brand_id": "147",
+    "brand_title": "Thunderkick",
+    "brand_slug": "thunderkick",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/thunderkick.png",
+    "url": "https://igamingapis.com/brand/thunderkick/"
+  },
+  {
+    "brand_id": "148",
+    "brand_title": "Titi Gaming",
+    "brand_slug": "titi-gaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-9.png",
+    "url": "https://igamingapis.com/brand/titi-gaming/"
+  },
+  {
+    "brand_id": "149",
+    "brand_title": "topbet",
+    "brand_slug": "topbet",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-10.png",
+    "url": "https://igamingapis.com/brand/topbet/"
+  },
+  {
+    "brand_id": "150",
+    "brand_title": "Turbogames Asia",
+    "brand_slug": "turbogames-asia",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 13,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-17.png",
+    "url": "https://igamingapis.com/brand/turbogames-asia/"
+  },
+  {
+    "brand_id": "151",
+    "brand_title": "Turbogames World",
+    "brand_slug": "turbogames-world",
+    "category": "slots",
+    "is_hot": true,
+    "rank": 13,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/Pi7_download-17-1.png",
+    "url": "https://igamingapis.com/brand/turbogames-world/"
+  },
+  {
+    "brand_id": "152",
+    "brand_title": "UnitedGaming",
+    "brand_slug": "unitedgaming",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/unitedgaming_mNkr4Q5Lu.png",
+    "url": "https://igamingapis.com/brand/unitedgaming/"
+  },
+  {
+    "brand_id": "153",
+    "brand_title": "V8 CARD",
+    "brand_slug": "v8-card",
+    "category": "card-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_113_1759757270_KyAOcxq5j.png",
+    "url": "https://igamingapis.com/brand/v8-card/"
+  },
+  {
+    "brand_id": "154",
+    "brand_title": "VA",
+    "brand_slug": "va",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo__2_-removebg-preview.png",
+    "url": "https://igamingapis.com/brand/va/"
+  },
+  {
+    "brand_id": "155",
+    "brand_title": "VeliPlay",
+    "brand_slug": "veliplay",
+    "category": "mini-game",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-11.png",
+    "url": "https://igamingapis.com/brand/veliplay/"
+  },
+  {
+    "brand_id": "156",
+    "brand_title": "VIVO",
+    "brand_slug": "vivo",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/vivo-logo-1-e1748251318567.png",
+    "url": "https://igamingapis.com/brand/vivo/"
+  },
+  {
+    "brand_id": "157",
+    "brand_title": "VoltEnt",
+    "brand_slug": "voltent",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/voltent.png",
+    "url": "https://igamingapis.com/brand/voltent/"
+  },
+  {
+    "brand_id": "158",
+    "brand_title": "Vplus",
+    "brand_slug": "vplus",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/download-18.png",
+    "url": "https://igamingapis.com/brand/vplus/"
+  },
+  {
+    "brand_id": "159",
+    "brand_title": "WG",
+    "brand_slug": "wg",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/wg.png",
+    "url": "https://igamingapis.com/brand/wg/"
+  },
+  {
+    "brand_id": "160",
+    "brand_title": "WintoLive",
+    "brand_slug": "wintolive",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/signal-2024-10-20-232027_002.png",
+    "url": "https://igamingapis.com/brand/wintolive/"
+  },
+  {
+    "brand_id": "161",
+    "brand_title": "WintoSlot",
+    "brand_slug": "wintoslot",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/signal-2024-10-20-232027_002-1.png",
+    "url": "https://igamingapis.com/brand/wintoslot/"
+  },
+  {
+    "brand_id": "162",
+    "brand_title": "WM CASINO",
+    "brand_slug": "wm-casino",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/the-online-casino-product-from-wm-casino-gamingsoft.png",
+    "url": "https://igamingapis.com/brand/wm-casino/"
+  },
+  {
+    "brand_id": "163",
+    "brand_title": "Wonwon",
+    "brand_slug": "wonwon",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/brand_108_1759755400_NoNC975dE.jpg",
+    "url": "https://igamingapis.com/brand/wonwon/"
+  },
+  {
+    "brand_id": "164",
+    "brand_title": "WS168",
+    "brand_slug": "ws168",
+    "category": "sports",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/ws168.214d86f9.webp",
+    "url": "https://igamingapis.com/brand/ws168/"
+  },
+  {
+    "brand_id": "165",
+    "brand_title": "YeeBet",
+    "brand_slug": "yeebet",
+    "category": "live-casino",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/06/yeebet_Qkd_HP7B1.png",
+    "url": "https://igamingapis.com/brand/yeebet/"
+  },
+  {
+    "brand_id": "166",
+    "brand_title": "Yellow Bat",
+    "brand_slug": "yellow-bat",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/yellowbat-logo-135x57-1.webp",
+    "url": "https://igamingapis.com/brand/yellow-bat/"
+  },
+  {
+    "brand_id": "167",
+    "brand_title": "Yggdrasil",
+    "brand_slug": "yggdrasil",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/yggdrasil.png",
+    "url": "https://igamingapis.com/brand/yggdrasil/"
+  },
+  {
+    "brand_id": "168",
+    "brand_title": "YGRGaming",
+    "brand_slug": "ygrgaming",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/07/logo.0b06e0f7.png",
+    "url": "https://igamingapis.com/brand/ygrgaming/"
+  },
+  {
+    "brand_id": "169",
+    "brand_title": "小艾 (IA)",
+    "brand_slug": "%e5%b0%8f%e8%89%be-ia",
+    "category": "slots",
+    "is_hot": false,
+    "rank": 0,
+    "logo": "https://igamingapis.com/wp-content/uploads/2026/11/e5b08fe889be-ia.png",
+    "url": "https://igamingapis.com/brand/%e5%b0%8f%e8%89%be-ia/"
+  }
+]
