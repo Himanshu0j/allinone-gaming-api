@@ -82,7 +82,16 @@ const Launcher = {
 
           // If provider requests open_in_tab
           if (data.open_in_tab) {
-            window.open(targetUrl, '_blank', 'noopener,noreferrer');
+            try {
+              const win = window.open(targetUrl, '_blank', 'noopener,noreferrer');
+              if (!win || win.closed || typeof win.closed === 'undefined') {
+                if (window.App && typeof window.App.showToast === 'function') {
+                  window.App.showToast('Popup blocked by browser. Click "Open VIP Window" at top right to play!', 'info');
+                }
+              }
+            } catch (popErr) {
+              console.warn('[POPUP BLOCKED]', popErr);
+            }
           }
         }, 300);
       }, 350);

@@ -979,8 +979,9 @@
         </div>
 
         <div class="flex items-center space-x-2">
-          <button id="gamePopoutBtn" onclick="Launcher.openInNewWindow()" class="w-8 h-8 rounded-lg bg-zinc-800 hover:bg-amber-500 hover:text-black text-zinc-300 flex items-center justify-center transition" title="Open in Dedicated VIP Window">
+          <button id="gamePopoutBtn" onclick="Launcher.openInNewWindow()" class="h-8 px-3 rounded-lg bg-amber-500 hover:bg-amber-400 text-black font-extrabold text-xs flex items-center space-x-1.5 shadow-md shadow-amber-500/30 transition transform hover:scale-105" title="Open in Dedicated VIP Window">
             <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
+            <span>Open VIP Window</span>
           </button>
           <button onclick="Launcher.toggleFullscreen()" class="w-8 h-8 rounded-lg bg-zinc-800 hover:bg-zinc-700 text-zinc-300 flex items-center justify-center transition" title="Toggle Fullscreen">
             <i class="fa-solid fa-expand text-xs"></i>
@@ -1012,6 +1013,18 @@
 
         <!-- Real or Simulated Game Iframe -->
         <iframe id="gameIframe" class="w-full h-full border-0 hidden" allow="autoplay; fullscreen"></iframe>
+      </div>
+
+      <!-- Bottom Direct Play Assistance Bar -->
+      <div class="h-10 px-4 bg-zinc-900/95 border-t border-white/10 flex items-center justify-between text-xs text-zinc-400 z-20">
+        <span class="flex items-center gap-2 text-zinc-300 text-[11px]">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          <span>Official SoftAPI Live Provider Session</span>
+        </span>
+        <button onclick="Launcher.openInNewWindow()" class="text-amber-400 hover:text-amber-300 font-bold flex items-center gap-1.5 transition text-[11px]">
+          <span>Open Fullscreen Tab</span>
+          <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+        </button>
       </div>
     </div>
   </div>
