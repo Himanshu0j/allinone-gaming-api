@@ -9,6 +9,7 @@ const Catalog = {
     await this.loadProviders();
     await this.loadFeaturedGames();
     this.bindEvents();
+    this.checkRoute();
   },
 
   async loadProviders() {
@@ -65,6 +66,43 @@ const Catalog = {
         this.searchQuery = e.target.value.trim().toLowerCase();
         this.renderProviders();
       });
+    }
+
+    // Popstate navigation for direct brand URLs
+    window.addEventListener('popstate', () => {
+      this.checkRoute();
+    });
+  },
+
+  checkRoute() {
+    const path = window.location.pathname.toLowerCase();
+    const brandMatch = path.match(/\/brand\/([a-z0-9_-]+)/);
+    if (brandMatch) {
+      const slug = brandMatch[1];
+      this.openBrandBySlug(slug);
+    } else if (path.includes('/buy') || window.location.hash === '#pricing') {
+      const pricingSection = document.getElementById('pricing');
+      if (pricingSection) {
+        setTimeout(() => pricingSection.scrollIntoView({ behavior: 'smooth' }), 300);
+      }
+    }
+  },
+
+  async openBrandBySlug(slug) {
+    if (!slug) return;
+    const cleanSlug = slug.trim().toLowerCase();
+    let p = this.providers.find(x => {
+      const bSlug = (x.brand_slug || '').toLowerCase();
+      const bTitle = (x.brand_title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      return bSlug === cleanSlug || bTitle === cleanSlug;
+    });
+
+    if (p) {
+      this.openBrandDrawer(p.brand_id, p.brand_title, p.logo, p.brand_slug, false);
+    } else {
+      const title = cleanSlug === '100hp' ? '100HP' : cleanSlug.toUpperCase();
+      const logo = `https://ui-avatars.com/api/?name=${encodeURIComponent(title)}&background=18181b&color=f59e0b&bold=true&size=128`;
+      this.openBrandDrawer(cleanSlug, title, logo, cleanSlug, false);
     }
   },
 
@@ -217,7 +255,7 @@ const Catalog = {
   },
 
   // Open brand games drawer with real product IDs for launch
-  async openBrandDrawer(brandId, brandTitle, brandLogo, brandSlug) {
+  async openBrandDrawer(brandId, brandTitle, brandLogo, brandSlug, updateHistory = true) {
     this.activeBrand = { brandId, brandTitle, brandLogo, brandSlug };
     const modal = document.getElementById('brandDrawerModal');
     const titleEl = document.getElementById('brandDrawerTitle');
@@ -234,6 +272,12 @@ const Catalog = {
       </div>
     `;
     modal.classList.add('active');
+
+    if (updateHistory && brandSlug && window.history && window.history.pushState) {
+      try {
+        window.history.pushState({ brandSlug }, '', `/brand/${brandSlug}/`);
+      } catch (e) {}
+    }
 
     try {
       const res = await fetch(`/api/brands/${brandSlug || brandId}/games`);
@@ -317,5 +361,10 @@ const Catalog = {
   closeBrandDrawer() {
     const modal = document.getElementById('brandDrawerModal');
     if (modal) modal.classList.remove('active');
+    try {
+      if (window.history && window.history.pushState && window.location.pathname.includes('/brand/')) {
+        window.history.pushState(null, '', '/');
+      }
+    } catch (e) {}
   }
 };

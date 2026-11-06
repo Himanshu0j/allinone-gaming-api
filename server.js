@@ -31,6 +31,8 @@ const slugAliases = {
   'fastspin': 'fast-spin',
   'hacksaw': 'hacksaw-world',
   'nolimit': 'nolimit-city',
+  '100-hp': '100hp',
+  '100hp': '100hp',
   'betsoft': '100hp'
 };
 
@@ -805,8 +807,15 @@ app.post('/api/verify-agent', (req, res) => {
 });
 
 // 5. Game Launcher (Connects directly to Live Gateway or serves verified authentic game URL)
-app.post('/api/launch-game', async (req, res) => {
-  const { productId, brandSlug, gameTitle, gameCode, mode } = req.body;
+app.all('/api/launch-game', async (req, res) => {
+  const body = req.body || {};
+  const query = req.query || {};
+  const productId = body.productId || query.productId || query.pid;
+  const brandSlug = body.brandSlug || query.brandSlug || query.brand;
+  const gameTitle = body.gameTitle || query.gameTitle || query.title;
+  const gameCode = body.gameCode || query.gameCode || query.code;
+  const mode = body.mode || query.mode;
+
   const targetSlug = normalizeSlug(brandSlug);
   const targetPid = (productId && productId !== 'default') ? String(productId) : null;
 
@@ -1049,6 +1058,14 @@ app.get('/api/orders/:orderId', (req, res) => {
 app.get('/api/admin/orders', (req, res) => {
   const orders = getOrders();
   res.json({ success: true, total: orders.length, orders });
+});
+
+// 10. Direct Brand and Navigation Routes (e.g. /brand/100hp/, /brand/spribe/, /buy)
+app.get(['/brand/:brandSlug', '/brand', '/buy', '/pricing', '/products'], (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+app.get(/^\/brand\/.*/, (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 process.on('uncaughtException', (err) => {
