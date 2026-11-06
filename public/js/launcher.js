@@ -1,4 +1,4 @@
-// Cinematic In-App Game Launcher Module
+// Cinematic Game Launcher Module - 100% Unblocked Direct Play Engine
 const Launcher = {
   currentProgress: 0,
   progressTimer: null,
@@ -7,11 +7,25 @@ const Launcher = {
   activeGameTitle: '',
 
   async openGame(gameCode, gameTitle, brandTitle, productId = null, brandSlug = '') {
-    // 1. Instantly reserve popup tab synchronously inside user click gesture (100% unblocked by browsers!)
+    // 1. Immediately close brand drawer so nothing blocks the UI
+    if (window.Catalog && typeof window.Catalog.closeBrandDrawer === 'function') {
+      window.Catalog.closeBrandDrawer();
+    }
+    const brandModal = document.getElementById('brandDrawerModal');
+    if (brandModal) {
+      brandModal.classList.remove('active');
+    }
+
+    if (window.App && typeof window.App.showToast === 'function') {
+      window.App.showToast(`Connecting to ${gameTitle || 'VIP Casino Game'}...`, 'info');
+    }
+
+    // 2. Synchronously reserve the new tab in user's direct click stack (100% popup-blocker proof)
     let launchTab = null;
     try {
-      launchTab = window.open('about:blank', '_blank');
+      launchTab = window.open('', '_blank');
       if (launchTab) {
+        launchTab.document.open();
         launchTab.document.write(`<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,17 +74,17 @@ const Launcher = {
     }
     .spinner-wrap {
       position: relative;
-      width: 72px;
-      height: 72px;
+      width: 64px;
+      height: 64px;
       margin: 0 auto 24px;
     }
     .spinner {
-      width: 72px;
-      height: 72px;
+      width: 64px;
+      height: 64px;
       border: 4px solid rgba(245, 158, 11, 0.15);
       border-top-color: #f59e0b;
       border-radius: 50%;
-      animation: spin 0.9s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      animation: spin 0.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
     .game-title {
@@ -127,40 +141,6 @@ const Launcher = {
       console.warn('[RESERVE TAB NOTICE]', tabErr);
     }
 
-    // 2. Immediately close brand drawer so it never overlaps or covers the game
-    if (window.Catalog && typeof window.Catalog.closeBrandDrawer === 'function') {
-      window.Catalog.closeBrandDrawer();
-    }
-    const brandModal = document.getElementById('brandDrawerModal');
-    if (brandModal) {
-      brandModal.classList.remove('active');
-    }
-
-    const modal = document.getElementById('gameModal');
-    const iframe = document.getElementById('gameIframe');
-    const loader = document.getElementById('gameLoader');
-    const titleEl = document.getElementById('gameModalTitle');
-    const brandEl = document.getElementById('gameModalBrand');
-    const popoutBtn = document.getElementById('gamePopoutBtn');
-
-    if (modal) {
-      this.isOpen = true;
-      modal.classList.add('active');
-      document.body.style.overflow = 'hidden';
-
-      this.activeGameTitle = gameTitle || 'VIP Casino Game';
-      if (titleEl) titleEl.textContent = this.activeGameTitle;
-      if (brandEl) brandEl.textContent = `${brandTitle || 'Top Tier'} · Live Gateway Session`;
-
-      // Show loading in modal
-      if (loader) loader.classList.remove('hidden');
-      if (iframe) {
-        iframe.classList.add('hidden');
-        iframe.src = 'about:blank';
-      }
-      this.startProgress();
-    }
-
     try {
       console.log(`[LAUNCHING] ${gameTitle} (PID: ${productId}, Brand: ${brandSlug})`);
 
@@ -187,32 +167,26 @@ const Launcher = {
         this.activeGameUrl = targetUrl;
       }
 
-      // REDIRECT PRE-RESERVED TAB INSTANTLY!
+      // REDIRECT THE DEDICATED TAB (Identical to igamingapis.com openGamePlayer)
       if (launchTab && !launchTab.closed) {
         try {
           launchTab.location.href = targetUrl;
+          try { launchTab.opener = null; } catch(e) {}
         } catch (redirErr) {
           console.warn('[TAB REDIRECT ERROR]', redirErr);
+          window.location.href = targetUrl;
+        }
+      } else {
+        // Fallback for strict mobile browsers
+        const win = window.open(targetUrl, '_blank', 'noopener,noreferrer');
+        if (!win) {
+          window.location.href = targetUrl;
         }
       }
 
-      if (popoutBtn) {
-        popoutBtn.classList.remove('hidden');
+      if (window.App && typeof window.App.showToast === 'function') {
+        window.App.showToast(`${gameTitle} connected! Playing live...`, 'success');
       }
-
-      // Complete in-page progress smoothly
-      this.setProgress(90);
-      setTimeout(() => {
-        this.setProgress(100);
-        setTimeout(() => {
-          this.clearProgress();
-          if (loader) loader.classList.add('hidden');
-          if (iframe) {
-            iframe.classList.remove('hidden');
-            iframe.src = targetUrl;
-          }
-        }, 200);
-      }, 200);
 
     } catch (err) {
       console.warn('[LAUNCHER ERROR]', err);
@@ -223,13 +197,8 @@ const Launcher = {
         try {
           launchTab.location.href = fallbackUrl;
         } catch (e) {}
-      }
-
-      this.setProgress(100);
-      if (loader) loader.classList.add('hidden');
-      if (iframe) {
-        iframe.classList.remove('hidden');
-        iframe.src = fallbackUrl;
+      } else {
+        window.location.href = fallbackUrl;
       }
     }
   },
