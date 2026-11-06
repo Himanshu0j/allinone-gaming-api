@@ -504,6 +504,15 @@ function aes256EcbDecrypt(base64Str, key32) {
 // -----------------------------------------------------------------------------
 
 // 1. Get full providers list with pricing & metadata
+app.get('/api/version', (req, res) => {
+  res.json({
+    status: 'online',
+    version: '2.5.0',
+    gateway: 'SoftApi Live Multi-Provider Session Engine',
+    timestamp: Date.now()
+  });
+});
+
 app.get('/api/providers', (req, res) => {
   const providers = (catalogData.providers || []).map(p => {
     const key = (p.brand_title || '').trim().toLowerCase();
