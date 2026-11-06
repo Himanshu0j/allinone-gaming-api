@@ -823,16 +823,17 @@ app.post('/api/verify-agent', (req, res) => {
 app.all('/api/launch-game', async (req, res) => {
   const body = req.body || {};
   const query = req.query || {};
-  const productId = body.productId || query.productId || query.pid;
-  const brandSlug = body.brandSlug || query.brandSlug || query.brand;
-  const gameTitle = body.gameTitle || query.gameTitle || query.title;
-  const gameCode = body.gameCode || query.gameCode || query.code;
+  const productId = body.productId || body.pid || query.productId || query.pid;
+  const rawBrandSlug = body.brandSlug || body.brand || query.brandSlug || query.brand;
+  const gameTitle = body.gameTitle || body.title || body.name || query.gameTitle || query.title;
+  const gameCode = body.gameCode || body.code || query.gameCode || query.code;
   const mode = body.mode || query.mode;
 
-  const targetSlug = normalizeSlug(brandSlug);
   const targetPid = (productId && productId !== 'default') ? String(productId) : null;
+  const derivedBrand = (targetPid && verifiedGameUrls[targetPid]) ? verifiedGameUrls[targetPid].brand : '';
+  const targetSlug = normalizeSlug(rawBrandSlug || derivedBrand);
 
-  console.log(`[LAUNCH REQUEST] PID: ${productId}, Brand: ${brandSlug}, Title: ${gameTitle}`);
+  console.log(`[LAUNCH REQUEST] PID: ${productId}, Brand: ${rawBrandSlug} (effective: ${targetSlug}), Title: ${gameTitle}`);
 
   // 0. Dedicated smooth fallback for providers with upstream domain/geo restrictions (Never show 'unavailable')
   const isPragmaticBrand = targetSlug.includes('pragmatic');
