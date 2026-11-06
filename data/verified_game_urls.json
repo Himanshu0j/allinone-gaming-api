@@ -1,0 +1,2754 @@
+{
+  "2175": {
+    "pid": "2175",
+    "brand": "pgsoft",
+    "name": "Asgardian Rising",
+    "code": "40",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=487cef50-8ad2-446d-bc9e-4b66d55a9f29&f=ab1945a9dec9cc37",
+    "game_uid": 40
+  },
+  "2187": {
+    "pid": "2187",
+    "brand": "pgsoft",
+    "name": "Butterfly Blossom",
+    "code": "73",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=f6af0f06-f7e5-47bf-8438-9c05788a00d2&f=ab1945a9dec9cc37",
+    "game_uid": 73
+  },
+  "2197": {
+    "pid": "2197",
+    "brand": "pgsoft",
+    "name": "Bikini Paradise",
+    "code": "102",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=623350fe-b09f-4391-b789-d61597cb1b8f&f=ab1945a9dec9cc37",
+    "game_uid": 102
+  },
+  "2211": {
+    "pid": "2211",
+    "brand": "pgsoft",
+    "name": "Baccarat Deluxe",
+    "code": "145",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=5ab15e32-37a3-47d8-a23e-260b02143c66&f=ab1945a9dec9cc37",
+    "game_uid": 145
+  },
+  "2219": {
+    "pid": "2219",
+    "brand": "pgsoft",
+    "name": "Candy Burst",
+    "code": "172",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=dc9b4b59-d1aa-4417-9a14-77a668543399&f=ab1945a9dec9cc37",
+    "game_uid": 172
+  },
+  "2221": {
+    "pid": "2221",
+    "brand": "pgsoft",
+    "name": "Buffalo Win",
+    "code": "175",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=91aa230c-250a-4e20-bd25-0eb91116d421&f=ab1945a9dec9cc37",
+    "game_uid": 175
+  },
+  "2231": {
+    "pid": "2231",
+    "brand": "pgsoft",
+    "name": "Double Fortune",
+    "code": "249",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=8864f6d2-c0cb-431e-b2ae-174bda2c5c08&f=ab1945a9dec9cc37",
+    "game_uid": 249
+  },
+  "2245": {
+    "pid": "2245",
+    "brand": "pgsoft",
+    "name": "Dragon Hatch",
+    "code": "339",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=851bea0c-9374-4085-9e1b-4f0a2fe5e1e2&f=ab1945a9dec9cc37",
+    "game_uid": 339
+  },
+  "2251": {
+    "pid": "2251",
+    "brand": "pgsoft",
+    "name": "Circus Delight",
+    "code": "410",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=d887d8ba-855c-41a3-a8d7-0c088a0faf59&f=ab1945a9dec9cc37",
+    "game_uid": 410
+  },
+  "2255": {
+    "pid": "2255",
+    "brand": "pgsoft",
+    "name": "Cocktail Nights",
+    "code": "420",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=70690bad-807f-4b88-8252-029cc1cd64ba&f=ab1945a9dec9cc37",
+    "game_uid": 420
+  },
+  "2265": {
+    "pid": "2265",
+    "brand": "pgsoft",
+    "name": "Destiny of Sun &amp; Moon",
+    "code": "442",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=50623293-95b2-4db4-a142-c590eca9112b&f=ab1945a9dec9cc37",
+    "game_uid": 442
+  },
+  "2273": {
+    "pid": "2273",
+    "brand": "pgsoft",
+    "name": "Diner Delights",
+    "code": "568",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=deddb750-d3b3-4362-9fe9-2cfafea081c4&f=ab1945a9dec9cc37",
+    "game_uid": 568
+  },
+  "2303": {
+    "pid": "2303",
+    "brand": "pgsoft",
+    "name": "Alchemy Gold",
+    "code": "701",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=aa26aadf-a841-4842-b75d-14310f34e882&f=ab1945a9dec9cc37",
+    "game_uid": 701
+  },
+  "2333": {
+    "pid": "2333",
+    "brand": "pgsoft",
+    "name": "Crypto Gold",
+    "code": "821",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=094beeff-6a29-41cc-b82f-cba6512132d4&f=ab1945a9dec9cc37",
+    "game_uid": 821
+  },
+  "2340": {
+    "pid": "2340",
+    "brand": "pgsoft",
+    "name": "Candy Bonanza",
+    "code": "870",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=5270fbf6-1227-402a-b016-bb867e8c362a&f=ab1945a9dec9cc37",
+    "game_uid": 870
+  },
+  "2345": {
+    "pid": "2345",
+    "brand": "pgsoft",
+    "name": "Bali Vacation",
+    "code": "909",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=7fe6d8bf-8053-4101-b2ba-7c2de50f34c8&f=ab1945a9dec9cc37",
+    "game_uid": 909
+  },
+  "2355": {
+    "pid": "2355",
+    "brand": "pgsoft",
+    "name": "Captain&#8217;s Bounty",
+    "code": "937",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=5f8b9368-f820-4a66-b36f-74cacd52730f&f=ab1945a9dec9cc37",
+    "game_uid": 937
+  },
+  "2357": {
+    "pid": "2357",
+    "brand": "pgsoft",
+    "name": "Bakery Bonanza",
+    "code": "953",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=1762ee0a-637b-4f5b-a540-5aeb85c6d91a&f=ab1945a9dec9cc37",
+    "game_uid": 953
+  },
+  "2373": {
+    "pid": "2373",
+    "brand": "pgsoft",
+    "name": "Battleground Royale",
+    "code": "1068",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=56accf3e-bbd5-4574-81e5-4734bc9026df&f=ab1945a9dec9cc37",
+    "game_uid": 1068
+  },
+  "2387": {
+    "pid": "2387",
+    "brand": "pgsoft",
+    "name": "Caishen Wins",
+    "code": "10078",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=fd8a3c6c-d503-4059-8d7a-213cef9f5214&f=ab1945a9dec9cc37",
+    "game_uid": 10078
+  },
+  "2403": {
+    "pid": "2403",
+    "brand": "pgsoft",
+    "name": "Cruise Royale",
+    "code": "10086",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=91e15877-226a-491c-ad4d-e9b4cffe81b5&f=ab1945a9dec9cc37",
+    "game_uid": 10086
+  },
+  "2427": {
+    "pid": "2427",
+    "brand": "pgsoft",
+    "name": "Cash Mania",
+    "code": "10096",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=fb75917b-c11b-4763-a292-915514b3e148&f=ab1945a9dec9cc37",
+    "game_uid": 10096
+  },
+  "2435": {
+    "pid": "2435",
+    "brand": "pgsoft",
+    "name": "Anubis Wrath",
+    "code": "10100",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=86d232d9-5a6e-47e0-97cf-86edbf9cfa14&f=ab1945a9dec9cc37",
+    "game_uid": 10100
+  },
+  "2437": {
+    "pid": "2437",
+    "brand": "pgsoft",
+    "name": "Chicky Run",
+    "code": "10101",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=218b8d91-469f-48b3-a147-a84ec89809e9&f=ab1945a9dec9cc37",
+    "game_uid": 10101
+  },
+  "2459": {
+    "pid": "2459",
+    "brand": "pgsoft",
+    "name": "Doomsday Rampage",
+    "code": "10112",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=99dcd809-001d-4f43-b48f-b2287504995a&f=ab1945a9dec9cc37",
+    "game_uid": 10112
+  },
+  "2463": {
+    "pid": "2463",
+    "brand": "pgsoft",
+    "name": "Dead Man&#8217;s Riches",
+    "code": "10114",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=ba2a0a64-3053-4c3b-b0a5-19cf6dc50aad&f=ab1945a9dec9cc37",
+    "game_uid": 10114
+  },
+  "2464": {
+    "pid": "2464",
+    "brand": "pgsoft",
+    "name": "Dead Man&#039;s Riches",
+    "code": "2464",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=f50ef47c-7fd4-40d8-8bb4-0d5c26917eda&f=ab1945a9dec9cc37",
+    "game_uid": 10114
+  },
+  "2467": {
+    "pid": "2467",
+    "brand": "pgsoft",
+    "name": "Chocolate Deluxe",
+    "code": "10115",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=7639e657-fbc0-4ae2-85ff-4c08b477abc3&f=ab1945a9dec9cc37",
+    "game_uid": 10115
+  },
+  "2471": {
+    "pid": "2471",
+    "brand": "pgsoft",
+    "name": "Diner Frenzy Spins",
+    "code": "10117",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=114df9a5-5f1a-40f5-a402-d62019244067&f=ab1945a9dec9cc37",
+    "game_uid": 10117
+  },
+  "2489": {
+    "pid": "2489",
+    "brand": "pgsoft",
+    "name": "Alibaba&#8217;s Cave of Fortune",
+    "code": "10126",
+    "url": "https://ff7828db6a5af99c.hdonegame.com/game/gamesUrl?id=4e922416-5b38-4bd7-8687-2455f1749fb0&f=ab1945a9dec9cc37",
+    "game_uid": 10126
+  },
+  "2549": {
+    "pid": "2549",
+    "brand": "jili",
+    "name": "3 Coin Wild Horse",
+    "code": "2549",
+    "url": "https://wbgame.opulentmind168.com/cc/?ssoKey=05d5ede25083d293a7831314e06944f184ef7b22&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=485&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 163
+  },
+  "2587": {
+    "pid": "2587",
+    "brand": "jili",
+    "name": "7up7down",
+    "code": "2587",
+    "url": "https://wbgame.opulentmind168.com/sudm/index.html?ssoKey=fbae4819600843eb8e724df3c4c82b90c6151d62&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=124&gs=861dnimtnelupo&legalLang=true&skin=0",
+    "game_uid": 264
+  },
+  "2601": {
+    "pid": "2601",
+    "brand": "jili",
+    "name": "AK47",
+    "code": "2601",
+    "url": "https://wbgame.opulentmind168.com/teenpatti2/index.html?ssoKey=93f7f88cb866d741b2f0a66073dc335250783939&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=75&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 324
+  },
+  "2655": {
+    "pid": "2655",
+    "brand": "jili",
+    "name": "3 Coin Treasures",
+    "code": "2655",
+    "url": "https://wbgame.opulentmind168.com/tct/?ssoKey=57dccb7f9a7c5637a995f40af67c238b81cde8c9&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=399&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 473
+  },
+  "2659": {
+    "pid": "2659",
+    "brand": "jili",
+    "name": "Aztec Priestess",
+    "code": "2659",
+    "url": "https://wbgame.opulentmind168.com/ap/?ssoKey=d25de1855bace136a0443f737b4e01d53c84b51a&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=209&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 480
+  },
+  "2663": {
+    "pid": "2663",
+    "brand": "jili",
+    "name": "Bangla Beauty",
+    "code": "2663",
+    "url": "https://wbgame.opulentmind168.com/bby/?ssoKey=109176d2e426ff2a9fbd4f1ab15769257fbca78a&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=238&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 483
+  },
+  "2671": {
+    "pid": "2671",
+    "brand": "jili",
+    "name": "Andar Bahar",
+    "code": "2671",
+    "url": "https://wbgame.opulentmind168.com/andarbahar/index.html?ssoKey=9f8e0f1e50387dbc9f1c9b1ec2ba8572a64ea384&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=79&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 505
+  },
+  "2679": {
+    "pid": "2679",
+    "brand": "jili",
+    "name": "Arena Fighter",
+    "code": "2679",
+    "url": "https://wbgame.opulentmind168.com/afr/?ssoKey=b12f16cc8fffe375917e2c1af69965b792888331&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=228&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 519
+  },
+  "2697": {
+    "pid": "2697",
+    "brand": "jili",
+    "name": "3 LUCKY LION",
+    "code": "2697",
+    "url": "https://wbgame.opulentmind168.com/tll/?ssoKey=977ffd843d7c68e9844f294d7916068e142ac64b&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=463&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 552
+  },
+  "2699": {
+    "pid": "2699",
+    "brand": "jili",
+    "name": "3 Coin Treasures 2",
+    "code": "2699",
+    "url": "https://wbgame.opulentmind168.com/tct2/?ssoKey=2aa0b24aed275ca8877243a2d0f78ebe0f11c5a6&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=472&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 555
+  },
+  "2725": {
+    "pid": "2725",
+    "brand": "jili",
+    "name": "Agent Ace",
+    "code": "2725",
+    "url": "https://wbgame.opulentmind168.com/aa/?ssoKey=68f9c53b6925f429a516cad680f94e1f89a0fcb9&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=115&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 634
+  },
+  "2727": {
+    "pid": "2727",
+    "brand": "jili",
+    "name": "Bao boon chin",
+    "code": "2727",
+    "url": "https://wbgame.opulentmind168.com/bbc/?ssoKey=784e76e93bcfc45f96e536bbfee69dbcffff65ce&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=36&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 641
+  },
+  "2745": {
+    "pid": "2745",
+    "brand": "jili",
+    "name": "3 Pot Dragons",
+    "code": "2745",
+    "url": "https://wbgame.opulentmind168.com/dts/?ssoKey=a555e2b30cee783c9ace336bb986e270a3089adc&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=372&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 671
+  },
+  "2759": {
+    "pid": "2759",
+    "brand": "jili",
+    "name": "All-star Fishing",
+    "code": "2759",
+    "url": "https://wbgame.opulentmind168.com/fish12/index.html?ssoKey=f17ecdd63288782bb7adae0dae3e38fd80685f43&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=119&gs=861dnimtnelupo&legalLang=true&skin=0",
+    "game_uid": 728
+  },
+  "2801": {
+    "pid": "2801",
+    "brand": "jili",
+    "name": "Baccarat",
+    "code": "2801",
+    "url": "https://wbgame.opulentmind168.com/baccarat/index.html?ssoKey=3cdaeaa87eade93293f97927f1b23a0632b7605d&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=152&gs=861dnimtnelupo&legalLang=true&skin=0",
+    "game_uid": 855
+  },
+  "2833": {
+    "pid": "2833",
+    "brand": "jili",
+    "name": "Ali Baba",
+    "code": "2833",
+    "url": "https://wbgame.opulentmind168.com/ali/?ssoKey=5e5843a09c10dc1fb16939632ea84e0c550e0329&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=110&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 931
+  },
+  "2865": {
+    "pid": "2865",
+    "brand": "jili",
+    "name": "3 Lucky Piggy",
+    "code": "2865",
+    "url": "https://wbgame.opulentmind168.com/tlp/?ssoKey=5eca03586834dbc588345c2ad5fef844b886f86b&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=400&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 1026
+  },
+  "2904": {
+    "pid": "2904",
+    "brand": "jili",
+    "name": "3 Charge Buffalo",
+    "code": "2904",
+    "url": "https://wbgame.opulentmind168.com/tcb/?ssoKey=be1768e73108c1feafcd95c00920b595d96a7e32&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=460&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 1185
+  },
+  "2926": {
+    "pid": "2926",
+    "brand": "jili",
+    "name": "10 Sparkling Crown",
+    "code": "2926",
+    "url": "https://wbgame.opulentmind168.com/crown/?ssoKey=02da48070842572ba440065a1c882e210c72cf69&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=526&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10035
+  },
+  "2985": {
+    "pid": "2985",
+    "brand": "jili",
+    "name": "3 Coin Golden Ox",
+    "code": "2985",
+    "url": "https://wbgame.opulentmind168.com/tcgox/?ssoKey=d5ef28a7160aea66aec7c542cdac27c0ae0514f9&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=547&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10509
+  },
+  "2988": {
+    "pid": "2988",
+    "brand": "jili",
+    "name": "3 Witch&#8217;s Lamp",
+    "code": "2988",
+    "url": "https://wbgame.opulentmind168.com/wl/?ssoKey=433f3141fe25c8ed9cfc1e0202e43e47b5e21fe4&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=505&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10511
+  },
+  "2995": {
+    "pid": "2995",
+    "brand": "jili",
+    "name": "3 Lucky Baozhu",
+    "code": "2995",
+    "url": "https://wbgame.opulentmind168.com/tlb/?ssoKey=62e719c1f2abe3e8b2a501876374d89efa208133&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=563&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10514
+  },
+  "2997": {
+    "pid": "2997",
+    "brand": "jili",
+    "name": "20 Blazing Clover",
+    "code": "2997",
+    "url": "https://wbgame.opulentmind168.com/bc20/?ssoKey=e6946212a09e55ebb58420621c105e278638f5dd&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=581&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10515
+  },
+  "2999": {
+    "pid": "2999",
+    "brand": "jili",
+    "name": "3 Coin Wild Tiger",
+    "code": "2999",
+    "url": "https://wbgame.opulentmind168.com/tcwt/?ssoKey=9f56ce036076d50183a154558cd38c66107db296&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=622&gs=moc.861dnimtnelupo.df-tolsbw&legalLang=true&skin=0",
+    "game_uid": 10516
+  },
+  "3000": {
+    "pid": "3000",
+    "brand": "jili",
+    "name": "Amar Akbar Anthony",
+    "code": "3000",
+    "url": "https://wbgame.opulentmind168.com/amarakbaranthony/index.html?ssoKey=90b9f8bf39a559a99a5b16fcd6e361ffb4bbd7c3&lang=en-US&apiId=1690&be=moc.861dnimtnelupo.ipabewbw&domain_gs=861dnimtnelupo&domain_platform=moc.861dnimtnelupo.mroftalp-tolsbw&gameID=474&gs=861dnimtnelupo&legalLang=true&skin=0",
+    "game_uid": 10517
+  },
+  "3003": {
+    "pid": "3003",
+    "brand": "jdb",
+    "name": "Dragons World",
+    "code": "3003",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14035&gVer=d914912&mute=0&x=e9tkQRED2CCrB2IJxj-hn2kBhsIyzYikSYOBx4Bz3utiykYWIyXNAEjNxVAMrXH7u_xtrUe9EwC2in1qbybxne2lud7uCqhyMk8xPvWSVG8",
+    "game_uid": 2
+  },
+  "3013": {
+    "pid": "3013",
+    "brand": "jdb",
+    "name": "Dragon Tiger &#8211; Joker Bonus",
+    "code": "3013",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=18&mType=18026&gVer=510a39a&mute=0&x=e9tkQRED2CDF-tU1QQIcnhJPMvq1d_Z1SYOBx4Bz3uuoKCupKZzRlCC7P3KfglDuGX9SyzPkkhVjwLRnFOqVMWGe5IWlUrBhMk8xPvWSVG8",
+    "game_uid": 28
+  },
+  "3019": {
+    "pid": "3019",
+    "brand": "jdb",
+    "name": "Dragon Fishing",
+    "code": "3019",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=7&mType=7001&gVer=494ef2a&mute=0&x=e9tkQRED2CAYF5ZvLxkkM6ZketohIw3dSYOBx4Bz3utPptbOYkyJrxCbCuODjRWZMDqEQyuB7s7JRHfbx7EX26Dq3Dqo3uZGMk8xPvWSVG8",
+    "game_uid": 72
+  },
+  "3023": {
+    "pid": "3023",
+    "brand": "jdb",
+    "name": "Book Of Mystery",
+    "code": "3023",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14070&gVer=c87e3d1&mute=0&x=e9tkQRED2CCC5duIRCV8OKiesRoM7uQsZsYiZa9vMKNRZ3IWlIrHgZydZ_Au8S-Ns0ipaB7q6fR1leYJU97xFNiXQDMU4Jgv0kIv5YFEGbo",
+    "game_uid": 81
+  },
+  "3025": {
+    "pid": "3025",
+    "brand": "jdb",
+    "name": "Billionaire",
+    "code": "3025",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14006&gVer=3e357d8&mute=0&x=e9tkQRED2CDUYVJ0Dx8-BWI9_QaQPnmHSYOBx4Bz3utggMZKQ7RKHSuqoXhg96SC-nJD5Il7d2aFZu0q0iQoL1sjAyT1RblDMk8xPvWSVG8",
+    "game_uid": 94
+  },
+  "3053": {
+    "pid": "3053",
+    "brand": "jdb",
+    "name": "Caishen Coming",
+    "code": "3053",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14084&gVer=a30337a&mute=0&x=e9tkQRED2CCzyAfYrk_-75M8laCyQZY1SYOBx4Bz3uufQH4ZLPXepMLf-QT0txFGsMTwy4ST4y-IxjtdHuxVfqibY1qyIs0rMk8xPvWSVG8",
+    "game_uid": 308
+  },
+  "3055": {
+    "pid": "3055",
+    "brand": "jdb",
+    "name": "Elemental Link Fire",
+    "code": "3055",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14080&gVer=33f9b85&mute=0&x=e9tkQRED2CButS3oFydZQG_qVd5m1_HLSYOBx4Bz3uv_w4MNlnn5vgR1PvWPtpe1h0DZTsU9gtNdq1aAspqWBXXHbbJmr9KkMk8xPvWSVG8",
+    "game_uid": 309
+  },
+  "3079": {
+    "pid": "3079",
+    "brand": "jdb",
+    "name": "Big Three Dragons",
+    "code": "3079",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14063&gVer=7086c2b&mute=0&x=e9tkQRED2CAwKzjwRe0y88VG7CLjEk8ESYOBx4Bz3utrHjVliJdcEJVKDHM7W88x_XXk_xfe3_oJ8PjQMNeqPXtJuR2w7SttMk8xPvWSVG8",
+    "game_uid": 438
+  },
+  "3081": {
+    "pid": "3081",
+    "brand": "jdb",
+    "name": "Classic Mario",
+    "code": "3081",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=9&mType=9001&gVer=724e397&mute=0&x=e9tkQRED2CCDFSlvviDHHk-dVrDryftDSYOBx4Bz3uv_BbR6JZxR1hJm86R1wbjOvzE0cd1d5jhw-40MVQefoKAXTka-Iw7iMk8xPvWSVG8",
+    "game_uid": 445
+  },
+  "3085": {
+    "pid": "3085",
+    "brand": "jdb",
+    "name": "Caishen Party",
+    "code": "3085",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=9&mType=9011&gVer=77f1f6d&mute=0&x=e9tkQRED2CAfMiSlESVvvowT7mRNHBZuSYOBx4Bz3ushLmUrgPPbC_LCkZ9cym69nMRczZHGVVfHSK-ar-HuasqbZifckQKvMk8xPvWSVG8",
+    "game_uid": 454
+  },
+  "3095": {
+    "pid": "3095",
+    "brand": "jdb",
+    "name": "Dragon Fishing Ii",
+    "code": "3095",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=7&mType=7002&gVer=b4d0501&mute=0&x=e9tkQRED2CBvDELkXS7gp5uwq3FBwKURZsYiZa9vMKMBJ2bF57xsIMxgB45CdiDov0O9rgWxB3B9Yei9I_UlyFY3PeKMnTgi0kIv5YFEGbo",
+    "game_uid": 488
+  },
+  "3097": {
+    "pid": "3097",
+    "brand": "jdb",
+    "name": "Cai Shen Fishing",
+    "code": "3097",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=7&mType=7003&gVer=9991d51&mute=0&x=e9tkQRED2CDtsohb_aCovq0SX-8xtcaiSYOBx4Bz3uujfliGWnom5uIXOm_b88mKwxSm8uzkAabr3T5WehTzP1hFSagrmVLvMk8xPvWSVG8",
+    "game_uid": 496
+  },
+  "3103": {
+    "pid": "3103",
+    "brand": "jdb",
+    "name": "Dragon",
+    "code": "3103",
+    "url": "https://agg345wq.xibunda.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14010&gVer=e263fe8&mute=0&x=e9tkQRED2CBw54nlr2fc8YJX3seA5JfwSYOBx4Bz3usqXkfBfGg-qcVs4rd4R7r6BBCcsjzv4obTbqkW9Xeo29P996Zbrt8LMk8xPvWSVG8",
+    "game_uid": 526
+  },
+  "3109": {
+    "pid": "3109",
+    "brand": "jdb",
+    "name": "Birds Party",
+    "code": "3109",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14033&gVer=5465030&mute=0&x=e9tkQRED2CBvDELkXS7gp-bKiOZQiyHLSYOBx4Bz3utg6ja5TC1M1rn3GSfq-yD_bBxTfXQ1TdrGkL4lxQKLpuuUvFcXjTzzMk8xPvWSVG8",
+    "game_uid": 556
+  },
+  "3121": {
+    "pid": "3121",
+    "brand": "jdb",
+    "name": "Dragon Soar",
+    "code": "3121",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14089&gVer=1c54e46&mute=0&x=e9tkQRED2CBqp2fNF-bMpM3ALCzPYkgpSYOBx4Bz3uvPO93QtIQtlrWUof-0v21BpIzudeU0bMkujWZbz88SDgh8BW0C3TsQMk8xPvWSVG8",
+    "game_uid": 678
+  },
+  "3137": {
+    "pid": "3137",
+    "brand": "jdb",
+    "name": "Beer Tycoon",
+    "code": "3137",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=9&mType=9004&gVer=054862c&mute=0&x=e9tkQRED2CDnfiVFadB-oijfI9xBLjvqSYOBx4Bz3utB6Cv30rHSemTHQTgVVo5_kAjJVslDtQ0iMY3VipkAakj_dVwTH7paMk8xPvWSVG8",
+    "game_uid": 817
+  },
+  "3149": {
+    "pid": "3149",
+    "brand": "jdb",
+    "name": "Crazy King Kong",
+    "code": "3149",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=9&mType=9008&gVer=8bc802c&mute=0&x=e9tkQRED2CD_PJkyLehg8CXWD2W0huMCSYOBx4Bz3usfVhv24eQaEs4PfhfK4ChherCGwJX7SvjLa8X_naQyZ-E4D5RE4ceaMk8xPvWSVG8",
+    "game_uid": 892
+  },
+  "3175": {
+    "pid": "3175",
+    "brand": "jdb",
+    "name": "Birds And Animals",
+    "code": "3175",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=9&mType=9003&gVer=69206e7&mute=0&x=e9tkQRED2CA0bjIe3Vmcd76XJ-yk_i4QSYOBx4Bz3uuL8qv5JGBshH8H87_CV7vVw14oo_5ZEdmVIWGTJ-Td7qFo-N3nmWkMMk8xPvWSVG8",
+    "game_uid": 1009
+  },
+  "3191": {
+    "pid": "3191",
+    "brand": "jdb",
+    "name": "Blossom Of Wealth",
+    "code": "3191",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14065&gVer=4b5c148&mute=0&x=e9tkQRED2CCqRWfkJScFwjxFtM4nGdDpSYOBx4Bz3uscQv86bUmpBVv9yjVvCg3i9Jpx2-9xaGDEMqvz_a8jduHUMlhb36vbMk8xPvWSVG8",
+    "game_uid": 1079
+  },
+  "3199": {
+    "pid": "3199",
+    "brand": "jdb",
+    "name": "Cai Shen Bingo",
+    "code": "3199",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=12&mType=12001&gVer=0956f57&mute=0&x=e9tkQRED2CAwKzjwRe0y8wgGaj3sVnnESYOBx4Bz3uuvtgVB7DiWOvcnFFvnFa3JKIZCrH-vJEcBSw8xjv6BAd0MM8WRYO6TMk8xPvWSVG8",
+    "game_uid": 1102
+  },
+  "3205": {
+    "pid": "3205",
+    "brand": "jdb",
+    "name": "Dragon Master",
+    "code": "3205",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=7&mType=7006&gVer=300eeab&mute=0&x=e9tkQRED2CA2UJ2thXDS4GRrgykXR_IJSYOBx4Bz3uskX2fQ3KR92m2dcRPkI3lE3iGDVCGkM_SWWotvDsjgqpKX-qtE3PobMk8xPvWSVG8",
+    "game_uid": 1115
+  },
+  "3211": {
+    "pid": "3211",
+    "brand": "jdb",
+    "name": "Dragons Gate",
+    "code": "3211",
+    "url": "https://pq1k.dsfrtag.com/?lang=en&homeUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&isAPP=false&gameType=14&mType=14051&gVer=f8421d4&mute=0&x=e9tkQRED2CDkMTbfMKiLjZ9qOE0__WiKZsYiZa9vMKPZChEkb7mPhof9BXfb77W5jvtcWmIFF_sttfJiFyZVkkoYXXaT6PrQ0kIv5YFEGbo",
+    "game_uid": 1150
+  },
+  "3545": {
+    "pid": "3545",
+    "brand": "cq9",
+    "name": "Baseball Fever",
+    "code": "111",
+    "url": "https://web01.sssc1688.com/h5/230/?token=9ba26a707fce67ae171bcea2513bfc7c&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 111
+  },
+  "3569": {
+    "pid": "3569",
+    "brand": "cq9",
+    "name": "888 Cai Shen",
+    "code": "180",
+    "url": "https://web01.sssc1688.com/h5/227/?token=152efa72672129138e74244e3e3d05dd&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 180
+  },
+  "3617": {
+    "pid": "3617",
+    "brand": "cq9",
+    "name": "Aladdin&#8217;s lamp",
+    "code": "301",
+    "url": "https://web01.sssc1688.com/h5/177/?token=ba89c702d1382b476281717ea7f27718&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 301
+  },
+  "3631": {
+    "pid": "3631",
+    "brand": "cq9",
+    "name": "6 Toros",
+    "code": "341",
+    "url": "https://web01.sssc1688.com/h5/173/?token=75d7f2bf77fb673f6820200af1c0ab87&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 341
+  },
+  "3655": {
+    "pid": "3655",
+    "brand": "cq9",
+    "name": "777",
+    "code": "373",
+    "url": "https://web01.sssc1688.com/h5/26/?token=36054cde6c57aed21c8acc018bd97a0f&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 373
+  },
+  "3689": {
+    "pid": "3689",
+    "brand": "cq9",
+    "name": "5 Boxing",
+    "code": "439",
+    "url": "https://web01.sssc1688.com/h5/157/?token=8aac0297339a98052e30a96e64bc8d99&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 439
+  },
+  "3713": {
+    "pid": "3713",
+    "brand": "cq9",
+    "name": "888",
+    "code": "514",
+    "url": "https://web01.sssc1688.com/h5/20/?token=fe6ba5db054f557cc51cb7c0610cf219&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 514
+  },
+  "3717": {
+    "pid": "3717",
+    "brand": "cq9",
+    "name": "5 God Beasts",
+    "code": "520",
+    "url": "https://web01.sssc1688.com/h5/117/?token=5e200044303ed787945e23e585dea011&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 520
+  },
+  "3763": {
+    "pid": "3763",
+    "brand": "cq9",
+    "name": "All Star Team",
+    "code": "613",
+    "url": "https://web01.sssc1688.com/h5/98/?token=dc4cba44a42a367cec2f76f85c5e8d74&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 613
+  },
+  "3777": {
+    "pid": "3777",
+    "brand": "cq9",
+    "name": "Chameleon",
+    "code": "625",
+    "url": "https://web01.sssc1688.com/h5/79/?token=742562428aa325bc0e3b11f3965a0e64&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 625
+  },
+  "3815": {
+    "pid": "3815",
+    "brand": "cq9",
+    "name": "Apollo",
+    "code": "731",
+    "url": "https://web01.sssc1688.com/h5/78/?token=bf564ced45c0851cd643d780a5ea5030&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 731
+  },
+  "3875": {
+    "pid": "3875",
+    "brand": "cq9",
+    "name": "Acrobatics",
+    "code": "849",
+    "url": "https://web01.sssc1688.com/h5/223/?token=c5b394fb69f87a2fd7c616187bc16a56&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 849
+  },
+  "3887": {
+    "pid": "3887",
+    "brand": "cq9",
+    "name": "All Wilds",
+    "code": "867",
+    "url": "https://web01.sssc1688.com/h5/38/?token=8671402e3f503dfc9b8a0ab7cd72f632&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 867
+  },
+  "4033": {
+    "pid": "4033",
+    "brand": "cq9",
+    "name": "Apsaras",
+    "code": "1151",
+    "url": "https://web01.sssc1688.com/h5/39/?token=0662cfca9805b54105dd894b2ab417e0&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 1151
+  },
+  "4049": {
+    "pid": "4049",
+    "brand": "cq9",
+    "name": "Black Wukong",
+    "code": "10141",
+    "url": "https://web01.sssc1688.com/h5/158/?token=ca9bb5cf25dcd4d88e20c236acaa912c&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 10141
+  },
+  "4075": {
+    "pid": "4075",
+    "brand": "cq9",
+    "name": "168 Lucky Bag",
+    "code": "10148",
+    "url": "https://qslot.destoy.xyz/VPCQGP01_GROUP/?token=e10088051df4c7685e126279db2eb640&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 10148
+  },
+  "4076": {
+    "pid": "4076",
+    "brand": "cq9",
+    "name": "168 Lucky Bag",
+    "code": "4076",
+    "url": "https://qslot.destoy.xyz/VPCQGP01_GROUP/?token=dbefa0e11d168b0d8149205fb53afab6&language=en&dollarsign=Y&app=N&detect=N&leaveUrl=https://igamingapis.com/products/",
+    "game_uid": 10148
+  },
+  "4142": {
+    "pid": "4142",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Reborn",
+    "code": "4509",
+    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImZjNWIzNDRlYmNiZTQyM2U4MDU2YzVkZWQyMGMyZDMwIiwic3ltYm9sIjoidnN3YXlzNWxpb25zciIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=ieJ54U5Di7N1oA8pgph2aeo2EwgkS72WU7Y7I5O3ZfYEbtGDLNrc1EZFEAjKL3kV&isGameUrlApiCalled=true&userId=he26e4979364epc",
+    "game_uid": 4509
+  },
+  "4164": {
+    "pid": "4164",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Megaways 2",
+    "code": "4522",
+    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijc4MDViZDEyZjBmOTRhOThhOTIwNTdlMWZiMDFiMmI1Iiwic3ltYm9sIjoidnN3YXlzNWxpb25zMiIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sVXQDGgrhpHFSkbqfZ9nqNep5bSdyyN1tR3dGgucequRDKqZSwdXU1F6ySaIA8cz&isGameUrlApiCalled=true&userId=he26e4322665epc",
+    "game_uid": 4522
+  },
+  "4231": {
+    "pid": "4231",
+    "brand": "pragmaticplay-eu",
+    "name": "7 Clovers of Fortune",
+    "code": "4558",
+    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImNjMjdiNDI2OTM0ODRlMTA4ZjIzMGYxOGMyZTU5ZWViIiwic3ltYm9sIjoidnN3YXlzc2V2ZW5jIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=zyQ5oDXuSnGBFC7zlmcx9tewDcHGe6ErwAP8EyKm4cpYXFIDsLVBWSGD1XFdWLCX&isGameUrlApiCalled=true&userId=he26e4267837epc",
+    "game_uid": 4558
+  },
+  "4235": {
+    "pid": "4235",
+    "brand": "pragmaticplay-eu",
+    "name": "888 Gold",
+    "code": "4560",
+    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNkODliODA1ZjJjMTRkYWM5NGNmMTVjOTI4ZDczYWI1Iiwic3ltYm9sIjoidnM1dHJpcGxlOGdvbGQiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=S65SGatjNTVhEXlgPiepHFJloEDKT9fmBfeWirEogMeugQ4wpSB8qM0DnuC5hJN5&isGameUrlApiCalled=true&userId=he26e4444224epc",
+    "game_uid": 4560
+  },
+  "4291": {
+    "pid": "4291",
+    "brand": "pragmaticplay-eu",
+    "name": "6 Jokers",
+    "code": "4589",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjBiZDNmZTcwNzk0MDQ0NjQ5NGQ2NDdkZjE5ODgyZTE4Iiwic3ltYm9sIjoidnM1bWFnaWNkb29yIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=KOGYNr7oJ1VwLc5R2uODdA815OzblVN198dQ4EgfarFX6urV9p3GnunoMHC1b11h&isGameUrlApiCalled=true&userId=he26e4583997epc",
+    "game_uid": 4589
+  },
+  "4402": {
+    "pid": "4402",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Frozen Charms Megaways",
+    "code": "4652",
+    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImQ2MDRhYWIwNzY5YTQ4MjJhZWQ0MjFjNDE5NGM0NjgzIiwic3ltYm9sIjoidnN3YXlzY2hhcm1zIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=aH12e4QT4VFhbJGnidX96kuhx0LbXtsmJdDlKCOf3vNprtVH2MSi1Jk7Owl6UnnO&isGameUrlApiCalled=true&userId=he26e4450573epc",
+    "game_uid": 4652
+  },
+  "4439": {
+    "pid": "4439",
+    "brand": "pragmaticplay-eu",
+    "name": "8 Golden Dragon Challenge",
+    "code": "4671",
+    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjliMzhjYzY5ZDBlZjQ0NTNiZjQ3ZWY0NjQyZTE4YzRiIiwic3ltYm9sIjoidnMxMGdkY2hhbGxlbmciLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=RfFIWHsbWDcXAcI48JmWZSLDco7PN522HquHlZrZCCzpM2NkgfXEavKIW0xNSfJx&isGameUrlApiCalled=true&userId=he26e4701008epc",
+    "game_uid": 4671
+  },
+  "4467": {
+    "pid": "4467",
+    "brand": "pragmaticplay-eu",
+    "name": "3 Buzzing Wilds",
+    "code": "4686",
+    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6ImIyZDBjNTE2MTEzODQwZGI5M2MyNTVjMTRkYWFhYmI0Iiwic3ltYm9sIjoidnMyMHdpbGRwYXJ0eSIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=6aqsTJJ0m79TQQB9X1r6l2e7FgezhBF1YphyvJGmhwYRxF2VXADgGoMkpLj16bdA&isGameUrlApiCalled=true&userId=he26e4219751epc",
+    "game_uid": 4686
+  },
+  "4507": {
+    "pid": "4507",
+    "brand": "pragmaticplay-eu",
+    "name": "African Elephant",
+    "code": "4707",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNjOTAyOGVhY2VjNjQxMWNhZjA0YTU0Mjk1OTg3NmE5Iiwic3ltYm9sIjoidnMyMGhvdHpvbmUiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=YrwXScACPM6LGmy3CzPfbdXvPsFpjTp5hrh3NNbAf3uSCK5Fn1LGFZP15cnyg5fD&isGameUrlApiCalled=true&userId=he26e4855009epc",
+    "game_uid": 4707
+  },
+  "4824": {
+    "pid": "4824",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Megaways",
+    "code": "4824",
+    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijk4MmIyMzg5MmRhNjRkNzdhOTMwZWNlYTM5YjY5ODZjIiwic3ltYm9sIjoidnN3YXlzbGlvbnMiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=M2zHdTRoPHa5kjtd1XpEfJDTheTVjm108VsCTWdjxZVPb1KLKTVFa9ZD22LJvsoi&isGameUrlApiCalled=true&userId=he26e4607447epc",
+    "game_uid": 4837
+  },
+  "4825": {
+    "pid": "4825",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Megaways",
+    "code": "4837",
+    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImRhYTNmNGNiZDUzYTQyNDRhNGQ1NzJhZTNkNjQ2ZDU0Iiwic3ltYm9sIjoidnN3YXlzbGlvbnMiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=WwCRObf16AzwWlNWfFmhBe87IswlJRvQ4gr1kgEVDD2B1yM7EyCIcsLq3xRCF1ps&isGameUrlApiCalled=true&userId=he26e4473783epc",
+    "game_uid": 4837
+  },
+  "4904": {
+    "pid": "4904",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Dance",
+    "code": "4875",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImYzNTFjNTc4M2IyYjRkYjY4MzIyOWMxYjFiZTY4YzIzIiwic3ltYm9sIjoidnMxMDI0bGlvbnNkIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=kgouqrQaaFNpAcs5THao6KIdqM2akeNQPjPNjGQ3K5ULI7H69SFrmUYyaoyFvznx&isGameUrlApiCalled=true&userId=he26e466556epc",
+    "game_uid": 4875
+  },
+  "5001": {
+    "pid": "5001",
+    "brand": "pragmaticplay-eu",
+    "name": "Aladdin and the Sorcerer",
+    "code": "4911",
+    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjE2NDEwOWVmYTMyYTQ2NGE4Y2ExN2UzNDE2MDc4MjgxIiwic3ltYm9sIjoidnMyMGFsYWRkaW5zb3JjIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=m8xhqpdWHxBscG5nhQW51NIkffrIzohk2V96cNoRwgJVDKyh08V4xN2XmOvMkJrC&isGameUrlApiCalled=true&userId=he26e4376331epc",
+    "game_uid": 4911
+  },
+  "5031": {
+    "pid": "5031",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions Gold",
+    "code": "4924",
+    "url": "https://rt739qobgi.hvlhdbgi.biz/gs2c/playGame.do?key=eyJ0b2tlbiI6IjlmMGI2NDg1YWZjMDRlNzNhMjRhOGYxOGU4NjVlMTI4Iiwic3ltYm9sIjoidnMyNDNsaW9uc2dvbGQiLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=irQSL7gh14TQujJ1EjNSciQmdJH5R2WYO5HOfgvrjZT0619itN9U2UdwDgPVanju&isGameUrlApiCalled=true&userId=he26e4154560epc",
+    "game_uid": 4924
+  },
+  "5067": {
+    "pid": "5067",
+    "brand": "pragmaticplay-eu",
+    "name": "Ancient Egypt Classic",
+    "code": "4937",
+    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImFmN2RkOGQ4OTc2ZDQ4ZTZhMzg2NzA0N2YxZjY4YjQ2Iiwic3ltYm9sIjoidnMxMGVneXB0Y2xzIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=JMLw5S4j3TYZR7JoredQaOoH0LQDQA8EvnOXnk3E5a3T56X9MMovx9e1pAqmcaUh&isGameUrlApiCalled=true&userId=he26e4346806epc",
+    "game_uid": 4937
+  },
+  "5068": {
+    "pid": "5068",
+    "brand": "pragmaticplay-eu",
+    "name": "Ancient Egypt Classic",
+    "code": "5068",
+    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjE3YjE0NTFiNzE4ODQ0NmRhOWFjN2Y3MTY2Zjg4OWM5Iiwic3ltYm9sIjoidnMxMGVneXB0Y2xzIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=AtqrN6yOIf4XyU8rKBmlv3nx58HavfmARlyCyhV1r6yvvl5dTDE6Mh4q6ajE9T9e&isGameUrlApiCalled=true&userId=he26e4747281epc",
+    "game_uid": 4937
+  },
+  "5090": {
+    "pid": "5090",
+    "brand": "pragmaticplay-eu",
+    "name": "5 Lions",
+    "code": "4946",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImUzMmNhY2E1MTQ0MDQ0MThiM2RmMzc0YTE2MmE0NGFjIiwic3ltYm9sIjoidnMyNDNsaW9ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=aQ7NTjXdxAc2SdkcT7Vyko487WiltELB8JXAbap8e9USo4EjxleJds1F3Ig4t7IF&isGameUrlApiCalled=true&userId=he26e4939651epc",
+    "game_uid": 4946
+  },
+  "5108": {
+    "pid": "5108",
+    "brand": "pragmaticplay-eu",
+    "name": "Ancient Egypt",
+    "code": "4954",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImY3NTFiYzc2NzYyOTRmNzA4MTllOTQ3NTE1YmQyMjY5Iiwic3ltYm9sIjoidnMxMGVneXB0IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=eI11aIIEtxq2lXEQnT16qFiIlKPbKW66y1r6AAcl1QEHcNuzYn2zjJhEN8eAvcPl&isGameUrlApiCalled=true&userId=he26e4504814epc",
+    "game_uid": 4954
+  },
+  "5111": {
+    "pid": "5111",
+    "brand": "pragmaticplay-eu",
+    "name": "American Blackjack",
+    "code": "4955",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImQ2NmM3NTdiNzFkNzRhNWRiZmY3MGUxNGY1MmNjNWE4Iiwic3ltYm9sIjoiYmptYiIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=zvN9WVGKvbMNzgHnrcdHHZXwAhQWQyZ8oWqXmMNRCW47JztSdaznvheUhf6aRTud&isGameUrlApiCalled=true&userId=he26e4395101epc",
+    "game_uid": 4955
+  },
+  "5122": {
+    "pid": "5122",
+    "brand": "pragmaticplay-eu",
+    "name": "7 Piggies",
+    "code": "4961",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImM5MzNmYWI4MTYzYjQ0ODBiNGFiZDc3YjhiZWI4ZWFmIiwic3ltYm9sIjoidnM3cGlncyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=cVD11AxMdj1yG1BRqMIWQrneKxB11L0eq2vfFCF6Tty5pJxbNn7jXzs1woP2ZTL1&isGameUrlApiCalled=true&userId=he26e4773120epc",
+    "game_uid": 4961
+  },
+  "5135": {
+    "pid": "5135",
+    "brand": "pragmaticplay-eu",
+    "name": "888 Dragons",
+    "code": "4967",
+    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImI1YWJlYTk4OWJlNDRlNDY4OTNhMDAxNDY2MzA4NTU0Iiwic3ltYm9sIjoidnMxZHJhZ29uOCIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=lCTD5bKdnopCJGgmfM1LvffhU9UW7y7bkacBtVjz9nknJe2DxexcnaIpviq4gNhg&isGameUrlApiCalled=true&userId=he26e4999398epc",
+    "game_uid": 4967
+  },
+  "5136": {
+    "pid": "5136",
+    "brand": "pragmaticplay-eu",
+    "name": "888 Dragons",
+    "code": "4967",
+    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImJhY2YxNjEwM2ZkZDQzZDNiOGEzNWE2MjNkNzJkMGQ4Iiwic3ltYm9sIjoidnMxZHJhZ29uOCIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=AcrtyqW1x2FVF18FN2nxwmp1qXuKYFig1LQqq3aUEAj9ihgwXsp1IYDIs8SRHoIQ&isGameUrlApiCalled=true&userId=he26e4266954epc",
+    "game_uid": 4967
+  },
+  "5143": {
+    "pid": "5143",
+    "brand": "pragmaticplay-eu",
+    "name": "8 Dragons",
+    "code": "4969",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImMzMDM2MDdjMDBiMjRiMjFiNmI1YjU2NGI0NmE5NmQwIiwic3ltYm9sIjoidnMyMGVpZ2h0ZHJhZ29ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=CoDIm3DfmznA8lXyU0xFFxfqFDNOEsT7DlBGTHG4I6MlT192Ml1FdcXi6txS9TS2&isGameUrlApiCalled=true&userId=he26e4159943epc",
+    "game_uid": 4969
+  },
+  "5144": {
+    "pid": "5144",
+    "brand": "pragmaticplay-eu",
+    "name": "8 Dragons",
+    "code": "5144",
+    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijc3MDYwMzg3MDM0ODQ2ZDk4MzkyNzEyZDA5NzM5NmVhIiwic3ltYm9sIjoidnMyMGVpZ2h0ZHJhZ29ucyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=bl4RRvyrQ1bwk54rWADUVyhmCSXhQn2ijouUsMr3phV8fmdPDvxSR1hrYLMU0zjr&isGameUrlApiCalled=true&userId=he26e490168epc",
+    "game_uid": 4969
+  },
+  "5147": {
+    "pid": "5147",
+    "brand": "pragmaticplay-eu",
+    "name": "3 Kingdoms &#8211; Battle of Red Cliffs",
+    "code": "4970",
+    "url": "https://d184pn2ju6.oqgtrmksbr.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjJkOTE4NWZmMTlhYzQyMTNhYTFjNTBjYWFiYzJjOGMwIiwic3ltYm9sIjoidnMyNWtpbmdkb21zIiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=mMDIbscxoqdBKmsMrNtjmBHmYtiFunN4puN8YruesnhJjuI5ZYL6QFShuSvVodUK&isGameUrlApiCalled=true&userId=he26e4396812epc",
+    "game_uid": 4970
+  },
+  "5161": {
+    "pid": "5161",
+    "brand": "pragmaticplay-eu",
+    "name": "3 Genie Wishes",
+    "code": "4977",
+    "url": "https://m7je8fik65.vejyukaxph.net/gs2c/playGame.do?key=eyJ0b2tlbiI6ImI0YjgwZWE5NWNiNDRmYjc4NWEyODlkMDYzODA5NjRjIiwic3ltYm9sIjoidnM1MGFsYWRkaW4iLCJ0ZWNobm9sb2d5IjoiSDUiLCJwbGF0Zm9ybSI6IldFQiIsImxhbmd1YWdlIjoiZW4iLCJjdXJyZW5jeSI6IklOUiIsImNhc2hpZXJVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8iLCJsb2JieVVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyJ9&ppkv=3&stylename=hd_hd&country=IN&treq=TeUxfQbXRnT8x8CNCahT4NF4tSWFMfZN0Gmj7VTsQ1TlyYG2GCCpWaSvoN9d2Ksc&isGameUrlApiCalled=true&userId=he26e418785epc",
+    "game_uid": 4977
+  },
+  "5192": {
+    "pid": "5192",
+    "brand": "pragmaticplay-eu",
+    "name": "7 Monkeys",
+    "code": "5192",
+    "url": "https://7iqd3tsdm8.otgysixiin.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjNjNWQwMmNlMDI2ODQwOGJiMmIxYjVjYzE1NWE0Njc1Iiwic3ltYm9sIjoidnM3bW9ua2V5cyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sOBGebybbKFK5B1MSgXdo5SKC5v5StC9fSiCVTlIzVHxvTcNB29I6QQ7cJfyhtqo&isGameUrlApiCalled=true&userId=he26e4832312epc",
+    "game_uid": 4987
+  },
+  "5193": {
+    "pid": "5193",
+    "brand": "pragmaticplay-eu",
+    "name": "7 Monkeys",
+    "code": "4987",
+    "url": "https://scfh87r6op.cjiilmfmjf.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjVkMGRjNTJhMWY1NTRiYzNhYTJlNjJiOTIzYmMzN2JlIiwic3ltYm9sIjoidnM3bW9ua2V5cyIsInRlY2hub2xvZ3kiOiJINSIsInBsYXRmb3JtIjoiV0VCIiwibGFuZ3VhZ2UiOiJlbiIsImN1cnJlbmN5IjoiSU5SIiwiY2FzaGllclVybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImxvYmJ5VXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIn0%3D&ppkv=3&stylename=hd_hd&country=IN&treq=MaCca9YK7jQeOZMzJV5PBZOWKJtkyjV64CdPyYw3iBaei6sXKhIgU23Ar861FVIi&isGameUrlApiCalled=true&userId=he26e4372624epc",
+    "game_uid": 4987
+  },
+  "5202": {
+    "pid": "5202",
+    "brand": "pragmaticplay-eu",
+    "name": "3 Dancing Monkeys",
+    "code": "4990",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6Ijk2ZDFhM2RlNTMyYTQwMTM4MDI2Zjk5MjBiMjM0OWZiIiwic3ltYm9sIjoidnN3YXlzbW9ua2V5IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=LkxwyyXJv6SSI5hLtDI6uUpsosAbUU1FB1NDVUIgn69PcmHnus4kcZEKiqEuqpG0&isGameUrlApiCalled=true&userId=he26e485324epc",
+    "game_uid": 4990
+  },
+  "5281": {
+    "pid": "5281",
+    "brand": "pragmaticplay-eu",
+    "name": "Alien Invaders",
+    "code": "5016",
+    "url": "https://9qqpyxiu66.ehjaieijyg.net/gs2c/playGame.do?key=eyJ0b2tlbiI6IjMwOGUwNzVjMWI3NTRmZGVhZTliZjE5ZGE2ODRhZjhjIiwic3ltYm9sIjoidnMyMGFsaWVuaW52IiwidGVjaG5vbG9neSI6Ikg1IiwicGxhdGZvcm0iOiJXRUIiLCJsYW5ndWFnZSI6ImVuIiwiY3VycmVuY3kiOiJJTlIiLCJjYXNoaWVyVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwibG9iYnlVcmwiOiJodHRwczovL2lnYW1pbmdhcGlzLmNvbS9wcm9kdWN0cy8ifQ%3D%3D&ppkv=3&stylename=hd_hd&country=IN&treq=sv2yauNg74CfAfCSY34PXn5P4r1xAQRAGA7rRe5JDQbnnTr7uFJqxJL2Yz9tlJiT&isGameUrlApiCalled=true&userId=he26e4501337epc",
+    "game_uid": 5016
+  },
+  "6858": {
+    "pid": "6858",
+    "brand": "spribe",
+    "name": "Mines",
+    "code": "426",
+    "url": "https://launch.spribegaming.com/mines?user=111908346&token=25ea9c8715bf4cef8b03c94d6e9b3c07&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 426
+  },
+  "6860": {
+    "pid": "6860",
+    "brand": "spribe",
+    "name": "Plinko",
+    "code": "478",
+    "url": "https://launch.spribegaming.com/plinko?user=111908348&token=66d6a926a017436b9fc21efd65c1cc07&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 478
+  },
+  "6862": {
+    "pid": "6862",
+    "brand": "spribe",
+    "name": "Keno 80",
+    "code": "551",
+    "url": "https://launch.spribegaming.com/multikeno?user=111908345&token=fabb77d5b91845a6b07588806a2ce9b5&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 551
+  },
+  "6864": {
+    "pid": "6864",
+    "brand": "spribe",
+    "name": "Dice",
+    "code": "635",
+    "url": "https://launch.spribegaming.com/dice?user=111908338&token=8e23401c09b24af2b11b0ec479559d5a&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 635
+  },
+  "6866": {
+    "pid": "6866",
+    "brand": "spribe",
+    "name": "Mini Roulette",
+    "code": "723",
+    "url": "https://launch.spribegaming.com/mini-roulette?user=111908347&token=242ec653baf54e968fe4938b066663cc&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 723
+  },
+  "6868": {
+    "pid": "6868",
+    "brand": "spribe",
+    "name": "Aviator",
+    "code": "737",
+    "url": "https://launch.spribegaming.com/aviator?user=111908336&token=eeeb15be74ef43a196fb810eb902aa22&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 737
+  },
+  "6870": {
+    "pid": "6870",
+    "brand": "spribe",
+    "name": "Hi Lo",
+    "code": "775",
+    "url": "https://launch.spribegaming.com/hi-lo?user=111908341&token=4655f27dd91742169fd035ce31e4b3c0&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 775
+  },
+  "6872": {
+    "pid": "6872",
+    "brand": "spribe",
+    "name": "Hotline",
+    "code": "826",
+    "url": "https://launch.spribegaming.com/hotline?user=111908342&token=6b851ec0ee3d44cea8504e4b0071b7dc&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 826
+  },
+  "6874": {
+    "pid": "6874",
+    "brand": "spribe",
+    "name": "Keno",
+    "code": "894",
+    "url": "https://launch.spribegaming.com/keno?user=111908343&token=28987ca2eb45429199a3bb8960a8711e&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 894
+  },
+  "6876": {
+    "pid": "6876",
+    "brand": "spribe",
+    "name": "Goal",
+    "code": "904",
+    "url": "https://launch.spribegaming.com/goal?user=111908340&token=dd2e6484ad75433aa90307d8f282767a&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 904
+  },
+  "6878": {
+    "pid": "6878",
+    "brand": "spribe",
+    "name": "Balloon",
+    "code": "1019",
+    "url": "https://launch.spribegaming.com/balloon?user=111908337&token=4149a0b0f4a34698a0cec60a895b8e66&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1019
+  },
+  "6880": {
+    "pid": "6880",
+    "brand": "spribe",
+    "name": "Trader",
+    "code": "5808",
+    "url": "https://launch.spribegaming.com/trader?user=111908349&token=1d809f37af70470bbef42999a9929e7c&lang=en&currency=INR&operator=tigergamesvtwo&return_url=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 5808
+  },
+  "6890": {
+    "pid": "6890",
+    "brand": "evolution-live",
+    "name": "Blackjack VIP 12",
+    "code": "6265",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9dzFhZ3EyTnNXSThJQm1WN0pnZVBQYmxZcHJKbWJhTURGRlRCYVBESjNFOUhXbm9Tb3FpYmZqcDhDTTFvSGtucW1mZ3BRZ3NwRmF1MXRGVzlyYU9zTXcKc2l0ZT0xMAp0YWJsZV9pZD1wZGs1em83Y2V5NnVweGxtCnVhX2xhdW5jaF9pZD0xOGU1NWU5NTY3Yzk0YjRhMjkyYjQwMTYKdnRfaWQ9dGlodmZlNGJodHVhY3MyZgo&JSESSIONID=ugxwk3mlhpcac3l4ugxwk3n7scfc3u7oebe679ad",
+    "game_uid": 6265
+  },
+  "6988": {
+    "pid": "6988",
+    "brand": "evolution-live",
+    "name": "Auto-Roulette VIP",
+    "code": "6316",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1yb3VsZXR0ZQpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT03TV85UVppQ25DckV0NGcwbjVUQ1poeU01NmxoOHVLcG92ak53UWZUOE1JWDhMZV9VVVcyX2FZUGZ0Mzl1Y2VOQ1hJTTBWS2JqZjMzT3FpekhyMU1DUQpzaXRlPTEwCnRhYmxlX2lkPTAxcmI3N2NxMWd0ZW5obW8KdWFfbGF1bmNoX2lkPTE4ZTU1ZThmNDYwNGQ3MzIzMTcyMmIwYQp2dF9pZD10aWh2Zmd1emh0dWFjd3B3Cg&JSESSIONID=ugxwkbutkafac7bnugxwkbwcidlrhujo50d20e41",
+    "game_uid": 6316
+  },
+  "6996": {
+    "pid": "6996",
+    "brand": "evolution-live",
+    "name": "American Roulette",
+    "code": "6320",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1hbWVyaWNhbnJvdWxldHRlCmp3c2g9ZXlKcmFXUWlPaUl4TnpNNU5EUTROREF4TnprMUlpd2lZV3huSWpvaVJWTXlOVFlpZlEKcGxheV9tb2RlPXJlYWxfbW9uZXkKc2lnbmF0dXJlPWx6Wk0yb1pEMlNTMHVfR1M5VjU5cmxwWlprYnBnR3ZOZkhwLTNXblMzWWtnc2dzNy1Zb093c3dDMmgtczZmVGRyQm5fRlMyVkkydTk0RGdFOGtRbHdnCnNpdGU9MTAKdGFibGVfaWQ9QW1lcmljYW5UYWJsZTAwMQp1YV9sYXVuY2hfaWQ9MThlNTVlOGViMzU0N2I0YjkyNzRkZjRiCnZ0X2lkPXRpaHZmZ3V6aHR1YWN3cG8K&JSESSIONID=ugxwj7h7zp2acwosugxwj7kc62xf32mr28e69cd9",
+    "game_uid": 6320
+  },
+  "7002": {
+    "pid": "7002",
+    "brand": "evolution-live",
+    "name": "Auto-Roulette",
+    "code": "6323",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1yb3VsZXR0ZQpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1xcGNUS3FIdWIwT0kzUXh1SUtSZGpYcV9YV0trNTlNc1ZiYTlVdXBqaG1lSVNKVDZCaG1mamlqMnpRcS1NRjVWblQyanRvaHdNZ0tpS0NIbmZ2dVc0QQpzaXRlPTEwCnRhYmxlX2lkPTQ4ejVwanBzM250dnFjMWIKdWFfbGF1bmNoX2lkPTE4ZTU1ZThlZjJkZWQ0MmM4YzRiMWQ3Ngp2dF9pZD10aWh2Zmd1emh0dWFjd3ByCg&JSESSIONID=ugxwkajhs5dadaklugxwkaktidlrht7kaf2536c0",
+    "game_uid": 6323
+  },
+  "7030": {
+    "pid": "7030",
+    "brand": "evolution-live",
+    "name": "Blackjack Diamond VIP",
+    "code": "6340",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9NXhHdExvd3dIYzdSQkEtV21TSEYyTnY5QU83ZzBiYlBCaEVoRVVwRkZLNk51T0xFa2F0UmxMWV9Mb2dmb1VvZncyaWZWeVlzTW85MjZGOEthX3hUZGcKc2l0ZT0xMAp0YWJsZV9pZD1yZGVmY240c2ZmZ28zOWw3CnVhX2xhdW5jaF9pZD0xOGU1NWU5MWJkYTYzYzdmYTMzYTMyZDEKdnRfaWQ9dGlodmZkM3BodHVhY3EydQo&JSESSIONID=ugxwkmarzp2acwpfugxwkmciidlrhw4b4abb5966",
+    "game_uid": 6340
+  },
+  "7032": {
+    "pid": "7032",
+    "brand": "evolution-live",
+    "name": "Blackjack Fortune VIP",
+    "code": "6341",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9TGhjMlA2Z3F3UXR1NzF3VThKOEIyd1V0d0dERDVXLS1sN05JSU5rVEVXaVVpd29pZHlkTlJnc082LWJITWQtUzJNN3lIemFEOFVJeU1xVWVaMExSWGcKc2l0ZT0xMAp0YWJsZV9pZD1langxYTA0dzRiZW4wbW91CnVhX2xhdW5jaF9pZD0xOGU1NWU5MWZhN2UwZjZkOWUxMTQ5MjkKdnRfaWQ9dGlodmZndXlodHVhY3dwago&JSESSIONID=ugxwknamkafac7cbugxwkncocgqe76yeca79b6b2",
+    "game_uid": 6341
+  },
+  "7034": {
+    "pid": "7034",
+    "brand": "evolution-live",
+    "name": "Blackjack Grand VIP",
+    "code": "6342",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9X05XU3p0eHlYNHNmUXFJWkw5TE5FelR3blJZYXVoa2RobkVmaE5acEhIeEo5VVRQVmlwVDhKTnNUNUFLV3NRT0gyaWxGM25OTUZrckY3cWZHRmRkaGcKc2l0ZT0xMAp0YWJsZV9pZD1nZnpycWU0aHF2MjRrdWtjCnVhX2xhdW5jaF9pZD0xOGU1NWU5MjM4NWNhZjIyZWFmMTkyYTkKdnRfaWQ9dGlodmZmeHFodHVhY3V0dgo&JSESSIONID=ugxwkoaghpcac3ljugxwkocdcgqe77bae02edc15",
+    "game_uid": 6342
+  },
+  "7036": {
+    "pid": "7036",
+    "brand": "evolution-live",
+    "name": "Blackjack Platinum VIP",
+    "code": "6343",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9cHg5dFBMNldMVm1xbXRfSHZtZDR0ZHgxYnBLUExkMWNoVnlDN2NwUUR2VGl2VVNGQzl1Z2doUVcyZ28zbUJkVGx4RmxJNUdFVTc0NVF2VmdyYUxZMlEKc2l0ZT0xMAp0YWJsZV9pZD1oNDYzdGxxMXJobDFsZnIyCnVhX2xhdW5jaF9pZD0xOGU1NWU5MmIwNWI4ZGM1ZTYyY2RlYzYKdnRfaWQ9dGlodmZmeHNodHVhY3V0ego&JSESSIONID=ugxwkp7gcpeacp4wugxwkqaz62xf37eha2e82de1",
+    "game_uid": 6343
+  },
+  "7066": {
+    "pid": "7066",
+    "brand": "evolution-live",
+    "name": "Blackjack VIP 11",
+    "code": "6360",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9WVhRSFdDUlRmSUFQNDk4NF9ZVzM5SE5VTVhwMHduSlB6eDc2aDlFbENlWHBJTnlNeVgtd2RvRElBeTBTMmtwSno5NmFXY3RBWGQ4UXd6eklaaDljZ1EKc2l0ZT0xMAp0YWJsZV9pZD1wZGs1eXp5ZmprZ2Vwb21sCnVhX2xhdW5jaF9pZD0xOGU1NWU5NTIxYTFiMmRiMzdmODAxZWQKdnRfaWQ9dGlodmZlNGRodHVhY3MycAo&JSESSIONID=ugxwk2hjtpoqc75augxwk2i5scfc3uw6537e6469",
+    "game_uid": 6360
+  },
+  "7068": {
+    "pid": "7068",
+    "brand": "evolution-live",
+    "name": "Blackjack VIP 10",
+    "code": "6361",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9MnluV1FkY1Y5ZlBxbjVRd2lqNS1mVHZJdlJ3bXlsY0tiZnFRODQ2SE1GR2RyUmVKOHJKampsa2NDZlZXelFNNW16STJ5ZFNCb3I4U0s5a2Z1d0RZZHcKc2l0ZT0xMAp0YWJsZV9pZD1wZGs1eWV4Y3o0aWVwZWxxCnVhX2xhdW5jaF9pZD0xOGU1NWU5NGUzNzE1N2E3MzJhNzZjOTEKdnRfaWQ9dGlodmZlNGNodHVhY3MybQo&JSESSIONID=ugxwkzhbcpeacp5bugxwkziv62xf4bxe0f389a1c",
+    "game_uid": 6361
+  },
+  "7088": {
+    "pid": "7088",
+    "brand": "evolution-live",
+    "name": "Blackjack VIP 1",
+    "code": "6372",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9TG1QX1BhbEhiQkw1a3c3cWc1TEJLLWdnX1VEU1VSSDFaZWpkMjEtYm5aenBMRWxpekQwSWFiTzZpbThKdjg3V2gyVXdpdERVdWhkVGlIWmRBTjlTOXcKc2l0ZT0xMAp0YWJsZV9pZD1vNzM0N29rd2FlYXN2eTJ5CnVhX2xhdW5jaF9pZD0xOGU1NWU5NGE2YzBmN2U1MDM5YzI4YTkKdnRfaWQ9dGlodmZlMzdodHVhY3N6Mgo&JSESSIONID=ugxwkyg26ndqcyocugxwkyixcgqfab2k1fb60a87",
+    "game_uid": 6372
+  },
+  "7120": {
+    "pid": "7120",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver F",
+    "code": "6392",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9bjZvdE9zVXRveTRaQ2ZCRnktcVJTYzJndmpaa3B4ZkJPSlEycGxFZlY1cFQ5SklsWVZaVXBUV29hbUdCWHpLR1UxRktacGl2STBTSW9iQUxEQVRpVVEKc2l0ZT0xMAp0YWJsZV9pZD1sbm9mb3l4djc1NnFhZXp5CnVhX2xhdW5jaF9pZD0xOGU1NWU5NDJjODQxZGFkMWM2MmJjYzIKdnRfaWQ9dGlodmZmeDJodHVhY3V1bwo&JSESSIONID=ugxwkwhczp2acwpxugxwkwiw62xf4a361d0292db",
+    "game_uid": 6392
+  },
+  "7122": {
+    "pid": "7122",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver E",
+    "code": "6393",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9QnRSaDljVWdRc29lcUZDZm95NnZRQ19GdjVId2o4TTFHRFJuOTAxWGh3V2JoeEFQNmxqRURROXhnYms2TDhaQUpObzVwbkZQVVpvdGhoRER0SS1pZmcKc2l0ZT0xMAp0YWJsZV9pZD1nYXpndGtpZDloMWIwZG45CnVhX2xhdW5jaF9pZD0xOGU1NWU5M2YwYWM0YTc2MTE5NGQyMzEKdnRfaWQ9dGlodmZmeHpodHVhY3V1aAo&JSESSIONID=ugxwkvg67n2qcr6jugxwkvjb62xf4atec638a906",
+    "game_uid": 6393
+  },
+  "7126": {
+    "pid": "7126",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver G",
+    "code": "6395",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9X3laX1dIMDRkWXNOZ2xVXzlxSzVvUUZudkZ2TDZqdS1JMFpaU3QyUHpMOGpWOEJrUmhSeWpfV3pWVnFOa1NZRzA5Ym5VUXhUd0tBcC1XR2V1VXBWbkEKc2l0ZT0xMAp0YWJsZV9pZD1sbm9mcG1tMzc1NnFhZTJjCnVhX2xhdW5jaF9pZD0xOGU1NWU5NDY5ZTIyYjMxOTQ5MTA4ZjAKdnRfaWQ9dGlodmZmeDNodHVhY3V1cwo&JSESSIONID=ugxwkxg24ncac2v5ugxwkxiwafcisocp541c7988",
+    "game_uid": 6395
+  },
+  "7130": {
+    "pid": "7130",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver D",
+    "code": "6397",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9YTdETXpiSFdUZXJxQzRLNWtzdF8xZ3lqbndWelpHc1F3YjRCMmJBb1VnYTN1WVhUemlJTDBZZUFNQUdKTzlJSjhWX2xOMXltdVdyNXR5bWM1Z1Jvc1EKc2l0ZT0xMAp0YWJsZV9pZD1xY2t3amYybzUycjlpa2ViCnVhX2xhdW5jaF9pZD0xOGU1NWU5M2IxMDNlNzM5MDhhYWExOGUKdnRfaWQ9dGlodmZkM29odHVhY3EydAo&JSESSIONID=ugxwkugktpoqc74sugxwkuih62xf4akk9771f1cd",
+    "game_uid": 6397
+  },
+  "7132": {
+    "pid": "7132",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver B",
+    "code": "6398",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9Qmc1WnV0LU9QbDNva1R5MnJuRV8tWXdocmJydFFoRmJJT3lWVzViYV9NSEIzbXRjeGIzNVBILXpFZFAyaHZnSGMwSHpxSmxMVVctcU1tVzVFY3RQUXcKc2l0ZT0xMAp0YWJsZV9pZD05ZjR4aHVoZGQwMDV4bGJsCnVhX2xhdW5jaF9pZD0xOGU1NWU5MzM2ODQyYTAzZDZmNDQ2MjkKdnRfaWQ9dGlodmZndTNodHVhY3dxYwo&JSESSIONID=ugxwksftkafac7cjugxwkshfcgqfaad3957468b9",
+    "game_uid": 6398
+  },
+  "7134": {
+    "pid": "7134",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver C",
+    "code": "6399",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9TXlqLTNiMzB1dlBVWjFOLU5jU0dteGdJc1BqaW04MzhHem1FWnl5RzlMU2c3RXpJZm9IRl9pYTUwbE4zR180Nl9sMU12Smc3Z1FKaXF4Z3plNlUxT2cKc2l0ZT0xMAp0YWJsZV9pZD1xbHJjM2ZxM3Y3cDZhd200CnVhX2xhdW5jaF9pZD0xOGU1NWU5MzczNTAyMTM0NmZmZjQ0YzgKdnRfaWQ9dGlodmZkM3BodHVhY3Eydgo&JSESSIONID=ugxwktfrkafac7clugxwktg4cgqfaam3f63b1a44",
+    "game_uid": 6399
+  },
+  "7136": {
+    "pid": "7136",
+    "brand": "evolution-live",
+    "name": "Blackjack Silver A",
+    "code": "6400",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9bnJmT250RkhMQWJjV3VPNVFXZDRnMVBRbi1ZblFoUlZhaDNOTGctVGZWbFE0MjZBWWpObDFCQl9DUGluMkIxRE1TaXNnZjZSdUNWajZTYWNnV2syRFEKc2l0ZT0xMAp0YWJsZV9pZD1na21xMG8yaHJ5anlxdTMwCnVhX2xhdW5jaF9pZD0xOGU1NWU5MmViMGFmNWQ4MTQ3NTUxYjIKdnRfaWQ9dGlodmZmeDZodHVhY3V2Zwo&JSESSIONID=ugxwkq57hpcac3llugxwkq72afcismfl0351848a",
+    "game_uid": 6400
+  },
+  "7162": {
+    "pid": "7162",
+    "brand": "evolution-live",
+    "name": "Blackjack Party",
+    "code": "6419",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9RUF1MHdHUGtFNUZUNmlYRUNEeUtaLW1YYkNkZDNxWjMwSGJnUGNPTFlGd041dzZkS1lzM1UzSVI2X1ZlTDIwWXNSUDZuZElfUmVfYkl1U3dUTm11bncKc2l0ZT0xMAp0YWJsZV9pZD1zbmk1Y3phNmQxdnZsNTBpCnVhX2xhdW5jaF9pZD0xOGU1NWU5MjczY2QxOTJjNjg5NTkzMGEKdnRfaWQ9dGlodmZjNGhodHVhY3Bhbgo&JSESSIONID=ugxwko7nxhwacq4zugxwkpblidlrhxvnf2251b65",
+    "game_uid": 6419
+  },
+  "7164": {
+    "pid": "7164",
+    "brand": "evolution-live",
+    "name": "Blackjack B",
+    "code": "6420",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9bVMwNEhqSk0waGwwbGFXcmFXT09JdTl2c19LMFZDeE1lYTZpYXctN3Q1VmdsT0N1b2ZWWUdkaEdhbnJSenR0S1lSMU5FdGpPdi1CSjlPbjR3TnpLTHcKc2l0ZT0xMAp0YWJsZV9pZD14cGhwY3RodjhlNml2YzE2CnVhX2xhdW5jaF9pZD0xOGU1NWU5MTEyYTQ0YWYyZTEzNjRmYTIKdnRfaWQ9dGlodmZjZXFodHVhY254Zgo&JSESSIONID=ugxwkjg5zp2acwpaugxwkjio62xf35hs16b78bca",
+    "game_uid": 6420
+  },
+  "7166": {
+    "pid": "7166",
+    "brand": "evolution-live",
+    "name": "Blackjack C",
+    "code": "6421",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9Z1lBdFI3OV9Zd0dkWno2QUh5dTc5ODJpc1dMajhsUnVYZFJsTTUxd0NRQWpWOFpoMUJ1Y00yR3psaDNvQ3dhd19XOTFibHBEZno1Rk5ZUERZVGlUaUEKc2l0ZT0xMAp0YWJsZV9pZD1qaHM0NG1tMHYzZmkzYXV4CnVhX2xhdW5jaF9pZD0xOGU1NWU5MTRmMDI4NTgyNGY1NTc0NzYKdnRfaWQ9dGlodmZmbWhodHVhY3Vicgo&JSESSIONID=ugxwkkgk6ndqcynkugxwkkijcgqe756f114beafe",
+    "game_uid": 6421
+  },
+  "7168": {
+    "pid": "7168",
+    "brand": "evolution-live",
+    "name": "Blackjack A",
+    "code": "6423",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1ibGFja2phY2sKandzaD1leUpyYVdRaU9pSXhOek01TkRRNE5EQXhOemsxSWl3aVlXeG5Jam9pUlZNeU5UWWlmUQpwbGF5X21vZGU9cmVhbF9tb25leQpzaWduYXR1cmU9bFBWaFhfbDRRdUoxQ1lkMDRQUlJkSHM3anE2VDNxQmJYYTFqQWhSZ0VFOTNvT1N1MFktZXJ5LVN4NnF1ZFdJd3NkWFpuNTJPQUhVa1k2TlRZSFZlVFEKc2l0ZT0xMAp0YWJsZV9pZD11d2QyYmwya2h3Y2lramx6CnVhX2xhdW5jaF9pZD0xOGU1NWU5MGM5ODczMjYwODZiNmUzYWMKdnRfaWQ9dGlodmZjZXRodHVhY256eAo&JSESSIONID=ugxwkh73xhwacq4ougxwkibhscfc3pzm0f30e173",
+    "game_uid": 6423
+  },
+  "7172": {
+    "pid": "7172",
+    "brand": "evolution-live",
+    "name": "Baccarat Control Squeeze",
+    "code": "6434",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1RZ3JkYUVZRVV1RS1vUXhtYXZSY3FNRmR5ektqZDduNTVUd2VNZ2JlbjloTEJ1ZXA1NW9maUduRnJxdXpqd1NrNlduV0I1QmZPNTF3RVdwdzd1ZElZUQpzaXRlPTEwCnRhYmxlX2lkPWsyb3N3bmliN2pqYWF6bncKdWFfbGF1bmNoX2lkPTE4ZTU1ZTkwNmM2Nzg3MDlmZmI3YzJkOQp2dF9pZD10aWh2ZmZ4Nmh0dWFjdXZpCg&JSESSIONID=ugxwkgpakafac7b2ugxwkgqw62xf34pf708f610d",
+    "game_uid": 6434
+  },
+  "7178": {
+    "pid": "7178",
+    "brand": "evolution-live",
+    "name": "Baccarat B",
+    "code": "6440",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT0xVkJDVUVsQ2NwYW81OHFscGR1Zl9DYVl2akhfX1c5X2xHcTRyYmJxREF5Q0p5X3JlcG9CTnB0TnV3OE5pNWQ3VndieW1oN0J0ZzE1RURfQUpQQmdSQQpzaXRlPTEwCnRhYmxlX2lkPTYwaTBsY2Z4NXdra3Yzc3kKdWFfbGF1bmNoX2lkPTE4ZTU1ZThmZmMwNjM0Y2Q5MTZhZGYyNAp2dF9pZD10aWh2Zmd1M2h0dWFjd3AzCg&JSESSIONID=ugxwkeumhpcac3k7ugxwkewqafcisikvb21917e3",
+    "game_uid": 6440
+  },
+  "7182": {
+    "pid": "7182",
+    "brand": "evolution-live",
+    "name": "Baccarat A",
+    "code": "6442",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1iYWNjYXJhdApqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1QNXY0WFlEaFNEeWJxeFpaRXM2THpkWGNWT0ZCckpyRDJxeTFEY3pTcmpKNVIxb2oweDhRdTNHREZtcVQzLXk3dUFBV3VmYk4teEtETWxiNEFJOF9rQQpzaXRlPTEwCnRhYmxlX2lkPW95dG12YjltMXp5c21jNDQKdWFfbGF1bmNoX2lkPTE4ZTU1ZThmYmUyNDQzZmY2YjcwNzg4ZAp2dF9pZD10aWh2ZmUyM2h0dWFjc3dvCg&JSESSIONID=ugxwkdt2s5dadakrugxwkdvxscfc3ot72fa6b2bc",
+    "game_uid": 6442
+  },
+  "7230": {
+    "pid": "7230",
+    "brand": "evolution-live",
+    "name": "Bac Bo",
+    "code": "6472",
+    "url": "https://skylinev88asia.evo-games.com/entry?params=Y2FzaW5vX2lkPXN1YmFzaWE3MzdsdWNreTEKZ2FtZT1iYWNibwpqd3NoPWV5SnJhV1FpT2lJeE56TTVORFE0TkRBeE56azFJaXdpWVd4bklqb2lSVk15TlRZaWZRCnBsYXlfbW9kZT1yZWFsX21vbmV5CnNpZ25hdHVyZT1WNnRpY2JENkZmcjNiSVlLa0dVQVRLX2ZaU2xfeVY3V3A1cV84STVVN3ktQzBaRmlOTnVoTW1hNEVoRXE4N0puUVQ0UW1WWkgzTVJXbEU2TjBwM2hQZwpzaXRlPTEwCnRhYmxlX2lkPUJhY0JvMDAwMDAwMDAwMDEKdWFfbGF1bmNoX2lkPTE4ZTU1ZThmODE5OGE2YjlhMmRiOTdjOAp2dF9pZD10aWh2Zmd1Mmh0dWFjd3B5Cg&JSESSIONID=ugxwkcui4ncac2uyugxwkcwdafcishwmaea7128e",
+    "game_uid": 6472
+  },
+  "8262": {
+    "pid": "8262",
+    "brand": "bgaming",
+    "name": "3 Kings Scratch",
+    "code": "1189",
+    "url": "https://bgaming-asia.com/games/ThreeKingsScratch/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4NTd9LCJleHAiOjE4MDk1ODIyMjd9.unVDkXt2aneXqpP1qs6z_UmNV2a4_k30aedWOJGNUqs",
+    "game_uid": 1189
+  },
+  "8264": {
+    "pid": "8264",
+    "brand": "bgaming",
+    "name": "Alien Fruits",
+    "code": "1293",
+    "url": "https://bgaming-asia.com/games/AlienFruits/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4NzB9LCJleHAiOjE4MDk1ODIyMjl9.vmmEYv28kbq7--MVxpa2LI2h9sclhCYD0M67o0YudP4",
+    "game_uid": 1293
+  },
+  "8266": {
+    "pid": "8266",
+    "brand": "bgaming",
+    "name": "Alien Fruits 2",
+    "code": "1294",
+    "url": "https://bgaming-asia.com/games/AlienFruits2/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4NzJ9LCJleHAiOjE4MDk1ODIyMzB9.KyjqAsMXlp1rbgaw04TWWYZflkUS_AeWP3Uuub-oAvM",
+    "game_uid": 1294
+  },
+  "8268": {
+    "pid": "8268",
+    "brand": "bgaming",
+    "name": "All Lucky Clover",
+    "code": "1303",
+    "url": "https://bgaming-asia.com/games/AllLuckyClover/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4NzZ9LCJleHAiOjE4MDk1ODIyMzF9.sAKBDjLf3AcHM-A7vZ2TFr5H4X7A8Gxo0xiA4JfuPcY",
+    "game_uid": 1303
+  },
+  "8270": {
+    "pid": "8270",
+    "brand": "bgaming",
+    "name": "All Lucky Clover 100",
+    "code": "1304",
+    "url": "https://bgaming-asia.com/games/AllLuckyClover100/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4ODB9LCJleHAiOjE4MDk1ODIyMzF9.sl-n6XnIXWdiE7yj8C89NvswyMxyUlXH2ahGgRc1-Bg",
+    "game_uid": 1304
+  },
+  "8272": {
+    "pid": "8272",
+    "brand": "bgaming",
+    "name": "All Lucky Clover 40",
+    "code": "1305",
+    "url": "https://bgaming-asia.com/games/AllLuckyClover40/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5MTd9LCJleHAiOjE4MDk1ODIyMzh9.i980_eqIvJh6mq0UjM3BPaYr30rDVA3y7Eiy3pQ6npQ",
+    "game_uid": 1305
+  },
+  "8274": {
+    "pid": "8274",
+    "brand": "bgaming",
+    "name": "All Lucky Clover 20",
+    "code": "1306",
+    "url": "https://bgaming-asia.com/games/AllLuckyClover20/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4ODZ9LCJleHAiOjE4MDk1ODIyMzJ9.iRv7S2MMLEsiI_eY2aJGYuCvmLvuuRSsWkINcdXc9ME",
+    "game_uid": 1306
+  },
+  "8276": {
+    "pid": "8276",
+    "brand": "bgaming",
+    "name": "All Lucky Clover 5",
+    "code": "1307",
+    "url": "https://bgaming-asia.com/games/AllLuckyClover5/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5MjJ9LCJleHAiOjE4MDk1ODIyMzl9.V4ZskESd6Dp5kPkGGf0pv9eFaQHpKmoe7V9V8cfXcIE",
+    "game_uid": 1307
+  },
+  "8278": {
+    "pid": "8278",
+    "brand": "bgaming",
+    "name": "Aloha King Elvis",
+    "code": "1312",
+    "url": "https://bgaming-asia.com/games/AlohaKingElvis/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5MzF9LCJleHAiOjE4MDk1ODIyNDF9.b6FrAly_v7wiDJTP1FF6prgzuw0Mx9V-vlf3Q1gP8LY",
+    "game_uid": 1312
+  },
+  "8280": {
+    "pid": "8280",
+    "brand": "bgaming",
+    "name": "American Roulette",
+    "code": "1323",
+    "url": "https://bgaming-asia.com/games/AmericanRoulette/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5Mzl9LCJleHAiOjE4MDk1ODIyNDJ9.tEQIKbzqbrNW90NWNXCMbTn6lf9VsPCxS2kt7KZ2kCw",
+    "game_uid": 1323
+  },
+  "8282": {
+    "pid": "8282",
+    "brand": "bgaming",
+    "name": "Avalon: The Lost Kingdom",
+    "code": "1370",
+    "url": "https://bgaming-asia.com/games/Avalon/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NDd9LCJleHAiOjE4MDk1ODIyNDN9.WOWQRskkbi6ddA3k-U8sIjIGdiBekcy6Z4a6xuAGTS4",
+    "game_uid": 1370
+  },
+  "8284": {
+    "pid": "8284",
+    "brand": "bgaming",
+    "name": "Aviamasters",
+    "code": "1374",
+    "url": "https://bgaming-asia.com/games/Aviamasters/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NTR9LCJleHAiOjE4MDk1ODIyNDR9.t-coj0WTr2N9T9QEvfdMdyczMFLuumCOx1_C6PP8iOM",
+    "game_uid": 1374
+  },
+  "8286": {
+    "pid": "8286",
+    "brand": "bgaming",
+    "name": "Aztec Clusters",
+    "code": "1377",
+    "url": "https://bgaming-asia.com/games/AztecClusters/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NjJ9LCJleHAiOjE4MDk1ODIyNDZ9.o3yOOlRXWzsADomT12mZShkYA96RsthuPSFwkirCdv8",
+    "game_uid": 1377
+  },
+  "8290": {
+    "pid": "8290",
+    "brand": "bgaming",
+    "name": "Aztec Magic Bonanza",
+    "code": "1383",
+    "url": "https://bgaming-asia.com/games/AztecMagicBonanza/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NjR9LCJleHAiOjE4MDk1ODIyNDd9.C7oXlHSaBy0Nw9c7e-krPLDZXC44VINdFypdu1fhmUo",
+    "game_uid": 1383
+  },
+  "8292": {
+    "pid": "8292",
+    "brand": "bgaming",
+    "name": "Aztec Magic Megaways",
+    "code": "1384",
+    "url": "https://bgaming-asia.com/games/AztecMagicMegaways/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NzB9LCJleHAiOjE4MDk1ODIyNDh9.oPz3gKLbAjsIAjWqXQxsStEw0c6E3vT3UlBoewVM1PU",
+    "game_uid": 1384
+  },
+  "8294": {
+    "pid": "8294",
+    "brand": "bgaming",
+    "name": "Aztec Magic Deluxe",
+    "code": "1385",
+    "url": "https://bgaming-asia.com/games/AztecMagicDeluxe/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5Njl9LCJleHAiOjE4MDk1ODIyNDh9.XgKSx4VTh2TAqcMkwYApivnVo1bMZfpLba7DWxRB7Mo",
+    "game_uid": 1385
+  },
+  "8296": {
+    "pid": "8296",
+    "brand": "bgaming",
+    "name": "Aztec&#8217;s Claw Wild Dice",
+    "code": "1391",
+    "url": "https://aztecs-claw-wild-dice.bgaming-asia.com/hyperhive?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NzZ9LCJleHAiOjE4MDk1ODIyNDl9.FqHm7mGT6xbe_768BLx9hQDMc10MfxZuh40emB6XxJs",
+    "game_uid": 1391
+  },
+  "8298": {
+    "pid": "8298",
+    "brand": "bgaming",
+    "name": "Beast Band",
+    "code": "1435",
+    "url": "https://bgaming-asia.com/games/BeastBand/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5ODV9LCJleHAiOjE4MDk1ODIyNTF9.wdmyzGqCEayApdyQbC0PjpckaZucF--lA3jytlE0yhM",
+    "game_uid": 1435
+  },
+  "8300": {
+    "pid": "8300",
+    "brand": "bgaming",
+    "name": "Beer Bonanza",
+    "code": "1441",
+    "url": "https://bgaming-asia.com/games/BeerBonanza/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5ODl9LCJleHAiOjE4MDk1ODIyNTJ9.MWiHAuYCLKJsbVbMQ8tLUv9YNCu8UVYisQaERE-GSyg",
+    "game_uid": 1441
+  },
+  "8302": {
+    "pid": "8302",
+    "brand": "bgaming",
+    "name": "Big Atlantis Frenzy",
+    "code": "1458",
+    "url": "https://bgaming-asia.com/games/BigAtlantisFrenzy/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5OTB9LCJleHAiOjE4MDk1ODIyNTJ9.hzNPvrdd3VwZvmxT02Eo3h0q2kyDDJdyUrAwz9acnoc",
+    "game_uid": 1458
+  },
+  "8624": {
+    "pid": "8624",
+    "brand": "bgaming",
+    "name": "Balloon Mania",
+    "code": "10308",
+    "url": "https://bgaming-asia.com/games/BalloonMania/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5Nzh9LCJleHAiOjE4MDk1ODIyNTB9.HHsWxrUBwqG9CW8BxIl7gF_kp8bfwTpyMYPUlYLRFzc",
+    "game_uid": 10308
+  },
+  "8625": {
+    "pid": "8625",
+    "brand": "bgaming",
+    "name": "Balloon Mania",
+    "code": "10308",
+    "url": "https://bgaming-asia.com/games/BalloonMania/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5ODF9LCJleHAiOjE4MDk1ODIyNTF9.vz7XuPPxQ-YZTlSpB85va2puL9R1xTKIbqvc50jdukE",
+    "game_uid": 10308
+  },
+  "8638": {
+    "pid": "8638",
+    "brand": "bgaming",
+    "name": "Arrow Slot",
+    "code": "10314",
+    "url": "https://bgaming-asia.com/games/ArrowSlot/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NDN9LCJleHAiOjE4MDk1ODIyNDN9.9e0eR7jFtMahYxSusRkHFhChmbQPhYJNYodTpSdjVRM",
+    "game_uid": 10314
+  },
+  "8648": {
+    "pid": "8648",
+    "brand": "bgaming",
+    "name": "Alice WonderLuck",
+    "code": "10319",
+    "url": "https://bgaming-asia.com/games/AliceWonderLuck/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4Njd9LCJleHAiOjE4MDk1ODIyMjh9.1Ugy07KacoTrhuEy4iI_Q72-oKhK_LWfXdBpH2djZH4",
+    "game_uid": 10319
+  },
+  "8654": {
+    "pid": "8654",
+    "brand": "bgaming",
+    "name": "All-Star Fruits",
+    "code": "10322",
+    "url": "https://bgaming-asia.com/games/AllStarFruits/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5Mjd9LCJleHAiOjE4MDk1ODIyNDB9.UEcp2FoMB8JJ296D2FgorgP06IOtRUOvdts6iAJp7L8",
+    "game_uid": 10322
+  },
+  "8676": {
+    "pid": "8676",
+    "brand": "bgaming",
+    "name": "Aviamasters X-mas",
+    "code": "10333",
+    "url": "https://bgaming-asia.com/games/AviamastersXmas/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NTV9LCJleHAiOjE4MDk1ODIyNDV9.uSPebNmpY-tlueSVirn4hEI-cBhgX_80MqJ7d6fuXAo",
+    "game_uid": 10333
+  },
+  "8677": {
+    "pid": "8677",
+    "brand": "bgaming",
+    "name": "Aviamasters X-mas",
+    "code": "10333",
+    "url": "https://bgaming-asia.com/games/AviamastersXmas/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5NTd9LCJleHAiOjE4MDk1ODIyNDV9.1et3u4w98YbBgo2cTzDVmRNdguXhTHKi7Mu3FFZraoo",
+    "game_uid": 10333
+  },
+  "8724": {
+    "pid": "8724",
+    "brand": "bgaming",
+    "name": "Always Up!",
+    "code": "10356",
+    "url": "https://bgaming-asia.com/games/AlwaysUp/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk5MzV9LCJleHAiOjE4MDk1ODIyNDF9.UVA3Kxt0nxLOxwE2Wwq-qKNEWbYdAA1MMSaK8cnv3Q0",
+    "game_uid": 10356
+  },
+  "8770": {
+    "pid": "8770",
+    "brand": "bgaming",
+    "name": "Adventures",
+    "code": "10371",
+    "url": "https://bgaming-asia.com/games/Adventures/INR?launch_token=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InB0X2lkIjoxMzQwMjk4NjF9LCJleHAiOjE4MDk1ODIyMjd9.4BypW2uXMphQ9yGxOGtsPAdLrM8zfOo9pmUGclolvxo",
+    "game_uid": 10371
+  },
+  "9810": {
+    "pid": "9810",
+    "brand": "100hp",
+    "name": "Air Jet",
+    "code": "8771",
+    "url": "https://100hp.app/airjet/hud/?b=7b23c196b14a8e36a50bdcdc45ed7f91ab2a1e3acdbcec3b5f4cfd78641f21ff79d517ac0a283991b1e6d391f0bf0d25c995190e524d2f898dd766e9b94c92e73a89621e10ecf5b724fc04b30756e3aff712bedc463df5310495f9109d408b985b58e57850586abad4cf8b91d883eb1e0e594484a6f0d28f5f0836c6bf51c1d0aba07912b8d005dbfa3a7b838cead83da4575ed996b9f1c0b45c47a3f313ddfe15ebe36280787a2a531371ad82699619d38b.c55f219d4954b8de0199080a9e8bfc9a.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a05ed-8f7a-7b36-986a-7f65662d8200",
+    "game_uid": 8771
+  },
+  "9812": {
+    "pid": "9812",
+    "brand": "100hp",
+    "name": "StarX",
+    "code": "8772",
+    "url": "https://100hp.app/starx/hud/?b=0103d2623e2bd681819c3c9bf6bb136aad6d41fb39e09ea63d58f28fd8e045bf41bc1610941cb3529cef2031c33dcf78b78b9e4dcc754e40e8795f603a60ec626b9292ae371ed7a510eb3ba17a1f9002385dfe80df9a2b322fe6bc05f927d103b3c4af0d7b9b4d6b6665b3ef8ea233555ef6249c33b9b6ba90c2f5a1e9c517cf6b793c7b9bd07b2c5789db07c743cedbcfe588b3194dca715273c604895e747bef4557823c3823d08107a9ec70f342f08e67c7cd.9954acfbe366726b7689a1e2e8e79cd1.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a05f2-2d48-7e61-bff0-f3deb1df7567",
+    "game_uid": 8772
+  },
+  "9814": {
+    "pid": "9814",
+    "brand": "100hp",
+    "name": "Fortune Crash",
+    "code": "8773",
+    "url": "https://100hp.app/tiger/hud/?b=c5d1081489e016f8132858bdd484ef21ce76536372a83bdc9330b07ed5177694d1797aef3dc77e0072c7074c50556dc6ef09fea08008050b2ef198cd016e16aadca919fcabe66681ab01dc25013296bc6089a1a7a0d523b1e27e28328cb3d3aeff8312f0cb86b556488a41303c272999c4a41071060678f2d5b7b98b1bf207dee059673860b9fe2723a80e609309c3e12a3d3fbc7b6572bf55240acb00c7637d4e2f72e9469c4277e0d29854439f6039a52f69.a4a7ecbb6040ee7b948678bc64511cf7.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a05f7-1663-712c-93b5-8674fd778ff9",
+    "game_uid": 8773
+  },
+  "9816": {
+    "pid": "9816",
+    "brand": "100hp",
+    "name": "Meta Crash",
+    "code": "8774",
+    "url": "https://100hp.app/coin/hud/?b=c808ea283f0828ebc1c2f7b629ab4ab664c67498bd6326cd8ab245f29bf71fdb3b4cd6bcca9d6b205d4808b580b3937a80994b1b6d1722adea3aa0319ee4de0061c9221c41a9a5b19a74b50c6159d22f31f1f970a55c84f80132f90b80886fadce270a5d3ac1a9026dedf0942b1c86a886ded115d4326e16a6f59b2e1697911201db6c9eef3ee44faeb78f83437d4e7df9ba74b867ed7e2924ecb2d698f661d2a87b211c4e61e4f2e70f5edad27906ce677eefe7.5c009958ec049dbb2292f8b71a0b3634.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a05f5-5672-7a23-8e3f-a4309b97af29",
+    "game_uid": 8774
+  },
+  "9818": {
+    "pid": "9818",
+    "brand": "100hp",
+    "name": "Tropicana",
+    "code": "8775",
+    "url": "https://100hp.app/tropicana/hud/?b=d809d6ec16b1a4b651c42e4305ce014cd2add4ad608168d0c35616d7a6852f033a3b7080fe6a3d6583652107ddd2ccffa3a7cdd56d0f654c9b8e184767df0c7c7a5044628bdcab857f31417d3946c58138313dc847d95d9c2f232184c62a81c7e1fe5556ab6dd4cef05ec92694b5b8c0a4a9f313dfd6d45f766daff368bfa0de9abc80d14f9042ab6d84bc0cfc30537220262658b843ef7735e117f4e44579500653a987e12746bbcff72a8dea4cd21d4816fc2e.a866800fc9095434817b190e681c709f.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a061c-7995-75d8-8200-4edb1802d8aa",
+    "game_uid": 8775
+  },
+  "9820": {
+    "pid": "9820",
+    "brand": "100hp",
+    "name": "Crime Empire",
+    "code": "8776",
+    "url": "https://100hp.app/crime/hud/?b=9b48ac54cdf34d0dd7dc921f3fb3a33810dd0dde69fea0c6f19e03cb260c086e6b50615e4d447ec6ada81d419e8ad08b6ad6f834f1a198476f3ec1cf5ec6f506eaac024a5b7664cf190e66568a6438b21cce7b4dca2decc871b72240655689e90f88143805c18a6159bfabe57ba751306a0fdb1afd1ec8e50d25fdf2e0427081ff4af177421bc5303b9071a232c0a7f38dbb181ccea854dad69d555ff1970da120fc419e677904257f35f474959ce1be4599f205.84c139c795893daae2aa42cf97b652d9.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a061e-3fb6-7e17-a4b4-09f8aeaba7ac",
+    "game_uid": 8776
+  },
+  "9822": {
+    "pid": "9822",
+    "brand": "100hp",
+    "name": "Mines",
+    "code": "8777",
+    "url": "https://100hp.app/mines/hud/?b=a94996b3e4a45dbd06a030dba6b4e285c495bc239ccccce6e5046aa31c142fb32fa107acef659787fd0cecd52ed03d7b7733fd7356f5fd0d0452504050665dc96b3b9e23041dc3d0461ecf2aa84ef119f2f084b7a344ebfa226b0019e2dbd0962ac4e659f570c18aee52e175430cb383777120787f87be2b18ff93d28d713d716a29a22381006306f6eca2d993539e2653fb875fa9f61b6edd69711661743f2a4fa45bd383d5abc87e4d18f671029e61e11d10a0.b827af261ca78e6837616ea0d0127ce9.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0643-2dc2-7924-97c0-4fbe00b9043d",
+    "game_uid": 8777
+  },
+  "9824": {
+    "pid": "9824",
+    "brand": "100hp",
+    "name": "Dice",
+    "code": "8778",
+    "url": "https://100hp.app/dice/hud/?b=f3562bfc3c44b28229682f7dfa6142cc9dec9cefd8882b8ce35dae7fc99411b9e4fa15f7db1df32c63742acf9272ccb3ebff6f41385766421cb696c9fe0ddebfd2b130f0c9108220c9beabff348c7ad67792ad336efb20330a5dd8c953184acbbe1425f2e1eca0e56240aed9d59765a464c7981e6200d219973c2c79a939c288cdd47dbbe53df81142105bb640f2ef0ee52c3543eb245fabd7004b725244f1568a95ff8bb7859cde8b9d85c196a6970351b3d47c.3e629565cb133525cc9ddf2fa6edfb4e.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0640-4c6c-7e06-baa7-62489ea4b2b4",
+    "game_uid": 8778
+  },
+  "9826": {
+    "pid": "9826",
+    "brand": "100hp",
+    "name": "Plinko",
+    "code": "8779",
+    "url": "https://100hp.app/plinko/hud/?b=0f02d41ccdc9f8c561250de81609afb24845555857532ca7f667a36f05a00ae0724f0fd1b1c91b850770f57b16f2ab89d99d25ba1bdfeb4a91da56018a2a187ff51d2da8213ce5b970e087b14316f75e8891afaefbe6429c455dfb6d4b61eb9df505682f03616180e29655a11522e5f05f20bb33a8c1acb09dcd4386deff087b4e279e2d33aa438c63a4e4dde74588b084b6cb8cbb2dc8020a6db43a6d5938303ea4f3e0ad01db665a3e0b1bd0951b26b62d7649.1f3ccc2bc218a8b63c27967ce87d39ed.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0645-e9ca-7405-b2ec-157d1e94a9b7",
+    "game_uid": 8779
+  },
+  "9828": {
+    "pid": "9828",
+    "brand": "100hp",
+    "name": "Hilo",
+    "code": "8780",
+    "url": "https://100hp.app/hilo/hud/?b=ec98c5a77b646ea781a445f25e6b5aa160b01bcfd2b60adeefca522250a340f405cf2604574016d349d3a23c06917ebbc4272c3fd41af90ce2d52cb2df99a7d190d6e21863fd51e3cad28b00cc089028f93b1fb0578b5ed446fba5a38c96af72de57aa3bbd97f35c3c1c800a71481d5cf04ea5d36cb55d3f66b50564f361572bc81aaf9b5b63d6ddcf4e543481763a50da3e24127a2d7d2ec8bcd8a93e5831edafb4598963622d3f4e2979cefd86244d3a3ea42e.7b4ccabf928d43f517ebd35f6c5accf6.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a064a-f7e4-7ba4-a112-ee8506ef05b0",
+    "game_uid": 8780
+  },
+  "9830": {
+    "pid": "9830",
+    "brand": "100hp",
+    "name": "Keno",
+    "code": "8781",
+    "url": "https://100hp.app/keno/hud/?b=b77c4695aa4bdcbc76ea09817b19ea0a8c9f38c076fd32a47fbcdd5ff386e87b7751f6c8430567300cee8b52c4c7bcc0b71ea134ed79327e1894be834ca7c580006468672cebfa6b67ff356676f6f85d9af5f995d613d82d2bfd47f0c6d717cd4ada89447e9e4f0576a7a69182e533788a403be0f76480e98b32bd149a800031ba441785a57860b6f27519bf4d77688b0816021d125affdf350b6f5cb85facc843097b8b8eb464d684eea654c00f6ddf4669925f.e7de428f0a5e84ba775e4f22a40721b3.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0647-6b27-779a-b271-e6c060e5c4ac",
+    "game_uid": 8781
+  },
+  "9832": {
+    "pid": "9832",
+    "brand": "100hp",
+    "name": "Coin Flip",
+    "code": "8782",
+    "url": "https://100hp.app/coinflip/hud/?b=ba7c031ac4590f3bb27f7a66d1789d98a84ff04161db4835ca083b4906ec19bd8445213354722f1e3ab0eda96b988c10d64ab7a2713c4c06a414bfc8db5936fd923f6fc60b1ebd8f7c8834f6f753d3925bc14f9cfb25542c6b4206ed07b7520d84b203ee85a4caa2bd2c0225e1d5f3737d3452564d8f53dbc891d89a0db3d08239ec03e89ca2de9e95d6ab7c25c8c2b7cd4b985af56a26bc1f0d062e2813d2b71b3d4877e0cbc0efb3c02a2d236d9155816b7243.3b2f61b759b4e794647f51849d705e0e.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a064e-1b9a-7040-a1a8-3fb178b8220c",
+    "game_uid": 8782
+  },
+  "9834": {
+    "pid": "9834",
+    "brand": "100hp",
+    "name": "Penalty",
+    "code": "8783",
+    "url": "https://100hp.app/penalty/hud/?b=b27295dd51ed66a91ac227905cc362d0132d7e80ea7d10eb524833bf87fca1c4a88e2bdc7c1187ae3f46ef7ca62788be522dfd5d87a85717fa8b9a48822f14a7c956a3de0a0073c9d5d900fdc2147d45ca07465dac4738349829bbe7f1a5b160fa07c233b71a71faf5ba6747788da2ba7c9636f44dc78cd05f81ba1e8cd6b23509fc34c6d270be797f0d61609389ccafeee4f9c5e7156cac0d91ddc5d268f43aec4627c52e94bd296e1d82916aadeb431f5826be.9fa9a4c0b86585135be09d612f629139.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a064c-7b34-7220-bd04-4fce784ceac4",
+    "game_uid": 8783
+  },
+  "9836": {
+    "pid": "9836",
+    "brand": "100hp",
+    "name": "Blackjack",
+    "code": "8784",
+    "url": "https://100hp.app/blackjack/hud/?b=a0c719875cb75b11c316cbd17a8ab6c5eb270898c38890cd35be44250e814aaa018884d9286d77d446818e827279464f320ffdd838e3900f09f222f5b3f78fae9cf5a963eeb633948f90248e13345fa98b7356a62867f99dd8d0c70d09b59154bdd752061d4bcddaaa1dd0ef27c11b8adfe157fabc053636aca7dcd2e62ae6402f30d5adaf50521e24f93b663c9af2ba33472403ce1992ecdb08c2660d1c78b3a0bcec3212e75924bb2c85b95627f3ff54f56c7a.41013d887ccff8adc1abe22b287b6e5b.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019b9d12-3622-7c67-af3c-ebfab567806f",
+    "game_uid": 8784
+  },
+  "9838": {
+    "pid": "9838",
+    "brand": "100hp",
+    "name": "Poker",
+    "code": "8785",
+    "url": "https://100hp.app/poker/hud/?b=cb6522b0587575b36dc5463517182a23b312a41cc51866eeb50a9c625dce64e2fc52ec729a0316bea138c95353741151dbbc930f394d83ed47e61d03f3c6ce78d7b2867d4d9c81b26ce101aa1835083aae5f1f970d5a15b98f7d3c0d76a9cf79e47b1058776c3ccf2a5027fc1d2fb7d0c35d158c15ef679f14a4e35b6b59ee172d603a3b06784d48938326de84005535e915072619592d51b6575ef07434cf2bbd16ebe8b41218f5bda9dce9a424f00fa3e7ad82.c670605098fb7f97af4bd751b5c3eacf.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0668-ab4d-7618-bd02-786bc2234570",
+    "game_uid": 8785
+  },
+  "9840": {
+    "pid": "9840",
+    "brand": "100hp",
+    "name": "Astronaut",
+    "code": "8786",
+    "url": "https://100hp.app/astronaut2/hud/?b=4ee7e93a2a704584f6fa5ca9fc1df76a059ba4b4f971ea5ab544de1c0e471d64be68394578319f167591278677be285656fc756826751bf5318b0d15a3d0fdf33e44b3b0d2f2c53a76e9f0612678bdd6716eec451ac9e8a080825c5ca91d4328c57ee74b5b8c3f3fec10aca8a1894be244a78f191176f069d7a92ecf67a0ab43b2cdaedc297bdfeb2abfd417aa7a9ca6438a3a057d777d84db952261c0a02bb68a79bd11f8147fcdf3a034ad430ce8ae0fc1eae4.39fda768e3d07e949ea15b30cbd4017c.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0626-ca31-7c41-ae45-ae53d7e7e7e3",
+    "game_uid": 8786
+  },
+  "9842": {
+    "pid": "9842",
+    "brand": "100hp",
+    "name": "Crash",
+    "code": "8787",
+    "url": "https://100hp.app/crash/hud/?b=907931ef9a3d9d6386ede7b8dc370ac8623b9f47214dbc142db4a14f8f740e7baf901ce66cfcccfd6f86fcd8f261d670c466cf976102bfa56a19e4e0c042d23d50f13247cd485ede9eccc1a06849c212fe26bf3478a38c86550142b0e41a17c9e557f72671ba4a5f8eec6e620164e8ee476dc329e8fc5584a13cd296c839fcf42358a988ecaa4c2f71a86830bcde4cdaac33c3430866f00cae40dbe8c2c75ee6fad8dc731a4537440fd66188071f614ea06206bf.c3468668844f3c5ef8f9e9084a2fd16b.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0628-e84b-7b23-ba30-c5b09bd09c74",
+    "game_uid": 8787
+  },
+  "9844": {
+    "pid": "9844",
+    "brand": "100hp",
+    "name": "Double",
+    "code": "8788",
+    "url": "https://100hp.app/double-mse/hud/?b=1ebe799c9a961ef66e907b994b65d5c0a11474da86fb86ba15929b5416745f16bcfe5e802794bf61975d6073f7461d167f58d7c1b2c9411a26f3ba2b07c1f1999d32ec39f2654589a8b8f881a89ea027fae38d13f9155b127f69862af290df5a3d3d390fa030a0123f698dd1da917deb3419ebb3e332722d2a8bb68d1909f1b946d37a68ccc111b98b31e27a35f1e99e85a9fc8067dcb97a393fa98fa32c0a2576d0bbc3f5d1c36d5cde990c83e3778758849e9a.e37bf8994c4e60f5a8706d16f9f9c4dd.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a0666-7543-7a3b-a9ec-57f2ac0ead4e",
+    "game_uid": 8788
+  },
+  "9846": {
+    "pid": "9846",
+    "brand": "100hp",
+    "name": "Chicken Pirate",
+    "code": "8789",
+    "url": "https://100hp.app/chicken/hud/?b=e1d3e189c0ca18d7a616a485ae6baaab8235496d3c2dc7c53848aa94973fad99a92d2ff753e13a53e10ac910b58fb959bc732605e5c48207f644a4a4a5c18f5f5bc20eecf2c861a755f11f85299e47a246b72276799180620fda217de2b21003b8a92e3690d0d905132ed8429118723252f4d4d22d404a30cb7f5928beba380c148e35b6b73138ac7632a0b03e0fb97593f5629e43ec4f9042472046a9115fcad21ea39a566642bafd73712e75d780507176f93b.fef5eb7ce60ad588b5014f34db83df6c.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=0199ecc3-cc77-7633-bd46-f374f5b836d9",
+    "game_uid": 8789
+  },
+  "9848": {
+    "pid": "9848",
+    "brand": "100hp",
+    "name": "Pump It",
+    "code": "8790",
+    "url": "https://100hp.app/pumpit/hud/?b=499df088c6c00bd4586b73aad28ac23f82702d281a22851509c1c18f184c5f9e5533de0b3503a9ae9ed292ff91853d95472ccfd59fe3faa60ae4d352390d83deed7c16334a986f02cdd170faf7debf262a36001794dbb40bce5882928767a7db9f961eeae621c4dc9f12248a79674555bf76d94b2f2d0d49cfeaf2f21a6ea861a5697d8d9728e50290849cc1f7d0d9f213a57babb0f3a3e11b8fa8225006f05600cdc23c1ec32e7d67aa7b14a20908c882c9c7b0.3dc75066afa3170a3d7c4d5f76664289.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=0199ecc5-88b0-7743-bb9e-138cf69a6bb2",
+    "game_uid": 8790
+  },
+  "9850": {
+    "pid": "9850",
+    "brand": "100hp",
+    "name": "Chicken Train",
+    "code": "8791",
+    "url": "https://100hp.app/chicken_train/hud/?b=ced0c927723c160cf56ad778e71f53794fb59f3f4352b8315017c9c6831a0d6c57fa940eb6d87f0a0fd13df83a5fd8731467bddc8927a414ee4ef887b67fcbec34b414c50f8b66a3e1e0457682229541628a7bcd6439c42deca3ebd5942061cef86eb350535178c4ebea38d6076e0bc404db2274bc6b8a6ac30f0d769dad94c98751a2034876ee8f4ba6d0208044198cd7509373ac3864bd90a4289a1eec4a4e67b9328a16da983c8f249ef906de26addda95083.6206f554806683703c25b8f7329aff8d.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a39ec-67bf-72a3-a662-dea9bd77cd5b",
+    "game_uid": 8791
+  },
+  "9852": {
+    "pid": "9852",
+    "brand": "100hp",
+    "name": "Gods of Plinko",
+    "code": "8792",
+    "url": "https://100hp.app/gods/hud/?b=c9c030362c0df7c119394afe4e9bde7c20310d220ee0f491ad1ef1d0fea001beaf2f801a2782b58359800939a5a89b9220c5110a8615acb0b9339facdc98fce7467c65c80dcc485d85bea86435142fd7696e632945c2655a97bab74f7d41f22a853d5523f3fc2852d4e9783dac3bde6bb67f8554393ee31f28ef6ea805630ca381064b589565fa3752d68e7566ce58d3e39570142029f7c2aeff43bae1071b0be5904d3e56d2b009d399097bf6a5779936bcb1.f44fdb64439f990652f7ac2a3d0558a6.5f3eaa8d-d236-4369-abc8-51c903169d30&language=en&pid=huidu&pik=019a8203-c273-7744-b740-71c8a15f6ed4",
+    "game_uid": 8792
+  },
+  "11177": {
+    "pid": "11177",
+    "brand": "playtech",
+    "name": "1-Of-A-Kind",
+    "code": "1161",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_1reeler_pop&username=HDIN_HE26E4614421EPC&externalToken=HDIN_b132f8b3-f745-4dd2-8340-5c779e066a24&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1161
+  },
+  "11179": {
+    "pid": "11179",
+    "brand": "playtech",
+    "name": "28 Mansions",
+    "code": "1184",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_28dman_pop&username=HDIN_HE26E461377EPC&externalToken=HDIN_9572f756-69d5-4f13-b186-48535d3265c5&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1184
+  },
+  "11181": {
+    "pid": "11181",
+    "brand": "playtech",
+    "name": "A Night Out",
+    "code": "1235",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_anightout_pop&username=HDIN_HE26E4456585EPC&externalToken=HDIN_37e38a51-3d2c-412c-98fd-c20c39ccd91f&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1235
+  },
+  "11183": {
+    "pid": "11183",
+    "brand": "playtech",
+    "name": "Absolutely Mammoth",
+    "code": "1238",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_amammoth_pop&username=HDIN_HE26E4728098EPC&externalToken=HDIN_d0d6521c-4590-46b8-987f-3c1a944e5527&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1238
+  },
+  "11185": {
+    "pid": "11185",
+    "brand": "playtech",
+    "name": "Absolutely Mammoth PowerPlay Jackpot",
+    "code": "1240",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_amammothpp_pop&token=ffd7747a-dda0-4ac3-81ce-5c595d02d1c7&platform=web&language=EN&playerId=he26e4636942epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=8da59c8587536b6678456259e3fe3318",
+    "game_uid": 1240
+  },
+  "11187": {
+    "pid": "11187",
+    "brand": "playtech",
+    "name": "Age of Egypt",
+    "code": "1252",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_aoegypt_pop&username=HDIN_HE26E4876190EPC&externalToken=HDIN_503b7ff1-b321-41aa-a721-028ba1a87118&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1252
+  },
+  "11189": {
+    "pid": "11189",
+    "brand": "playtech",
+    "name": "Age of the Gods : Epic Troy",
+    "code": "1254",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aogetroy_pop&token=a1113ff0-3d18-40fd-bfcc-98409663c1d5&platform=web&language=EN&playerId=he26e4404509epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=3a1a02af03160f37afd335cf75442109",
+    "game_uid": 1254
+  },
+  "11191": {
+    "pid": "11191",
+    "brand": "playtech",
+    "name": "Age of the Gods God of Storms 2",
+    "code": "1255",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_gstorm2_pop&token=f2181b22-4b13-42a6-901c-b247ddd00d21&platform=web&language=EN&playerId=he26e4485727epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=86e5b8b55aa18b392f9b85291ac829d5",
+    "game_uid": 1255
+  },
+  "11197": {
+    "pid": "11197",
+    "brand": "playtech",
+    "name": "Age of the Gods Norse: King of Asgard",
+    "code": "1259",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aogkasgard_pop&token=d7b0a25e-cb12-4f6e-8912-8ad999046bd4&platform=web&language=EN&playerId=he26e4744087epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=e73d56341127a02c9147700d9bff8645",
+    "game_uid": 1259
+  },
+  "11199": {
+    "pid": "11199",
+    "brand": "playtech",
+    "name": "Age of the Gods Norse: Norse Legends",
+    "code": "1260",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aognnl_pop&token=4e518547-2e08-4e0f-8ad5-7d248bb78251&platform=web&language=EN&playerId=he26e4879236epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=a97d68305a315ed44f1a3ea91ad4a48b",
+    "game_uid": 1260
+  },
+  "11201": {
+    "pid": "11201",
+    "brand": "playtech",
+    "name": "Age of the Gods Norse: Gods and Giants",
+    "code": "1261",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aoggagiants_pop&token=4c520547-2074-49ae-9911-bbf21a0c2b3b&platform=web&language=EN&playerId=he26e4107055epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=ea956567fdfed5a17c0551367156e781",
+    "game_uid": 1261
+  },
+  "11203": {
+    "pid": "11203",
+    "brand": "playtech",
+    "name": "Age of the Gods Norse: Ways of Thunder",
+    "code": "1262",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aognwot_pop&token=a22149a0-0e33-4058-955d-aa39c7ee7e19&platform=web&language=EN&playerId=he26e4897845epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=1b7dcb74804d888be1b676e7dea7264c",
+    "game_uid": 1262
+  },
+  "11207": {
+    "pid": "11207",
+    "brand": "playtech",
+    "name": "Age of the Gods: Book of Oracle",
+    "code": "1264",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aogbooracle_pop&token=aa21f40b-c5e5-48f4-86b6-465720bb6215&platform=web&language=EN&playerId=he26e4582139epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=f8f11b38a13b2901eab200c505a35d97",
+    "game_uid": 1264
+  },
+  "11209": {
+    "pid": "11209",
+    "brand": "playtech",
+    "name": "Age of the Gods Scratch",
+    "code": "1265",
+    "url": "https://login.agcasino99.com/GameLauncher/?gameCodeName=gpas_aogiw_pop&username=HDIN_HE26E4159741EPC&externalToken=HDIN_3ebc33ea-6ff9-477d-bd3f-5ede8e625e02&casino=agcasino&clientPlatform=web&language=en&playMode=1&lobbyUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&depositUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F",
+    "game_uid": 1265
+  },
+  "11211": {
+    "pid": "11211",
+    "brand": "playtech",
+    "name": "Age of the Gods: Apollo Power",
+    "code": "1266",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_appower_pop&token=87782666-c492-4b4f-a090-7696ef9c3659&platform=web&language=EN&playerId=he26e4557603epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=b3f052831a27efe5bb072a7e0b8161b2",
+    "game_uid": 1266
+  },
+  "11219": {
+    "pid": "11219",
+    "brand": "playtech",
+    "name": "Age of the Gods: Glorious Griffin",
+    "code": "1270",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aogggriffin_pop&token=14806bcb-9d80-4872-a7a6-6ab24b6eb66a&platform=web&language=EN&playerId=he26e4436047epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=452bd45b4a53f9a864970172cc4a9e40",
+    "game_uid": 1270
+  },
+  "11221": {
+    "pid": "11221",
+    "brand": "playtech",
+    "name": "Age of the Gods: Goddess of Wisdom",
+    "code": "1271",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_athn&token=f2a7ed47-8720-4bbe-b217-4f59020c239c&platform=web&language=EN&playerId=he26e4384118epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=241ad2f2fa49687fa94af07f1f6a480b",
+    "game_uid": 1271
+  },
+  "11223": {
+    "pid": "11223",
+    "brand": "playtech",
+    "name": "Age of the Gods: Helios",
+    "code": "1272",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_aoggosun_pop&token=58b6ae3b-8073-4997-888a-ea02cb92bae6&platform=web&language=EN&playerId=he26e4349713epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=0faa8dcb32d0e72ca196a4586f423907",
+    "game_uid": 1272
+  },
+  "11225": {
+    "pid": "11225",
+    "brand": "playtech",
+    "name": "Age of the Gods: Maze Keeper",
+    "code": "1273",
+    "url": "https://game.gmhugegold.com/launcher?gameCode=ptn_gpas_mkeeper_pop&token=c3e33b67-fcfe-4c48-b1d4-b9dc00cbac61&platform=web&language=EN&playerId=he26e4457902epc&brandId=14529&backUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&currency=INR&hash=cd0874d5ddd78e216f52bdd9e495b4de",
+    "game_uid": 1273
+  },
+  "14285": {
+    "pid": "14285",
+    "brand": "dreamgaming",
+    "name": "DreamGaming",
+    "code": "617",
+    "url": "https://new-dd-cn.20299999.com/ddnewpc/direct1.html?token=0c46812b23e04618af4fe6eb236f14e5&language=en",
+    "game_uid": 617
+  },
+  "14289": {
+    "pid": "14289",
+    "brand": "sexy",
+    "name": "Baccarat Classic",
+    "code": "1403",
+    "url": "https://fsa.velkigames365.cc/player/login/apiLogin0?agentId=huidubet&x=9Dm_ncBZSZANbiKbdZh1Noq-OQWB8FrvbqE4DGFvNhsMwPnouDBt_hBaP49AOGbm-v2woHBeILF5mpphd2BHfkt_gJ0ckeCjgIsLL8jNC6f076OLveEk91U6oo1qCO44GVATXLzEX5PYPXp8h_CuWbVIC_8usx06MlbTe_8iILS86tup-_nkgxizts2vED7dBIErR-WTpH7NoEpHLPYApEdYQTIzDEbcst6rSvVeZkh9R9ZsJJ_39foCS1n-TRpWSsQfTxln4nPszBf_15BeLeyAcgI_oS6A3y7Y2tkV8_xyuPlKJpnZ1iZkYyQ_7H7UQoAq2GndKInIGvJzm_kjw7UTOfaO3VSUxNFWNvsBwdnNoEpHLPYApHGC7ioZNvXNSJgf-BrL6wzIIEPFzkA15DKS7qy-SSk__D7DC7jgLHwfPk9QUWnRBQ5_QlAd0DYbFKJWOGqMX_qc3AZtQUXH8jEKjM3cV8kmC3ILUXbph4Y",
+    "game_uid": 1403
+  },
+  "14291": {
+    "pid": "14291",
+    "brand": "sexy",
+    "name": "DragonTiger",
+    "code": "2034",
+    "url": "https://fsa.velkigames365.cc/player/login/apiLogin0?agentId=huidubet&x=9Dm_ncBZSZANbiKbdZh1Noq-OQWB8FrvbqE4DGFvNhsMwPnouDBt_hBaP49AOGbm-v2woHBeILF5mpphd2BHfkt_gJ0ckeCjgIsLL8jNC6f076OLveEk91U6oo1qCO44GVATXLzEX5PTG-JLBYRupQIwcPhEcYgP4CzCM_pBy98MFgI7wlru8-hfuusabQkxBIErR-WTpH7NoEpHLPYApEdYQTIzDEbcst6rSvVeZkh9R9ZsJJ_39dSsMB1Euffp9ZyrRKyTgs3szBf_15BeLdWl1N-n25P7Pfnovz7ti5A2nJ5OF-uGBSZkYyQ_7H7UQoAq2GndKInIGvJzm_kjw7UTOfaO3VSUxNFWNvsBwdnNoEpHLPYApHGC7ioZNvXNSJgf-BrL6wzIIEPFzkA15DKS7qy-SSk__D7DC7jgLHwfPk9QUWnRBQxt3ozBo-rrFKJWOGqMX_qc3AZtQUXH8jEKjM3cV8kmC3ILUXbph4Y",
+    "game_uid": 2034
+  },
+  "14295": {
+    "pid": "14295",
+    "brand": "sexy",
+    "name": "Sedie",
+    "code": "3766",
+    "url": "https://fsa.velkigames365.cc/player/login/apiLogin0?agentId=huidubet&x=9Dm_ncBZSZANbiKbdZh1Noq-OQWB8FrvbqE4DGFvNhsMwPnouDBt_hBaP49AOGbm-v2woHBeILF5mpphd2BHfkt_gJ0ckeCjgIsLL8jNC6f076OLveEk91U6oo1qCO44GVATXLzEX5N_Th4NaNxx-HPiisKiwC6J1hRXG5sX4NeDZAGTk20kH2L5LQg_XYprBIErR-WTpH7NoEpHLPYApEdYQTIzDEbcst6rSvVeZkh9R9ZsJJ_39aGmuIC4JiTMsA41Jas7z8nszBf_15BeLR3aAKJw_qWVvY4fHfV-drIVQhuElgmLqCZkYyQ_7H7UQoAq2GndKInIGvJzm_kjw7UTOfaO3VSUxNFWNvsBwdnNoEpHLPYApHGC7ioZNvXNSJgf-BrL6wzIIEPFzkA15DKS7qy-SSk__D7DC7jgLHwfPk9QUWnRBX7HLUx3BypBFKJWOGqMX_qc3AZtQUXH8jEKjM3cV8kmC3ILUXbph4Y",
+    "game_uid": 3766
+  },
+  "14297": {
+    "pid": "14297",
+    "brand": "sexy",
+    "name": "Thai Hi Lo",
+    "code": "4028",
+    "url": "https://fsa.velkigames365.cc/player/login/apiLogin0?agentId=huidubet&x=9Dm_ncBZSZANbiKbdZh1Noq-OQWB8FrvbqE4DGFvNhsMwPnouDBt_hBaP49AOGbm-v2woHBeILF5mpphd2BHfkt_gJ0ckeCjgIsLL8jNC6f076OLveEk91U6oo1qCO44GVATXLzEX5Pw1a_xslgXsrtQqW5piYHTZ67hl3pEIcml4CtqAHW531_EssEtPvO3BIErR-WTpH7NoEpHLPYApEdYQTIzDEbcst6rSvVeZkh9R9ZsJJ_39aMZnAx2qj2Qcilmcj_6dMrszBf_15BeLVd_oNbyyYtDVB_cE1Nrs6Pje5nv_vJsWyZkYyQ_7H7UQoAq2GndKInIGvJzm_kjw7UTOfaO3VSUxNFWNvsBwdnNoEpHLPYApHGC7ioZNvXNSJgf-BrL6wzIIEPFzkA15DKS7qy-SSk__D7DC7jgLHwfPk9QUWnRBYfUiJj382I8FKJWOGqMX_qc3AZtQUXH8jEKjM3cV8kmC3ILUXbph4Y",
+    "game_uid": 4028
+  },
+  "14299": {
+    "pid": "14299",
+    "brand": "sagaming",
+    "name": "SaGaming",
+    "code": "7107",
+    "url": "https://web.sa-globalxns.com/app.aspx?lobby=huidu&lang=en&username=he26e4362256epc&token=86D7981672F81612F4BC67585E8CEB10",
+    "game_uid": 7107
+  },
+  "14305": {
+    "pid": "14305",
+    "brand": "microgaming",
+    "name": "9 Pots of Gold",
+    "code": "15",
+    "url": "https://7z5z0hmzq382alsy83z.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=9potsOfGoldDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0ODAzMzUyZXBjIiwiR2FtZUNvZGUiOiJTTUdfOXBvdHNPZkdvbGQiLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6IjA5MTEwODA0NDMiLCJHYW1lUHJvdmlkZXJJZCI6IjIiLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY2MTgiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiIyZGNiZDVmZi00ZWYwLTRmM2UtYmEwYS02MmY3Mzg2MGQyYjQiLCJuYmYiOjE3OTM5NDM5NzgsImV4cCI6MTc5Mzk0NDI3OCwiaWF0IjoxNzkzOTQzOTc4LCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.Kbz41zh8GHzQ7NaCOg_bQqTOXhfSPpRZCoPKX2pwkJ-JKdvM2faoxeYR-IDWPni-J_M8KjrkIpqXyTlS0PzZINIgn2xrd70gdmvioK-1FJOWNbOQP7Xfu_rXpLIsgx9pBpbZMG9t264xGsPeUjMz3YIvjN_nX0Hooawya3zvzFF2mFf510QsJsG77Hc70hph_mlzj74P9O6FhH3VyziqGIR435U24NEp63jUIjUGylfZZcsJPEpKT7IEi8VpOSoDZkrGOZ2QXzeTw9fj_EZhjEIuXD1-6S0AUSc7lZdpSLz2nFE5zs5jL_BwXzig6RkR2hxuR19zJNwfT1DwVt-TPB35ouxCYdF9dz6Bboy36DGkMRTbqIFFf4-xazHNMYRn9d1BapnDQBkvPIlplywFjKiOa3E_lz5_IPfQrd2rDQGi9bHR-qlmiYdEnPhk-ZyJn9hBZ6FlP-oP-NTUDNU-oVq_aGKrwBMleKVS5tCboKqJ2lL306iloH2qQTq8niqXhHSpT5EEYneA7RGkwXoBbtlSzP1tBjgi2g2vwPqEQy_dnXrdN56tcwgbsLYXgmjMhk8nH1aK4XN6Vtu1UIPbMozCI2b4MtCcbCdYyyfTriHu2C4yPuycV_BA0U5rzI7i3X6tzQ2cqU33r6sycjbpEjBUH7dZA48B3PMDNWOg08o&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=H195T8V4_ZyvPs_HPcxzaePrxlvp8Abew02E0oSARYk&market=asia",
+    "game_uid": 15
+  },
+  "14355": {
+    "pid": "14355",
+    "brand": "microgaming",
+    "name": "15 Tridents",
+    "code": "147",
+    "url": "https://np1pwcq3lw5zu8sg901.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=15TridentsDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0OTM0NzcxZXBjIiwiR2FtZUNvZGUiOiJTTUdfMTVUcmlkZW50cyIsIkdhbWVQcm92aWRlclBsYXllcklkIjoiMDkxMTA4MDE0MiIsIkdhbWVQcm92aWRlcklkIjoiMiIsIk5ldHdvcmtJZCI6IjMiLCJQbGF5ZXJDdXJyZW5jeSI6IklOUiIsIlBsYXllcklkIjoiMTgzNzY3NjQ3NSIsIkN1cnJlbmN5RmFjdG9yIjoiMSIsIklzQ3VycmVuY3lDb252ZXJzaW9uRG9uZUJ5QWdlbnQiOiJGYWxzZSIsIlNlc3Npb25JZCI6IjIyNzVlMTIxLWUwYjgtNDk0YS04NDk4LWY2N2UxYjZkMDM0MyIsIm5iZiI6MTc5Mzk0Mzk2MSwiZXhwIjoxNzkzOTQ0MjYxLCJpYXQiOjE3OTM5NDM5NjEsImlzcyI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkZhY3RvcnkiLCJhdWQiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5BdWRpZW5jZSJ9.XeodhGOIekO2xsuKSkkMbU3qk3MlnYsrsd4qMP2CLJb9Zm68E5xoe0J0sFe91Sqnks0Ibhq2KGRtFXoOpgk7vUsKiSRTKFWHrI42wikAh04GvznlV5pXOi2TEgdt1OpDajuKZjaQ5l2p3GecPEqpz7csUvwatqOwrywfhIIlc94RKF4s5eHv5asF0p6tyrYduKikFFYNkrz7LK8MSgNKOXpoyz5fXuUF5u4eCfBc_7Mk-T6Yh462m5dLSyFCmk0AGhK4ISQT1KmhvnSxtlCpoWazN9seccc8UwbMnMEMEgamUQTAkrHuSUT5mCEJl2bf_ef8N3LoFAzbCa_ZWIKoBYu8gyqdffzxqyOzNJLUA-Wl7T7YJ8YVvdv0KZn2cQRRmKsb2weB7rFK8FrSbD8FBTom46M182nbAWJdcfQ8hljjH11fttejKqzONECVUCWJLm1IoLIBNYpD4FqeZrQgEt7slQU3TdiWxnM9WO1llF5QgmK60PwBzuMGD8-6uj--h5y0aOxcnd0HCCMeundBeTpLMatwp7YNKaeNusMpG6EPPChwUlFMSDUUlLO4yRBmR4NnQYiPR494HtgjmXXQ1Y8tlzLz3m3RpL0bqIv5gX8jacemV7Z-bcmMe9Iwor0lM6q3mgM1B8Zl7s-go9_8Db6EyP5b9bI4zjNYh-KZEWc&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=rbhtHv3bKYhh1Rj2in5zsQkOqUSaql0F9_ELl-s4fbg&market=asia",
+    "game_uid": 147
+  },
+  "14363": {
+    "pid": "14363",
+    "brand": "microgaming",
+    "name": "25000 Talons",
+    "code": "188",
+    "url": "https://dokoztxpdr09u5s0kr9.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=25000TalonsDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0MTMxNTUwZXBjIiwiR2FtZUNvZGUiOiJTTUdfMjUwMDBUYWxvbnMiLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6IjA5MTEwODAxNTgiLCJHYW1lUHJvdmlkZXJJZCI6IjIiLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY0ODUiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiJjZjdkODZiMy1kNDAxLTQyZjktYWVmOC00NmU1ZWYxN2QwMmQiLCJuYmYiOjE3OTM5NDM5NjMsImV4cCI6MTc5Mzk0NDI2MywiaWF0IjoxNzkzOTQzOTYzLCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.wckZKQZ0HW-pwGrzglMag_CMJ3vJntljtbwzbjMs0IPQtdhIARdM5B3Z7rUgtRqyGa8yGTw1apTQy9roXrP-U3dC7Xg3Xl0I49Ftzj_5HSltGoDjZAZWJOBjwYsXxr6XIjU_y-_P8Ryktq0ZNeHcCery4gFokeR_E7bcb1ZiC-0xfCk6SsAJFs9EH54wfbWC7za2rkmAyteQFvGnvJId7orf-oA_fIoLS9Ub91IX2cCm6J97iipVllXlXMIgVXZsvuiygy4i4yUlZuCX2fEwjDm9ZHBHLPPTS5Lcr3nk_Xqblq_assrLVUOQfFZwEmod9zytfSNMriOeYcrVoKePzwBdmXNSftqnrOFByOvYOQiiXremi18WVtHbMpMAheWr4d_EQhOjSm2Ztducr5eg1T4rqx7X1mGHUDeL0seipKXQtHMxkBTViwD8avKX0xX3mueq8oH6Xz-UwggNGw5ugRPGJiMW5fVeTmEriyvhiXqRu0hshskMnvA1w4KBUCmRztLIeXkNvi7KaXQMrMzxI-hVCATuhIfvECUQLCDif3uJE2ToKvxYcTfDUmvwaY2p9LB5DOTvkezLxzXpHWcAQL1ty6GEaaXXCiioo5xeoqkmWtXnhYo9kV5x1iLbB90Ke08amJxTX0xD3Jrplh_Pc9r3-SERKnvGHzWGN52A1JU&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=7mYrYMrodmUr02s90t7_SR34pzuuqy2GjPLssQjY_3U&market=asia",
+    "game_uid": 188
+  },
+  "14411": {
+    "pid": "14411",
+    "brand": "microgaming",
+    "name": "Adventures Of Doubloon Island",
+    "code": "319",
+    "url": "https://on0n2hkd38y2u7s8507.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=adventuresOfDoubloonIslandDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NzAzNzk4ZXBjIiwiR2FtZUNvZGUiOiJTTUdfYWR2ZW50dXJlc09mRG91Ymxvb25Jc2xhbmQiLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6IjA5MTEwODA1MjEiLCJHYW1lUHJvdmlkZXJJZCI6IjIiLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY2NTUiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiIzZjE3NTczYS04ODBiLTQxMjEtYjMzOC0wOGI1NTNkNjM5NDEiLCJuYmYiOjE3OTM5NDM5ODUsImV4cCI6MTc5Mzk0NDI4NSwiaWF0IjoxNzkzOTQzOTg1LCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.Mttq0tRoWNJ2koxUTDNWv1WmQ18dBiiIj2ftjPpHB0paMwfuBfNm9ICph0aj8B7IZ0LwZVww3VRqBzhBoovEy4n1Tc9nU3vLsKJ9tkjHLhaWVxjKjHOf21eCbvI04bhOBv7diVoqHJoV3o_iJQjr82gMaYomM-adX7dpNJuDKxhKGrFzDOVu8cvRm-Zb8L4BPTVF_YYDf0NwDzmFX_sovanoQNwHoMbRZCLj7Q_fos9FA8yuXeeGq_8OczMg2-MZVwD0YKhFjw2y8BLQ3R3bQ89PS5POE0ciFC8hglrPX9AHrLSQRK0aKLwYebhkILYidCyAutcwx_n_T5MDi7M98NFfa8DkE22AbRezj-8M_E09MLYskppUolhvD7ddr9yqi7a5gJPY0T_m7_LKHVP892uaa2LNWrTO7NKdS2IVafxchGGFay3u4FuqC4-zJ_RmKVfeEMlncT1Q43gtcOKFxG_MPYR0ZoGOXWeewG-tGTh9mbAHQd4YKRRxGDQE1ROxWdiiFzhbiP4oYg0ovXDsXGDQWWUiIc86vi5lrdIrAQ73EJlaOqx-AfW7S8SuBC76y7XgeH52A-HMO4CKOuyVUJrvgIVQx6H2ovgnF0UDz_7C063ctx-sJlKT1RFaMu3cNeBIz3PjU6n7RCze7qgau1OA0BiKOMOkrCl44fONCmg&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=jdJTiBKffY6Nj0VDkee2XT79oT0mqa4QfueGy7VAh7k&market=asia",
+    "game_uid": 319
+  },
+  "14443": {
+    "pid": "14443",
+    "brand": "microgaming",
+    "name": "777 Surge",
+    "code": "481",
+    "url": "https://2l1ldi8wzr18agskom9.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=777surgeDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0MzgxMTY5ZXBjIiwiR2FtZUNvZGUiOiJTTUdfNzc3U3VyZ2UiLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6IjA5MTEwODAzMTkiLCJHYW1lUHJvdmlkZXJJZCI6IjIiLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY1NDkiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiI5ZTQ4ZGJlNi0wYWEyLTQ0Y2EtOGEyYi05MGYxOGY5M2U5MDMiLCJuYmYiOjE3OTM5NDM5NzEsImV4cCI6MTc5Mzk0NDI3MSwiaWF0IjoxNzkzOTQzOTcxLCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.V78DizQVKcsthgV6q7DwfZa3OpCxxDbDaFmqpneIdTKO9w6NdA4DSfeoaCOIZdtcylskwLlcg_dL9UnpcpgyR2CS85GHvum2mydA-h4KMDLS8A6dLo_a_o8zwJRnpPv9DfH7deTNwe-UAIbeILzPXinRxoH59JFvLsb_Z2MBpBbrZNhmX9dE79PWZmmK7mug3r92AMTRC1cxVp4BoMgAgt5sZ6uiM1cC-uBnnFMohFDitzpCE8v7aQs6jLFhmZx4tPhV6om_j4SwnHCA0VqpQV1MsY4RlVIRdkWmR6FpAlzu8sE1fo6SdHnWTRUO6_V5OoY6cPQywGL58KgfPzkV1pJPOIQx7ezSSB1sUJtaEvirDNCqnOvr-njLr88k0Jrq0BhJILdzM3ydR5QM7boMBI75_qWkiVp5xR1AxTgQOJRwos9Y0idmPJxvMcHRWLQk0myHuQV-0wdgVTl8fP8Tz0CrKu1b0Ut1j-Xg2rod6-hzRFSK9zlEh8k3jx2RKRx_sOPjiaHwMytXdChMITZWW1lQDOG4DY5fKsc1Ps9Ji-Jmd5D_AvYAFUPv7FzePn_nicsifciJD_ai0lcUFjjzlWFDYuLk_eXC9VdRlFkIkb9Y5vpmlLiFRz-dXYN5-xgqdgMM2lQFaMkVtb6XwmHKzeoq6HZz-MYOXgcf8UFQvPc&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=tjvehxQmMeV4Qv_9PFi_ayLvFNsRbM0VO36tBqQ7EKQ&market=asia",
+    "game_uid": 481
+  },
+  "14539": {
+    "pid": "14539",
+    "brand": "microgaming",
+    "name": "5 Reel Drive",
+    "code": "856",
+    "url": "https://vm7mdtdvm51rugsg0lk.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=5ReelDriveDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NjM5NDc5ZXBjIiwiR2FtZUNvZGUiOiJTTUdfNVJlZWxEcml2ZSIsIkdhbWVQcm92aWRlclBsYXllcklkIjoiMDkxMTA4MDI3NCIsIkdhbWVQcm92aWRlcklkIjoiMiIsIk5ldHdvcmtJZCI6IjMiLCJQbGF5ZXJDdXJyZW5jeSI6IklOUiIsIlBsYXllcklkIjoiMTgzNzY3NjUxNCIsIkN1cnJlbmN5RmFjdG9yIjoiMSIsIklzQ3VycmVuY3lDb252ZXJzaW9uRG9uZUJ5QWdlbnQiOiJGYWxzZSIsIlNlc3Npb25JZCI6ImMwOTQ1ZWY4LTlkMjgtNGNjNi05NzZhLTAxMDhiODE1ODYzYyIsIm5iZiI6MTc5Mzk0Mzk2OCwiZXhwIjoxNzkzOTQ0MjY4LCJpYXQiOjE3OTM5NDM5NjgsImlzcyI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkZhY3RvcnkiLCJhdWQiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5BdWRpZW5jZSJ9.LGmWu9YB8LWyiLVxtz5hguh7Xf5aQI5iSF9cvyt8Ef7ASrCfQ6x7B4iouZrH14cPx4RAoKZxs-JwMoTmduf7y-wUlVa1yNYnw1oNZPUl3SEekrU4pAbUJ9cmveMT0sUATlPpWLPLkWvlqXF9P0L7f9uUl9CQxfsttEQ_airLq9nu-wh8rVLe15hYwJMzjb77ArjdcIgy-8EES98SkbVIEGJ1_Aj-SUN30UKz4zLnUMpCBy7Nt0p0ePFUKF-dIFMUAm646w8tUeWvDCZJu7aw4I0PRc4f3ECtIl_riN7nvUlRy8oJi0Q6BJN7ncz09LRkKS99DD3ruzfY5Q7Vtwsvb172a6Q7PQtVyodECMp2Oq32TkOcLcq5BnvYeQYbVYe7G-dHYnYUIzW7RyUVa6ooxnQ8RGvUjoWUDFKfvTZpX8PkulFUU7vMZ9WTCjGI0Ean7TmtJwD0kf8-QxGfFx_EjKZ93BCyuU2k4DwVamNKk2PyWT6GyxLJ88dC88OnKwLJTr5zt4Na8MlSVTVUcnQD5da8kzuW6EpzMgbpC064GctC4Lmyzwi1FPLeRWUuvIXnSL1NpaOQGX7QuYkLxmBohg6AmbWJbWY8zExb8ehre3C6WV5dFxVvPktiks4H42DUu10OZxT8CEXwJ4voPsgsiLPpaQ5OMhTpevcHWFgS_-o&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=nTP8ZuUgPeuI3-JgYAsAYl_2LxFPxrHtZyiobg3ctd8&market=asia",
+    "game_uid": 856
+  },
+  "14615": {
+    "pid": "14615",
+    "brand": "microgaming",
+    "name": "Adventure Palace",
+    "code": "1120",
+    "url": "https://r7271u5w690yf2spl83.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=adventurePalaceDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NzYxNTU3ZXBjIiwiR2FtZUNvZGUiOiJTTUdfYWR2ZW50dXJlUGFsYWNlIiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDgwNDczIiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NjQxIiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiZDhlNGFiOTMtMDAxMy00YzUxLThiMmUtYTk3YjNkN2ZlYzFkIiwibmJmIjoxNzkzOTQzOTgzLCJleHAiOjE3OTM5NDQyODMsImlhdCI6MTc5Mzk0Mzk4MywiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.yq7z2TWm2CVyKGoHe4sTGOCj95gvOolPuocvnTOY8MxyLIqTWX4buM5MnzIA_Etn7WpDBI75MTifuF4tT8LW3YrJ-wKM3N-QZUsg2oGaTi63Lxkw-eXK7RETaIYMNmHGKrZU6AjtjaqNpdTBYMF3NXX-_2BxYNxrQcUvJldKkjkketkpuMhssOweBc-cvCmZE-Cg3nlyB_uAzn_5gmWcSBVGGc8AuDMYvRSRsmDAJuZBaPDGe3nqpB619GM7TF9E9uBcmdrIV48QqGz8be6VRpTadA4ZmrAGXmAnG9OP1Jgw8tDxhq1BZBsjt7dL7xXBldTeNA-PpZ7SVj1VU12fXsa7bUQ9q13MplrbivcxfwsPHjwSse1aq95ZCjXDUShD6fND-31RFrP4gXXwtfcG1ORVHBeecPtTJV_HR152NrupfaMNwCfI3f2FNNGIDrjFuVnnFDwXvMK0mmSMNSGI0AvCnUW0r5zDV74-eJ8Azj99AGZv33V__opU6r6atg0V_V5QJ7ppswIf9k37BE_kVReNNJCLGubS5GttrajRnrFIJSvBbA_slvFbDP3DY7ZQpLrzwHTRqB5J_2KywzYYikgoSuFaZeeafNQ1ubNzgLV3u_ymqmwtjnf0oqrSy1ZCpcXmF2338GBRxCnu3rr8-UactKV7OgKNFyGmbTInWAw&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=88tWZw8H4g3UnXI-ZU16SPQIMABOWa7Yr7_aucNF3MM&market=asia",
+    "game_uid": 1120
+  },
+  "14627": {
+    "pid": "14627",
+    "brand": "microgaming",
+    "name": "108 Heroes",
+    "code": "14627",
+    "url": "https://5w6w3cm960ogcmsvxpw.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=108heroesDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NzEwNzQ0ZXBjIiwiR2FtZUNvZGUiOiJTTUdfMTA4SGVyb2VzIiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDc5OTU5IiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NDMwIiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiYjQ3ZDI2M2EtMDM4Mi00MGJmLWFmZGQtZDVhODU3MWMwYzlhIiwibmJmIjoxNzkzOTQzOTU1LCJleHAiOjE3OTM5NDQyNTUsImlhdCI6MTc5Mzk0Mzk1NSwiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.Bu19ej7vwdzPc-FYHyO_fyRPtpiLbauo84O-1jmkembZmvuQj_hQCevsn5-xQc2uUHvBGef_NJgJV4qyNTT13EEwN-Z1ONX3Z0Xox9yAmOG06eVzvWI1GVUDAusyRaK0MW-j3y9ez3avRz_70ABf1Q7vLvVlg-ucl0tdY2fCkel-aNpIbKJEG7zJlQrs3PPxKSdHS9rtyU0H8NnJX7l5iWwt6ExuchkRBhLjmCMxigKd6NVUJ5L5HvH9b_OhnVCSnoYQ8-Y58__dEQ3wFPtwy-dBc0UHQVgO3UA3YWVabTyjTSQAxH0MjihQYH-BMXBIqP03usZj7mSas232Xg2eXGtkyWLgw5J796py-HtzQFH-nKSMab-0FxKKL8cF7bq4EVQjBRcBa6AFWLfvmXdL1GG0M_feu1hHO9xly-cETL3rh1-cSSUkzn0HGeV2BocvT14Mcb-QN5I_LeWUjsMLj6yvzvFeN3_EPlyzkcAdWnAiQUx6q7YSA0ifKt-JAeKNX0ruC3hqpt_6WWjGEwI5_nvfr0vEDD2HG1R4oCUTlpajZQi42L6W2M9iznZ9X58tPGsav5yniF1p2JNf0i6M1fW8rInDkx0zYR4RTMaruY-3ChjgfwoOLdYcaA0FaBP9KMEcGRORkbNHkeKi9rP5n51D4sgetMup_A3mD3Za5nI&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=2-_0oMEyJJ2c8kAD9WUJeasQ0NlKFAr1WPelr7tgSto&market=asia",
+    "game_uid": 1170
+  },
+  "14628": {
+    "pid": "14628",
+    "brand": "microgaming",
+    "name": "108 Heroes Water Margin",
+    "code": "14628",
+    "url": "https://sfggame.qfconnect.net/asw-lobby/lobby/login.do?auth=0656670A4E367738653544696230353831656433313734373863653439386534613333353033323935613031&jumpType=0&lang=en&swAuthToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0ODQ0OTk4ZXBjIiwiR2FtZUNvZGUiOiJTTUdfMTA4SGVyb2VzV2F0ZXJNYXJnaW4iLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6Ijc4OTI3NjAyMTY1MTg2MTc0OTIiLCJHYW1lUHJvdmlkZXJJZCI6IjciLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY0NDEiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiJlNTNkM2QxOC0zZGZlLTQxZWYtYWUzOS03MzYwM2Y2MTNjYjIiLCJuYmYiOjE3OTM5NDM5NTYsImV4cCI6MTc5Mzk0NDI1NiwiaWF0IjoxNzkzOTQzOTU2LCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.CicATL6hn6lmKLS5wlKFGq9EmmCziBGHwjcdd1xCWNy7X2XonoqHIekEmLj0c0tqqBwTSYdYV1zwB2DHWD1AFJzDX5LQKvdo9QiHTOjRCEEOdZ4HgXL9xWDiS00uhF3kum5CS5PylAsmj5fL-wN-_reiDHtK6Ozqb-qD91Wps1Zv8a-pEL6P_mG22nea26kB5D4_5iH2WgbZ8COCpoFUg_thYDPMOU_j4SpOJf88XRRg54vf1hKuoxFAyOXKUAqOO6jQuqAdNHARTy-HNo38rUx9K_MhJdsYWtGbINKsriEfn-ktaK62AvvZffhUtQV3M1KkuqTyzxE-qreLugoA9vPjyLax6JEDOHNMZFkbVWOAOKUtcCsLRvOLvfe4cRUB_qBAA6lvlvPIWWzbp9XaEVqX-WS-qhuLtYSfqZa3id8s5td0DL5gNkOdLYURtLvEOqZPzncyNrpRjrXoZs2a-V-lnnIcTD5eaGkTbWlekKB25lLw6-9ush5dtBbDCSi1Bps6KFILOUxjn2DdJEwaIcKGBICmT5ZopavZTFeRGKa6Xlx7zvwc9OKZtZ9EC6vNXi8T1C3u3FGNXemA8H1B4p5f3UY1B5ZLkMk7-ZH7tsgx0yqpK5GFU9DHxdciLYA3Gr4Yz5ZOsLRqEx2RQTvNALnvwXV_x0YzGtGgx3vzUeo&ed=eyJob21lVXJsIjoiaHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMvIiwiYmFua1VybCI6Imh0dHBzOi8vaWdhbWluZ2FwaXMuY29tL3Byb2R1Y3RzLyIsImJhbmtPcGVuTW9kZSI6MiwiZ2FtZV9sb2c6c3luYyI6ZmFsc2V9",
+    "game_uid": 1171
+  },
+  "14629": {
+    "pid": "14629",
+    "brand": "microgaming",
+    "name": "3 Laughing Lions Power Combo",
+    "code": "14629",
+    "url": "https://3l0l2ipy9rl2iqsdl6q.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=3LaughingLionsPowerComboDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NjMyODU4ZXBjIiwiR2FtZUNvZGUiOiJTTUdfM0xhdWdoaW5nTGlvbnNQb3dlckNvbWJvIiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDgwMTkzIiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NDk2IiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiMGUyOTY3MzktNDExYy00ZmMwLTk4NTMtNDJlYjQ4NWY4ZWE1IiwibmJmIjoxNzkzOTQzOTY0LCJleHAiOjE3OTM5NDQyNjQsImlhdCI6MTc5Mzk0Mzk2NCwiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.yDlADYrBzam9NMFENw3pKxLIY3NzIYCP7FJNGgqx3QVhT_jqUMaN4zqud2WsEZgs3ThD7yH4UYxfpNNuOUYQh7yfP9SsxgG7q_I1OmSKnoSueF9y7jGP6BCbZDJj6cx9OasmqygusRfkVeMSTumvans4lpJaOVmfwLyX6yxesSt0ST4EKyCmBBRcoDTFcHKkaqWpQh2R53MKqy7OUWMABcnUBfZpRPpi6hKxfjWP-oO6-iG4D6bwKmP6zlILf-_OwyzaXJmi8Wku9mSqozhU-FUYIgxpge-ZwzZqi5DaWhC0FOzxEQf1_JwES4M3GWE4gljXVnpLQ9BcU77C_hN8a95JY3LeZ0v1P3YyfX98u9Qh9Wi7KhWUzxhHrdHK8t2Q4HFBc_h5ADx_Bm3RKvwuZrXFdB5dUcR10TlMywN1GTShsGwLTqVw5ixZpRiKHlm9h_hdx1XDCWzPkVM0-nB4tdbHRFZPLkdBT78zCr1a7PsDvWSJIeEBMjS6tS5AOzJt_iPmrJq9AOcl1LFYWLB61hYK8gO_ijOubfrKdBZF7VOy9mZtY4aWGaTXkjPFRX_8LEPx-CySNwcf-jWi3ss9FM4D4jmjHyb2VevxImHmkYA-a0cN6o7DpwuyAIOiUd_bvXwMvg2jZrKVsTJhweZpsYwTk_IHYMaq3XUPLhT6Puk&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=sKHLYQsMlGdRqccNQPJQ7c95XUk-dKhK-Sli6ci6RzE&market=asia",
+    "game_uid": 1190
+  },
+  "14630": {
+    "pid": "14630",
+    "brand": "microgaming",
+    "name": "4 Diamond Blues Megaways",
+    "code": "1195",
+    "url": "https://98z89ipl2gymumsxm06.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=4DiamondBluesDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0MTMzMzkwZXBjIiwiR2FtZUNvZGUiOiJTTUdfNERpYW1vbmRCbHVlcyIsIkdhbWVQcm92aWRlclBsYXllcklkIjoiMDkxMTA4MDI1OCIsIkdhbWVQcm92aWRlcklkIjoiMiIsIk5ldHdvcmtJZCI6IjMiLCJQbGF5ZXJDdXJyZW5jeSI6IklOUiIsIlBsYXllcklkIjoiMTgzNzY3NjUwNSIsIkN1cnJlbmN5RmFjdG9yIjoiMSIsIklzQ3VycmVuY3lDb252ZXJzaW9uRG9uZUJ5QWdlbnQiOiJGYWxzZSIsIlNlc3Npb25JZCI6IjUwNzE1ZjEzLWJlYzQtNDA4Mi1hMzJkLWQ3ZjhmZTYzMGZjMyIsIm5iZiI6MTc5Mzk0Mzk2NiwiZXhwIjoxNzkzOTQ0MjY2LCJpYXQiOjE3OTM5NDM5NjYsImlzcyI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkZhY3RvcnkiLCJhdWQiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5BdWRpZW5jZSJ9.RHz5o8BEj-DJzvBjiXhRn1WYShF0d2VFqdsZGskTTlhYsBq_EONZt48xysiLazxLvGZm25uYJL8HXiX9ce81_2S1DqMVYTpdkM1aJo3Xl3TpvknkH22WQMFRPSpKZFBjAfh9L49PjE7_T7sZfuC1G3VWj9o4N_6k8LcuCCyLdVINEfRGPbUU3M6QmxDO8OpeAW0l170E5JymSF8ADoxH8LjZiOBDJQWe7K3Xh5g2aCuh6TcZw2tj1_vGLu2FxbUMyuKPRaxhrWR0YwGlzldLAutfOnlrPLwfYg_QBFj2MIKXxA8au88w6285FGyAyVdXX5nShe888u_mqIeDxTSNxINzC-wyAAxklKb5gjLE53pXBySRhmB4UG2YnWQt9AEFqwpHLCyE4Prncwk2AimZ_qRTcvNrVlVYYydhF11kHs6bTnMN_Yxmhwh2lRZrrRiUF7wtHRy4z0QaGAC03pB2Y9jCGbjM2ic3J0rX0_2toxBHYrTGPUTZWkuqEoJ2ujtpAtrObgKMQ2uqR6q8rRMfYTUDi61mOoVK0AeN8F9SkX_Tqjfs_-0St5RmkzChCUvOukmpNOeGNyvEfRbxI2fInFKC18Cg-I0PtTnTiUiRhA9ZCUMLYCll4MqlgJgTTGI1vJz1Wd7foXBRvZaKwOmcWhvBqOC2nWDanAhCBez7mFc&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=hy7dYOadEjAXBoVFIbtCzpwKVOaKnCf_qyIHL-fqqpY&market=asia",
+    "game_uid": 1195
+  },
+  "14636": {
+    "pid": "14636",
+    "brand": "microgaming",
+    "name": "9 Masks of Fire",
+    "code": "14636",
+    "url": "https://85l5qsplowr0fwsg2ox.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=9masksofFireDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0Mzc3MzIyZXBjIiwiR2FtZUNvZGUiOiJTTUdfOW1hc2tzT2ZGaXJlIiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDgwMzUwIiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NTYwIiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiZDdhMzNmYWEtMDQyZC00YzYyLThlMjMtNDI5Y2Q0M2MyYjgwIiwibmJmIjoxNzkzOTQzOTczLCJleHAiOjE3OTM5NDQyNzMsImlhdCI6MTc5Mzk0Mzk3MywiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.d5X0FuG5opztZLng-Wi5375JMeH9GAthiL3rk0jUfd9hq6XHrnIfqMttRBJsXxwIt0PkXqakzNErYCCpPTXPQwIS8Juwg1ZeGiKyg3s9jhyC-AHjqsEh_bpicX7rpzoEt6SIt9B5oOVztEb6ISjCj97VRNw7-PmNCtfCAAqgwAQiwparJE_gYsZVk83Ytp0_8ohfBwIgQuqyc-nRVrXE-5omEVVNGGVDDS3Fb_ZLTAZWgL1E4ZdQh4ShVFakJP8DWdOymuD-I-7tA4YyX1cyJPLQ7AaQKRFgiHhPVorT7ZoTfQV_t_x8dj2FKHZqMfKproAUu57JjcftF4j2H8fP-gsxYLi-IPJUjb5k8z_Sqf2Xy7yaEabWwkrtU0KgPLA--CUKQAl_dIhqhdKl0rW40NJ1rtoIliUDuPyA5MXhxLIgfiTqrmvO_cW_N6422kdABSjKyBWNmBCAM9hugALp3fg1DPzLoQq5RiFgJcnJ0Fi0X3wQHUl13SHE_nLVIRhwC_EJy461vw1-HMAFKwYeQKR0zkgu9YJSIp41Or9sQnrxfZln3B2I1RZYh2CeeJLWXVz8g095oMlbplUhL1wRWrZmo97kJEznig_P97VlPcwRBDeadlAzcA1aotSZJMo7BP8BfO-s1iy32VMTpO1nrmA49NWmJm1hyKnZ-odTGRg&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=o11JM8ffgY8xXq9YygcmWedtjfn2D-QmQEgzhMa2P8g&market=asia",
+    "game_uid": 1230
+  },
+  "14637": {
+    "pid": "14637",
+    "brand": "microgaming",
+    "name": "9 Masks of Fire HyperSpins",
+    "code": "14637",
+    "url": "https://5w6w3cm960zqumsvxpw.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=9masksOfFireHyperSpinsDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0MzIwNTA3ZXBjIiwiR2FtZUNvZGUiOiJTTUdfOW1hc2tzT2ZGaXJlSHlwZXJTcGlucyIsIkdhbWVQcm92aWRlclBsYXllcklkIjoiMDkxMTA4MDQxMiIsIkdhbWVQcm92aWRlcklkIjoiMiIsIk5ldHdvcmtJZCI6IjMiLCJQbGF5ZXJDdXJyZW5jeSI6IklOUiIsIlBsYXllcklkIjoiMTgzNzY3NjU4NSIsIkN1cnJlbmN5RmFjdG9yIjoiMSIsIklzQ3VycmVuY3lDb252ZXJzaW9uRG9uZUJ5QWdlbnQiOiJGYWxzZSIsIlNlc3Npb25JZCI6Ijk1ZTcxZGI1LTViYWQtNDcxYy1iZTJiLTk5ODg3ZTkwZDA3YiIsIm5iZiI6MTc5Mzk0Mzk3NywiZXhwIjoxNzkzOTQ0Mjc3LCJpYXQiOjE3OTM5NDM5NzcsImlzcyI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkZhY3RvcnkiLCJhdWQiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5BdWRpZW5jZSJ9.L06eQitHWyHsxNsrex34gns_koANjLoRfbugHKv7bI-t5p4Dq7JqoKpFCvGGtYgYSw8UJPjqHCZFjtbWqwKABbrYEdMHt1Npv8QBOYLp2WW37XdiR8YLogyOFbph5OrWbKnp6pfQ_df6-RN3DyaZMGHYVTf6UqFwpn5o7EQAvbgclQTAxn47ZLIL6Q2PGSha1MrnB2gVmLc4BPat8x7b5NZ1QwVRgEchk8RtwW-qf-StyZwfhUwmRerB0EyJFN5j5t05u-rSl07vmFSVdY4cyLN2S7-cwWYo_M9SHWBFnGPhSbmJp1OKmDpkgCOPx8UnwinIHOtRhNg1MsO24-wPOAZGKMX2nY7Jxr7YUCcqDUpHX1vVm4Qbv_9qcd470B-qpBIwHl1nyS3rAvOci9kGT8JMRYhQ7g1xe_EYR0cjiqKJarJUq9pn-p_LP-lDiQ-7Fb5CLCbQ__MepMFxxCslPToc4R4dlS83I5V09K63Kzls4M97VMuNMK5mS5WBD-Ec3O2YGZljFRG0uMOrhMyZTTHn_7Zqr-18EXuQl8631ryqSaF1_CZ-lx_wRyuiU9Ejsg5GlDVgpK9zE68Wl9XCVOJ_dSZRkH102cYGPa47xsaIx_4Ek8Q_xhUET8dkJ3FK-PItkJBg43ME0UQV4VM7IEOOUdaJLs_QO57h-Lg_8m0&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=miPQhYn_9b2j9dbmswM9qJu52K7cHtzu0MN_E8CpBKw&market=asia",
+    "game_uid": 1231
+  },
+  "14638": {
+    "pid": "14638",
+    "brand": "microgaming",
+    "name": "9 Pots of Gold Megaways",
+    "code": "14638",
+    "url": "https://m232yb3qpm2ob6s031y.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=9PotsOfGoldMegawaysDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0ODA0ODk1ZXBjIiwiR2FtZUNvZGUiOiJTTUdfOVBvdHNPZkdvbGRNZWdhd2F5cyIsIkdhbWVQcm92aWRlclBsYXllcklkIjoiMDkxMTA4MDQ1OCIsIkdhbWVQcm92aWRlcklkIjoiMiIsIk5ldHdvcmtJZCI6IjMiLCJQbGF5ZXJDdXJyZW5jeSI6IklOUiIsIlBsYXllcklkIjoiMTgzNzY3NjYyNiIsIkN1cnJlbmN5RmFjdG9yIjoiMSIsIklzQ3VycmVuY3lDb252ZXJzaW9uRG9uZUJ5QWdlbnQiOiJGYWxzZSIsIlNlc3Npb25JZCI6ImMyZWY4OTNmLTY1MGUtNDE0My1iMzQ0LThjZGRhYzk0MzQwOCIsIm5iZiI6MTc5Mzk0Mzk3OSwiZXhwIjoxNzkzOTQ0Mjc5LCJpYXQiOjE3OTM5NDM5NzksImlzcyI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkZhY3RvcnkiLCJhdWQiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5BdWRpZW5jZSJ9.pQUfxAVTUUuWbt9YcAqK12m4t3MOzHhqHOXfCBvRGHR0xnufVt4DtDH6tPZHKRpZX5PULF5wpMPpvN0k4Y3fSmpHE9GQrOqXuii9YkgXg3jJlR6hNXPybUW-YDzADxZrs2K0KK7OksM1R6rHok2N4bPGxoESVcVvODmkb7p2jxjxn7cBRTFs5hXUq0Y-MK4Tmd0fnYf5RcrFlbQBDELUpqxNb3EaHN42MmVI0Vgz0iNW69AOZbtGcYdQOKEGp5kdbBzKA6omPfnIm72GRB_CUOvdet_Z1JKkDwILqXTcVydb-Gehp-1zu9NwHCJOHoCsM1I-6jH5-dzoLJq1jCTlulemka1HRuZyQaCsVnu9aSHXKGiaj7xjSMA4qZh6e97G9X_bktvA6jd6i4GKAK1Y4UR6njSHdp58fWwEtokBxMt61Cx5Mxq8sMcWksP3biw02qMdJuSbshn_ODIP3m5hVD8tTGVoGvqmqhnxD-GkkEEsYYynaCxB5LUU3sv2grrunsIolpLOxYdt0fmVQjM3gpx2fFel9Fhas_rRWxGNRQ8ZoakK-nMf-qfo9gCs7hWWlVvqeQlfG3qqgbg98MDqPYAw3r-99aNJzpGILv3vuaW_qGhpeK9Da_SaFPWhmf8LRs5UYQqb1HK-Io2lazZK7GJU_q9JBBaBxpR_FAb-ynY&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=tvKwJeGnflSFJOIQOoTCgKIw61KU3eKZezYJUHKcC90&market=asia",
+    "game_uid": 1233
+  },
+  "15050": {
+    "pid": "15050",
+    "brand": "microgaming",
+    "name": "African Wilds",
+    "code": "10259",
+    "url": "https://gy0y3f9v3lx5ipsq2g0.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=africanWildsDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0MzMwNjA0ZXBjIiwiR2FtZUNvZGUiOiJTTUdfYWZyaWNhbldpbGRzIiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDgwNTY2IiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NjgxIiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiNjMxZGFiZGEtZDUyZi00MTI0LWEwNWEtNmJhNmFmOTVmNzc0IiwibmJmIjoxNzkzOTQzOTg5LCJleHAiOjE3OTM5NDQyODksImlhdCI6MTc5Mzk0Mzk4OSwiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.aM94Wl18UdbSNsk5E7ZCRJNp21S4_7ZTR8LU6c5JwmV5ViSQE-pd-9RZr4VyxX4kDhUdBVUeEWVPnIVSr8kyWrALNkc6D6sNnAWk9lrW3czBpHou0EmNw7aTXj-jI_MZ2h8g3a14fv92ovZsA-7lzPuQBleK2L_dZL3-9vOYTr_q7svd4hXmuRbeU41nLuBfHMp1VczSrWLWVWw2ytJSruMG9zywq6KERbiFP9rA1fkSLasZRQwJyftw6cAEL5GxCCsUW5foO0kq7ARlSOjmD1FvSBprD_6LlkQ8MTcK_Dv0X9ac9hQ29R62Y3k5wVzQvxtjIp3O7WoB_Ae049FXcqRwibCu9x-Y-oTTmmlRLlpSlgPqd_vdURiHxUa0u2svb2xnNX5sBB0PJEcX0bOQE77a091gZe9NU2D5fokI8haakvda3aQNbyhTVVRjRzXKaUPDZICKtH3Rn86llPrCvSOKmlo64fL2MsWbw89vP2_rwA1i0DerC3tnlNshEk0DBgjneOPaJm6HLxTZyUpkACL8b2FWzWzNoucYiuAffXj2i-ok3x7Xtx04A0Q8HHjYDoB1eXOtiZE5tJPPY_s3mm0mst1oDNsXQjfhBs9QsQLtTaCKRkVRaGp0GWDMPWFClgc9rvIzKzt2DkXv6Q4GJM7VwUpBnTgj0Sg9U9GW-LY&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=j85mkQ8XB2l0sXIbCB_AfrsMOHVt01pLsKZefzejTy4&market=asia",
+    "game_uid": 10259
+  },
+  "15068": {
+    "pid": "15068",
+    "brand": "microgaming",
+    "name": "African Quest",
+    "code": "10268",
+    "url": "https://ppypkck79z3gh6skwl5.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=africanQuestDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NDgxMTk0ZXBjIiwiR2FtZUNvZGUiOiJTTUdfYWZyaWNhblF1ZXN0IiwiR2FtZVByb3ZpZGVyUGxheWVySWQiOiIwOTExMDgwNTM2IiwiR2FtZVByb3ZpZGVySWQiOiIyIiwiTmV0d29ya0lkIjoiMyIsIlBsYXllckN1cnJlbmN5IjoiSU5SIiwiUGxheWVySWQiOiIxODM3Njc2NjcwIiwiQ3VycmVuY3lGYWN0b3IiOiIxIiwiSXNDdXJyZW5jeUNvbnZlcnNpb25Eb25lQnlBZ2VudCI6IkZhbHNlIiwiU2Vzc2lvbklkIjoiMDY1MjNiYWUtODE4Zi00MTM2LTg4MjAtYzVkMzdkOWY4OTg1IiwibmJmIjoxNzkzOTQzOTg3LCJleHAiOjE3OTM5NDQyODcsImlhdCI6MTc5Mzk0Mzk4NywiaXNzIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuRmFjdG9yeSIsImF1ZCI6InNpbmdsZVdhbGxldEdhbWVMYXVuY2hUb2tlbkF1ZGllbmNlIn0.ViS-Jd19SvcwP8UP7cV1vggu5FWhWFgxDYixg2TYCfDx77R4QqoOdOiY68zBjTgDxFuvKuFIiJVajEXqvmIXTY3zPkUdOAylqRQ7OhjsvT8277W3UiAtS7xvFpC18gm_j6eeWVD3HtO9EN9Yy6YlPTZE_fHg5-kE5OMkjRD-VxU1hBQw6LpnEvgEaxLegg-H4Npbclp03n08WZ4JVdeDARS5Zhd3KzYBNPRWAY4k1NtrwmNN90tNAGwNciLTv4vdwrL9QTM5gX-Ne01XPP0ur2LEwQdaDK5zBCvV3l393Cl4Ch5b6uObc6De7aYGMcpJFdJtUOWZJ051RD0mkGV2RfttEB6qWeO6zDzTsD_SJxQ0oLdSlADQhgszl3nSuFRGA2EO0CQRXx6wM6Eqmb4Ke0WzK1PGWrNTnrGAPhW1cHTfUqaU3y8l7-XWxjki5OE7AK9e-sjr-XQFIyyTYBUQM4dxCeKM3m8pAFlidmKjuWXuNv5Mf2loHZJeJbf40Yq8xRPKHprKMsKgrWDmDOOg_02KlVpd3il1DNIW38uKvqSJm47rJwszayLtaSYA_a2YyUbCQWFT2CCUTHPibRNCMjC3ACus9IrvAkP9inhuQYiW9uob16ReCeyRxenWZV21wRRz93ghIF11C9sQohEhgKA0WZB2bw075troHP_SBiE&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=u9b54ol5nrf04DXd256lj9sgoQvG2Be38IpPowoLOUs&market=asia",
+    "game_uid": 10268
+  },
+  "15070": {
+    "pid": "15070",
+    "brand": "microgaming",
+    "name": "12 Skulls of the Dead",
+    "code": "10269",
+    "url": "https://on0n2hkd38noc7s8507.ormaniorne.net/Platform/Default.aspx?applicationid=163&productid=43858&gameid=12SkullsOfTheDeadDesktop&brand=MSW3_MG93&loginType=VanguardSessionToken&languageCode=en&externalToken=eyJhbGciOiJSUzUxMiIsImtpZCI6IjJDMDlCNEQ4RDU3MThFNUZGNkU4MDU1NTQ3Q0I1QzM4OTQ3QjI1MDciLCJ0eXAiOiJKV1QifQ.eyJBZ2VudENvZGUiOiJIRFNXX0lOUl9BZ2VudDMiLCJBZ2VudFBsYXllcklkIjoiaGUyNmU0NjQyOTc2ZXBjIiwiR2FtZUNvZGUiOiJTTUdfMTJTa3VsbHNPZlRoZURlYWQiLCJHYW1lUHJvdmlkZXJQbGF5ZXJJZCI6IjA5MTEwODAwNjQiLCJHYW1lUHJvdmlkZXJJZCI6IjIiLCJOZXR3b3JrSWQiOiIzIiwiUGxheWVyQ3VycmVuY3kiOiJJTlIiLCJQbGF5ZXJJZCI6IjE4Mzc2NzY0NDkiLCJDdXJyZW5jeUZhY3RvciI6IjEiLCJJc0N1cnJlbmN5Q29udmVyc2lvbkRvbmVCeUFnZW50IjoiRmFsc2UiLCJTZXNzaW9uSWQiOiI4OWE0YTc4Ny0xYzc4LTQ0ZTctYmJiOS1jNjZmMDEyZDFiNmMiLCJuYmYiOjE3OTM5NDM5NjAsImV4cCI6MTc5Mzk0NDI2MCwiaWF0IjoxNzkzOTQzOTYwLCJpc3MiOiJzaW5nbGVXYWxsZXRHYW1lTGF1bmNoVG9rZW5GYWN0b3J5IiwiYXVkIjoic2luZ2xlV2FsbGV0R2FtZUxhdW5jaFRva2VuQXVkaWVuY2UifQ.tbkSlKnI8ktAWv9avm0jvEurorU-pxvj9CSgIr-4gjdYn_QYOnT5NA2Wz-8F3OE_H4R3gaRYDWYQDyUE0Gwllkfrhd2Aj6R-w8VF_HJoEz7mHjShI5SAPz0RpOXQ9t1l875gjYgxh0xdVDF7zS2wb66iCTqpp43OwS-dd5MwYlUBskWEzB0ApmLo9dxgyXbnjFPxNxY-c5fw-zGeo4eobrLBVzdKIB_Bn63A5fT2p-2iGIwpB1lxAJdq8SxUwOj1HQjzl_gJhMnI5TxBMnKMmw-XoQs9aMtZggDHxD2GzpNqadX0MRSV0asE3aHnQ3DTBQzIRLK7Uaeyf8QkhRI-YmckGAqkmchXfGoVt0kVhajcC_muqZyJ8IXUVMvNAog-PMKzXPiDOji8bX5qWADilxlnaBJ6tjBAmCZKu6WYulpEcq5-yRWShT35PEkd33VrR4nRvpv58LPs6MI_8EI0DI6qYzh1VkJp0lKKItNWEAOj1yOxRJXJ2kX2kTMFudjHoQu0WU9lZt1wyBUGLloUZhnHupK0HobcnllZQnd75g1W8jBc4C8jXr8StEAru4Yu4IzdXMMXJY5CA5Gs9XRd2rXkfsn7cs6Q2ytP5NGWaQhig6PjNt62L4kkfFUb_decVCy_v7ZaLNpTvD06cyICPAGwz-6VjsgfzfO2latJkb8&host=desktop&bankingURL=https%3a%2f%2figamingapis.com%2fproducts%2f&returnURL=https%3a%2f%2figamingapis.com%2fproducts%2f&clienttypeid=70&launchHash=tQuzY4_QBdwWtf9ZpdwMmHdIjJFmWzZJxhLQ8fDcFtY&market=asia",
+    "game_uid": 10269
+  },
+  "15124": {
+    "pid": "15124",
+    "brand": "habanero",
+    "name": "12 Zodiacs",
+    "code": "1174",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SG12Zodiacs&locale=en&token=4da30c53-1a1b-409a-b977-b218a105a44d",
+    "game_uid": 1174
+  },
+  "15126": {
+    "pid": "15126",
+    "brand": "habanero",
+    "name": "5 Lucky Lions",
+    "code": "1202",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SG5LuckyLions&locale=en&token=3fe9064e-2bf8-4b57-93c7-b2fc4769ca32",
+    "game_uid": 1202
+  },
+  "15128": {
+    "pid": "15128",
+    "brand": "habanero",
+    "name": "5 Mariachis",
+    "code": "1203",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SG5Mariachis&locale=en&token=fe087be0-c841-4f3c-96b2-09df825d255a",
+    "game_uid": 1203
+  },
+  "15130": {
+    "pid": "15130",
+    "brand": "habanero",
+    "name": "Aces &amp; Eights 1 Hand",
+    "code": "1239",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AcesandEights1Hand&locale=en&token=3a1bdc19-2cce-48e4-8698-7403a6cb97d8",
+    "game_uid": 1239
+  },
+  "15132": {
+    "pid": "15132",
+    "brand": "habanero",
+    "name": "Aces &amp; Eights 10 Hand",
+    "code": "1243",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AcesandEights10Hand&locale=en&token=7e92c533-147f-4c1d-8b10-811757b7c200",
+    "game_uid": 1243
+  },
+  "15134": {
+    "pid": "15134",
+    "brand": "habanero",
+    "name": "Aces &amp; Eights 100 Hand",
+    "code": "1244",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AcesandEights100Hand&locale=en&token=b768c6f7-9a94-44df-9f64-b8ff0f9d7f6a",
+    "game_uid": 1244
+  },
+  "15136": {
+    "pid": "15136",
+    "brand": "habanero",
+    "name": "Aces &amp; Eights 5 Hand",
+    "code": "1245",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AcesandEights5Hand&locale=en&token=33662412-43e9-4a9f-af76-08c202544ebb",
+    "game_uid": 1245
+  },
+  "15138": {
+    "pid": "15138",
+    "brand": "habanero",
+    "name": "Aces &amp; Eights 50 Hand",
+    "code": "1246",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AcesandEights50Hand&locale=en&token=594bd810-32c4-41da-995b-060860b9e174",
+    "game_uid": 1246
+  },
+  "15140": {
+    "pid": "15140",
+    "brand": "habanero",
+    "name": "All American Poker 1 Hand",
+    "code": "1296",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AllAmericanPoker1Hand&locale=en&token=2a298baf-7f70-4755-ae93-5678a041f1ed",
+    "game_uid": 1296
+  },
+  "15142": {
+    "pid": "15142",
+    "brand": "habanero",
+    "name": "All American Poker 10 Hand",
+    "code": "1297",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AllAmericanPoker10Hand&locale=en&token=acba4073-2264-471d-81e7-2a5b73986268",
+    "game_uid": 1297
+  },
+  "15144": {
+    "pid": "15144",
+    "brand": "habanero",
+    "name": "All American Poker 100 Hand",
+    "code": "1298",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AllAmericanPoker100Hand&locale=en&token=069fb253-5e92-472e-8407-413df0a4330a",
+    "game_uid": 1298
+  },
+  "15146": {
+    "pid": "15146",
+    "brand": "habanero",
+    "name": "All American Poker 5 Hand",
+    "code": "1299",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AllAmericanPoker5Hand&locale=en&token=ca694b71-226c-46ce-8544-9f11330a125e",
+    "game_uid": 1299
+  },
+  "15148": {
+    "pid": "15148",
+    "brand": "habanero",
+    "name": "All For One",
+    "code": "1300",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGAllForOne&locale=en&token=25c7bb73-f742-4ef3-8e87-019041a242ab",
+    "game_uid": 1300
+  },
+  "15150": {
+    "pid": "15150",
+    "brand": "habanero",
+    "name": "All American Poker 50 Hand",
+    "code": "1301",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AllAmericanPoker50Hand&locale=en&token=d577f880-3fab-48f7-bc3d-7bbd3650079d",
+    "game_uid": 1301
+  },
+  "15152": {
+    "pid": "15152",
+    "brand": "habanero",
+    "name": "American Baccarat",
+    "code": "1320",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=AmericanBaccarat&locale=en&token=f75e0bcc-7dfd-435c-83e6-2af59a50fc90",
+    "game_uid": 1320
+  },
+  "15154": {
+    "pid": "15154",
+    "brand": "habanero",
+    "name": "American Baccarat Zero Commission",
+    "code": "1321",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=Baccarat3HZC&locale=en&token=4c7c6a40-423c-4666-8293-cf24365acec4",
+    "game_uid": 1321
+  },
+  "15156": {
+    "pid": "15156",
+    "brand": "habanero",
+    "name": "Arcane Elements",
+    "code": "1352",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGArcaneElements&locale=en&token=c9dc745f-c507-4b6d-993e-7cca891d5875",
+    "game_uid": 1352
+  },
+  "15158": {
+    "pid": "15158",
+    "brand": "habanero",
+    "name": "Arctic Hunt",
+    "code": "1354",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGArcticHunt&locale=en&token=0a08db7a-d122-44b7-8926-336bde028449",
+    "game_uid": 1354
+  },
+  "15160": {
+    "pid": "15160",
+    "brand": "habanero",
+    "name": "Arctic Wonders",
+    "code": "1355",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGArcticWonders&locale=en&token=c76cb137-f396-4c16-bcc9-cfcda681b6c5",
+    "game_uid": 1355
+  },
+  "15162": {
+    "pid": "15162",
+    "brand": "habanero",
+    "name": "Atomic Kittens",
+    "code": "1366",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGAtomicKittens&locale=en&token=4ed7dae9-6ea2-4b6c-a294-af31e1985694",
+    "game_uid": 1366
+  },
+  "15164": {
+    "pid": "15164",
+    "brand": "habanero",
+    "name": "Aztlan&#8217;s Gold",
+    "code": "1395",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGAzlandsGold&locale=en&token=cdcf369d-4532-40e9-935c-37589234c12b",
+    "game_uid": 1395
+  },
+  "15166": {
+    "pid": "15166",
+    "brand": "habanero",
+    "name": "Baba Yaga",
+    "code": "1396",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBabaYaga&locale=en&token=a5f7f733-cdf3-46f8-8bb7-403c6e2c0b9b",
+    "game_uid": 1396
+  },
+  "15168": {
+    "pid": "15168",
+    "brand": "habanero",
+    "name": "Barnstormer Bucks",
+    "code": "1417",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBarnstormerBucks&locale=en&token=0687eb4c-98e2-461b-960d-14b182ddd616",
+    "game_uid": 1417
+  },
+  "15170": {
+    "pid": "15170",
+    "brand": "habanero",
+    "name": "Before Time Runs Out",
+    "code": "1443",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBeforeTimeRunsOut&locale=en&token=dd8b5264-0aa9-4be4-97e2-1a2244dc11eb",
+    "game_uid": 1443
+  },
+  "15172": {
+    "pid": "15172",
+    "brand": "habanero",
+    "name": "Bikini Island",
+    "code": "1475",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBikiniIsland&locale=en&token=f6948caf-a040-43ce-91af-493a4ddfa61a",
+    "game_uid": 1475
+  },
+  "15174": {
+    "pid": "15174",
+    "brand": "habanero",
+    "name": "Bikini Island Deluxe",
+    "code": "1476",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBikiniIslandDeluxe&locale=en&token=628c3d1a-5d89-46e5-8c3a-90b98bd393d5",
+    "game_uid": 1476
+  },
+  "15176": {
+    "pid": "15176",
+    "brand": "habanero",
+    "name": "Bird of Thunder",
+    "code": "1482",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBirdOfThunder&locale=en&token=f32b49db-b174-4256-b675-824fb075364e",
+    "game_uid": 1482
+  },
+  "15178": {
+    "pid": "15178",
+    "brand": "habanero",
+    "name": "Blackbeard&#8217;s Bounty",
+    "code": "1488",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=SGBlackbeardsBounty&locale=en&token=8cd021e1-a492-4823-a661-31918ecdce61",
+    "game_uid": 1488
+  },
+  "15180": {
+    "pid": "15180",
+    "brand": "habanero",
+    "name": "Blackjack 3 Hand",
+    "code": "1489",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=BlackJack3H&locale=en&token=7a4591bc-db0a-4915-afe6-1f9d5a06156d",
+    "game_uid": 1489
+  },
+  "15182": {
+    "pid": "15182",
+    "brand": "habanero",
+    "name": "Blackjack Double Exposure 3 Hand",
+    "code": "1491",
+    "url": "https://app-a.insvr.com/go.ashx?mode=Real&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&brandid=06684fc2-8fa5-ef11-88d1-6045bd593a10&cashierUrl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&keyname=BlackJack3HDoubleExposure&locale=en&token=f03d6ec8-5b09-4002-9478-ee3e60e0e0b1",
+    "game_uid": 1491
+  },
+  "15972": {
+    "pid": "15972",
+    "brand": "hacksaw-world",
+    "name": "Cash Compass",
+    "code": "10738",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1055&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=534602de002b4080be9cdf0867a731d4&disabledfullscreen=True",
+    "game_uid": 10738
+  },
+  "15984": {
+    "pid": "15984",
+    "brand": "hacksaw-world",
+    "name": "Aztec Twist",
+    "code": "10744",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1066&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=a91c746366f944d3a82ccc2312a53e81&disabledfullscreen=True",
+    "game_uid": 10744
+  },
+  "16022": {
+    "pid": "16022",
+    "brand": "hacksaw-world",
+    "name": "Buffalo Stack&#8217;n&#8217;Sync",
+    "code": "10763",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1176&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=f7a0363051a745219aade791dc1461a1&disabledfullscreen=True",
+    "game_uid": 10763
+  },
+  "16026": {
+    "pid": "16026",
+    "brand": "hacksaw-world",
+    "name": "Born Wild",
+    "code": "10765",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1189&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=a35b82c441984314b905fab154e066e1&disabledfullscreen=True",
+    "game_uid": 10765
+  },
+  "16036": {
+    "pid": "16036",
+    "brand": "hacksaw-world",
+    "name": "Alpha Eagle",
+    "code": "10770",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1201&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=34f2b7c0b89249f2bd9196ed54ca80fb&disabledfullscreen=True",
+    "game_uid": 10770
+  },
+  "16040": {
+    "pid": "16040",
+    "brand": "hacksaw-world",
+    "name": "Break Bones",
+    "code": "10772",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1205&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=e9011d99b02f43dc850f1d506b2fa1d6&disabledfullscreen=True",
+    "game_uid": 10772
+  },
+  "16044": {
+    "pid": "16044",
+    "brand": "hacksaw-world",
+    "name": "Book of Time",
+    "code": "10774",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1213&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=7d39e3239ff84b8bbba7f449b6c63526&disabledfullscreen=True",
+    "game_uid": 10774
+  },
+  "16054": {
+    "pid": "16054",
+    "brand": "hacksaw-world",
+    "name": "Bloodthirst",
+    "code": "10779",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1251&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=5e023ed59d474ea7b716519ceb9dea36&disabledfullscreen=True",
+    "game_uid": 10779
+  },
+  "16072": {
+    "pid": "16072",
+    "brand": "hacksaw-world",
+    "name": "Beast Below",
+    "code": "10788",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1279&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=472cc3a0f934426080db66b6514f608c&disabledfullscreen=True",
+    "game_uid": 10788
+  },
+  "16085": {
+    "pid": "16085",
+    "brand": "hacksaw-world",
+    "name": "Benny The Beer",
+    "code": "10795",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1356&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=6e29da0c177048e58115c73d641e948d&disabledfullscreen=True",
+    "game_uid": 10795
+  },
+  "16095": {
+    "pid": "16095",
+    "brand": "hacksaw-world",
+    "name": "2 Wild 2 Die",
+    "code": "10800",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1400&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=22c787e7dd2b405a867ea53d0670c02c&disabledfullscreen=True",
+    "game_uid": 10800
+  },
+  "16099": {
+    "pid": "16099",
+    "brand": "hacksaw-world",
+    "name": "Beam Boys",
+    "code": "10802",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1426&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=966d3a0ce078450eac0d640982f40d95&disabledfullscreen=True",
+    "game_uid": 10802
+  },
+  "16105": {
+    "pid": "16105",
+    "brand": "hacksaw-world",
+    "name": "Bouncy Bombs",
+    "code": "10805",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1422&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=33e52320d9f944b5add3ab84e115ac42&disabledfullscreen=True",
+    "game_uid": 10805
+  },
+  "16125": {
+    "pid": "16125",
+    "brand": "hacksaw-world",
+    "name": "Boxes",
+    "code": "10815",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1156&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=511f710f00a3414d85a5bb09793c9349&disabledfullscreen=True",
+    "game_uid": 10815
+  },
+  "16135": {
+    "pid": "16135",
+    "brand": "hacksaw-world",
+    "name": "Blocks",
+    "code": "10820",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1382&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=7042b1d667434e1796603660544eae1b&disabledfullscreen=True",
+    "game_uid": 10820
+  },
+  "16203": {
+    "pid": "16203",
+    "brand": "hacksaw-world",
+    "name": "Blaze Buddies",
+    "code": "10854",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1664&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=afc400903c5241f98f073042e33f38ea&disabledfullscreen=True",
+    "game_uid": 10854
+  },
+  "16222": {
+    "pid": "16222",
+    "brand": "hacksaw-world",
+    "name": "Bullet and Bounty",
+    "code": "10864",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1799&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=e6e44cb378394ba0aea0338bba041523&disabledfullscreen=True",
+    "game_uid": 10864
+  },
+  "16236": {
+    "pid": "16236",
+    "brand": "hacksaw-world",
+    "name": "Astro Rumble",
+    "code": "10871",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1859&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=4bc6594cef884b0c8a6e14a86090c87b&disabledfullscreen=True",
+    "game_uid": 10871
+  },
+  "16248": {
+    "pid": "16248",
+    "brand": "hacksaw-world",
+    "name": "Book Of Whispers",
+    "code": "10877",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1673&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=c35963bff4a842e7a3dc4c947581ec8f&disabledfullscreen=True",
+    "game_uid": 10877
+  },
+  "16258": {
+    "pid": "16258",
+    "brand": "hacksaw-world",
+    "name": "Alchemist Wonders",
+    "code": "10882",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1885&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=e18fe4528887414f8fc8f97706b93275&disabledfullscreen=True",
+    "game_uid": 10882
+  },
+  "16284": {
+    "pid": "16284",
+    "brand": "hacksaw-world",
+    "name": "8-Bit Quest",
+    "code": "10895",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1707&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=38347c003eb3495c9a2dc401b32e1c45&disabledfullscreen=True",
+    "game_uid": 10895
+  },
+  "16288": {
+    "pid": "16288",
+    "brand": "hacksaw-world",
+    "name": "Ancient Paws",
+    "code": "10897",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1596&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=88c3202f97b3449180d7a1e032daa85c&disabledfullscreen=True",
+    "game_uid": 10897
+  },
+  "16304": {
+    "pid": "16304",
+    "brand": "hacksaw-world",
+    "name": "Age Of Seth",
+    "code": "10905",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1598&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=fd5f3071b5eb448999b27398ff729d92&disabledfullscreen=True",
+    "game_uid": 10905
+  },
+  "16312": {
+    "pid": "16312",
+    "brand": "hacksaw-world",
+    "name": "Aiko and the Wind Spirit",
+    "code": "10909",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1756&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=a345567c1d5e46ca9a74658323121b9f&disabledfullscreen=True",
+    "game_uid": 10909
+  },
+  "16316": {
+    "pid": "16316",
+    "brand": "hacksaw-world",
+    "name": "Booze Bash",
+    "code": "10911",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1783&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=92cce441f84f4e8780901f7506b40adb&disabledfullscreen=True",
+    "game_uid": 10911
+  },
+  "16328": {
+    "pid": "16328",
+    "brand": "hacksaw-world",
+    "name": "Banana Farm",
+    "code": "10917",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1944&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=86f7d9874215446e8e7f2f0a610fad5d&disabledfullscreen=True",
+    "game_uid": 10917
+  },
+  "16330": {
+    "pid": "16330",
+    "brand": "hacksaw-world",
+    "name": "Bash Bros",
+    "code": "10918",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1928&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=a0ff295180dd4ea6ae6dde934618e239&disabledfullscreen=True",
+    "game_uid": 10918
+  },
+  "16336": {
+    "pid": "16336",
+    "brand": "hacksaw-world",
+    "name": "Belle the Blade Hunter",
+    "code": "10921",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=1936&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=ece2d884b0d243d38b5ae6d755278a91&disabledfullscreen=True",
+    "game_uid": 10921
+  },
+  "16346": {
+    "pid": "16346",
+    "brand": "hacksaw-world",
+    "name": "Bullride Loot",
+    "code": "10926",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=2017&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=ba28a8914e8c4280844320fef8e2ccd6&disabledfullscreen=True",
+    "game_uid": 10926
+  },
+  "16368": {
+    "pid": "16368",
+    "brand": "hacksaw-world",
+    "name": "Captain Coil",
+    "code": "10937",
+    "url": "https://d3gwjasugju2ry.cloudfront.net/launcher/static-launcher-x.html?gameid=2067&channel=desktop&mode=live&currency=INR&partner=at-DCCBGROW&language=EN-US&lobbyurl=https%3A%2F%2Figamingapis.com%2Fproducts%2F&token=da6291e872554927be8a25030546e16e&disabledfullscreen=True",
+    "game_uid": 10937
+  },
+  "17919": {
+    "pid": "17919",
+    "brand": "fast-spin",
+    "name": "Fishing Treasure",
+    "code": "7402",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=F-FT01&sid=6sedhlb7759cg3nke2tpk7kl4w12y1sg&pm=2&token=9225da689c0f4da826fe4797c0e7d4f5&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7402
+  },
+  "17923": {
+    "pid": "17923",
+    "brand": "fast-spin",
+    "name": "Jungle Quest",
+    "code": "7404",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-JQ01&sid=qe43tnr0pdyrpq8jqef024lpr2i61hu7&pm=2&token=7440be21661fc22eccc3e2efb9cba305&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7404
+  },
+  "17925": {
+    "pid": "17925",
+    "brand": "fast-spin",
+    "name": "Blade of Fortune",
+    "code": "7405",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-BF03&sid=q6btur4774hs3uxlfleojhumj8g4ey5y&pm=2&token=0c51c2802a4fd6e484d4bc0d6bd09d4b&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7405
+  },
+  "17929": {
+    "pid": "17929",
+    "brand": "fast-spin",
+    "name": "Alien Smash",
+    "code": "7407",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-AS01&sid=hrwthie4nuy02xs58sm9ghyx2if19v8k&pm=2&token=5422c8fd4a8d504f538f1aa6c15c1aa0&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7407
+  },
+  "17933": {
+    "pid": "17933",
+    "brand": "fast-spin",
+    "name": "Guardian of the Museum",
+    "code": "7409",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-GM01&sid=f49p3l17gts5wiukspywwaxadc0y4hqk&pm=2&token=72c11991c828fb3993eae3af242cda5e&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7409
+  },
+  "17935": {
+    "pid": "17935",
+    "brand": "fast-spin",
+    "name": "Beasts of Luck",
+    "code": "7410",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-BL01&sid=bzltj027qz4texbla3zfebvkiluca4vs&pm=2&token=cb4c2811a40bd08653e93daa8f588976&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7410
+  },
+  "17939": {
+    "pid": "17939",
+    "brand": "fast-spin",
+    "name": "Apollo Ray of Luck",
+    "code": "7412",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-AR01&sid=ffiwhit2jwsszq1hby1wcurcuv8wqni2&pm=2&token=19f0014bb695bf175d1a3e9a3dfe702d&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7412
+  },
+  "17945": {
+    "pid": "17945",
+    "brand": "fast-spin",
+    "name": "Mahjong Princess",
+    "code": "7415",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-MP03&sid=7by0xr8mapnj22r9j90cfadx5u2ql2gt&pm=2&token=47af74f2a9d068de03946181596210cb&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7415
+  },
+  "17947": {
+    "pid": "17947",
+    "brand": "fast-spin",
+    "name": "Caribbean Riches",
+    "code": "7416",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-CR02&sid=4n45im4e8y6if2su39355ep9kibvu96m&pm=2&token=2db720c476e8694e76bbea7fb496d0a5&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7416
+  },
+  "17949": {
+    "pid": "17949",
+    "brand": "fast-spin",
+    "name": "Farm Of Fortune",
+    "code": "7417",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-FF02&sid=aimw5kycajuuuiofugzf3ihptth6bagq&pm=2&token=9cf7aa48bebc48063167f5901c41b6ef&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7417
+  },
+  "17951": {
+    "pid": "17951",
+    "brand": "fast-spin",
+    "name": "Adventure To The West",
+    "code": "7418",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-AW01&sid=8dj9jbng3w8ys9faw76qzlj6s4lh7o&pm=2&token=bcddf79941be3acdd78f6ccfc4242505&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7418
+  },
+  "17961": {
+    "pid": "17961",
+    "brand": "fast-spin",
+    "name": "Leprechaun Bonanza",
+    "code": "7423",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-LB02&sid=505njom5yrquh1nuhe1553uj0pnskru7&pm=2&token=e102388c874cad05e9bef7e1b4804889&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7423
+  },
+  "17965": {
+    "pid": "17965",
+    "brand": "fast-spin",
+    "name": "City of Jewels",
+    "code": "7425",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-CJ01&sid=7rm90j82khk4xhxl0t8vsuvnqfk5d2z9&pm=2&token=b7ac4b039d47daece1ae992f9a5db5c3&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7425
+  },
+  "17969": {
+    "pid": "17969",
+    "brand": "fast-spin",
+    "name": "Mighty Sevens",
+    "code": "7427",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-MS01&sid=jc1jiqd8r65yxy7i8whoy8pguxwpd9e1&pm=2&token=15d5085d247f158768b9f90c59c13c27&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7427
+  },
+  "17977": {
+    "pid": "17977",
+    "brand": "fast-spin",
+    "name": "Legend of Nian",
+    "code": "7431",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-LN01&sid=1jxdiy4yhlnis1rca8aenjzaamz88ib9&pm=2&token=d056e0c2644b80c2556853486bdff729&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7431
+  },
+  "17981": {
+    "pid": "17981",
+    "brand": "fast-spin",
+    "name": "Mining Bonanza",
+    "code": "7433",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-MB02&sid=fwa4tqhtxg4satlnre5zf1fuxf93cp0f&pm=2&token=c5bd9225c951fc86d5d81a597939dfdc&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7433
+  },
+  "17983": {
+    "pid": "17983",
+    "brand": "fast-spin",
+    "name": "Heavenly Fortunes 2",
+    "code": "7434",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-HF03&sid=kvs67nb4jcyxidw1w5n75iuuaxinqsi6&pm=2&token=385be8388e91cff6d2c9e9509380e653&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7434
+  },
+  "17985": {
+    "pid": "17985",
+    "brand": "fast-spin",
+    "name": "Ganesha Luck",
+    "code": "7435",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-GL03&sid=luc9jiueaww662n3rebvtwvmvy6po4d9&pm=2&token=9b00dd30b495fd9ccaa8ae90808801be&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7435
+  },
+  "17987": {
+    "pid": "17987",
+    "brand": "fast-spin",
+    "name": "Heavenly Fortunes",
+    "code": "7436",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-HF02&sid=79wk8bxdzvjnhic13ocdig8znlu9cqp2&pm=2&token=ab3bdc01e5f85c575935a49356e88e89&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7436
+  },
+  "17991": {
+    "pid": "17991",
+    "brand": "fast-spin",
+    "name": "Goddess Of Egypt",
+    "code": "7438",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-GE01&sid=91o89w2lb0obew83agydqj2yc3a2lv15&pm=2&token=dbfd44af0c808a64bc8b93bf0d3d06d3&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7438
+  },
+  "17997": {
+    "pid": "17997",
+    "brand": "fast-spin",
+    "name": "Fortune Lions",
+    "code": "7441",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-FL04&sid=h6olbbswen9xsgdrqiz00p1yez35wb5b&pm=2&token=4abe78244e587ee16908b58a6ba57e20&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7441
+  },
+  "17999": {
+    "pid": "17999",
+    "brand": "fast-spin",
+    "name": "Honey Trap",
+    "code": "7442",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-HT01&sid=iaaq4i1jslb7v81g1p7mbrx9mrbet1o3&pm=2&token=aa929525b35dbb0fcbec779c589240e7&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7442
+  },
+  "18003": {
+    "pid": "18003",
+    "brand": "fast-spin",
+    "name": "Loki",
+    "code": "7444",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-LO01&sid=m0fntksyp6h6f6m3m2hjjktoqqdtexp7&pm=2&token=6a8fe99f6a48ee481dfccbfc2e64ed04&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7444
+  },
+  "18005": {
+    "pid": "18005",
+    "brand": "fast-spin",
+    "name": "Fruits Mania",
+    "code": "7445",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-FM03&sid=2l2ixqe4wicm9x4ovav63p0h62mfokgm&pm=2&token=081173c180e03704532f4d90365df7c7&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7445
+  },
+  "18007": {
+    "pid": "18007",
+    "brand": "fast-spin",
+    "name": "Fiery Lava",
+    "code": "7446",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-FL03&sid=aa5l10y4zcxga30vuya47e00mgck240s&pm=2&token=f9358d2f1ebbec8e5717dca059d8a9c4&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7446
+  },
+  "18009": {
+    "pid": "18009",
+    "brand": "fast-spin",
+    "name": "God Of Wealth",
+    "code": "7447",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-GW02&sid=5vgitcfeb6be6on7xv20eur33orlqucl&pm=2&token=e39fc327b148110b64d6dfe02f09ba70&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7447
+  },
+  "18011": {
+    "pid": "18011",
+    "brand": "fast-spin",
+    "name": "Legend Of Eagle",
+    "code": "7448",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-LE04&sid=2kk7ry1favfpoj3d5m7c9l55cmmsn80g&pm=2&token=01a1cc8011c3a05f938cd2d4edc642b8&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7448
+  },
+  "18017": {
+    "pid": "18017",
+    "brand": "fast-spin",
+    "name": "Lucky Fortune",
+    "code": "7451",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-LF02&sid=aysqvlm6nxrkm31kuia1x3lr7fvctr1c&pm=2&token=e1f829c3b8e55ecc2b4e365316113804&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7451
+  },
+  "18027": {
+    "pid": "18027",
+    "brand": "fast-spin",
+    "name": "Gold Rush Cowboys",
+    "code": "7456",
+    "url": "https://foyer.farfetchedsavor.com/index.jsp?game=S-GR01&sid=o4en9wckkmam609912fce7p762hcyolo&pm=2&token=a600d6d83c099dfd847033d1d04fd610&m=HDFSAPI&c=INR&at=API&language=en_US&type=web&exitUrl=aHR0cHM6Ly9pZ2FtaW5nYXBpcy5jb20vcHJvZHVjdHMv",
+    "game_uid": 7456
+  }
+}

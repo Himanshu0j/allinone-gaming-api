@@ -410,6 +410,18 @@ if (fs.existsSync(ALL_GAMES_FILE)) {
   }
 }
 
+// Load verified individual game launch URLs (344 distinct games)
+let verifiedGameUrls = {};
+const VERIFIED_URLS_FILE = path.join(__dirname, 'data', 'verified_game_urls.json');
+if (fs.existsSync(VERIFIED_URLS_FILE)) {
+  try {
+    verifiedGameUrls = JSON.parse(fs.readFileSync(VERIFIED_URLS_FILE, 'utf8'));
+    console.log(`[INIT] Loaded ${Object.keys(verifiedGameUrls).length} authentic individual game launch URLs from verified_game_urls.json`);
+  } catch (err) {
+    console.error('[INIT] Error reading verified_game_urls.json:', err.message);
+  }
+}
+
 // Orders Persistent Storage Helper
 let inMemoryOrders = [];
 const ORDERS_FILE = path.join(__dirname, 'data', 'orders.json');
@@ -792,14 +804,48 @@ app.post('/api/verify-agent', (req, res) => {
   });
 });
 
-// 5. Game Launcher (Connects directly to Live Gateway to get authentic launch URLs)
+// 5. Game Launcher (Connects directly to Live Gateway or serves verified authentic game URL)
 app.post('/api/launch-game', async (req, res) => {
   const { productId, brandSlug, gameTitle, gameCode, mode } = req.body;
+  const targetSlug = normalizeSlug(brandSlug);
+  const targetPid = (productId && productId !== 'default') ? String(productId) : null;
+
   console.log(`[LAUNCH REQUEST] PID: ${productId}, Brand: ${brandSlug}, Title: ${gameTitle}`);
 
-  const targetSlug = normalizeSlug(brandSlug);
+  // 1. Direct hit in verified individual game URLs database!
+  if (targetPid && verifiedGameUrls[targetPid] && verifiedGameUrls[targetPid].url) {
+    console.log(`[VERIFIED URL HIT] PID ${targetPid} (${verifiedGameUrls[targetPid].name}) -> Serving authentic live URL`);
+    return res.json({
+      success: true,
+      type: 'live',
+      url: verifiedGameUrls[targetPid].url,
+      game_uid: targetPid,
+      game_name: verifiedGameUrls[targetPid].name,
+      open_in_tab: true
+    });
+  }
 
-  // 1. Attempt authentic live launch via Gateway
+  // 2. Direct hit by game title / name matching
+  if (gameTitle) {
+    const cleanReq = gameTitle.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const match = Object.values(verifiedGameUrls).find(v => {
+      const cleanName = (v.name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+      return cleanName === cleanReq && (!targetSlug || v.brand === targetSlug);
+    });
+    if (match && match.url) {
+      console.log(`[VERIFIED TITLE HIT] "${gameTitle}" -> Serving authentic live URL for ${match.name}`);
+      return res.json({
+        success: true,
+        type: 'live',
+        url: match.url,
+        game_uid: match.pid,
+        game_name: match.name,
+        open_in_tab: true
+      });
+    }
+  }
+
+  // 3. Attempt dynamic live launch via Gateway (if online / local)
   if (mode !== 'simulator_only') {
     const liveResult = await gateway.launchGame(productId, targetSlug);
     if (liveResult.success && liveResult.url) {
@@ -813,7 +859,22 @@ app.post('/api/launch-game', async (req, res) => {
     }
   }
 
-  // 2. Check verified live URLs table
+  // 4. Fallback: Any verified game for this brand in verifiedGameUrls
+  const brandGames = Object.values(verifiedGameUrls).filter(v => v.brand === targetSlug && v.url);
+  if (brandGames.length > 0) {
+    const selected = brandGames[0];
+    console.log(`[BRAND MATCH] Brand ${targetSlug} -> Serving verified live URL for ${selected.name}`);
+    return res.json({
+      success: true,
+      type: 'live',
+      url: selected.url,
+      game_uid: selected.pid,
+      game_name: selected.name,
+      open_in_tab: true
+    });
+  }
+
+  // 5. Fallback to priority table verified live session
   const fallback = allVerifiedPids[targetSlug] || allVerifiedPids['spribe'] || allVerifiedPids['100hp'];
   if (fallback && fallback.url) {
     return res.json({
@@ -825,7 +886,7 @@ app.post('/api/launch-game', async (req, res) => {
     });
   }
 
-  // 3. Fallback to general live session URL so game ALWAYS opens
+  // 6. Fallback to general live session URL
   const generalLive = allVerifiedPids['pragmaticplay-eu'] || allVerifiedPids['spribe'] || allVerifiedPids['100hp'];
   if (generalLive && generalLive.url) {
     return res.json({
