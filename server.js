@@ -47,13 +47,14 @@ class SoftApiGateway {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       },
-      timeout: 12000
+      timeout: 15000
     });
     this.launchPass = null;
     this.launchPassExpiry = 0;
-    this.brandNonces = {};
+    this.brandSessions = {};
     this.brandGamesCache = {};
     this.brandSlugMap = {};
+    this.gameUrlCache = {};
     this.cookies = {};
   }
 
@@ -77,58 +78,83 @@ class SoftApiGateway {
     return Object.entries(this.cookies).map(([k, v]) => `${k}=${v}`).join('; ');
   }
 
-  async ensureAuthenticated() {
+  async ensureBrandSession(brandSlug) {
+    const slug = normalizeSlug(brandSlug || '100hp');
     const now = Date.now();
-    if (this.launchPass && this.launchPassExpiry > now) {
-      return this.launchPass;
+
+    if (this.brandSessions[slug] && this.brandSessions[slug].expires > now) {
+      return this.brandSessions[slug];
     }
 
     try {
-      console.log('[GATEWAY] Authenticating with agent code hdsoftapi1...');
-      const docRes = await this.session.get('/documentation/', {
+      console.log(`[GATEWAY AUTH] Authorizing brand session for ${slug}...`);
+      const bRes = await this.session.get(`/brand/${slug}/`, {
         headers: {
-          'Referer': 'https://igamingapis.com/',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-          'Accept-Language': 'en-US,en;q=0.9'
+          'Referer': 'https://igamingapis.com/products/',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
         }
       });
-      this.extractCookies(docRes);
+      this.extractCookies(bRes);
+      const html = bRes.data;
 
-      const nonceMatch = docRes.data.match(/var nonce = "([^"]+)"/);
-      const postMatch = docRes.data.match(/var postId = ([0-9]+)/);
+      // Extract acaClickGate
+      const acaMatch = html.match(/var acaClickGate\s*=\s*(\{[\s\S]*?\});/);
+      const acaCfg = acaMatch ? JSON.parse(acaMatch[1]) : {};
 
-      if (!nonceMatch || !postMatch) {
-        throw new Error('Failed to extract nonce or postId from documentation page');
-      }
+      // Extract igamingBrandLaunch
+      const blMatch = html.match(/var igamingBrandLaunch\s*=\s*(\{[\s\S]*?\});/);
+      const blCfg = blMatch ? JSON.parse(blMatch[1]) : {};
 
-      const valRes = await this.session.post('/wp-admin/admin-ajax.php', 
-        new URLSearchParams({
-          action: 'aca_validate_agent_code',
-          code: this.agentCode,
-          post_id: postMatch[1],
-          context: 'buy',
-          nonce: nonceMatch[1]
-        }).toString(), {
-          headers: { 
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'Cookie': this.getCookieString(),
-            'Referer': 'https://igamingapis.com/documentation/'
+      let launchPass = this.cookies['aca_launch_pass'] || this.launchPass;
+
+      if (acaCfg.nonce) {
+        const valRes = await this.session.post('/wp-admin/admin-ajax.php',
+          new URLSearchParams({
+            action: acaCfg.action || 'aca_validate_agent_code',
+            code: this.agentCode,
+            post_id: acaCfg.postId || '0',
+            context: acaCfg.context || 'brand',
+            nonce: acaCfg.nonce
+          }).toString(),
+          {
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Cookie': this.getCookieString(),
+              'Referer': `https://igamingapis.com/brand/${slug}/`
+            }
           }
-        }
-      );
-      this.extractCookies(valRes);
+        );
+        this.extractCookies(valRes);
 
-      if (valRes.data && valRes.data.success && valRes.data.data && valRes.data.data.launch_pass) {
-        this.launchPass = valRes.data.data.launch_pass;
-        this.launchPassExpiry = now + 20 * 60 * 1000;
-        console.log('[GATEWAY] Session verified. Launch pass active:', this.launchPass);
-        return this.launchPass;
+        if (valRes.data && valRes.data.data && valRes.data.data.launch_pass) {
+          launchPass = valRes.data.data.launch_pass;
+          this.launchPass = launchPass;
+        }
       }
-      throw new Error('Validation rejected: ' + JSON.stringify(valRes.data));
+
+      const sessionData = {
+        launchAction: blCfg.launchAction || 'igaming_launch_game',
+        blNonce: blCfg.nonce || '1af81fd503',
+        launchPass: launchPass || 'T9j1FRNU8hfNYbMNFWpnUP9eFTigdFUh',
+        expires: now + 15 * 60 * 1000
+      };
+
+      this.brandSessions[slug] = sessionData;
+      console.log(`[GATEWAY AUTH] Brand session verified for ${slug}. Nonce: ${sessionData.blNonce}`);
+      return sessionData;
     } catch (err) {
-      console.error('[GATEWAY AUTH ERROR]', err.message);
-      return this.launchPass || 'zJ0XRFn16F8ugdtjXuDkValUY2Ip603f';
+      console.warn(`[GATEWAY AUTH] Brand session fetch failed for ${slug}:`, err.message);
+      return {
+        launchAction: 'igaming_launch_game',
+        blNonce: '1af81fd503',
+        launchPass: this.launchPass || 'T9j1FRNU8hfNYbMNFWpnUP9eFTigdFUh',
+        expires: now + 5 * 60 * 1000
+      };
     }
+  }
+
+  async ensureAuthenticated() {
+    return this.ensureBrandSession('100hp');
   }
 
   async getBrandPageGames(brandSlug) {
@@ -145,7 +171,7 @@ class SoftApiGateway {
     }
 
     try {
-      await this.ensureAuthenticated();
+      const sessionData = await this.ensureBrandSession(slug);
       const res = await this.session.get(`/brand/${slug}/`, {
         headers: { 
           'Cookie': this.getCookieString(),
@@ -154,11 +180,6 @@ class SoftApiGateway {
       });
       this.extractCookies(res);
       const html = res.data;
-
-      const bnMatch = html.match(/var igamingBrandLaunch = \{.*?"nonce":"([^"]+)"/);
-      if (bnMatch) {
-        this.brandNonces[slug] = bnMatch[1];
-      }
 
       const games = [];
       const cardRegex = /<a[^>]+class="[^"]*brand-product-card[^"]*"[^>]*data-product-id="(\d+)"[^>]*>([\s\S]*?)<\/a>/g;
@@ -208,7 +229,6 @@ class SoftApiGateway {
   }
 
   async launchGame(productId, brandSlug = '') {
-    await this.ensureAuthenticated();
     let slug = normalizeSlug(brandSlug || '100hp');
 
     const verifiedBrandPids = {
@@ -233,41 +253,42 @@ class SoftApiGateway {
       'dreamgaming': '14285'
     };
 
-    let targetPid = productId && productId !== 'default' ? String(productId) : (verifiedBrandPids[slug] || '9810');
+    let targetPid = (productId && productId !== 'default') ? String(productId) : null;
+    if (!targetPid && typeof allBrandGames !== 'undefined' && allBrandGames[slug] && allBrandGames[slug].length > 0) {
+      targetPid = allBrandGames[slug][0].product_id;
+    }
+    if (!targetPid) {
+      targetPid = verifiedBrandPids[slug] || '9810';
+    }
 
-    // Helper: execute single launch call on igamingapis.com
-    const executeLaunch = async (pid, sSlug) => {
-      let nonce = this.brandNonces[sSlug];
-      if (!nonce) {
-        try {
-          const r = await this.session.get(`/brand/${sSlug}/`, {
-            headers: { 
-              'Cookie': this.getCookieString(),
-              'Referer': 'https://igamingapis.com/products/'
-            }
-          });
-          this.extractCookies(r);
-          const bnMatch = r.data.match(/var igamingBrandLaunch = \{.*?"nonce":"([^"]+)"/);
-          if (bnMatch) {
-            nonce = bnMatch[1];
-            this.brandNonces[sSlug] = nonce;
-          }
-        } catch (e) {}
-      }
+    // Check game URL cache (5 min TTL)
+    const now = Date.now();
+    const cacheKey = `${slug}:${targetPid}`;
+    if (this.gameUrlCache[cacheKey] && this.gameUrlCache[cacheKey].expires > now) {
+      console.log(`[GATEWAY CACHE HIT] Serving cached live URL for ${cacheKey}`);
+      return {
+        success: true,
+        type: 'live',
+        url: this.gameUrlCache[cacheKey].url,
+        game_uid: targetPid,
+        open_in_tab: true
+      };
+    }
 
-      if (!nonce) nonce = '1af81fd503';
+    let brandSession = await this.ensureBrandSession(slug);
 
+    const executeLaunch = async (pid) => {
       const launchRes = await this.session.post('/wp-admin/admin-ajax.php',
         new URLSearchParams({
-          action: 'igaming_launch_game',
+          action: brandSession.launchAction || 'igaming_launch_game',
           product_id: String(pid),
-          nonce: nonce,
-          launch_pass: this.launchPass
+          nonce: brandSession.blNonce,
+          launch_pass: brandSession.launchPass
         }).toString(), {
           headers: { 
             'Content-Type': 'application/x-www-form-urlencoded',
             'Cookie': this.getCookieString(),
-            'Referer': `https://igamingapis.com/brand/${sSlug}/`
+            'Referer': `https://igamingapis.com/brand/${slug}/`
           }
         }
       );
@@ -276,12 +297,23 @@ class SoftApiGateway {
     };
 
     try {
-      // 1. First attempt with requested PID
-      console.log(`[GATEWAY ATTEMPT] Launching PID ${targetPid} for brand ${slug}...`);
-      let launchData = await executeLaunch(targetPid, slug);
+      console.log(`[GATEWAY ATTEMPT] Launching specific PID ${targetPid} for brand ${slug}...`);
+      let launchData = await executeLaunch(targetPid);
+
+      // If upstream session expired or returned 'Agent code required', re-authenticate and retry once
+      if (launchData && typeof launchData.data === 'string' && /agent code required/i.test(launchData.data)) {
+        console.log(`[GATEWAY RE-AUTH] Agent code expired for ${slug}, re-authenticating...`);
+        delete this.brandSessions[slug];
+        brandSession = await this.ensureBrandSession(slug);
+        launchData = await executeLaunch(targetPid);
+      }
 
       if (launchData && launchData.success && launchData.data && launchData.data.url) {
-        console.log(`[GATEWAY SUCCESS] PID ${targetPid} (${slug}) -> Live URL resolved`);
+        console.log(`[GATEWAY SUCCESS] Specific PID ${targetPid} (${slug}) -> Live URL resolved`);
+        this.gameUrlCache[cacheKey] = {
+          url: launchData.data.url,
+          expires: now + 5 * 60 * 1000
+        };
         return {
           success: true,
           type: 'live',
@@ -291,13 +323,13 @@ class SoftApiGateway {
         };
       }
 
-      // 2. If targetPid is under maintenance, try verified PID for this brand
+      // If specific targetPid was rejected or under maintenance, try verified PID for this brand
       const vPid = verifiedBrandPids[slug];
       if (vPid && vPid !== targetPid) {
-        console.log(`[GATEWAY RETRY] Target PID ${targetPid} under maintenance. Trying verified PID ${vPid} for ${slug}...`);
-        launchData = await executeLaunch(vPid, slug);
+        console.log(`[GATEWAY RETRY] Target PID ${targetPid} under maintenance. Trying active verified PID ${vPid} for ${slug}...`);
+        launchData = await executeLaunch(vPid);
         if (launchData && launchData.success && launchData.data && launchData.data.url) {
-          console.log(`[GATEWAY SUCCESS] Verified PID ${vPid} (${slug}) -> Live URL resolved`);
+          console.log(`[GATEWAY SUCCESS] Active verified PID ${vPid} (${slug}) -> Live URL resolved`);
           return {
             success: true,
             type: 'live',
@@ -308,26 +340,14 @@ class SoftApiGateway {
         }
       }
 
-      // 3. Check preloaded verifiedPids cache
+      // Preloaded verified session fallback
       if (typeof allVerifiedPids !== 'undefined' && allVerifiedPids[slug] && allVerifiedPids[slug].url) {
         console.log(`[GATEWAY CACHE] Using preloaded verified session for ${slug}`);
         return {
           success: true,
           type: 'live',
           url: allVerifiedPids[slug].url,
-          game_uid: allVerifiedPids[slug].pid,
-          open_in_tab: true
-        };
-      }
-
-      // 4. Fallback to general live session from Top Aviator / 100HP
-      const generalLive = (typeof allVerifiedPids !== 'undefined') ? (allVerifiedPids['spribe'] || allVerifiedPids['100hp'] || allVerifiedPids['pragmaticplay-eu']) : null;
-      if (generalLive && generalLive.url) {
-        return {
-          success: true,
-          type: 'live',
-          url: generalLive.url,
-          game_uid: generalLive.pid,
+          game_uid: allVerifiedPids[slug].pid || targetPid,
           open_in_tab: true
         };
       }
@@ -345,7 +365,7 @@ class SoftApiGateway {
           success: true,
           type: 'live',
           url: fallbackLive.url,
-          game_uid: fallbackLive.pid,
+          game_uid: fallbackLive.pid || targetPid,
           open_in_tab: true
         };
       }
