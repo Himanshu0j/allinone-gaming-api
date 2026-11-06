@@ -513,6 +513,45 @@ app.get('/api/version', (req, res) => {
   });
 });
 
+app.get('/api/debug-launch/:brand/:pid', async (req, res) => {
+  const { brand, pid } = req.params;
+  try {
+    const slug = normalizeSlug(brand);
+    const sessionData = await gateway.ensureBrandSession(slug);
+    
+    // Direct test call
+    const launchRes = await gateway.session.post('/wp-admin/admin-ajax.php',
+      new URLSearchParams({
+        action: sessionData.launchAction || 'igaming_launch_game',
+        product_id: String(pid),
+        nonce: sessionData.blNonce,
+        launch_pass: sessionData.launchPass
+      }).toString(), {
+        headers: { 
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'Cookie': gateway.getCookieString(),
+          'Referer': `https://igamingapis.com/brand/${slug}/`
+        }
+      }
+    );
+    return res.json({
+      success: true,
+      slug,
+      sessionData,
+      cookies: gateway.cookies,
+      upstreamResponse: launchRes.data
+    });
+  } catch (err) {
+    return res.status(500).json({
+      success: false,
+      error: err.message,
+      stack: err.stack,
+      responseStatus: err.response?.status,
+      responseData: err.response?.data
+    });
+  }
+});
+
 app.get('/api/providers', (req, res) => {
   const providers = (catalogData.providers || []).map(p => {
     const key = (p.brand_title || '').trim().toLowerCase();
